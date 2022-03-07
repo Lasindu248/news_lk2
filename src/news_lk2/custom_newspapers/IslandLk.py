@@ -9,7 +9,8 @@ MIN_WORDS_IN_BODY_LINE = 10
 
 
 class IslandLk(AbstractNewsPaper):
-    def parse_time_ut(self, soup):
+    @classmethod
+    def parse_time_ut(cls, soup):
         meta_time = soup.find('meta', {'itemprop': 'dateModified'})
         return timex.parse_time(
             meta_time.get(
@@ -17,11 +18,13 @@ class IslandLk(AbstractNewsPaper):
                 '').strip(),
             TIME_RAW_FORMAT)
 
-    def parse_title(self, soup):
+    @classmethod
+    def parse_title(cls, soup):
         h1_title = soup.find('h1')
         return h1_title.text.strip()
 
-    def parse_body_lines(self, soup):
+    @classmethod
+    def parse_body_lines(cls, soup):
         header_inner = soup.find('div', {'id': 'mvp-content-wrap'})
         return list(map(
             lambda line: line.strip(),
@@ -31,7 +34,8 @@ class IslandLk(AbstractNewsPaper):
             ))
         ))
 
-    def get_article_urls(self):
+    @classmethod
+    def get_article_urls(cls):
         html = www.read(URL_NEWS)
         soup = BeautifulSoup(html, 'html.parser')
 
