@@ -5,7 +5,7 @@ from news_lk2.core import AbstractNewsPaper
 
 URL_NEWS = 'https://island.lk/category/news/'
 TIME_RAW_FORMAT = '%Y-%m-%d %I:%M %p'
-MIN_WORDS_IN_BODY_LINE = 3
+MIN_WORDS_IN_BODY_LINE = 10
 
 
 class IslandLk(AbstractNewsPaper):
