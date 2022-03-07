@@ -8,10 +8,7 @@ URL_NEWS = 'https://www.dailymirror.lk/latest-news/342'
 TIME_RAW_FORMAT = '%d %B %Y %I:%M %p'
 
 
-class DailyMirrorLK(AbstractNewsPaper):
-    def get_newspaper_id(self):
-        return 'daily-mirror-lk'
-
+class DailyMirrorLk(AbstractNewsPaper):
     def get_article_d(self, url):
         html = www.read(url)
         soup = BeautifulSoup(html, 'html.parser')
@@ -50,3 +47,7 @@ class DailyMirrorLK(AbstractNewsPaper):
         n_articles = len(article_url)
         log.info(f'Got {n_articles} off {URL_NEWS}')
         return article_urls
+
+if __name__ == '__main__':
+    np = DailyMirrorLk()
+    print(np.newspaper_id)
