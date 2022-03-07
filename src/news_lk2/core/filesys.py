@@ -1,5 +1,4 @@
 import os
-import shutil
 
 from utils import hashx, timex
 
@@ -7,14 +6,15 @@ from news_lk2._utils import log
 
 REPO_NAME = 'news_lk2'
 GIT_REPO_URL = f'https://github.com/nuuuwan/{REPO_NAME}.git'
-DIR_ROOT = f'/tmp/{REPO_NAME}'
+DIR_ROOT = '/tmp'
+DIR_REPO = os.path.join(DIR_ROOT, REPO_NAME)
 SALT = '5568445278803347'
 HASH_LENGTH = 8
 
 
 def get_dir_article_root():
     return os.path.join(
-        DIR_ROOT,
+        DIR_REPO,
         'articles',
     )
 
@@ -54,13 +54,11 @@ def get_article_file(time_ut, newspaper_name, url):
 
 
 def git_checkout():
-    if os.path.exists(DIR_ROOT):
-        log.debug(f'{DIR_ROOT} already exists. Not checking out.')
+    if os.path.exists(DIR_REPO):
+        log.debug(f'{DIR_REPO} already exists. Not checking out.')
         return
 
-    shutil.rmtree(DIR_ROOT)
-    os.mkdir(DIR_ROOT)
-
+    os.mkdir(DIR_REPO)
     os.system(
         '; '.join([
             f'cd {DIR_ROOT}',
@@ -69,7 +67,7 @@ def git_checkout():
             'git checkout data',
         ])
     )
-    log.debug(f'Cloned {GIT_REPO_URL} [data] to {DIR_ROOT}')
+    log.debug(f'Cloned {GIT_REPO_URL} [data] to {DIR_REPO}')
 
 
 def get_date_ids():
