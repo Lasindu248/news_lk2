@@ -1,15 +1,17 @@
 {
+  "newspaper_name": "lk_daily_mirror",
   "url": "https://www.dailymirror.lk/latest_news/Limited-buses-tomorrow-no-night-services-Private-Bus-Owners-Assn/342-232441",
-  "title": "Limited buses tomorrow; no night services: Private Bus Owners Assn.",
   "time_ut": 1646589000,
-  "time_str": "2022-03-06 17:50",
+  "title": "Limited buses tomorrow; no night services: Private Bus Owners Assn.",
   "body_lines": [
-    "The Lanka Private Bus Owners' (LPBOA) today announced that they will operate a limited number buses tomorrow only to facilitate school children and office staff in the morning and evening.",
-    "Addressing the media LPBOA Chairman Gemunu Wijerathne said there will be no buses operating at night.",
-    "He said, only 25% of private buses are currently running due to the current fuel shortage.",
-    "He said, although the Transport Ministry agreed to provide sufficient diesel from Sri Lanka Transport Board (SLTB) depots, there is an unpleasant situation prevails in the depots over issuing diesel.",
-    "\"The SLTB buses are also running with difficulties getting diesel for their daily running. Yesterday, we were able to get diesel from only two SLTB depots in Colombo and from one depot in Jaffna,\" he said.",
-    "With the current fuel crisis, there are practical difficulties in operating long distance bus services. Some 20,000 private buses are being operated countrywide.",
-    "Due to the COVID-19 pandemic and the current fuel crisis, there are only 4500 to 5000 buses are on the roads and are running with greater difficulties, Wijerathne said. (Chaturanga Samarawickrama)"
+    [
+      "The Lanka Private Bus Owners' (LPBOA) today announced that they will operate a limited number buses tomorrow only to facilitate school children and office staff in the morning and evening.",
+      "Addressing the media LPBOA Chairman Gemunu Wijerathne said there will be no buses operating at night.",
+      "He said, only 25% of private buses are currently running due to the current fuel shortage.",
+      "He said, although the Transport Ministry agreed to provide sufficient diesel from Sri Lanka Transport Board (SLTB) depots, there is an unpleasant situation prevails in the depots over issuing diesel.",
+      "\"The SLTB buses are also running with difficulties getting diesel for their daily running. Yesterday, we were able to get diesel from only two SLTB depots in Colombo and from one depot in Jaffna,\" he said.",
+      "With the current fuel crisis, there are practical difficulties in operating long distance bus services. Some 20,000 private buses are being operated countrywide.",
+      "Due to the COVID-19 pandemic and the current fuel crisis, there are only 4500 to 5000 buses are on the roads and are running with greater difficulties, Wijerathne said. (Chaturanga Samarawickrama)"
+    ]
   ]
 }

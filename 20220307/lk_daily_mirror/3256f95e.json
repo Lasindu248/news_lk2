@@ -1,13 +1,15 @@
 {
+  "newspaper_name": "lk_daily_mirror",
   "url": "https://www.dailymirror.lk/breaking_news/Nedungamuwe-Raja-to-be-declared-as-National-Treasure-Prez-orders/108-232509",
-  "title": "Nedungamuwe Raja to be declared as National Treasure, Prez orders",
   "time_ut": 1646656200,
-  "time_str": "2022-03-07 12:30",
+  "title": "Nedungamuwe Raja to be declared as National Treasure, Prez orders",
   "body_lines": [
-    "President Gotabaya Rajapaksa has instructed Secretary to the Ministry of Buddhasasana, Religious and Cultural Affairs Prof. Kapila Gunawardena to declare the deceased tusker Nedungamuwe Raja who was the main casket bearer of the Esala perahera held in Kandy as a national treasure.",
-    "",
-    "The President has also directed the officials to preserve the carcass of the Nedungamuwe Raja for the benefit of future generation.",
-    "",
-    "Meanwhile, the PMD said a team of officials from the National Museum had gone to Nedungamuwa, Weliweriya, Gampaha where the tusker was kept and cared."
+    [
+      "President Gotabaya Rajapaksa has instructed Secretary to the Ministry of Buddhasasana, Religious and Cultural Affairs Prof. Kapila Gunawardena to declare the deceased tusker Nedungamuwe Raja who was the main casket bearer of the Esala perahera held in Kandy as a national treasure.",
+      "",
+      "The President has also directed the officials to preserve the carcass of the Nedungamuwe Raja for the benefit of future generation.",
+      "",
+      "Meanwhile, the PMD said a team of officials from the National Museum had gone to Nedungamuwa, Weliweriya, Gampaha where the tusker was kept and cared."
+    ]
   ]
 }

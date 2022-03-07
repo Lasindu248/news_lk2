@@ -1,19 +1,21 @@
 {
+  "newspaper_name": "lk_daily_mirror",
   "url": "https://www.dailymirror.lk/breaking_news/Brent-crude-nears-140-per-barrel-headed-towards-all-time-high/108-232502",
-  "title": "Brent crude nears $140 per barrel, headed towards all-time high",
   "time_ut": 1646648580,
-  "time_str": "2022-03-07 10:23",
+  "title": "Brent crude nears $140 per barrel, headed towards all-time high",
   "body_lines": [
-    "Brent oil prices soared to a near 14-year high of $140 on Sunday as traders fretted over the fallout from Russia\u2019s invasion of Ukraine.",
-    "Brent North Sea crude oil for May delivery reached $139.13 shortly after electronic trading opened around 2300 GMT, heading towards a 2008 record high before retreating slightly over the next hour.",
-    "The European benchmark crude hit its record price of $147.50 per barrel in July 2008.",
-    "By 0030 GMT, Brent crude had dropped a little more to $128.77 per barrel \u2014 9.02 percent higher than its closing price on Friday.",
-    "The price per barrel of Brent oil has increased 33 percent since Russia invaded Ukraine on February 24.",
-    "New York\u2019s benchmark West Texas Intermediate oil also soared Sunday to $130.50 per barrel for April delivery. It, too, then dropped slightly over the next hour and a half.",
-    "By 0030 GMT, WTI crude was at $125.15 per barrel, an 8.18 percent increase from its closing price on Friday.",
-    "US Secretary of State Antony Blinken said Sunday that Washington was in \u201cactive discussions\u201d with European nations about banning Russian oil imports as further economic penalty against Moscow, although he stopped short of announcing an outright boycott.",
-    "Even if oil is technically still exempt from sanctions, Russian oil exporters are struggling to find buyers. Shell is one of the only companies still buying Russian oil, although it said it would donate the profits to Ukrainian causes.",
-    "Asked Sunday on CNN about Shell\u2019s announcement, Ukrainian Foreign Minister Dmytro Kuleba urged Shell and other energy giants to cut off Moscow\u2019s biggest revenue source and \u201cstop buying Russian oil.\u201d",
-    "\u201cRussian oil and gas smells of Ukrainian blood,\u201d he said.(AFP)"
+    [
+      "Brent oil prices soared to a near 14-year high of $140 on Sunday as traders fretted over the fallout from Russia\u2019s invasion of Ukraine.",
+      "Brent North Sea crude oil for May delivery reached $139.13 shortly after electronic trading opened around 2300 GMT, heading towards a 2008 record high before retreating slightly over the next hour.",
+      "The European benchmark crude hit its record price of $147.50 per barrel in July 2008.",
+      "By 0030 GMT, Brent crude had dropped a little more to $128.77 per barrel \u2014 9.02 percent higher than its closing price on Friday.",
+      "The price per barrel of Brent oil has increased 33 percent since Russia invaded Ukraine on February 24.",
+      "New York\u2019s benchmark West Texas Intermediate oil also soared Sunday to $130.50 per barrel for April delivery. It, too, then dropped slightly over the next hour and a half.",
+      "By 0030 GMT, WTI crude was at $125.15 per barrel, an 8.18 percent increase from its closing price on Friday.",
+      "US Secretary of State Antony Blinken said Sunday that Washington was in \u201cactive discussions\u201d with European nations about banning Russian oil imports as further economic penalty against Moscow, although he stopped short of announcing an outright boycott.",
+      "Even if oil is technically still exempt from sanctions, Russian oil exporters are struggling to find buyers. Shell is one of the only companies still buying Russian oil, although it said it would donate the profits to Ukrainian causes.",
+      "Asked Sunday on CNN about Shell\u2019s announcement, Ukrainian Foreign Minister Dmytro Kuleba urged Shell and other energy giants to cut off Moscow\u2019s biggest revenue source and \u201cstop buying Russian oil.\u201d",
+      "\u201cRussian oil and gas smells of Ukrainian blood,\u201d he said.(AFP)"
+    ]
   ]
 }
