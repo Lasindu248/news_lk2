@@ -1,16 +1,16 @@
 import os
 import shutil
-from utils import timex, filex
+
+from utils import filex, timex
+
 from news_lk2._utils import log
 from news_lk2.core import Article
-from news_lk2.core.filesys import (
-    DIR_REPO,
-    git_checkout,
-    get_date_ids,
-    get_newspapers_for_date,
-    get_article_files_for_date_and_newspaper,
-)
-DELIM_MD = '/n/n'
+from news_lk2.core.filesys import (DIR_REPO,
+                                   get_article_files_for_date_and_newspaper,
+                                   get_date_ids, get_newspapers_for_date)
+
+DELIM_MD = '\n\n'
+
 
 def get_articles_for_days_ago(days_ago=0):
     date_ids = get_date_ids()
@@ -37,29 +37,30 @@ def get_articles_for_days_ago(days_ago=0):
     article_list.sort()
     return article_list
 
+
 def get_dir_papers():
     dir_papers = os.path.join(DIR_REPO, 'papers')
     if not os.path.exists(dir_papers):
         os.system(f'mkdir -p {dir_papers}')
     return dir_papers
 
+
 def build_todays_paper():
     date = timex.get_date()
     date_id = timex.get_date_id()
     todays_articles = get_articles_for_days_ago(0)
     n_todays_articles = len(todays_articles)
-    md_lines = [f'# {date}']
-    md_lines = [f'*{n_todays_articles} news articles*']
+    md_lines = [
+        f'# {date}',
+        f'*{n_todays_articles} news articles*',
+    ]
     for article in todays_articles:
         print(article.body_lines)
         md_lines += [
             f'## {article.title}',
             f'[{article.url}]',
         ]
-        # md_lines += article.body_lines
-        break
-
-    print(md_lines)
+        md_lines += article.body_lines
 
     md_file = os.path.join(
         get_dir_papers(),
@@ -69,8 +70,7 @@ def build_todays_paper():
     log.info(f'Wrote {md_file}')
     readme_file = os.path.join(DIR_REPO, 'README.md')
     shutil.copy(md_file, readme_file)
-
-
+    log.info(f'Wrote {readme_file}')
 
 
 if __name__ == '__main__':
