@@ -1,14 +1,50 @@
 # 2022-03-07
 
-*47 news articles*
+*46 news articles*
 
-## [22:07] CB devalues the rupee against USD to Rs 230
+## [23:36] Wimal calls PM’s statement on fuel crisis foolish
 
-[https://www.dailymirror.lk/top_story/CB-devalues-the-rupee-against-USD-to-Rs-230/155-232536](https://www.dailymirror.lk/top_story/CB-devalues-the-rupee-against-USD-to-Rs-230/155-232536)
+[https://www.dailymirror.lk/latest_news/Wimal-calls-PMs-statement-on-fuel-crisis-foolish/342-232534](https://www.dailymirror.lk/latest_news/Wimal-calls-PMs-statement-on-fuel-crisis-foolish/342-232534)
 
-The Central Bank of Sri Lanka has devalued the rupee against the US dollar to Rs.230 with immediate effect, the bank announced a short while ago.
+Referring to the statement issued by Prime Minister Mahinda Rajapaksa about the prevailing fuel crisis where the PM had stressed that there was no such crisis, sacked Minister Wimal Weerawansa said it was a foolish statement.
 
-“The Central Bank is of the view that forex transactions would take place at levels which are not more than Rs. 230 per US dollar & will closely monitor developments in domestic forex market,” the bank said in a statement.
+
+
+In response to a query posed by a journalist, the former Industries Minister said no one could possibly deny that there is a crisis in the country.
+
+
+
+Prime Minister has also stated in the statement that false remarks made by inexperienced politicians, caused panic among people leading to a crisis.
+
+
+
+In response, former minister Weerawansa said the prevailing fuel crisis was not due to remarks made in one or two days, it worsened owing to lack of proper planning.
+
+
+
+MP Weerawansa also challenged the Government to completely resolve the fuel crisis in the coming days.
+
+
+
+Meanwhile, Weerawansa said the main cause for the current catastrophe is the failure in taking pertinent long-term measures at correct time.
+
+
+
+"Finance Minister Basil Rajapaksa wants crisis to exacerbate in a bid to fulfill the aspirations of West," he added. (Sheain Fernandopulle)
+
+## [22:23] Governors instruct officials to reduce power consumption by 20% in all provinces
+
+[https://www.dailymirror.lk/latest_news/Governors-instruct-officials-to-reduce-power-consumption-by-20-in-all-provinces/342-232533](https://www.dailymirror.lk/latest_news/Governors-instruct-officials-to-reduce-power-consumption-by-20-in-all-provinces/342-232533)
+
+The Provincial Governors instructed the officials of the relevant government agencies to reduce the consumption of electricity in public places in all provinces by 20%.
+
+It was announced following a special discussion held today through Zoom Technology over the consumption of electricity in public places in each province.
+
+The discussion was held with the participation of the Governors representing all provinces in the country under the patronage of the Finance Minister.
+
+During the discussion, the Northern Province Governor, Jeevan Thyagarajah, instructed the public officials of the province to expedite the use of renewable energy in all public institutions in the province in the future.
+
+Further, they advised the officials to enhance the potential for renewable power generation in their province. (Chaturanga Samarawickrama)
 
 ## [22:07] CB devalues the rupee against USD to Rs 230
 
@@ -16,11 +52,25 @@ The Central Bank of Sri Lanka has devalued the rupee against the US dollar to Rs
 
 The Central Bank of Sri Lanka has devalued the rupee against the US dollar to Rs.230 with immediate effect, the bank announced a short while ago.
 
-“The Central Bank is of the view that forex transactions would take place at levels which are not more than Rs. 230 per US dollar & will closely monitor developments in domestic forex market,” the bank said in a statement.
+“The Central Bank is of the view that forex transactions would take place at levels which are not more than Rs. 230 per US dollar and will closely monitor developments in domestic forex market,” the bank said in a statement.
+
+The statement as follows:
+
+Policy package to support greater macroeconomic stability:
+
+Allowing flexibility in the exchange rate
+
+Considering the severity of the external shocks and recent developments in the domestic front, the Monetary Board of the Central Bank of Sri Lanka announced a comprehensive policy package on 04 March 2022 with the view to counter such economic headwinds.
+
+The Central Bank also indicated that it will continue to closely monitor the emerging macroeconomic and financial market developments, both globally and domestically, and will stand ready to take further measures as appropriate, with the aim of achieving stability in the fronts of inflation, the external sector, the financial sector, and real economic activity.
+
+In that context, greater flexibility in the exchange rate will be allowed to the markets with immediate effect. The Central Bank is also of the view that forex transactions would take place at levels which are not more than Rs. 230 per US dollar.
+
+The Central Bank will continue to closely monitor the developments in the domestic foreign exchange market and make appropriate policy adjustments accordingly.
 
 ## [21:54] Tomorrow’s power cut schedule announced
 
-[https://www.dailymirror.lk/breaking_news/Tomorrows-power-cut-schedule-announced/108-232535](https://www.dailymirror.lk/breaking_news/Tomorrows-power-cut-schedule-announced/108-232535)
+[https://www.dailymirror.lk/latest_news/Tomorrows-power-cut-schedule-announced/342-232535](https://www.dailymirror.lk/latest_news/Tomorrows-power-cut-schedule-announced/342-232535)
 
 The power schedule which was imposed today will be carried out for tomorrow (8) as well, the Public Utilities Commission of Sri Lanka (PUCSL) said.
 
@@ -29,6 +79,12 @@ PUCSL Chairman Janaka Ratnayake said approval for tomorrows power shedding was g
 Accordingly, the power shedding will be imposed in the P, Q, R, S, T, U, V and W for two hours from 9am to 5pm and one hour from 5pm to 9pm. Areas E and F will be imposed a five hour power cut from 8am to 6pm and two and half hours from 6pm to 11pm.
 
 The PUCSL regrets the inconvenience cause to electricity consumers due to prevailing power cuts. (Chaturanga Samarawickrama)
+
+## [21:50] Largest cement factory declared open...
+
+[https://www.dailymirror.lk/caption_story/Largest-cement-factory-declared-open/110-232563](https://www.dailymirror.lk/caption_story/Largest-cement-factory-declared-open/110-232563)
+
+President Gotabaya Rajapaksa and Prime Minister Mahinda Rajapaksa today (07) inaugurated the cement manufacturing facility of Lanwa Sanstha Cement Corporation (Pvt) Ltd., the largest cement factory in the country, located in the Magampura Lanka Industrial Zone. Pix by Pradeep Pathirana
 
 ## [21:01] 10 schools to be elevated as national schools tomorrow
 
@@ -58,7 +114,7 @@ Speaking at a ceremony to declare the opening of a new building complex for Nara
 
 ## [19:09] Cardinal requests UNHRC to support an impartial investigation
 
-[https://www.dailymirror.lk/latest_news/Cardinal-requests-UNHRC-to-support-an-impartial-investigation/342-232529](https://www.dailymirror.lk/latest_news/Cardinal-requests-UNHRC-to-support-an-impartial-investigation/342-232529)
+[https://www.dailymirror.lk/breaking_news/Cardinal-requests-UNHRC-to-support-an-impartial-investigation/108-232529](https://www.dailymirror.lk/breaking_news/Cardinal-requests-UNHRC-to-support-an-impartial-investigation/108-232529)
 
 Archbishop of Colombo Cardinal Malcolm Ranjith today requested the UNHRC to support in ensuring an impartial investigation on the Easter Sunday attacks.
 
@@ -69,6 +125,18 @@ Speaking during the UNHRC sessions in Geneva, Cardinal Ranjith urged the UNHRC t
 "The rights of those who were affected by the attacks have been violated as the government has failed to mete out justice to them," he added.
 
 "We initially thought the mayhem was the work of few Islamic youth but we suspect now that it is a part of a grand political plot," he also said. (Yohan Perera)
+
+## [17:49] People hurling eggs at rulers not too far away: SJB
+
+[https://www.dailymirror.lk/breaking_news/People-hurling-eggs-at-rulers-not-too-far-away-SJB/108-232524](https://www.dailymirror.lk/breaking_news/People-hurling-eggs-at-rulers-not-too-far-away-SJB/108-232524)
+
+Alleging that a government MP was behind the egg attack on Samagi Jana Balawegaya (SJB) headquarters today, SJB MP MP Chaminda Wijesiri said the day when people would throw eggs at the rulers of this country was not too far away.
+
+He told a press conference that SJB cannot be silenced or deterred by such an attack.
+
+" We will go ahead with our planned protest against the government in Colombo on March 15 and we challenge this MP to come and compete with us on that day. This MP should go and attack crowds at filling stations. He will get chased by the people without any doubt," he said.
+
+"The day when people throw eggs at the rulers of this country is not too far away," he added. (Yohan Perera)
 
 ## [17:31] Power-cut hours to be trimmed: PUCSL Chairman
 
@@ -368,7 +436,7 @@ Asked Sunday on CNN about Shell’s announcement, Ukrainian Foreign Minister Dmy
 
 ## [10:05] Denara to kick off  first training programmes for young enterprising women
 
-[https://www.dailymirror.lk/breaking_news/Denara-to-kick-off-first-training-programmes-for-young-enterprising-women/108-232515](https://www.dailymirror.lk/breaking_news/Denara-to-kick-off-first-training-programmes-for-young-enterprising-women/108-232515)
+[https://www.dailymirror.lk/latest_news/Denara-to-kick-off-first-training-programmes-for-young-enterprising-women/342-232515](https://www.dailymirror.lk/latest_news/Denara-to-kick-off-first-training-programmes-for-young-enterprising-women/342-232515)
 
 Denara Training Institute will kick-start their mission and vision while planning to inaugurate their first training programmes for young enterprising women, which coincides with the celebration of International Women's Day.
 
@@ -405,120 +473,6 @@ Several attempts to contact Litro Gas Company officials have failed.
 Meanwhile, informed sources revealed that three gas tankers have been anchored in Sri Lankan waters for the past six days due to the non-issuance of letters of credit by Sri Lankan commercial banks.
 
 Meanwhile, several public protests were held in some areas in the country during the past few days over the gas shortage. (Sunil Jayasiri)
-
-## [09:40] 10 dissidents to sit independently in Parliament this week
-
-[https://www.dailymirror.lk/breaking_news/10-dissidents-to-sit-independently-in-Parliament-this-week/108-232491](https://www.dailymirror.lk/breaking_news/10-dissidents-to-sit-independently-in-Parliament-this-week/108-232491)
-
-Udaya Gammanpila told Daily Mirror last evening that the 11 parties who had now formed a separate alliance, will sit independently in Parliament when sessions resume this week.
-
-However, he said they will continue to be part of the government but will continue to make their own decisions. (JAMILA HUSAIN)
-
-## [09:29] SLPP edges closer to form new govt; MR urgently calls for political calm
-
-[https://www.dailymirror.lk/latest_news/SLPP-edges-closer-to-form-new-govt-MR-urgently-calls-for-political-calm/342-232490](https://www.dailymirror.lk/latest_news/SLPP-edges-closer-to-form-new-govt-MR-urgently-calls-for-political-calm/342-232490)
-
-In addition to the economic, fuel, power and food crisis which has severely hampered the daily lives of all citizens in the country, Sri Lanka has now been plunged into severe political turmoil after two cabinet ministers were sacked last week and 11 dissident members are now threatening to leave the government.
-
-The sacking of Udaya Gammanpila and Wimal Weerawansa has caused a huge stir within the political ranks with the 11 dissidents which also include former president Maithripala Sirisena and Vasudeva Nanayakkara likely to sit as independent MPs in the next parliamentary session.
-
-President Rajapaksa has shown no indication to take back the sacked duo and has also made it clear that those unable to work with the present government and working against it, will have no place in this government.
-
-He has also not held any discussions with the 11 dissidents, and moves are now underway to see if a complete SLPP government can be formed to restart the stalled work.
-
-However, the man who has now stepped in to calm the situation is Prime Minister Mahinda Rajapaksa.
-
-Following the sacking of Wimal and Udaya last Thursday, Mahinda had called the 11 members and informed them to come to meet him at Temple Trees on Friday in order to leave aside political differences as this was not the time to stir another crisis.
-
-However, despite waiting for all 11 members for several hours on Friday, none of the dissidents showed up and for the first time in Mahinda's political career, he had been stood up.
-
-The Daily Mirror learns that some senior members close to Mahinda had on Friday night asked some of the 11 dissidents as to why they failed to attend the discussions with the Prime Minister to which they had alleged that they had been forced not to attend by Udaya.
-
-This was then conveyed to Mahinda. Mahinda has since then commented that the ongoing economic and fuel crises should be sorted first and relief must be given to the people. He had even mentioned to senior SLPP members that the time was not right for politicians to work on hidden agendas and solutions must be sought to give immediate relief to the citizens.
-
-Minister Vasudeva Nanayakkara who is also part of the dissident group, had late on Friday night said he will meet Mahinda on Monday and see if issues can be sorted even if others fail to attend.
-
-However, sacked Minister Udaya Gammanpila had a different story to tell. Udaya told Daily Mirror last evening that Mahinda had not extended any invitation to meet him or Wimal and this was a rumour spread by people with vested interests. He said that following their sacking, Mahinda had called him and Wimal and sympathized with them but had not extended any invitation for any discussions. He said no one else from the SLPP had also contacted them.
-
-Meanwhile senior government sources said that Mahinda had in a public rally held over the weekend hinted that the fuel shortage had been caused artificially and some groups were behind it. He had also said there was improper communication over the fuel crisis and added that in the past Sri Lanka had faced worst scenarios but had been able to get out of it. Political sources within the SLPP said that if Udaya meets Mahinda in any future discussion, he will have to face these questions by the Prime Minister. It is also learnt that while Mahinda is trying to call for political stability, he had also summoned the PUCSL Chairman last week to Temple Trees and sternly told him to stop releasing contradictory statements to the public which was leading to further public anger. It is learnt that the Prime Minister had told the Chairman that this was not the time for the PUCSL to lose its credibility.
-
-In closed-door discussions held by government members last week, it is also learnt that some senior SLPP members had commented saying it was good that the "trouble makers" had been sacked as although Sri Lanka did face a forex issue, the fuel issue could have been sorted out as countries such as the UAE had agreed to supply fuel on a credit line. However the government had failed to act.
-
-Senior ministers had also commented that the time was now right to form a SLPP government, something which has been backed by Finance Minister Basil Rajapaksa and an option that the President is now considering.
-
-However, despite the efforts of the government or even the Prime Minister to desperately calm the situation, the public are far from convinced that the government including Mahinda will sort the existing crises.
-
-Public anger has spread so much that protests are now breaking out in several areas of the country, with people lining up on the streets every night, asking politicians to stop playing with people's lives. The protests, which have no political backing by any groups, is organized solely by citizens who have expressed disgust at all political parties, especially the government and are urging for normalcy in their daily lives. The protests will continue this week as well and are soon spreading to other districts, increasing the heat on the government. (JAMILA HUSAIN)
-
-## [09:11] Nadungamuwa Raja dies
-
-[https://www.dailymirror.lk/latest_news/Nadungamuwa-Raja-dies/342-232488](https://www.dailymirror.lk/latest_news/Nadungamuwa-Raja-dies/342-232488)
-
-Nadungamuwa Vijaya Raja, popularly known as Nadungamuwa Raja passed away this morning, the caretaker of the elephant Harsha Dharmawijeya said.
-
-He said the elephant died at 5.30 am today following a brief illness.
-
-"The majestic animal did not have previous illness, but it did not take any food during yesterday and breathed for the last time," he said.
-
-The elephant's death was informed to the wildlife department, since the elephant was a property of the government, Dharmawijeya said.
-
-The burial date will be announced after inspection by wildlife officials, the caretaker said.
-
-Nadungamuwa Raja was 65 years old when died, was a celebrated pachyderm with a towering 10.5 feet (3.2 metres) in height and was the tallest tamed tusker in the country which had its own armed guards. Raja walks 90 km (55 miles) to the hill resort of Kandy for the event, called the Esala pageant.
-
-He walks 25 to 30 km a day, travelling mostly at night when the weather is cooler.
-
-Nadungamuwa Raja is an Indian tusker born in 1953 in Mysore, was the main casket bearer of the procession of Esala held in Kandy until recently and was one of the two elephant calves gifted by a Mysuru Maharaja to the veteran native physician monk who was living in Nilammahara Temple Piliyandala in appreciation of curing his relative's long lasted illness, other elephant being Nawam Raja of Gangaramaya that too not among the living. (Chaturanga Samarawickrama)
-
-## [08:05] CB continues to resist  IMF-led debt restructuring to end foreign exchange crisis
-
-[https://www.dailymirror.lk/business__main/CB-continues-to-resist-IMF-led-debt-restructuring-to-end-foreign-exchange-crisis/245-232470](https://www.dailymirror.lk/business__main/CB-continues-to-resist-IMF-led-debt-restructuring-to-end-foreign-exchange-crisis/245-232470)
-
-CB Governor says Road Map presented last Oct. has borne fruits and SL has no need of an IMF programme
-
-Says SL doesn’t have a problem in its foreign currency inflows, but a significant increase in outflows
-
-Says no request made to China to restructure Yuan denominated debt
-
-Believes current exchange rate suitable given the ramifications should the rupee was devalued
-
-
-
-The Central Bank is still disinclined to recommend to the government to seek  International Monetary Fund (IMF) support for a rescue package and foreign currency debt restructuring even amid the country in a deeper foreign exchange crisis, which has resulted in unending fuel shortages and power cuts.
-
-
-
-However, the Central Bank raised policy interest rates by 100 basis points on Friday, delivering the highest rate hike in more than a dozen years and proposed a number of policy adjustments, which more or less mirrored the policy cures IMF prescribed for Sri Lanka in the same week after the conclusion of the Article IV consolations, to help overcome the current crisis. However, their implementation is contingent on the government’s willingness.
-
-Except for the proposal for discouraging non-essential and non-urgent imports, everything else must be implemented to avert further economic calamity, complemented by gradual floating of the currency, according to economic analysts.
-
-
-
-Speaking at a post-monetary policy presser held on Friday, Central Bank Governor Ajith Nivard Cabraal said they remain on course of the Road Map presented in October despite certain delays, and hence the country doesn’t need to seek IMF support or restructure debt under an IMF-backed programme.
-
-
-
-According to Cabraal, Sri Lanka doesn’t have a problem in its foreign currency inflows, but a significant increase in outflows, which has resulted in the current predicament in the foreign exchange market.
-
-
-
-Merchandise imports to Sri Lanka reached just under US$ 22 billion last year, hitting the highest in three years despite the languishing economy.
-
-
-
-However, with or without the IMF, Sri Lanka will have to resolve its foreign exchange crisis soon to avert life and business-crippling fuel shortages and power cuts.
-
-
-
-Getting the forex crisis behind them soon is also in the best interest of the government as the crisis has already made cracks in the coalition government with eleven connected parties threatening to pull out.
-
-
-
-Meanwhile, in response to a question on the progress of the request made to China for Yuan denominated debt restructuring, Cabraal denied making such a request.
-
-
-
-While the Monetary Board had paid attention to make some changes to the exchange rate, Cabraal said the Board deemed the current exchange rate is suitable given the ramifications should the rupee was devalued.
 
 ## [03:10] 1,147 COVID-19 cases detected over the weekend
 
