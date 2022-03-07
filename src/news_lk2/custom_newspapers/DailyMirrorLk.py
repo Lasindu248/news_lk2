@@ -10,6 +10,9 @@ class DailyMirrorLk(AbstractNewsPaper):
     def get_index_urls(cls):
         return [
             'https://www.dailymirror.lk/latest-news/342',
+            'https://www.dailymirror.lk/top-storys/155',
+            'https://www.dailymirror.lk/business',
+            'https://www.dailymirror.lk/opinion/231',
         ]
 
     @classmethod

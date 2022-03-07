@@ -10,6 +10,7 @@ class DailyFtLk(AbstractNewsPaper):
     def get_index_urls(cls):
         return [
             'https://www.ft.lk/ft-news/56',
+            'https://www.ft.lk/business-news/34',
         ]
 
     @classmethod

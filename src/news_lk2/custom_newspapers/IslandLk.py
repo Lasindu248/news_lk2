@@ -11,6 +11,10 @@ class IslandLk(AbstractNewsPaper):
     def get_index_urls(cls):
         return [
             'https://island.lk/category/news/'
+            'https://island.lk/category/features/',
+            'https://island.lk/category/business/',
+            'https://island.lk/category/editorial/',
+            'https://island.lk/category/politics/',
         ]
 
     @classmethod
