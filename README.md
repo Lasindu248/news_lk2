@@ -2,6 +2,34 @@
 
 *47 news articles*
 
+## [22:07] CB devalues the rupee against USD to Rs 230
+
+[https://www.dailymirror.lk/top_story/CB-devalues-the-rupee-against-USD-to-Rs-230/155-232536](https://www.dailymirror.lk/top_story/CB-devalues-the-rupee-against-USD-to-Rs-230/155-232536)
+
+The Central Bank of Sri Lanka has devalued the rupee against the US dollar to Rs.230 with immediate effect, the bank announced a short while ago.
+
+“The Central Bank is of the view that forex transactions would take place at levels which are not more than Rs. 230 per US dollar & will closely monitor developments in domestic forex market,” the bank said in a statement.
+
+## [22:07] CB devalues the rupee against USD to Rs 230
+
+[https://www.dailymirror.lk/latest_news/CB-devalues-the-rupee-against-USD-to-Rs-230/342-232536](https://www.dailymirror.lk/latest_news/CB-devalues-the-rupee-against-USD-to-Rs-230/342-232536)
+
+The Central Bank of Sri Lanka has devalued the rupee against the US dollar to Rs.230 with immediate effect, the bank announced a short while ago.
+
+“The Central Bank is of the view that forex transactions would take place at levels which are not more than Rs. 230 per US dollar & will closely monitor developments in domestic forex market,” the bank said in a statement.
+
+## [21:54] Tomorrow’s power cut schedule announced
+
+[https://www.dailymirror.lk/breaking_news/Tomorrows-power-cut-schedule-announced/108-232535](https://www.dailymirror.lk/breaking_news/Tomorrows-power-cut-schedule-announced/108-232535)
+
+The power schedule which was imposed today will be carried out for tomorrow (8) as well, the Public Utilities Commission of Sri Lanka (PUCSL) said.
+
+PUCSL Chairman Janaka Ratnayake said approval for tomorrows power shedding was granted following a request from the Ceylon Electricity Board (CEB).
+
+Accordingly, the power shedding will be imposed in the P, Q, R, S, T, U, V and W for two hours from 9am to 5pm and one hour from 5pm to 9pm. Areas E and F will be imposed a five hour power cut from 8am to 6pm and two and half hours from 6pm to 11pm.
+
+The PUCSL regrets the inconvenience cause to electricity consumers due to prevailing power cuts. (Chaturanga Samarawickrama)
+
 ## [21:01] 10 schools to be elevated as national schools tomorrow
 
 [https://www.dailymirror.lk/breaking_news/10-schools-to-be-elevated-as-national-schools-tomorrow/108-232532](https://www.dailymirror.lk/breaking_news/10-schools-to-be-elevated-as-national-schools-tomorrow/108-232532)
@@ -31,20 +59,6 @@ Speaking at a ceremony to declare the opening of a new building complex for Nara
 ## [19:09] Cardinal requests UNHRC to support an impartial investigation
 
 [https://www.dailymirror.lk/latest_news/Cardinal-requests-UNHRC-to-support-an-impartial-investigation/342-232529](https://www.dailymirror.lk/latest_news/Cardinal-requests-UNHRC-to-support-an-impartial-investigation/342-232529)
-
-Archbishop of Colombo Cardinal Malcolm Ranjith today requested the UNHRC to support in ensuring an impartial investigation on the Easter Sunday attacks.
-
-Speaking during the UNHRC sessions in Geneva, Cardinal Ranjith urged the UNHRC to support Sri Lanka in gathering vital information on the Easter Sunday attacks.
-
-"Three years have passed since the dreaded attack and we are still in the dark without knowledge as to what really happened on that day. We call upon the UNHRC to support Sri Lanka in gathering more vital information on the Easter Sunday attacks and ensure an impartial investigation," the Cardinal said.
-
-"The rights of those who were affected by the attacks have been violated as the government has failed to mete out justice to them," he added.
-
-"We initially thought the mayhem was the work of few Islamic youth but we suspect now that it is a part of a grand political plot," he also said. (Yohan Perera)
-
-## [19:09] Cardinal requests UNHRC to support an impartial investigation
-
-[https://www.dailymirror.lk/top_story/Cardinal-requests-UNHRC-to-support-an-impartial-investigation/155-232529](https://www.dailymirror.lk/top_story/Cardinal-requests-UNHRC-to-support-an-impartial-investigation/155-232529)
 
 Archbishop of Colombo Cardinal Malcolm Ranjith today requested the UNHRC to support in ensuring an impartial investigation on the Easter Sunday attacks.
 
@@ -210,7 +224,7 @@ He said diesel plants have to be used for power generation as hydropower generat
 
 ## [14:14] Release Ranjan...
 
-[https://www.dailymirror.lk/caption_story/Release-Ranjan/110-232516](https://www.dailymirror.lk/caption_story/Release-Ranjan/110-232516)
+[https://www.dailymirror.lk/latest_news/Release-Ranjan/342-232516](https://www.dailymirror.lk/latest_news/Release-Ranjan/342-232516)
 
 A group of people staged a protest outside the United Nations Office in Colombo calling for the removal of imprisoned Ranjan Ramanayake. They also submitted a petition to the UN Office. Pix by Pradeep Dilrukshana
 
@@ -402,7 +416,7 @@ However, he said they will continue to be part of the government but will contin
 
 ## [09:29] SLPP edges closer to form new govt; MR urgently calls for political calm
 
-[https://www.dailymirror.lk/breaking_news/SLPP-edges-closer-to-form-new-govt-MR-urgently-calls-for-political-calm/108-232490](https://www.dailymirror.lk/breaking_news/SLPP-edges-closer-to-form-new-govt-MR-urgently-calls-for-political-calm/108-232490)
+[https://www.dailymirror.lk/latest_news/SLPP-edges-closer-to-form-new-govt-MR-urgently-calls-for-political-calm/342-232490](https://www.dailymirror.lk/latest_news/SLPP-edges-closer-to-form-new-govt-MR-urgently-calls-for-political-calm/342-232490)
 
 In addition to the economic, fuel, power and food crisis which has severely hampered the daily lives of all citizens in the country, Sri Lanka has now been plunged into severe political turmoil after two cabinet ministers were sacked last week and 11 dissident members are now threatening to leave the government.
 
@@ -438,7 +452,7 @@ Public anger has spread so much that protests are now breaking out in several ar
 
 ## [09:11] Nadungamuwa Raja dies
 
-[https://www.dailymirror.lk/breaking_news/Nadungamuwa-Raja-dies/108-232488](https://www.dailymirror.lk/breaking_news/Nadungamuwa-Raja-dies/108-232488)
+[https://www.dailymirror.lk/latest_news/Nadungamuwa-Raja-dies/342-232488](https://www.dailymirror.lk/latest_news/Nadungamuwa-Raja-dies/342-232488)
 
 Nadungamuwa Vijaya Raja, popularly known as Nadungamuwa Raja passed away this morning, the caretaker of the elephant Harsha Dharmawijeya said.
 
@@ -458,7 +472,7 @@ Nadungamuwa Raja is an Indian tusker born in 1953 in Mysore, was the main 
 
 ## [08:05] CB continues to resist  IMF-led debt restructuring to end foreign exchange crisis
 
-[https://www.dailymirror.lk/breaking_news/CB-continues-to-resist-IMF-led-debt-restructuring-to-end-foreign-exchange-crisis/108-232470](https://www.dailymirror.lk/breaking_news/CB-continues-to-resist-IMF-led-debt-restructuring-to-end-foreign-exchange-crisis/108-232470)
+[https://www.dailymirror.lk/business__main/CB-continues-to-resist-IMF-led-debt-restructuring-to-end-foreign-exchange-crisis/245-232470](https://www.dailymirror.lk/business__main/CB-continues-to-resist-IMF-led-debt-restructuring-to-end-foreign-exchange-crisis/245-232470)
 
 CB Governor says Road Map presented last Oct. has borne fruits and SL has no need of an IMF programme
 
@@ -505,84 +519,6 @@ Meanwhile, in response to a question on the progress of the request made to Chin
 
 
 While the Monetary Board had paid attention to make some changes to the exchange rate, Cabraal said the Board deemed the current exchange rate is suitable given the ramifications should the rupee was devalued.
-
-## [08:04] Bonus interest scheme for senior citizen deposits extended by one year
-
-[https://www.dailymirror.lk/breaking_news/Bonus-interest-scheme-for-senior-citizen-deposits-extended-by-one-year/108-232469](https://www.dailymirror.lk/breaking_news/Bonus-interest-scheme-for-senior-citizen-deposits-extended-by-one-year/108-232469)
-
-However, deposits maintained under the scheme will not be auto-renewed
-
-Deposit holders will have to make a declaration to the bank to make available the special interest rate at maturity
-
-
-
-The Central Bank has extended the 15 percent special interest scheme for one year term deposits of senior citizens continuing the proposal made in the budget 2017, which was brought with the intention of offering additional income to whose real incomes came under stress.
-
-
-
-To this effect, the Central Bank issued operating instructions to all licensed banks fortnight ago requesting them to continue the scheme for all resident Sri Lankan citizens above 60 years of age for one year fixed deposits of up to Rs.1.5 million.
-
-
-
-“Annual effective rate payable with effect from the date of opening of the deposit shall be 15 percent”, the Central Bank said in its instructions.
-
-
-
-“Licensed banks shall not charge a penalty for premature upliftment of such deposits”, it further said.
-
-However, former Central Bank Deputy Governor and popular economic commentator Dr. W.A. Wijewardena last week on social media said the CB had abolished this special interest rate scheme on senior citizens without citing any sources.
-
-
-
-“CB has abolished bonus interest payable to senior citizens at 15 percent up to Rs1.5mn; earlier, IRD abolished tax concessions given to them; now at market rates at -6 percent for fixed deposits,
-
-like farmers, there’re senior citizens agitating for redress; that’s why it’s necessary to raise rates,” he tweeted.
-
-While the deposits maintained under this scheme will not be auto-renewed, the deposit holder will have to make a declaration to the bank to make available the special interest rate at maturity.  The Central Bank raised its key rates by 100 basis points on Friday in response to over a decade high inflation and to ease the demand conditions, which pressure the prices among other things.  Colombo headline inflation for February firmed up at 15.1 percent from a year ago while core prices rose by 10.9 percent in the twelve months to February 2022, hitting a new 13-year high.  Although late, the decision to raise rates by the Central Bank was a step in the right direction from the standpoint of those who live on interest income as inflation has threatened their real incomes.  Record high inflation is a global phenomenon, largely caused by the pent-up demand with the re-opening of economies.  The United States Federal Reserve is battling a 40-year high inflation, and is  poised for its first rate hike in March since the pandemic broke out.
-
-## [08:01] Govt. looking at holistic approach to digitally transform SL: Namal
-
-[https://www.dailymirror.lk/breaking_news/Govt-looking-at-holistic-approach-to-digitally-transform-SL-Namal/108-232467](https://www.dailymirror.lk/breaking_news/Govt-looking-at-holistic-approach-to-digitally-transform-SL-Namal/108-232467)
-
-Dedicated efforts are underway to transform Sri Lanka into a technology-based society, as the government is actively looking at a holistic approach to create an ecosystem where citizen services will be supported by digital transformation, State Minister for Digital Technology and Enterprise Namal Rajapaksa said.
-
-
-
-In an interview with Telcom Review Asia conducted during his visit to Mobile World Congress (MWC) in Barcelona, Rajapaksa pointed out that the key to achieve the aspired digital transformation is to provide smoother and seamless services to the people of the country.
-
-
-
-In that effort, making available the Unique National Digital ID (UID) will be a key milestone for this transformation, he stressed.
-
-
-
-“We believe we need to expedite our coverage process. For that, we have launched the Gamata Sanniwedanaya programme that will cover the entire island with 4G. In the meantime, the two main telco companies in Sri Lanka are also putting 5G in trial phase and looking to have a 5G auction in 2022,” said the State Minister highlighting some of the efforts taken to aid Sri Lanka’s digital transformation.
-
-Steps have been also taken to expand the digital economy in the country, especially when in terms of digital banking and adoption of digital currencies.
-
-
-
-Rajapaksa said the government is keen on expanding the DTM industry, a move to capitalise on Sri Lanka’s ‘strong and skillful’ labour force.
-
-
-
-“Working with the private sector is key to achieve this goal and we believe that by working hand in hand with public-private partnerships, we can digitalise citizen services and expand our digital economy to make it a US$ 10 billion industry in Sri Lanka,” he stressed.
-
-
-
-Sri Lanka currently has about 150,000 digitally skilled people in the IT industry and plans are afoot to increase the number to 300,000 next few years.
-
-
-
-Rajapaksa said the government is of the view that the roadmap of digitalising the entire government scheme and citizen services with the digital ID card will enable people to be more digitally savvy and get used to using digital services to access education as well.
-
-
-
-Furthermore, the government and the relevant authorities have also increased the pace of developing and establishing the required infrastructure and legal framework for regulations.
-
-
-
-By the first week of March, Sri Lanka will pass the Data Protection Act. The framework for cybersecurity policy as well as the Cybersecurity Act will be taken up in parliament in the near future.
 
 ## [03:10] 1,147 COVID-19 cases detected over the weekend
 
@@ -974,7 +910,7 @@ Central Bank Governor Nivard Cabraal, State Minister Tharaka Balasuriya, and Sec
 
 ## [00:03] Inequality and fallacies in the law - EDITORIAL
 
-[https://www.dailymirror.lk/opinion/Inequality-and-fallacies-in-the-law-EDITORIAL/172-232445](https://www.dailymirror.lk/opinion/Inequality-and-fallacies-in-the-law-EDITORIAL/172-232445)
+[https://www.dailymirror.lk/opinion/Inequality-and-fallacies-in-the-law-EDITORIAL/231-232445](https://www.dailymirror.lk/opinion/Inequality-and-fallacies-in-the-law-EDITORIAL/231-232445)
 
 ‘Equality before law means, that among equals the law should be equal and should be equally administered, that like should be treated alike. Sadly this description is not always followed in international politics or even in domestic and day-to-day affairs.
 
@@ -1022,7 +958,7 @@ The fallout - where the people beginning to lose faith in the system of justice 
 
 ## [00:02] Repealing PTA
 
-[https://www.dailymirror.lk/opinion/Repealing-PTA/172-232444](https://www.dailymirror.lk/opinion/Repealing-PTA/172-232444)
+[https://www.dailymirror.lk/plus/Repealing-PTA/352-232444](https://www.dailymirror.lk/plus/Repealing-PTA/352-232444)
 
 People are seen placing their signatures during a campaign to abolish the proposed PTA
 
@@ -1086,7 +1022,7 @@ The call of the hour is for intellectuals to join the people and take up the ide
 
 ## [00:01] SVB spearheads an island-wide support system to eliminate violence against women - Hirunika Premachandra
 
-[https://www.dailymirror.lk/opinion/SVB-spearheads-an-island-wide-support-system-to-eliminate-violence-against-women-Hirunika-Premachandra/172-232443](https://www.dailymirror.lk/opinion/SVB-spearheads-an-island-wide-support-system-to-eliminate-violence-against-women-Hirunika-Premachandra/172-232443)
+[https://www.dailymirror.lk/hard-talk/SVB-spearheads-an-island-wide-support-system-to-eliminate-violence-against-women-Hirunika-Premachandra/334-232443](https://www.dailymirror.lk/hard-talk/SVB-spearheads-an-island-wide-support-system-to-eliminate-violence-against-women-Hirunika-Premachandra/334-232443)
 
 "Stemming from this campaign, we have been proactively taking the issue of eliminating violence against women to our grassroots level members in the periphery. There is now a consciousness on this topic among women at grassroots level and they are encouraged to speak out and seek redress when victimized"
 
