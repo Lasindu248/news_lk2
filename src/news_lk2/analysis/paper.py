@@ -56,9 +56,8 @@ def build_todays_paper():
         f'*{n_todays_articles} news articles*',
     ]
     for article in todays_articles:
-        print(article.body_lines)
         md_lines += [
-            f'## {article.title}',
+            f'## [{article.time_only_str}] {article.title}',
             f'[{article.url}]',
         ]
         md_lines += article.body_lines
