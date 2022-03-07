@@ -1,5 +1,5 @@
 
-from utils import jsonx
+from utils import jsonx, timex
 
 from news_lk2._utils import log
 from news_lk2.core.filesys import get_article_file
@@ -20,6 +20,9 @@ class Article:
             self.newspaper_name,
             self.url,
         )
+    @property
+    def time_only_str(self):
+        return timex.format_time(self.time_ut, '%H:%M')
 
     @property
     def dict(self):
