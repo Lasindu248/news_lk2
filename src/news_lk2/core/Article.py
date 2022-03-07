@@ -20,6 +20,7 @@ class Article:
             self.newspaper_name,
             self.url,
         )
+
     @property
     def time_only_str(self):
         return timex.format_time(self.time_ut, '%H:%M')
