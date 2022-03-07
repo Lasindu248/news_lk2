@@ -9,6 +9,18 @@ from news_lk2.core.Article import Article
 MIN_ARTICLE_HTML_SIZE = 1_000
 
 
+def is_html_valid(html):
+    if not html:
+        log.warning('HTML is empty')
+        return False
+
+    if len(html) < MIN_ARTICLE_HTML_SIZE:
+        log.warning('Insufficient HTML size')
+        return False
+
+    return True
+
+
 class AbstractNewsPaper(ABC):
     @classmethod
     def get_newspaper_id(cls):
@@ -36,12 +48,9 @@ class AbstractNewsPaper(ABC):
         article_urls = []
         for index_url in cls.get_index_urls():
             html = www.read(index_url)
-            if len(html) < MIN_ARTICLE_HTML_SIZE:
-                log.warning(f'Insufficient HTML for {index_url}. Not parsing!')
-                continue
-
-            soup = BeautifulSoup(html, 'html.parser')
-            article_urls += cls.parse_article_urls(soup)
+            if is_html_valid(html):
+                soup = BeautifulSoup(html, 'html.parser')
+                article_urls += cls.parse_article_urls(soup)
 
         newspaper_id = cls.get_newspaper_id()
         log.info(f'Found {len(article_urls)} articles for {newspaper_id}')
@@ -50,19 +59,16 @@ class AbstractNewsPaper(ABC):
     @classmethod
     def parse_and_store_article(cls, article_url):
         html = www.read(article_url)
-        if len(html) < MIN_ARTICLE_HTML_SIZE:
-            log.warning(f'Insufficient HTML for {article_url}. Not parsing!')
-            return None
-
-        soup = BeautifulSoup(html, 'html.parser')
-        article = Article(
-            newspaper_id=cls.get_newspaper_id(),
-            url=article_url,
-            time_ut=cls.parse_time_ut(soup),
-            title=cls.parse_title(soup),
-            body_lines=cls.parse_body_lines(soup),
-        )
-        article.store()
+        if is_html_valid(html):
+            soup = BeautifulSoup(html, 'html.parser')
+            article = Article(
+                newspaper_id=cls.get_newspaper_id(),
+                url=article_url,
+                time_ut=cls.parse_time_ut(soup),
+                title=cls.parse_title(soup),
+                body_lines=cls.parse_body_lines(soup),
+            )
+            article.store()
 
     @classmethod
     def scrape(cls):
