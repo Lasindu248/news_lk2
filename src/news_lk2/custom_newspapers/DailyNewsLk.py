@@ -1,17 +1,30 @@
 import os
 
-from bs4 import BeautifulSoup
-from utils import timex, www
+from utils import timex
 
 from news_lk2.core import AbstractNewsPaper
 
 URL_BASE = 'http://dailynews.lk'
-URL_NEWS = os.path.join(URL_BASE, 'category/local')
 TIME_RAW_FORMAT = '%A, %B %d, %Y - %H:%M'
 MIN_WORDS_IN_BODY_LINE = 10
 
 
 class DailyNewsLk(AbstractNewsPaper):
+    @classmethod
+    def get_index_urls(cls):
+        return [os.path.join(URL_BASE, 'category/local')]
+
+    @classmethod
+    def parse_article_urls(cls, soup):
+        article_urls = []
+        for div in soup.find_all('li', {'class': 'views-row'}):
+            article_url = os.path.join(
+                URL_BASE,
+                div.find('a').get('href')[1:],
+            )
+            article_urls.append(article_url)
+        return article_urls
+
     @classmethod
     def parse_time_ut(cls, soup):
         span_time = soup.find('span', {'class': 'date-display-single'})
@@ -30,21 +43,6 @@ class DailyNewsLk(AbstractNewsPaper):
                 ))
             ))
         return body_lines
-
-    @classmethod
-    def get_article_urls(cls):
-        html = www.read(URL_NEWS)
-        soup = BeautifulSoup(html, 'html.parser')
-
-        article_urls = []
-        for div in soup.find_all('li', {'class': 'views-row'}):
-            article_url = os.path.join(
-                URL_BASE,
-                div.find('a').get('href')[1:],
-            )
-            article_urls.append(article_url)
-
-        return article_urls
 
 
 if __name__ == '__main__':

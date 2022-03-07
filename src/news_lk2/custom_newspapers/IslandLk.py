@@ -1,14 +1,27 @@
-from bs4 import BeautifulSoup
-from utils import timex, www
+from utils import timex
 
 from news_lk2.core import AbstractNewsPaper
 
-URL_NEWS = 'https://island.lk/category/news/'
 TIME_RAW_FORMAT = '%Y-%m-%d %I:%M %p'
 MIN_WORDS_IN_BODY_LINE = 10
 
 
 class IslandLk(AbstractNewsPaper):
+    @classmethod
+    def get_index_urls(cls):
+        return [
+            'https://island.lk/category/news/'
+        ]
+
+    @classmethod
+    def parse_article_urls(cls, soup):
+        article_urls = []
+        for div in soup.find_all('li', {'class': 'mvp-blog-story-wrap'}):
+            article_url = div.find('a').get('href')
+            article_urls.append(article_url)
+
+        return article_urls
+
     @classmethod
     def parse_time_ut(cls, soup):
         meta_time = soup.find('meta', {'itemprop': 'dateModified'})
@@ -28,15 +41,3 @@ class IslandLk(AbstractNewsPaper):
                 header_inner.text.strip().split('\n'),
             ))
         ))
-
-    @classmethod
-    def get_article_urls(cls):
-        html = www.read(URL_NEWS)
-        soup = BeautifulSoup(html, 'html.parser')
-
-        article_urls = []
-        for div in soup.find_all('li', {'class': 'mvp-blog-story-wrap'}):
-            article_url = div.find('a').get('href')
-            article_urls.append(article_url)
-
-        return article_urls
