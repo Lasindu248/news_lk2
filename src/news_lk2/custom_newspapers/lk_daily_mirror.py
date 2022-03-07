@@ -7,7 +7,6 @@ from news_lk2.core import Article
 
 URL_NEWS = 'https://www.dailymirror.lk/latest-news/342'
 TIME_RAW_FORMAT = '%d %B %Y %I:%M %p'
-TIME_FORMAT = '%Y-%m-%d %H:%M'
 NEWSPAPER_NAME = 'lk_daily_mirror'
 
 
