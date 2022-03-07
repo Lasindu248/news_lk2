@@ -18,12 +18,12 @@ def get_articles_for_dateid(date_id):
         log.warning(f'No articles for ({date_id}). Aborting')
         return []
 
-    newspaper_names = get_newspapers_for_date(date_id)
+    newspaper_ids = get_newspapers_for_date(date_id)
     article_list = []
-    for newspaper_name in newspaper_names:
+    for newspaper_id in newspaper_ids:
         article_files = get_article_files_for_date_and_newspaper(
             date_id,
-            newspaper_name,
+            newspaper_id,
         )
         article_list += list(map(
             Article.load,

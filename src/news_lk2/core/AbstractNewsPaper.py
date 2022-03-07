@@ -1,11 +1,6 @@
 
 from news_lk2.core.Article import Article
 
-URL_NEWS = 'https://www.dailymirror.lk/latest-news/342'
-TIME_RAW_FORMAT = '%d %B %Y %I:%M %p'
-NEWSPAPER_NAME = 'lk_daily_mirror'
-
-
 class AbstractNewsPaper:
     def get_newspaper_id():
         raise NotImplementedError

@@ -27,10 +27,10 @@ def get_dir_date(date_id):
     )
 
 
-def get_dir_date_and_newspaper(date_id, newspaper_name):
+def get_dir_date_and_newspaper(date_id, newspaper_id):
     return os.path.join(
         get_dir_date(date_id),
-        newspaper_name,
+        newspaper_id,
     )
 
 
@@ -39,12 +39,12 @@ def get_article_file_only(url):
     return f'{h}.json'
 
 
-def get_article_file(time_ut, newspaper_name, url):
+def get_article_file(time_ut, newspaper_id, url):
     date_id = timex.get_date_id(time_ut)
 
     dir_date_and_newspaper = get_dir_date_and_newspaper(
         date_id,
-        newspaper_name,
+        newspaper_id,
     )
     if not os.path.exists(dir_date_and_newspaper):
         os.system(f'mkdir -p {dir_date_and_newspaper}')
@@ -87,9 +87,9 @@ def get_newspapers_for_date(date_id):
     ))
 
 
-def get_article_files_for_date_and_newspaper(date_id, newspaper_name):
+def get_article_files_for_date_and_newspaper(date_id, newspaper_id):
     dir_date_and_newspaper = get_dir_date_and_newspaper(
-        date_id, newspaper_name)
+        date_id, newspaper_id)
     article_files_only = list(filter(
         lambda file_name: len(file_name) == 13 and file_name[-5:] == '.json',
         os.listdir(dir_date_and_newspaper),
