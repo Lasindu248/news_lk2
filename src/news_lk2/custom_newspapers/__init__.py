@@ -1,0 +1,1 @@
+from news_lk2.custom_newspapers.DailyMirrorLK import DailyMirrorLK
