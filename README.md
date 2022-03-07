@@ -1,6 +1,34 @@
 # 2022-03-07
 
-*26 news articles*
+*28 news articles*
+
+## [17:31] Power-cut hours to be trimmed: PUCSL Chairman
+
+[https://www.dailymirror.lk/latest_news/Power-cut-hours-to-be-trimmed-PUCSL-Chairman/342-232527]
+
+There is a tendency in reducing the number of power shedding hours by at least two hours with the presence of sufficient diesel and furnace oil and until we get enough rain, Public Utilities Commission of Sri Lanka (PUCSL) Chairman Janaka Rathnayaka said.
+
+He said within two or three days we will receive adequate fuel for power generation in the country.
+
+We have received a 30,000 MT furnace oil shipment today and the unloading process will start by tomorrow, he said.
+
+We have sufficient coal in hand to operate the coal power plants. After once the adequate fuel arrives, the Ceylon Electricity Board (CEB) would generate 2,100 MW of electricity including 5 GW from hydropower which sufficient for the daily usage.
+
+"With the 900 MW from Norochcholei power plant and another 1,200 MW from operating plants with the use of furnace oil and naptha, we can generate about 2,100 MW of electricity," he said.
+
+Therefore, we would be able to trim the number of power shedding hours in the future. However, the power shedding has to be continued until the country receives adequate rainfall, the Chairman said. (Chaturanga Samarawickrama)
+
+## [16:35] Cause for Dec.3 countrywide blackout will be out soon: PUCSL Chairman
+
+[https://www.dailymirror.lk/latest_news/Cause-for-Dec-3-countrywide-blackout-will-be-out-soon-PUCSL-Chairman/342-232528]
+
+While holding public inquiry for the first time in the country, Public Utilities Commission of Sri Lanka (PUCSL) Chairman Janaka Rathnayaka said the cause for the countrywide blackout on December 3 will be reveled soon.
+
+Addressing media following the public inquiry on the blackout, he said a successfull public investigation was conducted and the details of all those who were responsible were presented yesterday.
+
+Today was the second day of the inquiry. All evidences were gathered successfully, he said.
+
+The inquiry of the incident was broadcast live through the PUCSL official website to make the inquiry more transparent, the chairman said. (Chaturanga Samarawickrama)
 
 ## [15:39] Cardinal urges UNHRC to ensure impartial probe into Easter Sunday attacks
 
@@ -118,7 +146,7 @@ This will enable the handling of goods using technology instead of labour, in li
 
 ## [14:18] Basil orders LG heads to switch off all street lamps to conserve electricity
 
-[https://www.dailymirror.lk/breaking_news/Basil-orders-LG-heads-to-switch-off-all-street-lamps-to-conserve-electricity/108-232517]
+[https://www.dailymirror.lk/latest_news/Basil-orders-LG-heads-to-switch-off-all-street-lamps-to-conserve-electricity/342-232517]
 
 Finance Minister Basil Rajapaksa has instructed all Local Government heads in the country to switch off all the street lamps in their respective Local Government areas until March 31 so as to conserve electricity.
 
@@ -162,7 +190,7 @@ The Cinnamon Gardens Police had informed Court that the suspects who organized t
 
 ## [13:05] Will boycott Cabinet meeting tonight: Vasu
 
-[https://www.dailymirror.lk/breaking_news/Will-boycott-Cabinet-meeting-tonight-Vasu/108-232511]
+[https://www.dailymirror.lk/latest_news/Will-boycott-Cabinet-meeting-tonight-Vasu/342-232511]
 
 Minister of Water Supply Vasudeva Nanayakkara said he will boycott the Cabinet meeting to be held tonight.
 
@@ -210,7 +238,7 @@ A group of individuals staged a protest holding candles in Kohuwala and Rajagiri
 
 ## [11:50] Protest outside SJB office in Kotte
 
-[https://www.dailymirror.lk/breaking_news/Protest-outside-SJB-office-in-Kotte/108-232507]
+[https://www.dailymirror.lk/latest_news/Protest-outside-SJB-office-in-Kotte/342-232507]
 
 A group of people staged a protest in front of the Samagi Jana Balawegaya (SJB) office in Kotte this morning.
 
@@ -272,7 +300,7 @@ Asked Sunday on CNN about Shell’s announcement, Ukrainian Foreign Minister Dmy
 
 ## [10:05] Denara to kick off  first training programmes for young enterprising women
 
-[https://www.dailymirror.lk/breaking_news/Denara-to-kick-off-first-training-programmes-for-young-enterprising-women/108-232515]
+[https://www.dailymirror.lk/latest_news/Denara-to-kick-off-first-training-programmes-for-young-enterprising-women/342-232515]
 
 Denara Training Institute will kick-start their mission and vision while planning to inaugurate their first training programmes for young enterprising women, which coincides with the celebration of International Women's Day.
 
@@ -296,7 +324,7 @@ Due to shortage of diesel in fuel stations, private buses are allowed to get the
 
 ## [09:45] Severe gas shortage due to forex issue
 
-[https://www.dailymirror.lk/top_story/Severe-gas-shortage-due-to-forex-issue/155-232492]
+[https://www.dailymirror.lk/latest_news/Severe-gas-shortage-due-to-forex-issue/342-232492]
 
 The country is currently facing a severe gas shortage as three gas tankers are being anchored off the Sri Lankan waters due to the non-issuance of letters of credit by Sri Lankan commercial banks in the face of the dollar crisis.
 
@@ -312,7 +340,7 @@ Meanwhile, several public protests were held in some areas in the country during
 
 ## [09:40] 10 dissidents to sit independently in Parliament this week
 
-[https://www.dailymirror.lk/breaking_news/10-dissidents-to-sit-independently-in-Parliament-this-week/108-232491]
+[https://www.dailymirror.lk/latest_news/10-dissidents-to-sit-independently-in-Parliament-this-week/342-232491]
 
 Udaya Gammanpila told Daily Mirror last evening that the 11 parties who had now formed a separate alliance, will sit independently in Parliament when sessions resume this week.
 
@@ -320,7 +348,7 @@ However, he said they will continue to be part of the government but will contin
 
 ## [09:29] SLPP edges closer to form new govt; MR urgently calls for political calm
 
-[https://www.dailymirror.lk/breaking_news/SLPP-edges-closer-to-form-new-govt-MR-urgently-calls-for-political-calm/108-232490]
+[https://www.dailymirror.lk/latest_news/SLPP-edges-closer-to-form-new-govt-MR-urgently-calls-for-political-calm/342-232490]
 
 In addition to the economic, fuel, power and food crisis which has severely hampered the daily lives of all citizens in the country, Sri Lanka has now been plunged into severe political turmoil after two cabinet ministers were sacked last week and 11 dissident members are now threatening to leave the government.
 
@@ -356,7 +384,7 @@ Public anger has spread so much that protests are now breaking out in several ar
 
 ## [09:11] Nadungamuwa Raja dies
 
-[https://www.dailymirror.lk/breaking_news/Nadungamuwa-Raja-dies/108-232488]
+[https://www.dailymirror.lk/latest_news/Nadungamuwa-Raja-dies/342-232488]
 
 Nadungamuwa Vijaya Raja, popularly known as Nadungamuwa Raja passed away this morning, the caretaker of the elephant Harsha Dharmawijeya said.
 
@@ -426,7 +454,7 @@ While the Monetary Board had paid attention to make some changes to the exchange
 
 ## [08:04] Bonus interest scheme for senior citizen deposits extended by one year
 
-[https://www.dailymirror.lk/breaking_news/Bonus-interest-scheme-for-senior-citizen-deposits-extended-by-one-year/108-232469]
+[https://www.dailymirror.lk/business-news/Bonus-interest-scheme-for-senior-citizen-deposits-extended-by-one-year/273-232469]
 
 However, deposits maintained under the scheme will not be auto-renewed
 
@@ -460,7 +488,7 @@ While the deposits maintained under this scheme will not be auto-renewed, the de
 
 ## [08:01] Govt. looking at holistic approach to digitally transform SL: Namal
 
-[https://www.dailymirror.lk/breaking_news/Govt-looking-at-holistic-approach-to-digitally-transform-SL-Namal/108-232467]
+[https://www.dailymirror.lk/business-news/Govt-looking-at-holistic-approach-to-digitally-transform-SL-Namal/273-232467]
 
 Dedicated efforts are underway to transform Sri Lanka into a technology-based society, as the government is actively looking at a holistic approach to create an ecosystem where citizen services will be supported by digital transformation, State Minister for Digital Technology and Enterprise Namal Rajapaksa said.
 
@@ -504,7 +532,7 @@ By the first week of March, Sri Lanka will pass the Data Protection Act. The fra
 
 ## [08:00] President to open state-of-the-art Lanwa Sanstha Cement factory in H’tota today
 
-[https://www.dailymirror.lk/breaking_news/President-to-open-state-of-the-art-Lanwa-Sanstha-Cement-factory-in-Htota-today/108-232466]
+[https://www.dailymirror.lk/business-news/President-to-open-state-of-the-art-Lanwa-Sanstha-Cement-factory-in-Htota-today/273-232466]
 
 State-of-the-art cement manufacturing facility of Lanwa Sanstha Cement Corporation (Pvt) Ltd is slated to be declared open today by the President Gotabaya Rajapaksa.
 
