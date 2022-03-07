@@ -35,6 +35,9 @@ class Article:
         jsonx.write(self.file_name, self.dict)
         log.info(f'Wrote {self.file_name}')
 
+    def __lt__(self, other):
+        return self.time_ut < other.time_ut    
+
     @staticmethod
     def load(article_file):
         d = jsonx.read(article_file)
