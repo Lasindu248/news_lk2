@@ -72,6 +72,10 @@ class AbstractNewsPaper(ABC):
 
     @classmethod
     def scrape(cls):
-        article_urls = cls.get_article_urls()
-        for article_url in article_urls:
-            cls.parse_and_store_article(article_url)
+        try:
+            article_urls = cls.get_article_urls()
+            for article_url in article_urls:
+                cls.parse_and_store_article(article_url)
+        except Exception:
+            newspaper_id = cls.get_newspaper_id()
+            log.warning(f'Could not complete scrape for {newspaper_id}')
