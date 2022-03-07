@@ -1,6 +1,6 @@
 import unittest
 
-from gh_template_py import _utils
+from news_lk2 import _utils
 
 
 class TestCase(unittest.TestCase):
