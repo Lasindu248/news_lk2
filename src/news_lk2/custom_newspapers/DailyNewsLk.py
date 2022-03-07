@@ -47,7 +47,3 @@ class DailyNewsLk(AbstractNewsPaper):
                 ))
             ))
         return body_lines
-
-
-if __name__ == '__main__':
-    DailyNewsLk.scrape()
