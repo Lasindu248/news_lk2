@@ -36,7 +36,7 @@ class Article:
         log.info(f'Wrote {self.file_name}')
 
     def __lt__(self, other):
-        return self.time_ut < other.time_ut    
+        return self.time_ut < other.time_ut
 
     @staticmethod
     def load(article_file):
