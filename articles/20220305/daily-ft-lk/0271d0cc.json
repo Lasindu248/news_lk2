@@ -1,0 +1,21 @@
+{
+  "newspaper_id": "daily-ft-lk",
+  "url": "https://www.ft.lk/business/Huawei-releases-IntelligentRAN-wireless-architecture/34-731496",
+  "time_ut": 1646438400,
+  "title": "Huawei releases IntelligentRAN wireless architecture",
+  "body_lines": [
+    "Huawei\u2019s Vice President and Chief Marketing Officer of Wireless Solutions Gan Bin",
+    "",
+    "",
+    "Huawei unveiled IntelligentRAN, its new wireless network architecture, at a recently held pre-MWC briefing and product and solution launch event.",
+    "This architecture is designed to help carriers build autonomous networks using service operation intelligence, experience optimisation, and simplified O&M.",
+    "Huawei\u2019s Vice President and Chief Marketing Officer of Wireless Solutions Gan Bin spoke at the launch, explaining how key technologies were incorporated into the architecture to support ADN over wireless networks: \u201cIntelligence improves wireless networks greatly by supporting correlative data analysis and prediction to make decisions more adaptive. This is where IntelligentRAN comes in. It will enable networks to realise zero service waiting, consistent experience, zero network faults, and optimal experience and energy efficiency. Using Mobile Intelligent Engine (MIE), it will better coordinate data, models, and decisions between base stations and networks, paving the way to wireless intelligence.\u201d",
+    "He said 5G has caused a huge increase in the number of personal, industry, and home applications available in the wireless market. As these services increase, network performance requirements are similarly diversifying in terms of coverage, capacity, and latency. Interference between cells, a long-standing problem in mobile networks, is also hindering operators\u2019 attempts to provide consistent experience. And of course, as traffic increases, so will energy consumption. To cope with these challenges, operators are increasingly relying on intelligent wireless networks to quickly roll out services while using the best frequency band combination to ensure optimal experiences. They now look to user-centric networks for resource configuration and simplified O&M to operate with optimal experience and energy efficiency.",
+    "Huawei\u2019s new IntelligentRAN allows intelligent air interfaces to use key technologies such as smart grids, scheduling dictionaries, and channel graphs. With these tools, they can intelligently configure air interface resources and achieve optimal user experience and capacity. Service prediction with IntelligentRAN also guides non-real-time spectrum and channel selection on the network side and real-time symbol scheduling and transmit power configuration on the base station side. This significantly reduces energy consumption across the entire network.",
+    "In addition, IntelligentRAN enables intelligent SLA site planning, where parameters are dynamically configured and models can be adjusted flexibly in response to service changes.",
+    "Networks with IntelligentRAN also benefit from intelligent O&M. They can self-learn the features of faults to improve fault detection accurately and root cause analysis. This replaces passive responses with proactive maintenance, bringing us a step closer to zero-fault wireless networks. Intelligent minimum drive tests (MDTs) can also work with Massive MIMO to build an all-round high-precision map for network performance. This provides more accurate guidance for network planning, optimisation, and VIP user assurance.",
+    "IntelligentRAN uses collaborative power control to considerably reduce electromagnetic radiation intensity while ensuring optimal multi-band performance. This feature will help meet the power restriction requirements now found in some countries.",
+    "Gan explained how important Huawei believes this new architecture will be for sustainable development efforts: \u201cIntelligentRAN enables autonomous networks. It will empower industries, accelerate industry transformation, and promote sustainable development of the mobile industry and a digital world. We hope to work with operators and industry partners to better fulfil this goal.\u201d",
+    "MWC22 Barcelona will run until 3 March in Barcelona, Spain. Huawei will showcase its products and solutions at stand 1H50 in Fira Gran Via Hall 1."
+  ]
+}
