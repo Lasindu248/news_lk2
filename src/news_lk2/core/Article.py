@@ -19,7 +19,7 @@ class Article:
     @property
     def file_name(self):
         date_id = timex.get_date_id(self.time_ut)
-        dir = f'/tmp/news_lk2/{date_id}/{self.newspaper_name}'
+        dir = f'/tmp/news_lk2/articles/{date_id}/{self.newspaper_name}'
         if not os.path.exists(dir):
             os.system(f'mkdir -p {dir}')
         h = hashx.md5(self.url + SALT)[:HASH_LENGTH]
@@ -38,3 +38,14 @@ class Article:
     def store(self):
         jsonx.write(self.file_name, self.dict)
         log.info(f'Wrote {self.file_name}')
+
+    @staticmethod
+    def load(article_file):
+        d = jsonx.read(article_file)
+        return Article(
+            newspaper_name=d['newspaper_name'],
+            url=d['url'],
+            time_ut=d['time_ut'],
+            title=d['title'],
+            body_lines=d['body_lines'],
+        )
