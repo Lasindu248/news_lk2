@@ -1,1 +1,2 @@
+from news_lk2.custom_newspapers.DailyFtLk import DailyFtLk
 from news_lk2.custom_newspapers.DailyMirrorLk import DailyMirrorLk
