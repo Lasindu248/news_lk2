@@ -14,7 +14,8 @@ class AbstractNewsPaper(ABC):
 
     @classmethod
     def parse_title(cls, soup):
-        raise NotImplementedError
+        h1_title = soup.find('h1')
+        return h1_title.text.strip()
 
     @classmethod
     def parse_body_lines(cls, soup):

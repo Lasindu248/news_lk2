@@ -19,11 +19,6 @@ class IslandLk(AbstractNewsPaper):
             TIME_RAW_FORMAT)
 
     @classmethod
-    def parse_title(cls, soup):
-        h1_title = soup.find('h1')
-        return h1_title.text.strip()
-
-    @classmethod
     def parse_body_lines(cls, soup):
         header_inner = soup.find('div', {'id': 'mvp-content-wrap'})
         return list(map(
