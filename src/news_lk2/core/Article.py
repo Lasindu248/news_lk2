@@ -1,11 +1,8 @@
-import os
 
-from utils import hashx, jsonx, timex
+from utils import jsonx
 
 from news_lk2._utils import log
-
-SALT = '5568445278803347'
-HASH_LENGTH = 8
+from news_lk2.core.filesys import get_article_file
 
 
 class Article:
@@ -18,12 +15,11 @@ class Article:
 
     @property
     def file_name(self):
-        date_id = timex.get_date_id(self.time_ut)
-        dir = f'/tmp/news_lk2/articles/{date_id}/{self.newspaper_name}'
-        if not os.path.exists(dir):
-            os.system(f'mkdir -p {dir}')
-        h = hashx.md5(self.url + SALT)[:HASH_LENGTH]
-        return os.path.join(dir, f'{h}.json')
+        return get_article_file(
+            self.time_ut,
+            self.newspaper_name,
+            self.url,
+        )
 
     @property
     def dict(self):
