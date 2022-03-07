@@ -41,7 +41,3 @@ class IslandLk(AbstractNewsPaper):
             article_urls.append(article_url)
 
         return article_urls
-
-
-if __name__ == '__main__':
-    IslandLk().scrape()
