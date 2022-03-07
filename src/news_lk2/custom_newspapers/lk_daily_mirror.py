@@ -1,9 +1,9 @@
 
 from bs4 import BeautifulSoup
-from utils import jsonx, timex, www
+from utils import timex, www
 
 from news_lk2._utils import log
-from news_lk2.core.article import get_article_file
+from news_lk2.core import Article
 
 URL_NEWS = 'https://www.dailymirror.lk/latest-news/342'
 TIME_RAW_FORMAT = '%d %B %Y %I:%M %p'
@@ -24,20 +24,20 @@ def scrape_and_save_article(url):
     header_inner = soup.find('header', {'class': 'inner-content'})
 
     time_ut = parse_time(span_time.text.strip())
-    time_str = timex.format_time(time_ut, TIME_FORMAT)
-    article = {
-        'url': url,
-        'title': h1_title.text.strip(),
-        'time_ut': time_ut,
-        'time_str': time_str,
-        'body_lines': list(map(
-            lambda line: line.strip(),
-            header_inner.text.strip().split('\n'),
-        )),
-    }
-    article_file = get_article_file(NEWSPAPER_NAME, article['time_ut'], url)
-    jsonx.write(article_file, article)
-    log.info(f'Wrote {article_file}')
+    title = h1_title.text.strip()
+    body_lines = list(map(
+        lambda line: line.strip(),
+        header_inner.text.strip().split('\n'),
+    )),
+
+    article = Article(
+        newspaper_name=NEWSPAPER_NAME,
+        url=url,
+        time_ut=time_ut,
+        title=title,
+        body_lines=body_lines,
+    )
+    article.store()
 
 
 def scrape():
