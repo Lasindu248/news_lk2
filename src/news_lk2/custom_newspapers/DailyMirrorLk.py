@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 from utils import timex, www
 
-from news_lk2._utils import log
 from news_lk2.core import AbstractNewsPaper
 
 URL_NEWS = 'https://www.dailymirror.lk/latest-news/342'
@@ -35,12 +34,9 @@ class DailyMirrorLk(AbstractNewsPaper):
         html = www.read(URL_NEWS)
         soup = BeautifulSoup(html, 'html.parser')
 
-        n_articles = 0
         article_urls = []
         for div in soup.find_all('div', {'class': 'col-md-8'}):
             article_url = div.find('a').get('href')
             article_urls.append(article_url)
 
-        n_articles = len(article_url)
-        log.info(f'Got {n_articles} off {URL_NEWS}')
         return article_urls

@@ -1,6 +1,9 @@
 from bs4 import BeautifulSoup
 from utils import dt, www
+
+from news_lk2._utils import log
 from news_lk2.core.Article import Article
+
 
 class AbstractNewsPaper:
     def get_article_d(self):
@@ -15,6 +18,8 @@ class AbstractNewsPaper:
 
     def scrape(self):
         article_urls = self.get_article_urls()
+        log.info(f'Found {len(article_urls)} articles for {self.newspaper_id}')
+
         for article_url in article_urls:
             html = www.read(article_url)
             soup = BeautifulSoup(html, 'html.parser')
