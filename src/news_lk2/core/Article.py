@@ -6,8 +6,8 @@ from news_lk2.core.filesys import get_article_file
 
 
 class Article:
-    def __init__(self, newspaper_name, url, time_ut, title, body_lines):
-        self.newspaper_name = newspaper_name
+    def __init__(self, newspaper_id, url, time_ut, title, body_lines):
+        self.newspaper_id = newspaper_id
         self.url = url
         self.time_ut = time_ut
         self.title = title
@@ -17,7 +17,7 @@ class Article:
     def file_name(self):
         return get_article_file(
             self.time_ut,
-            self.newspaper_name,
+            self.newspaper_id,
             self.url,
         )
 
@@ -28,7 +28,7 @@ class Article:
     @property
     def dict(self):
         return dict(
-            newspaper_name=self.newspaper_name,
+            newspaper_id=self.newspaper_id,
             url=self.url,
             time_ut=self.time_ut,
             title=self.title,
@@ -46,7 +46,7 @@ class Article:
     def load(article_file):
         d = jsonx.read(article_file)
         return Article(
-            newspaper_name=d['newspaper_name'],
+            newspaper_id=d['newspaper_id'],
             url=d['url'],
             time_ut=d['time_ut'],
             title=d['title'],
