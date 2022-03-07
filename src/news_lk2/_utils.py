@@ -1,6 +1,5 @@
 """Utils."""
 
-import logging
+from utils import logx
 
-logging.basicConfig(level=logging.INFO)
-log = logging.getLogger('news_lk2')
+log = logx.get_logger('news_lk2')
