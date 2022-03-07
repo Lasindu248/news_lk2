@@ -1,3 +1,5 @@
+from abc import ABC, abstractmethod
+
 from bs4 import BeautifulSoup
 from utils import dt, www
 
@@ -5,18 +7,22 @@ from news_lk2._utils import log
 from news_lk2.core.Article import Article
 
 
-class AbstractNewsPaper:
+class AbstractNewsPaper(ABC):
+    @abstractmethod
     def parse_time_ut(self, soup):
-        raise NotImplementedError
+        pass
 
+    @abstractmethod
     def parse_title(self, soup):
-        raise NotImplementedError
+        pass
 
+    @abstractmethod
     def parse_body_lines(self, soup):
-        raise NotImplementedError
+        pass
 
+    @abstractmethod
     def get_article_urls(self):
-        raise NotImplementedError
+        pass
 
     @property
     def newspaper_id(self):
