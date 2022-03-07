@@ -4,7 +4,6 @@ from utils import jsonx, timex, www
 
 from news_lk2._utils import log
 from news_lk2.core.article import get_article_file
-from news_lk2.core.common import init
 
 URL_NEWS = 'https://www.dailymirror.lk/latest-news/342'
 TIME_RAW_FORMAT = '%d %B %Y %I:%M %p'
@@ -41,16 +40,14 @@ def scrape_and_save_article(url):
     log.info(f'Wrote {article_file}')
 
 
-def scrape_index(index_url):
-    log.info(f'Scraping index {index_url}')
-    html = www.read(index_url)
+def scrape():
+    log.debug(f'Scraping {URL_NEWS}')
+    html = www.read(URL_NEWS)
     soup = BeautifulSoup(html, 'html.parser')
 
+    n_articles = 0
     for div in soup.find_all('div', {'class': 'col-md-8'}):
         article_url = div.find('a').get('href')
         scrape_and_save_article(article_url)
-
-
-if __name__ == '__main__':
-    init()
-    scrape_index(URL_NEWS)
+        n_articles += 1
+    log.info(f'Scraped {n_articles} off {URL_NEWS}')
