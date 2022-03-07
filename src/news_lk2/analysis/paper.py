@@ -35,6 +35,7 @@ def get_articles_for_days_ago(days_ago=0):
         ))
 
     article_list.sort()
+    article_list.reverse()
     return article_list
 
 
