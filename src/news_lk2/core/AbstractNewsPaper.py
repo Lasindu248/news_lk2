@@ -6,7 +6,13 @@ from news_lk2.core.Article import Article
 
 
 class AbstractNewsPaper:
-    def get_article_d(self):
+    def parse_time_ut(self, soup):
+        raise NotImplementedError
+
+    def parse_title(self, soup):
+        raise NotImplementedError
+
+    def parse_body_lines(self, soup):
         raise NotImplementedError
 
     def get_article_urls(self):
@@ -23,13 +29,12 @@ class AbstractNewsPaper:
         for article_url in article_urls:
             html = www.read(article_url)
             soup = BeautifulSoup(html, 'html.parser')
-            d = self.get_article_d(soup)
 
             article = Article(
                 newspaper_id=self.newspaper_id,
                 url=article_url,
-                time_ut=d['time_ut'],
-                title=d['title'],
-                body_lines=d['body_lines'],
+                time_ut=self.parse_time_ut(soup),
+                title=self.parse_title(soup),
+                body_lines=self.parse_body_lines(soup),
             )
             article.store()
