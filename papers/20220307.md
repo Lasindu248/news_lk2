@@ -1,6 +1,6 @@
 # 2022-03-07
 
-*28 news articles*
+*38 news articles*
 
 ## [17:31] Power-cut hours to be trimmed: PUCSL Chairman
 
@@ -549,3 +549,269 @@ The facility features a fully automated stacker reclaimer yard and 2 bridge type
 The investors are hopeful that this endeavour would be a boost for the economy as well as the construction sector which is currently suffering due to raw material shortages due to the ban placed on imports to remedy the forex crisis.  Lanwa Sanstha Cement (Pvt) Ltd.’s facility will produce the full range of cement products including Ordinary Portland Cement (OPC), Portland Composite Cement (PPC) and Blended Hydraulic Cement (BHC) catering to the rising local demand from landmark projects including the Port City and the network of expressways.
 
 Lanwa Sanstha Cement Corporation (Pvt) Limited is a sister company of Ceylon Steel Corporation Limited.
+
+## [03:10] 1,147 COVID-19 cases detected over the weekend
+
+[https://www.ft.lk/news/1-147-COVID-19-cases-detected-over-the-weekend/56-731591]
+
+Daily detections drop to 508 on Sunday
+
+Total COVID-19 case count rises to 650,140
+
+8,319 COVID-19 recoveries added to total
+
+Active cases drop to 15,668
+
+
+
+
+
+By Shailendree Wickrama Adittiya
+
+
+
+Sri Lanka’s COVID-19 case count exceeded 650,000 following the detection of 1,147 COVID-19 patients over the weekend.
+
+The Department of Government Information states that 508 persons from the New Year cluster tested positive for COVID-19 yesterday.
+
+The previous day, 639 patients linked to the New Year cluster were detected. According to the Health Promotion Bureau, 4,215 PCR tests and 2,456 rapid antigen tests were conducted on Saturday.
+
+Since 27 February, daily PCR testing has remained below 5,500 and daily rapid antigen testing has remained below 3,000.
+
+Sri Lanka’s COVID-19 case count currently stands at 650,140.
+
+According to the Epidemiology Unit, 544,447 patients from the New Year cluster, 82,785 patients from the Peliyagoda cluster, 9,154 patients from the Prisons cluster, and 3,059 patients from the Divulapitiya cluster have been detected.
+
+In terms of imported cases, 7,235 Sri Lankan returnees from overseas and 328 foreigners have tested positive for COVID-19.
+
+Sri Lanka’s total COVID-19 case count includes 135,579 persons from Colombo, 112,777 persons from Gampaha, 57,519 persons from Kalutara, 43,391 persons from Galle, and 30,874 persons from Kurunegala.
+
+During the third wave of the pandemic, 103,282 patients from Colombo, 94,243 patients from Gampaha, and 50,461 patients from Kalutara were detected.
+
+According to the Epidemiology Unit, 8,319 COVID-19 patients who completed 10 days of home-based care without requiring hospitalisation between 20 February and 4 March were added to the total yesterday. This includes 167 persons discharged from treatment centres yesterday.
+
+The country’s total COVID-19 recoveries have risen to 618,141
+
+At present, 15,668 persons are receiving medical or home-based care and 834 persons suspected of having COVID-19 are under observation.
+
+## [03:09] 10 COVID-19 fatalities confirmed on Saturday
+
+[https://www.ft.lk/news/10-COVID-19-fatalities-confirmed-on-Saturday/56-731590]
+
+Health officials confirmed ten COVID-19 fatalities on Saturday and the country’s COVID-19 death toll has risen to 16,331.
+
+Seven COVID-19 fatalities confirmed on Saturday were from the over-60 age group and three were from the 30 to 59 age group. Zero COVID-19 deaths were confirmed from the under-30 age group on Saturday.
+
+The Epidemiology Unit states that 76.27% of the total COVID-19 deaths in the country are over 60 years, 22.42% are between 30 and 59 years, and 1.31% are below 30 years.
+
+Seven COVID-19 fatalities confirmed on Saturday were male and three were female. Of the total COVID-19 deaths, 9,205 are male and 7,126 are female.
+
+## [03:08] 42,112 persons vaccinated against COVID-19
+
+[https://www.ft.lk/news/42-112-persons-vaccinated-against-COVID-19/56-731589]
+
+First dose vaccination coverage in the country has risen to 78.7% with 42,112 persons vaccinated against COVID-19 on Saturday.
+
+As of 4 March, second dose coverage was 66.04% of the total population, Our World in Data States.
+
+According to the Epidemiology Unit, 16,921,171 persons have received the first dose of a COVID-19 vaccine and 14,205,539 persons have received the second dose as well.
+
+The third dose has been administered to 7,306,152 persons. This includes 30,381 persons vaccinated on Saturday.
+
+The Epidemiology Unit states that 2,593 persons received the first dose of Pfizer on Saturday and 6,281 persons received the second dose of the vaccine. In total, 2,452,888 persons have received the first dose of Pfizer and 741,778 persons have received the second dose as well. On Saturday, 786 persons received the first dose of Sinopharm, raising the number of persons to have received the first dose of the vaccine in total to 12,024,741. The second dose of Sinopahrm has been administered to 11,101,995 persons. This includes 2,071 persons vaccinated on Saturday.
+
+The first dose of AstraZeneca has been administered to 1,479,631 persons and the second dose has been administered to 1,418,593 persons.
+
+A total of 804,801 persons have received the first dose of Moderna and 787,361 persons have received the second dose as well.
+
+The Epidemiology Unit states that 159,110 persons have received the first dose of Sputnik V and 155,812 persons have received the second dose of the vaccine.
+
+## [02:59] Two Ministers and two State Ministers sworn in
+
+[https://www.ft.lk/news/Two-Ministers-and-two-State-Ministers-sworn-in/56-731588]
+
+Two Cabinet Ministers and a State Minister have been appointed by President Gotabaya Rajapaksa.
+
+State Minister Dilum Amunugama was sworn in as the new Cabinet Minister of Transport.
+
+Amunugama was appointed for the portfolio which became vacant after Pavithra Wanniarachchi, who was serving as the Transport Minister, was sworn in as the new Minister of Power on Thursday following the sacking of Udaya Gammanpila.
+
+C.B. Ratnayake was sworn in as the Minister of Wildlife and Wildlife Conservation, and Wimalaweera Dissanayake as the State Minister of Disaster Management.
+
+Arundika Fernando, who resigned from his post over the assault on Kelaniya University medical students, was also sworn in as the State Minister for Coconut, Kitul and Palmyrah Cultivation Promotion and Allied Industrial Products Production and Export Diversification.
+
+New ministerial portfolios after reshuffle:
+
+Gamini Lokuge - Minister of Energy
+
+Pavithra Wanniarachchi - Minister of Power
+
+S.B. Dissanayake - Minister of Industries
+
+Dilum Amunugama - Minister of Transport
+
+Arundika Fernando - State Minister of Coconut, Kithul and Palmyra Cultivation Promotion, Related Industrial Product Manufacturing and Export Diversification
+
+C.B. Ratnayake - Minister of Wildlife Protection and Forest Resources Development
+
+Wimalaweera Dissanayake - State Minister of Disaster Management
+
+## [02:46] Dayasiri says SLFP will not leave Govt.
+
+[https://www.ft.lk/news/Dayasiri-says-SLFP-will-not-leave-Govt/56-731586]
+
+General Secretary State Minister Dayasiri Jayasekara
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sri Lanka Freedom Party (SLFP) General Secretary State Minister Dayasiri Jayasekara says no decision has been taken to leave the Government and the party will continue to work with the Government.
+
+The State Minister made this statement following a meeting of the SLFP District and Electoral Organizers held in Colombo Saturday.
+
+Dayasiri said that a discussion will be held with the President on Tuesday (8 March) on the current political situation and future course of action. All SLFP district and electorate organizers were summoned to Colombo today for the meeting held at the SLFP headquarters yesterday. The meeting was held under the patronage of the Chairman of the SLFP, former President Maithripala Sirisena.
+
+A special discussion between President Gotabaya Rajapaksa and the 14 members of the Sri Lanka Freedom Party will be held at 4.00 p.m. on Tuesday at the Presidential Secretariat.
+
+Sources say that the proposal submitted by the Sri Lanka Freedom Party regarding the crisis in the country will be discussed at the meeting.
+
+The Sri Lanka Freedom Party recently tabled a 15-point resolution on the economic and political crisis in the country.
+
+Meanwhile, a special discussion between the leaders of the Sri Lanka Freedom Party and the leaders of the Government’s allied parties was held at the office of Parliamentarian Tiran Alles Saturday.
+
+It is reported that the removal of Wimal Weerawansa and Udaya Gammanpila from their ministerial posts as well as the invitation extended by the President to the SLFP to come to a discussion were discussed at length.
+
+Former President Maithripala Sirisena, General Secretary Dayasiri Jayasekara, State Ministers Duminda Dissanayake, Lasantha Alagiyawanna, Minister Vasudeva Nanayakkara, MPs Athuraliye Rathana Thero, Wimal Weerawansa, Udaya Gammanpila, Prof. Tissa Vitharana, Tiran Alles, Gevindu Kumaratunga, Weerasumana Weerasinghe, Dr. G Weerasinghe, DEW Gunasekara and others participated in the discussion.
+
+## [02:38] Sister of the Sri Lankan woman Wishma Sandamali
+
+[https://www.ft.lk/news/Sister-of-the-Sri-Lankan-woman-Wishma-Sandamali/56-731587]
+
+Sister of the Sri Lankan woman Wishma Sandamali, who died a year ago while in a Japanese immigration detention, carries a picture of her late sister as she walks to the Nagoya district court on 4 March, to file a lawsuit against the Government of Japan
+
+## [02:18] Chorus growing at UNHRC for greater democracy and justice in Sri Lanka
+
+[https://www.ft.lk/news/Chorus-growing-at-UNHRC-for-greater-democracy-and-justice-in-Sri-Lanka/56-731596]
+
+United Nations High Commissioner for Human Rights Michelle Bachelet
+
+
+
+
+
+United Nations High Commissioner for Human Rights Michelle Bachelet on Friday, introducing the report on Sri Lanka, said the Government should take further steps to address the fundamental problems with the Prevention of Terrorism Act and undertake deeper legal, institutional and security sector reforms that were critically needed to put an end to impunity and prevent any reoccurrence of past violations. Victims and their families continued to be denied truth and justice.
+
+“There was deep concern about the concentration of civilian positions in the hands of military officials, some of them implicated in serious allegations of human rights violations.  The Council should pursue alternative strategies to advance accountability at the international level,” she said.
+
+Sri Lanka, speaking as the country concerned, said the resolution was directly contrary to the Council’s founding principles of impartiality, objectivity and non-selectivity.  There were serious anomalies and problems with the report.  It had an intolerably intrusive character and there was a clear element of discrimination within it. This in itself struck at the root of the foundations of the United Nations system.
+
+It was deeply regretted that numerous unsubstantiated allegations had found their way into the report.  The international community should join Sri Lanka on a footing of mutual respect to face the challenges ahead.
+
+In the ensuing debate, speakers said Sri Lanka should ensure a safe democratic space, and strong independent judicial institutions.  The erosion of democratic institutions and the lack of accountability for past human rights violations undermined progress.  The Government had taken the first steps to undertake reforms but there was a long road ahead.
+
+More comprehensive reforms were needed to allow civil society to operate freely and safely and to bring terrorism legislation in line with international norms and standards.  Ensuring accountability and justice for survivors was essential for maintaining peace and ensuring reconciliation.
+
+Some speakers said that reports should be based on reliable, objective and neutral observation.  The development of reports should be done with constructive cooperation with the concerned country.  When dealing with human rights situations, the Council should retain a non-biased, non-selective and non-hypocritical point of view.
+
+Speaking this afternoon on the situation in Eritrea were the European Union, Iceland on behalf of the Nordic-Baltic countries, Democratic People’s Republic of Korea, Philippines, France, Djibouti, Luxembourg, Venezuela, China, Cuba, Ethiopia, Saudi Arabia, Sri Lanka, Russian Federation, Benin, Australia, Sudan, Ireland, Belarus, United States, Belgium, United Kingdom, Canada, Somalia, Syria, Iran and South Sudan.
+
+Also speaking were the following non-governmental organisations: Christian Solidarity Worldwide, Eastern Horn of Africa: Human Rights Defenders Project, Civicus World Alliance for Citizen Participation, Amnesty International, Advocates for Human Rights, and UN Watch.
+
+Speaking on Sri Lanka were the European Union, Netherlands on behalf of the Benelux countries, Norway on behalf of the Nordic-Baltic countries, United Kingdom on behalf of the Sri Lanka Core Group, Saudi Arabia on behalf of the Gulf Cooperation Council, Germany, Egypt, Montenegro, Democratic People’s Republic of Korea, Canada, Philippines, Nepal, Kenya, India and France.
+
+Speakers said Sri Lanka should ensure a safe democratic space and strong independent judicial institutions.  The erosion of democratic institutions and the lack of accountability for past human rights violations was undermining progress. The building of a prosperous State for all Sri Lankans was required, including all minorities.
+
+The Government had taken the first steps to undertake reforms, but there was a long road ahead.  There was also concern for political prisoners still in custody, and concern that the proposed changes were not sufficient to address human rights concerns.  There should be freedom of speech for journalists and those in minority communities, as well as non-governmental organisations.
+
+The Government should ensure the independence and effectiveness of human rights institutions, and encourage proper investigation of reports of deaths in police custody.  There should be full implementation of Council resolution 46/1.
+
+More comprehensive reforms were needed to allow civil society to operate freely and safely, and to bring terrorism legislation in line with international norms and standards.  The rights of religious minorities should be protected.  More inclusive governance was needed in Sri Lanka: a safe and open space should be maintained, even for dissent.  Ensuring accountability and justice for survivors was essential for maintaining peace and ensuring reconciliation.
+
+A more comprehensive and deeper reform agenda was required to ensure that future violations could not occur.  The Government should fully consider the numerous and consecutive recommendations made by various United Nations mechanisms and organisations.  The lack of domestic progress in accountability and the reconciliation process required further commitment by the Government.  The human rights situation could degrade further if steps were not taken to address the issues of the past.
+
+Some speakers said that reports should be based on reliable, objective and neutral observation.  The development of reports should be done with constructive cooperation with the concerned country.  When dealing with human rights situations, the Council should retain a non-biased, non-selective and non-hypocritical point of view.
+
+The community of nations should support in good faith any steps taken towards reconciliation in the country, and encourage genuine dialogue in an impartial manner, standing against selectivity, politicisation and double standards.  The Human Rights Council should support Sri Lanka in order to achieve its priorities for its domestic development in the context of its own needs.
+
+## [02:17] Core Group notes Sri Lanka’s progress in addressing key reforms limited
+
+[https://www.ft.lk/news/Core-Group-notes-Sri-Lanka-s-progress-in-addressing-key-reforms-limited/56-731595]
+
+The Core Group on Sri Lanka while acknowledging first steps by Sri Lanka to address key reforms, noted that progress since Council resolution 46/1 is limited.
+
+Issuing a statement on Friday at the 49th session of the UN Human Rights Council, the Sri Lanka Core Group comprising Canada, Germany, North Macedonia, Malawi, Montenegro, the United Kingdom and the United States said, in particular, slow progress by the Office of Missing Persons in fully investigating cases since the release of the preliminary list of missing persons is troubling.
+
+“Our concerns over surveillance and intimidation of civil society persist and detentions, threats and intimidation of journalists and human rights defenders continue. It is crucial that civic space remains open.”
+
+The Core Group welcomed the releases on bail of Ahnaf Jazeem and Hejaaz Hizbullah, but said the proposed changes to the PTA are very limited and our longstanding concerns remain.
+
+“The Core Group on Sri Lanka today while recognising the challenges the island nation is facing due to the COVID-19 pandemic, continued to express concern about current human rights developments in Sri Lanka and stressed the importance of a comprehensive reconciliation and accountability process.”
+
+The Core Group noted that new ‘One Country One Law’ taskforce risks undermining Sri Lanka’s pluralist society and urged Sri Lanka to ensure that this taskforce’s work is inclusive and non-discriminatory.
+
+“We call for full cooperation with the High Commissioner and remain ready to support the Government on the implementation of resolution 46/1,” the Core Group said.
+
+## [02:14] Sri Lanka exposes UNHRC’s double standards and discrimination
+
+[https://www.ft.lk/news/Sri-Lanka-exposes-UNHRC-s-double-standards-and-discrimination/56-731594]
+
+Foreign Minister Prof. G.L. Peiris delivers Sri Lanka’s statement at interactive dialogue on the OHCHR report on Sri Lanka at the 49th session of the Human Rights Council in Geneva on Friday
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sri Lanka on Friday alleged double standards and discrimination on the part of the UN Human Rights Council (UNHRC) whilst it expressed concerns over numerous instances of unsubstantiated allegations on the part of the latter.
+
+This view was expressed by Foreign Minister Prof. G.L. Peiris in his statement during the interactive dialogue on the OHCHR report on Sri Lanka at the 49th session of the Human Rights Council in Geneva.
+
+Following is the full statement by Sri Lanka.
+
+The Resolution 46/1 on Sri Lanka was adopted by a divided vote in this Council. Sri Lanka and other Member States opposed this resolution in fundamental disagreement with its deeply flawed procedure and unacceptable content, in particular its OP para 6 regarding a so-called evidence-gathering mechanism. The Resolution was directly contrary to the Council’s founding principles of impartiality, objectivity and non-selectivity. It went well beyond the mandate that Member States conferred on it by UNGA Resolution 60/251. I have stated Sri Lanka’s views on this matter to this Council on 1 March. We also submitted in a timely manner our comments on the High Commissioner’s report. We note with regret that the Secretariat failed to publish this simultaneously with the High Commissioner’s written update.
+
+Despite our rejection of the resolution, we will continue our voluntary international undertakings on human rights and engage with the United Nations, including with this Council. As stated by President Gotabaya Rajapaksa of Sri Lanka to our Parliament on 18 January 2022, “We are a nation that respects international laws and conventions”. We have regularly shared our progress and challenges in a candid and open exchange with this Council and other relevant organs of the United Nations system.
+
+We are convinced that there are serious anomalies and weaknesses in the report presented to this Council by the High Commissioner. The fundamental deficiency is its intolerably intrusive character, impinging as it does on core functions and responsibilities of organs of the Sri Lankan State, overwhelmingly mandated by the people of our country at three successive elections.
+
+There is, as well, a clearly discernible element of discrimination, in that the Council would certainly not take it upon itself to embark on a similar inquisitorial procedure in respect of other Member States. This, in itself, strikes at the very root of the foundations of the United Nations system. The issue of uniformity and consistency of standards applied by the High Commissioner to Member States, irrespective of their size and influence, and in steadfast conformity with the essential principle relating to the sovereign equality of all members of the United Nations fraternity, is cynically transgressed in several portions of this report.
+
+To our minds, this is particularly disturbing because the strength and prestige of the United Nations, and especially the Human Rights Council, derive from the widespread regard of the international community, as a whole, for the moral and ethical basis underpinning the attitudes of the Council. We fervently believe that it is vitally important to retain this confidence undiminished, especially having regard to the fate of the Human Rights Commission, the predecessor of this Council. It is a matter for deep regret that numerous instances of unsubstantiated allegations and superficial conclusions insensitive to the complexity of ground situations have found their way into the report. We have commented on these in extensive detail in our written response.
+
+We are dismayed by the High Commissioner’s unwarranted onslaught on seminal institutions of our country which function under the aegis of Sri Lanka’s Constitution and legal system, emanating from a rich and varied cultural heritage, and are subject to stringent review processes which form an integral part of our tried and tested laws.
+
+There is also the question of use of stringently limited resources in such a manner as to achieve optimal benefit for all of humanity at a time of unprecedented crisis. The colossal expenditure of millions of dollars in a partisan and specifically targeted pursuit of Sri Lanka is hardly consonant with this obvious imperative. It seems to us a great pity that the report shows scant regard for these considerations which appear to a wide swath of nations to be crucially important at this time.
+
+The Government of Sri Lanka is firmly resolved to maintain the security and stability that we have restored for our people and ensure sustainable progress in an equitable manner. My country reaches out to the international community with the sincere exhortation to join us as partners on a footing of equality and mutual respect to face the challenges ahead.
+
+## [02:11] New US Ambassador calls on PM; commits to boost ties with SL
+
+[https://www.ft.lk/news/New-US-Ambassador-calls-on-PM-commits-to-boost-ties-with-SL/56-731592]
+
+New United States Ambassador to Sri Lanka Julie J. Chung called on Prime Minister Mahinda Rajapaksa at Temple Trees on Friday for the first time since assuming duties.
+
+The new US Ambassador emphasised that she was seeking to further strengthen the existing political, social and economic ties with Sri Lanka, the Prime Minister’s Office said.
+
+Ambassador Chung said that the United States will help keep the Sri Lankan economy strong in the face of the COVID -19 pandemic and also expressed confidence that the US would assist in the development of Sri Lanka’s energy and tourism sectors.
+
+The Premier assured that the Government of Sri Lanka will work to maintain the existing relations between the United States and Sri Lanka. He offered congratulations and best wishes to Chung for success in her new post.
+
+Central Bank Governor Nivard Cabraal, State Minister Tharaka Balasuriya, and Secretary to the Prime Minister Anura Dissanayake were also present on the occasion.
