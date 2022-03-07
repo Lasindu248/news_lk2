@@ -9,10 +9,7 @@ TIME_RAW_FORMAT = '%d %B %Y %I:%M %p'
 
 
 class DailyMirrorLk(AbstractNewsPaper):
-    def get_article_d(self, url):
-        html = www.read(url)
-        soup = BeautifulSoup(html, 'html.parser')
-
+    def get_article_d(self, soup):
         # time_ut
         span_time = soup.find('span', {'class': 'gtime'})
         time_ut = timex.parse_time(span_time.text.strip(), TIME_RAW_FORMAT)

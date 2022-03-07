@@ -1,4 +1,5 @@
-from utils import dt
+from bs4 import BeautifulSoup
+from utils import dt, www
 from news_lk2.core.Article import Article
 
 class AbstractNewsPaper:
@@ -15,7 +16,10 @@ class AbstractNewsPaper:
     def scrape(self):
         article_urls = self.get_article_urls()
         for article_url in article_urls:
-            d = self.get_article_d(article_url)
+            html = www.read(article_url)
+            soup = BeautifulSoup(html, 'html.parser')
+            d = self.get_article_d(soup)
+
             article = Article(
                 newspaper_id=self.newspaper_id,
                 url=article_url,
