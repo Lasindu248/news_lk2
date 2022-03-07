@@ -10,6 +10,7 @@ DIR_ROOT = '/tmp'
 DIR_REPO = os.path.join(DIR_ROOT, REPO_NAME)
 SALT = '5568445278803347'
 HASH_LENGTH = 8
+IGNORE_LIST = ['.git', '.gitignore', '.DS_Store']
 
 
 def get_dir_article_root():
@@ -81,7 +82,7 @@ def get_date_ids():
 def get_newspapers_for_date(date_id):
     dir_date = get_dir_date(date_id)
     return list(filter(
-        lambda file_name: file_name[:4] != '.git',
+        lambda file_name: file_name not in IGNORE_LIST,
         os.listdir(dir_date),
     ))
 
