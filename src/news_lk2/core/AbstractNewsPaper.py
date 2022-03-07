@@ -6,6 +6,8 @@ from utils import dt, www
 from news_lk2._utils import log
 from news_lk2.core.Article import Article
 
+MIN_ARTICLE_HTML_SIZE = 1_000
+
 
 class AbstractNewsPaper(ABC):
     @classmethod
@@ -34,6 +36,10 @@ class AbstractNewsPaper(ABC):
         article_urls = []
         for index_url in cls.get_index_urls():
             html = www.read(index_url)
+            if len(html) < MIN_ARTICLE_HTML_SIZE:
+                log.warning(f'Insufficient HTML for {index_url}. Not parsing!')
+                continue
+
             soup = BeautifulSoup(html, 'html.parser')
             article_urls += cls.parse_article_urls(soup)
 
@@ -44,8 +50,11 @@ class AbstractNewsPaper(ABC):
     @classmethod
     def parse_and_store_article(cls, article_url):
         html = www.read(article_url)
-        soup = BeautifulSoup(html, 'html.parser')
+        if len(html) < MIN_ARTICLE_HTML_SIZE:
+            log.warning(f'Insufficient HTML for {article_url}. Not parsing!')
+            return None
 
+        soup = BeautifulSoup(html, 'html.parser')
         article = Article(
             newspaper_id=cls.get_newspaper_id(),
             url=article_url,
