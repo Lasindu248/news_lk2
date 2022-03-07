@@ -12,19 +12,15 @@ from news_lk2.core.filesys import (DIR_REPO,
 DELIM_MD = '\n\n'
 
 
-def get_articles_for_days_ago(days_ago=0):
+def get_articles_for_dateid(date_id):
     date_ids = get_date_ids()
-    date_id = timex.get_date_id(
-        timex.get_unixtime() - timex.SECONDS_IN.DAY * days_ago,
-    )
     if date_id not in date_ids:
-        log.warning(f'No articles for ({date_id}) missing from repo. Aborting')
+        log.warning(f'No articles for ({date_id}). Aborting')
         return []
 
     newspaper_names = get_newspapers_for_date(date_id)
     article_list = []
     for newspaper_name in newspaper_names:
-        print(' ' * 2, newspaper_name)
         article_files = get_article_files_for_date_and_newspaper(
             date_id,
             newspaper_name,
@@ -46,10 +42,13 @@ def get_dir_papers():
     return dir_papers
 
 
-def build_todays_paper():
-    date = timex.get_date()
-    date_id = timex.get_date_id()
-    todays_articles = get_articles_for_days_ago(0)
+def build_paper(days_ago):
+    ut = timex.get_unixtime() - timex.SECONDS_IN.DAY * days_ago
+    date_id = timex.get_date_id(ut)
+    date = timex.get_date(ut)
+
+    todays_articles = get_articles_for_dateid(date_id)
+
     n_todays_articles = len(todays_articles)
     md_lines = [
         f'# {date}',
@@ -68,10 +67,17 @@ def build_todays_paper():
     )
     filex.write(md_file, DELIM_MD.join(md_lines))
     log.info(f'Wrote {md_file}')
+    return md_file
+
+
+def copy_to_readme(md_file):
     readme_file = os.path.join(DIR_REPO, 'README.md')
     shutil.copy(md_file, readme_file)
     log.info(f'Wrote {readme_file}')
 
 
-if __name__ == '__main__':
-    build_todays_paper()
+def run_daily_job():
+    build_paper(2)
+    build_paper(1)
+    md_file = build_paper(0)
+    copy_to_readme(md_file)
