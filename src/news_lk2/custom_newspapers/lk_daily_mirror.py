@@ -28,8 +28,7 @@ def scrape_and_save_article(url):
     body_lines = list(map(
         lambda line: line.strip(),
         header_inner.text.strip().split('\n'),
-    )),
-
+    ))
     article = Article(
         newspaper_name=NEWSPAPER_NAME,
         url=url,
