@@ -57,7 +57,7 @@ def build_paper(days_ago):
     for article in todays_articles:
         md_lines += [
             f'## [{article.time_only_str}] {article.title}',
-            f'[{article.url}]',
+            f'[{article.url}]({article.url})',
         ]
         md_lines += article.body_lines
 
