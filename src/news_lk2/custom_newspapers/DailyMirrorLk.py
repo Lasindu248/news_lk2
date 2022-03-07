@@ -44,7 +44,3 @@ class DailyMirrorLk(AbstractNewsPaper):
         n_articles = len(article_url)
         log.info(f'Got {n_articles} off {URL_NEWS}')
         return article_urls
-
-if __name__ == '__main__':
-    np = DailyMirrorLk()
-    print(np.newspaper_id)
