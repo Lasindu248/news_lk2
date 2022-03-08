@@ -1,3 +1,4 @@
+import math
 
 from utils import jsonx, timex
 
@@ -40,7 +41,7 @@ class Article:
 
     @property
     def reading_time_min(self):
-        return self.word_count / WORDS_PER_MINUTE
+        return math.ceil(self.word_count / WORDS_PER_MINUTE)
 
     @property
     def dict(self):
