@@ -13,7 +13,7 @@ def get_articles():
     ))))
 
 
-def get_articles_for_dateid(date_id):
+def get_articles_for_date_id(date_id):
     return list(filter(
         lambda article: article.date_id == date_id,
         get_articles(),

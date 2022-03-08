@@ -5,7 +5,7 @@ from utils import timex
 from utils.xmlx import _
 
 from news_lk2._utils import log
-from news_lk2.analysis.paper import get_articles_for_dateid, get_date_ids
+from news_lk2.analysis.paper import get_articles_for_date_id, get_date_ids
 from news_lk2.core.filesys import DIR_REPO, DIR_ROOT, git_checkout
 
 DIR_GH_PAGES = os.path.join(DIR_ROOT, f'{DIR_REPO}-gh-pages')
@@ -92,7 +92,7 @@ def build_paper_for_date(days_ago):
     ut_days_ago = ut - timex.SECONDS_IN.DAY * days_ago
     date_id = timex.get_date_id(ut_days_ago, timex.TIMEZONE_OFFSET_LK)
 
-    days_articles = get_articles_for_dateid(date_id)
+    days_articles = get_articles_for_date_id(date_id)
     n_days_articles = len(days_articles)
 
     rendered_articles = list(map(
