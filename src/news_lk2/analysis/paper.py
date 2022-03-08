@@ -25,3 +25,14 @@ def get_date_ids():
         lambda article: article.date_id,
         get_articles(),
     ))))
+
+
+def get_date_id_to_articles():
+    articles = get_articles()
+    date_id_to_articles = {}
+    for article in articles:
+        date_id = article.date_id
+        if date_id not in date_id_to_articles:
+            date_id_to_articles[date_id] = []
+        date_id_to_articles[date_id].append(article)
+    return date_id_to_articles
