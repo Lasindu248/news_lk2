@@ -6,7 +6,6 @@ from news_lk2.core import AbstractNewsPaper
 
 URL_BASE = 'http://dailynews.lk'
 TIME_RAW_FORMAT = '%A, %B %d, %Y - %H:%M'
-MIN_WORDS_IN_BODY_LINE = 10
 
 
 class DailyNewsLk(AbstractNewsPaper):
@@ -41,9 +40,6 @@ class DailyNewsLk(AbstractNewsPaper):
         for div in divs:
             body_lines += list(map(
                 lambda line: line.strip(),
-                list(filter(
-                    lambda line: len(line.split(' ')) > MIN_WORDS_IN_BODY_LINE,
-                    div.text.strip().split('\n'),
-                ))
+                div.text.strip().split('\n'),
             ))
         return body_lines

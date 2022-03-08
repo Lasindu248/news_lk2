@@ -3,7 +3,6 @@ from utils import timex
 from news_lk2.core import AbstractNewsPaper
 
 TIME_RAW_FORMAT = '%Y-%m-%d %I:%M %p'
-MIN_WORDS_IN_BODY_LINE = 10
 
 
 class IslandLk(AbstractNewsPaper):
@@ -40,8 +39,5 @@ class IslandLk(AbstractNewsPaper):
         header_inner = soup.find('div', {'id': 'mvp-content-wrap'})
         return list(map(
             lambda line: line.strip(),
-            list(filter(
-                lambda line: len(line.split(' ')) > MIN_WORDS_IN_BODY_LINE,
-                header_inner.text.strip().split('\n'),
-            ))
+            header_inner.text.strip().split('\n'),
         ))
