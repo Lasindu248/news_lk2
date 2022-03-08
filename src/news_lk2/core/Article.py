@@ -31,6 +31,12 @@ class Article:
         return tokens[2].replace('www.', '')
 
     @property
+    def word_count(self):
+        text = self.title + ' ' + ' '.join(self.body_lines)
+        words = text.split(' ')
+        return len(words)
+
+    @property
     def dict(self):
         return dict(
             newspaper_id=self.newspaper_id,
