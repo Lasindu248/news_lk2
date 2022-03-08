@@ -92,7 +92,7 @@ def build_paper_for_date(days_ago):
 
     days_articles = get_articles_for_dateid(date_id)
     n_days_articles = len(days_articles)
-    
+
     rendered_articles = list(map(
         render_article,
         days_articles,
