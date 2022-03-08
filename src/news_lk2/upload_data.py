@@ -17,7 +17,7 @@ def build_readme_summary():
     time_last_run = timex.format_current_date_with_timezone()
     md_lines.append(f'*Last run {time_last_run}*')
 
-    for date_id, articles in reversed(date_id_to_articles.items()):
+    for date_id, articles in reversed(list(date_id_to_articles.items())):
         n_articles = len(articles)
         md_lines.append(f'* {date_id} - {n_articles} articles')
 
