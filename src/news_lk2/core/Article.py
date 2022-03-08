@@ -23,7 +23,7 @@ class Article:
 
     @property
     def time_only_str(self):
-        return timex.format_time(self.time_ut, '%H:%M')
+        return timex.format_time(self.time_ut, '%I:%M%p').lower()
 
     @property
     def dict(self):
