@@ -1,11 +1,12 @@
-from abc import ABC
 import os
+from abc import ABC
+
 from bs4 import BeautifulSoup
 from utils import dt, www
 
 from news_lk2._utils import log
-from news_lk2.core.filesys import get_article_file
 from news_lk2.core.Article import Article
+from news_lk2.core.filesys import get_article_file
 
 MIN_ARTICLE_HTML_SIZE = 1_000
 
