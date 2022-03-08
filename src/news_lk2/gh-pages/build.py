@@ -5,9 +5,8 @@ from utils import timex
 from utils.xmlx import _
 
 from news_lk2._utils import log
-from news_lk2.analysis.paper import get_articles_for_dateid
-from news_lk2.core.filesys import (DIR_REPO, DIR_ROOT, get_date_ids,
-                                   git_checkout)
+from news_lk2.analysis.paper import get_articles_for_dateid, get_date_ids
+from news_lk2.core.filesys import (DIR_REPO, DIR_ROOT, git_checkout)
 
 DIR_GH_PAGES = os.path.join(DIR_ROOT, f'{DIR_REPO}-gh-pages')
 FORMAT_DATE_TITLE = '%A, %B %d, %Y'
@@ -93,8 +92,7 @@ def build_paper_for_date(days_ago):
 
     days_articles = get_articles_for_dateid(date_id)
     n_days_articles = len(days_articles)
-    log.info(f'Found {n_days_articles} articles for {date_id}')
-
+    
     rendered_articles = list(map(
         render_article,
         days_articles,
@@ -119,7 +117,7 @@ def build_paper_for_date(days_ago):
     html = _('html', [head, body])
     html_file = os.path.join(DIR_GH_PAGES, get_date_file_only(date_id))
     html.store(html_file)
-    log.info(f'Stored {html_file}')
+    log.info(f'Stored {html_file} ({n_days_articles}  articles)')
 
     return html_file
 
