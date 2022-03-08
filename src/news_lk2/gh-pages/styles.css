@@ -8,11 +8,12 @@ body {
 a {
   text-decoration: none;
   font-size: small;
-  color: lightgray;
+  color: maroon;
+  opacity: 0.3;
 }
 
 a:hover {
-  color: maroon;
+  opacity: 1.0;
 }
 
 h3 {
@@ -23,7 +24,7 @@ h3 {
 }
 
 .a-date-link-current {
-  color: black;
+  opacity: 1.0;
 }
 
 .column-left {
@@ -55,4 +56,10 @@ h3 {
 .div-article {
   margin-bottom: 36px;
   margin-right: 12px;
+}
+
+
+.div-last-updated {
+  color: lightgray;
+  font-size: x-small;
 }
