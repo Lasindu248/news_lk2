@@ -7,7 +7,7 @@ DELIM_MD = '\n\n'
 
 
 def get_articles():
-    return list(revered(sorted(map(
+    return list(reversed(sorted(map(
         Article.load,
         get_article_files(),
     ))))
