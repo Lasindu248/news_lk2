@@ -9,6 +9,16 @@ from news_lk2.core.Article import Article
 from news_lk2.core.filesys import get_article_file
 
 MIN_ARTICLE_HTML_SIZE = 1_000
+MIN_CHARS_IN_BODY_LINE = 60
+MIN_WORDS_IN_BODY_LINE = 10
+
+
+def is_valid_line(line):
+    if len(line) < MIN_CHARS_IN_BODY_LINE:
+        return False
+    if len(line.split(' ')) < MIN_WORDS_IN_BODY_LINE:
+        return False
+    return True
 
 
 def is_html_valid(html):
@@ -76,7 +86,10 @@ class AbstractNewsPaper(ABC):
             url=article_url,
             time_ut=cls.parse_time_ut(soup) - get_seconds_behind_sl(),
             title=cls.parse_title(soup),
-            body_lines=cls.parse_body_lines(soup),
+            body_lines=list(filter(
+                lambda line: is_valid_line(line),
+                cls.parse_body_lines(soup),
+            )),
         )
         article.store()
 
