@@ -4,7 +4,7 @@ import shutil
 from utils import timex
 from utils.xmlx import _
 
-from news_lk2._utils import get_seconds_behind_sl, log
+from news_lk2._utils import log
 from news_lk2.analysis.paper import get_articles_for_dateid, get_date_ids
 from news_lk2.core.filesys import DIR_REPO, DIR_ROOT, git_checkout
 
@@ -89,9 +89,8 @@ def render_article(article):
 
 def build_paper_for_date(days_ago):
     ut = timex.get_unixtime()
-    ut_corrected = ut + get_seconds_behind_sl()
-    ut_days_ago = ut_corrected - timex.SECONDS_IN.DAY * days_ago
-    date_id = timex.get_date_id(ut_days_ago)
+    ut_days_ago = ut - timex.SECONDS_IN.DAY * days_ago
+    date_id = timex.get_date_id(ut_days_ago, timex.TIMEZONE_OFFSET_LK)
 
     days_articles = get_articles_for_dateid(date_id)
     n_days_articles = len(days_articles)
