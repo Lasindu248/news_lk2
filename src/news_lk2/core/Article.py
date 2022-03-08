@@ -18,11 +18,7 @@ class Article:
 
     @property
     def file_name(self):
-        return get_article_file(
-            self.time_ut,
-            self.newspaper_id,
-            self.url,
-        )
+        return get_article_file(self.url)
 
     @property
     def time_short_str(self):
