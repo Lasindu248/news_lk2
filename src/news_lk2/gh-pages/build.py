@@ -86,7 +86,6 @@ def render_article(article):
 def build_paper_for_date(days_ago):
     ut = timex.get_unixtime() - timex.SECONDS_IN.DAY * days_ago
     date_id = timex.get_date_id(ut)
-    timex.format_time(ut, FORMAT_DATE_TITLE)
 
     days_articles = get_articles_for_dateid(date_id)
     n_days_articles = len(days_articles)
