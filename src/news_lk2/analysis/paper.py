@@ -41,6 +41,6 @@ def get_date_id_to_articles():
             lambda item: [item[0], sorted(item[1])],
             date_id_to_articles.items(),
         )),
-        lambda item: item[0],
+        key=lambda item: item[0],
     ))
     return date_id_to_articles
