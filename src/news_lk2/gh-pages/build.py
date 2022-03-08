@@ -10,7 +10,7 @@ from news_lk2.core.filesys import (DIR_REPO, DIR_ROOT, git_checkout)
 
 DIR_GH_PAGES = os.path.join(DIR_ROOT, f'{DIR_REPO}-gh-pages')
 FORMAT_DATE_TITLE = '%A, %B %d, %Y'
-N_BACKPOPULATE = 366
+N_BACKPOPULATE = 28
 
 
 def clean():
