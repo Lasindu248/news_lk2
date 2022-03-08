@@ -100,10 +100,7 @@ def build_paper_for_date(days_ago):
         days_articles,
     ))
 
-    time_last_updated = timex.format_time(
-        timex.get_unixtime(),
-        FORMAT_LAST_UPDATED,
-    )
+    time_last_updated = timex.format_current_date_with_timezone()
     last_updated_text = f'Last updated {time_last_updated}'
 
     head = _('head', [render_link_styles()])
