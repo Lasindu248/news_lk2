@@ -18,3 +18,10 @@ def get_articles_for_dateid(date_id):
         lambda article: article.date_id == date_id,
         get_articles(),
     ))
+
+
+def get_date_ids():
+    return sorted(list(set(map(
+        lambda article: article.date_id,
+        get_articles(),
+    ))))
