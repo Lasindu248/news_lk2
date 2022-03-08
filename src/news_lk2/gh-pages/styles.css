@@ -6,4 +6,37 @@ body {
 
 a {
   text-decoration: none;
+
+}
+
+.a-date-link {
+  font-weight: normal;
+  color: gray;
+}
+
+.a-date-link-current {
+  font-weight: bold;
+  color: black;
+}
+
+.column-left {
+  float: left;
+  width: 20%;
+}
+
+.column-right {
+  float: left;
+  width: 80%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+.div-link-box {
+  margin-top: 32px;
+  text-align: center;
 }
