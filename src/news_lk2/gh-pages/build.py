@@ -76,6 +76,10 @@ def render_article(article):
         _('h3', [
             _('span', article.title),
             _('span', article.time_short_str, {'class': 'span-time-str-only'}),
+            _('span',
+                f'{article.reading_time_min:.0f} min read',
+                {'class': 'span-reading-time'},
+              ),
         ]),
     ] + list(map(
         lambda line: _('p', line),
