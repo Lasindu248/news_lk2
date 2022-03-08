@@ -35,6 +35,17 @@ def is_html_valid(html):
 
 class AbstractNewsPaper(ABC):
     @classmethod
+    def use_selenium(cls):
+        return False
+
+    @classmethod
+    def get_soup(cls, url):
+        html = www.read(url, cached=True, use_selenium=cls.use_selenium())
+        if is_html_valid(html):
+            return BeautifulSoup(html, 'html.parser')
+        return None
+
+    @classmethod
     def get_newspaper_id(cls):
         return dt.to_kebab(dt.camel_to_snake(cls.__name__))
 
@@ -59,9 +70,8 @@ class AbstractNewsPaper(ABC):
     def get_article_urls(cls):
         article_urls = []
         for index_url in cls.get_index_urls():
-            html = www.read(index_url)
-            if is_html_valid(html):
-                soup = BeautifulSoup(html, 'html.parser')
+            soup = cls.get_soup(index_url)
+            if soup:
                 article_urls += cls.parse_article_urls(soup)
 
         newspaper_id = cls.get_newspaper_id()
@@ -75,12 +85,10 @@ class AbstractNewsPaper(ABC):
             log.info(f'{article_file} already exists. Not parsing.')
             return
 
-        html = www.read(article_url)
-        if not is_html_valid(html):
+        soup = cls.get_soup(article_url)
+        if not soup:
             log.warn(f'{article_file} has invalid HTML. Not parsing.')
             return
-
-        soup = BeautifulSoup(html, 'html.parser')
         article = Article(
             newspaper_id=cls.get_newspaper_id(),
             url=article_url,
