@@ -2,7 +2,7 @@ import math
 
 from utils import jsonx, timex
 
-from news_lk2._utils import get_timezone_correction, log
+from news_lk2._utils import get_seconds_behind_sl, log
 from news_lk2.core.filesys import get_article_file
 
 WORDS_PER_MINUTE = 250
@@ -22,7 +22,7 @@ class Article:
 
     @property
     def time_ut_corrected(self):
-        return self.time_ut + get_timezone_correction()
+        return self.time_ut + get_seconds_behind_sl()
 
     @property
     def date_id(self):
