@@ -96,9 +96,13 @@ def build_paper_for_date(days_ago):
         days_articles,
     ))
 
+    time_last_updated = timex.format_time(timex.get_unixtime())
+    last_updated_text = f'Last updated {time_last_updated}'
+
     head = _('head', [render_link_styles()])
     body = _('body', [
         _('div', [
+            _('div', last_updated_text, {'class': 'div-last-updated'}),
             _('div', rendered_articles,
                 {'class': 'column-left'},
               ),
