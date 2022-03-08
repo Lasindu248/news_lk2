@@ -1,31 +1,20 @@
 
 
-from news_lk2._utils import log
 from news_lk2.core import Article
-from news_lk2.core.filesys import (get_article_files_for_date_and_newspaper,
-                                   get_date_ids, get_newspapers_for_date)
+from news_lk2.core.filesys import get_article_files
 
 DELIM_MD = '\n\n'
 
 
+def get_articles():
+    return list(revered(sorted(map(
+        Article.load,
+        get_article_files(),
+    ))))
+
+
 def get_articles_for_dateid(date_id):
-    date_ids = get_date_ids()
-    if date_id not in date_ids:
-        log.warning(f'No articles for ({date_id}). Aborting')
-        return []
-
-    newspaper_ids = get_newspapers_for_date(date_id)
-    article_list = []
-    for newspaper_id in newspaper_ids:
-        article_files = get_article_files_for_date_and_newspaper(
-            date_id,
-            newspaper_id,
-        )
-        article_list += list(map(
-            Article.load,
-            article_files,
-        ))
-
-    article_list.sort()
-    article_list.reverse()
-    return article_list
+    return list(filter(
+        lambda article: article.date_id == date_id,
+        get_articles(),
+    ))
