@@ -1,7 +1,7 @@
 import os
 import shutil
 
-from utils import hashx, timex
+from utils import hashx
 
 from news_lk2._utils import log
 
@@ -9,30 +9,22 @@ REPO_NAME = 'news_lk2'
 GIT_REPO_URL = f'https://github.com/nuuuwan/{REPO_NAME}.git'
 DIR_ROOT = '/tmp'
 DIR_REPO = os.path.join(DIR_ROOT, REPO_NAME)
+DIR_ARTICLES = os.path.join(
+    DIR_REPO,
+    'articles',
+)
+
 SALT = '5568445278803347'
 HASH_LENGTH = 8
 IGNORE_LIST = ['.git', '.gitignore', '.DS_Store']
+SHARD_NAME_LENGTH = 2
+ARTICLE_FILE_ONLY_LEN = HASH_LENGTH + 5
 
 
-def get_dir_article_root():
-    return os.path.join(
-        DIR_REPO,
-        'articles',
-    )
-
-
-def get_dir_date(date_id):
-    return os.path.join(
-        get_dir_article_root(),
-        date_id,
-    )
-
-
-def get_dir_date_and_newspaper(date_id, newspaper_id):
-    return os.path.join(
-        get_dir_date(date_id),
-        newspaper_id,
-    )
+def get_dir_article_shard(file_name_only):
+    assert(len(file_name_only) == ARTICLE_FILE_ONLY_LEN)
+    dir_shard_only = file_name_only[:SHARD_NAME_LENGTH]
+    return os.path.join(DIR_ARTICLES, dir_shard_only)
 
 
 def get_article_file_only(url):
@@ -40,19 +32,12 @@ def get_article_file_only(url):
     return f'{h}.json'
 
 
-def get_article_file(time_ut, newspaper_id, url):
-    date_id = timex.get_date_id(time_ut)
-
-    dir_date_and_newspaper = get_dir_date_and_newspaper(
-        date_id,
-        newspaper_id,
-    )
-    if not os.path.exists(dir_date_and_newspaper):
-        os.system(f'mkdir -p {dir_date_and_newspaper}')
-    return os.path.join(
-        dir_date_and_newspaper,
-        get_article_file_only(url),
-    )
+def get_article_file(url):
+    file_name_only = get_article_file_only(url)
+    dir_article_shard = get_dir_article_shard(file_name_only)
+    if not os.path.exists(dir_article_shard):
+        os.system(f'mkdir -p {dir_article_shard}')
+    return os.path.join(dir_article_shard, file_name_only)
 
 
 def git_checkout():
@@ -71,33 +56,11 @@ def git_checkout():
     log.debug(f'Cloned {GIT_REPO_URL} [data] to {DIR_REPO}')
 
 
-def get_date_ids():
-    dir_article_root = get_dir_article_root()
-    return list(filter(
-        lambda file_name: len(file_name) == 8 and file_name[:4] != '.git',
-        os.listdir(dir_article_root),
-    ))
-
-
-def get_newspapers_for_date(date_id):
-    dir_date = get_dir_date(date_id)
-    return list(filter(
-        lambda file_name: file_name not in IGNORE_LIST,
-        os.listdir(dir_date),
-    ))
-
-
-def get_article_files_for_date_and_newspaper(date_id, newspaper_id):
-    dir_date_and_newspaper = get_dir_date_and_newspaper(
-        date_id, newspaper_id)
-    article_files_only = list(filter(
-        lambda file_name: len(file_name) == 13 and file_name[-5:] == '.json',
-        os.listdir(dir_date_and_newspaper),
-    ))
-    return list(map(
-        lambda article_file_only: os.path.join(
-            dir_date_and_newspaper,
-            article_file_only,
-        ),
-        article_files_only,
-    ))
+def get_article_files():
+    article_files = []
+    for dir_article_shard_only in os.listdir(DIR_ARTICLES):
+        dir_article_shard = os.path.join(DIR_ARTICLES, dir_article_shard_only)
+        for article_file_only in os.listdir(dir_article_shard):
+            article_file = os.path.join(dir_article_shard, article_file_only)
+            article_files.append(article_file)
+    return article_files
