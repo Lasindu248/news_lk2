@@ -121,17 +121,25 @@ def build_paper_for_date(days_ago):
         ], {'class': 'row'})
     ])
     html = _('html', [head, body])
-    html_file = os.path.join(DIR_GH_PAGES, get_date_file_only(date_id))
+    file_only = get_date_file_only(date_id)
+    html_file = os.path.join(DIR_GH_PAGES, file_only)
     html.store(html_file)
     log.info(f'Stored {html_file} ({n_days_articles}  articles)')
 
-    return html_file
+    return file_only
 
 
-def copy_to_index(html_file):
-    index_html_file = os.path.join(DIR_GH_PAGES, 'index.html')
-    shutil.copy(html_file, index_html_file)
-    log.info(f'Copied {html_file} to {index_html_file}')
+def build_index_file(html_file):
+    head = _('head', [
+        _('meta', None, {
+            'http-equiv': 'refresh',
+            'content': f'0; URL={html_file}',
+        }),
+    ])
+    html = _('html', [head])
+    html_file = os.path.join(DIR_GH_PAGES, 'index.html')
+    html.store(html_file)
+    log.info(f'Stored {html_file}')
 
 
 def copy_css_file():
@@ -148,7 +156,7 @@ def build():
     for i in range(0, N_BACKPOPULATE):
         build_paper_for_date(i + 1)
     html_file = build_paper_for_date(0)
-    copy_to_index(html_file)
+    build_index_file(html_file)
     copy_css_file()
 
 
