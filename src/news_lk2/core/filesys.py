@@ -56,8 +56,7 @@ def get_article_file(time_ut, newspaper_id, url):
 
 def git_checkout():
     if os.path.exists(DIR_REPO):
-        log.debug(f'{DIR_REPO} already exists. Not checking out.')
-        return
+        shutil.rmtree(DIR_REPO)
 
     os.mkdir(DIR_REPO)
     os.system(
