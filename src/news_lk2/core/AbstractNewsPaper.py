@@ -4,7 +4,7 @@ from abc import ABC
 from bs4 import BeautifulSoup
 from utils import dt, www
 
-from news_lk2._utils import get_seconds_behind_sl, log
+from news_lk2._utils import log
 from news_lk2.core.Article import Article
 from news_lk2.core.filesys import get_article_file
 
@@ -84,7 +84,7 @@ class AbstractNewsPaper(ABC):
         article = Article(
             newspaper_id=cls.get_newspaper_id(),
             url=article_url,
-            time_ut=cls.parse_time_ut(soup) - get_seconds_behind_sl(),
+            time_ut=cls.parse_time_ut(soup),
             title=cls.parse_title(soup),
             body_lines=list(filter(
                 lambda line: is_valid_line(line),
