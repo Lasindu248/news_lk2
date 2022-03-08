@@ -4,6 +4,8 @@ from utils import jsonx, timex
 from news_lk2._utils import log
 from news_lk2.core.filesys import get_article_file
 
+WORDS_PER_MINUTE = 250
+
 
 class Article:
     def __init__(self, newspaper_id, url, time_ut, title, body_lines):
@@ -35,6 +37,10 @@ class Article:
         text = self.title + ' ' + ' '.join(self.body_lines)
         words = text.split(' ')
         return len(words)
+
+    @property
+    def reading_time_min(self):
+        return self.word_count / WORDS_PER_MINUTE
 
     @property
     def dict(self):
