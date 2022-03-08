@@ -31,7 +31,10 @@ class DailyNewsLk(AbstractNewsPaper):
     @classmethod
     def parse_time_ut(cls, soup):
         span_time = soup.find('span', {'class': 'date-display-single'})
-        return timex.parse_time(span_time.text.strip(), TIME_RAW_FORMAT)
+        return timex.parse_time(
+            span_time.text.strip(),
+            TIME_RAW_FORMAT,
+            timex.TIMEZONE_OFFSET_LK)
 
     @classmethod
     def parse_body_lines(cls, soup):

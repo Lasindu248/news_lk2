@@ -32,7 +32,7 @@ class IslandLk(AbstractNewsPaper):
             meta_time.get(
                 'content',
                 '').strip(),
-            TIME_RAW_FORMAT)
+            TIME_RAW_FORMAT, timex.TIMEZONE_OFFSET_LK)
 
     @classmethod
     def parse_body_lines(cls, soup):
