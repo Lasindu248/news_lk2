@@ -11,6 +11,7 @@ from news_lk2.core.filesys import DIR_REPO, DIR_ROOT, git_checkout
 DIR_GH_PAGES = os.path.join(DIR_ROOT, f'{DIR_REPO}-gh-pages')
 N_BACKPOPULATE = 28
 FORMAT_LAST_UPDATED = '%A, %B %d, %Y (%I:%M%p %Z)'
+FORMAT_DATE_LINK_LABEL = '%m/%d'
 
 
 def clean():
@@ -33,14 +34,14 @@ def parse_date_id(date_id):
 
 def render_date_link(date_id, is_current_date):
     ut = parse_date_id(date_id)
-    date = timex.get_date(ut)
+    label = timex.format_time(ut, FORMAT_DATE_LINK_LABEL)
     class_name = 'a-date-link'
     if is_current_date:
         class_name += ' a-date-link-current'
 
     return _(
         'a',
-        date,
+        label,
         {
             'href': get_date_file_only(date_id),
             'class': class_name,
