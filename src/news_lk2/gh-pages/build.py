@@ -24,21 +24,6 @@ def render_link_styles(css_file='styles.css'):
     return _('link', None, {'rel': 'stylesheet', 'href': css_file})
 
 
-def render_article(article):
-    return _('div', [
-        _('div', [
-            _('a', article.url_domain, {'href': article.url}),
-        ]),
-        _('h3', [
-            _('span', article.title),
-            _('span', article.time_short_str, {'class': 'span-time-str-only'}),
-        ]),
-    ] + list(map(
-        lambda line: _('p', line),
-        article.body_lines,
-    )), {'class': 'div-article'})
-
-
 def get_date_file_only(date_id):
     return f'{date_id}.html'
 
@@ -83,10 +68,25 @@ def render_link_box(label=None, current_date_id=None):
     return _('div', rendered_children, {'class': 'div-link-box'})
 
 
+def render_article(article):
+    return _('div', [
+        _('div', [
+            _('a', article.url_domain, {'href': article.url}),
+        ]),
+        _('h3', [
+            _('span', article.title),
+            _('span', article.time_short_str, {'class': 'span-time-str-only'}),
+        ]),
+    ] + list(map(
+        lambda line: _('p', line),
+        article.body_lines,
+    )), {'class': 'div-article'})
+
+
 def build_paper_for_date(days_ago):
     ut = timex.get_unixtime() - timex.SECONDS_IN.DAY * days_ago
     date_id = timex.get_date_id(ut)
-    date_title = timex.format_time(ut, FORMAT_DATE_TITLE)
+    timex.format_time(ut, FORMAT_DATE_TITLE)
 
     days_articles = get_articles_for_dateid(date_id)
     n_days_articles = len(days_articles)
@@ -102,7 +102,7 @@ def build_paper_for_date(days_ago):
         _('div', [
             _('div', rendered_articles,
                 {'class': 'column-left'},
-            ),
+              ),
             _('div', [
                 render_link_box(current_date_id=date_id),
             ], {'class': 'column-right'}),
