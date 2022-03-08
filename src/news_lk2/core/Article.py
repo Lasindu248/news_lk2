@@ -22,8 +22,8 @@ class Article:
         )
 
     @property
-    def time_only_str(self):
-        return timex.format_time(self.time_ut, '%I:%M%p').lower()
+    def time_short_str(self):
+        return timex.format_time(self.time_ut, '%I:%M%p, %B %d')
 
     @property
     def dict(self):

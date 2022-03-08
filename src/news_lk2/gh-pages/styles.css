@@ -6,27 +6,30 @@ body {
 
 a {
   text-decoration: none;
-
+  font-size: small;
+  color: lightgray;
 }
 
+a:hover {
+  color: maroon;
+}
+
+
 .a-date-link {
-  font-weight: normal;
-  color: gray;
 }
 
 .a-date-link-current {
-  font-weight: bold;
   color: black;
 }
 
 .column-left {
   float: left;
-  width: 20%;
+  width: 85%;
 }
 
 .column-right {
   float: left;
-  width: 80%;
+  width: 15%;
 }
 
 .row:after {
@@ -39,4 +42,9 @@ a {
 .div-link-box {
   margin-top: 32px;
   text-align: center;
+}
+
+.span-time-str-only {
+  color: gray;
+  font-size: small;
 }
