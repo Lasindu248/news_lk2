@@ -35,4 +35,12 @@ def get_date_id_to_articles():
         if date_id not in date_id_to_articles:
             date_id_to_articles[date_id] = []
         date_id_to_articles[date_id].append(article)
+
+    date_id_to_articles = dict(sorted(
+        list(map(
+            lambda item: [item[0], sorted(item[1])],
+            date_id_to_articles.items(),
+        )),
+        lambda item: item[0],
+    ))
     return date_id_to_articles
