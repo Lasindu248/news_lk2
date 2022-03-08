@@ -21,6 +21,10 @@ class Article:
         return get_article_file(self.url)
 
     @property
+    def date_id(self):
+        return timex.get_date_id(self.time_ut)
+
+    @property
     def time_short_str(self):
         return timex.format_time(self.time_ut, '%I:%M%p, %B %d')
 
