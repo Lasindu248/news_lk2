@@ -79,7 +79,6 @@ class AbstractNewsPaper(ABC):
         )
         article.store()
 
-
     @classmethod
     def scrape(cls):
         article_urls = cls.get_article_urls()
