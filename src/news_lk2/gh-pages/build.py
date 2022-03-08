@@ -73,8 +73,8 @@ def render_article(article):
         _('div', [
             _('a', article.url_domain, {'href': article.url}),
         ]),
-        _('h3', [
-            _('span', article.title),
+        _('h3', article.title),
+        _('div', [
             _('span', article.time_short_str, {'class': 'span-time-str-only'}),
             _('span',
                 f'{article.reading_time_min:.0f} min read',
