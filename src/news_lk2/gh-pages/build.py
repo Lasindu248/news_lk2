@@ -6,11 +6,11 @@ from utils.xmlx import _
 
 from news_lk2._utils import log
 from news_lk2.analysis.paper import get_articles_for_dateid, get_date_ids
-from news_lk2.core.filesys import (DIR_REPO, DIR_ROOT, git_checkout)
+from news_lk2.core.filesys import DIR_REPO, DIR_ROOT, git_checkout
 
 DIR_GH_PAGES = os.path.join(DIR_ROOT, f'{DIR_REPO}-gh-pages')
-FORMAT_DATE_TITLE = '%A, %B %d, %Y'
 N_BACKPOPULATE = 28
+FORMAT_LAST_UPDATED = '%A, %B %d, %Y (%I:%M%p %Z)'
 
 
 def clean():
@@ -98,7 +98,10 @@ def build_paper_for_date(days_ago):
         days_articles,
     ))
 
-    time_last_updated = timex.format_time(timex.get_unixtime())
+    time_last_updated = timex.format_time(
+        timex.get_unixtime(),
+        FORMAT_LAST_UPDATED,
+    )
     last_updated_text = f'Last updated {time_last_updated}'
 
     head = _('head', [render_link_styles()])
