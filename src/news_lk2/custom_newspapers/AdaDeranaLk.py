@@ -44,7 +44,3 @@ class AdaDeranaLk(AbstractNewsPaper):
             lambda line: line.strip(),
             header_inner.text.strip().split('\n'),
         ))
-
-
-if __name__ == '__main__':
-    AdaDeranaLk.scrape()
