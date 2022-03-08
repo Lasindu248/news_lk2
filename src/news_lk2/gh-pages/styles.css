@@ -1,7 +1,8 @@
 body {
     font-family: Futura;
-    max-width: 800px;
+    width: 80%;
     margin: auto;
+    margin-top: 12px;
 }
 
 a {
@@ -14,6 +15,9 @@ a:hover {
   color: maroon;
 }
 
+h3 {
+  margin-top: 3px;
+}
 
 .a-date-link {
 }
@@ -40,7 +44,6 @@ a:hover {
 
 
 .div-link-box {
-  margin-top: 32px;
   text-align: center;
 }
 
@@ -51,4 +54,5 @@ a:hover {
 
 .div-article {
   margin-bottom: 36px;
+  margin-right: 12px;
 }

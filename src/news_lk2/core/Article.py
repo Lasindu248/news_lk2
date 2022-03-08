@@ -24,6 +24,10 @@ class Article:
     @property
     def time_short_str(self):
         return timex.format_time(self.time_ut, '%I:%M%p, %B %d')
+    @property
+    def url_domain(self):
+        tokens = self.url.split('/')
+        return tokens[2].replace('www.', '')
 
     @property
     def dict(self):

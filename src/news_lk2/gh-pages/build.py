@@ -26,12 +26,12 @@ def render_link_styles(css_file='styles.css'):
 
 def render_article(article):
     return _('div', [
-        _('h2', [
+        _('div', [
+            _('a', article.url_domain, {'href': article.url}),
+        ]),
+        _('h3', [
             _('span', article.title),
             _('span', article.time_short_str, {'class': 'span-time-str-only'}),
-        ]),
-        _('div', [
-            _('a', article.url, {'href': article.url}),
         ]),
     ] + list(map(
         lambda line: _('p', line),
@@ -100,9 +100,7 @@ def build_paper_for_date(days_ago):
     head = _('head', [render_link_styles()])
     body = _('body', [
         _('div', [
-            _('div', [
-                _('h1', f'{date_title}')
-            ] + rendered_articles,
+            _('div', rendered_articles,
                 {'class': 'column-left'},
             ),
             _('div', [
