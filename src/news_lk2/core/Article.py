@@ -28,7 +28,7 @@ class Article:
     def time_short_str(self):
         return timex.format_time(
             self.time_ut,
-            '%I:%M%p, %B %d',
+            '%I:%M%p, %A, %B %d, %Y',
             timex.TIMEZONE_OFFSET_LK,
         )
 
