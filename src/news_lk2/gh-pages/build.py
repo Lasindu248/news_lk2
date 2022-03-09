@@ -5,7 +5,7 @@ from utils import timex
 from utils.xmlx import _
 
 from news_lk2._utils import log
-from news_lk2.analysis.paper import get_date_id_to_articles, get_date_ids
+from news_lk2.analysis.paper import get_date_id_to_articles
 from news_lk2.core.filesys import DIR_REPO, DIR_ROOT, git_checkout
 
 DIR_GH_PAGES = os.path.join(DIR_ROOT, f'{DIR_REPO}-gh-pages')
@@ -32,7 +32,7 @@ def parse_date_id(date_id):
     return timex.parse_time(date_id, timex.FORMAT_DATE_ID)
 
 
-def render_date_link(date_id, is_current_date):
+def render_date_link(date_id, is_current_date, n_articles):
     ut = parse_date_id(date_id)
     label = timex.format_time(ut, FORMAT_DATE_LINK_LABEL)
     class_name = 'a-date-link'
@@ -43,6 +43,7 @@ def render_date_link(date_id, is_current_date):
         'a',
         [
             _('time', label, {'datetime': timex.format_time(ut)}),
+            _('span', f'({n_articles})', {'class': 'span-n-articles'}),
         ],
         {
             'href': get_date_file_only(date_id),
@@ -51,20 +52,25 @@ def render_date_link(date_id, is_current_date):
     )
 
 
-def render_link_box(label=None, current_date_id=None):
-    date_ids = sorted(get_date_ids())
-    date_ids.reverse()
+def render_link_box(date_id_to_articles, current_date_id):
 
     rendered_children = []
     prev_year_and_month = None
-    for date_id in date_ids:
+    for date_id, articles in reversed(date_id_to_articles.items()):
         year_and_month = date_id[:6]
         if prev_year_and_month and year_and_month != prev_year_and_month:
             rendered_children.append(_('br'))
         prev_year_and_month = year_and_month
+        n_articles = len(articles)
 
         rendered_children.append(
-            _('div', [render_date_link(date_id, date_id == current_date_id)]),
+            _('div', [
+                render_date_link(
+                    date_id,
+                    date_id == current_date_id,
+                    n_articles,
+                ),
+            ]),
         )
 
     return _('div', rendered_children, {'class': 'div-link-box'})
@@ -73,7 +79,11 @@ def render_link_box(label=None, current_date_id=None):
 def render_article(article):
     return _('div', [
         _('div', [
-            _('a', article.url_domain, {'href': article.url}),
+            _(
+                'a',
+                article.url_domain,
+                {'href': article.url, 'class': 'a-newspaper'}
+            ),
         ]),
         _('h3', article.title),
         _('div', [
@@ -96,7 +106,8 @@ def render_article(article):
     )), {'class': 'div-article'})
 
 
-def build_paper(date_id, days_articles):
+def build_paper(date_id_to_articles, date_id):
+    days_articles = date_id_to_articles[date_id]
     days_articles.reverse()
     ut = timex.get_unixtime()
     n_days_articles = len(days_articles)
@@ -127,7 +138,7 @@ def build_paper(date_id, days_articles):
                 {'class': 'column-left'},
               ),
             _('div', [
-                render_link_box(current_date_id=date_id),
+                render_link_box(date_id_to_articles, current_date_id=date_id),
             ], {'class': 'column-right'}),
 
         ], {'class': 'row'})
@@ -165,8 +176,9 @@ def build():
     clean()
     git_checkout()
     html_file = None
-    for date_id, articles in get_date_id_to_articles().items():
-        html_file = build_paper(date_id, articles)
+    date_id_to_articles = get_date_id_to_articles()
+    for date_id in get_date_id_to_articles():
+        html_file = build_paper(date_id_to_articles, date_id)
     build_index_file(html_file)
     copy_css_file()
 

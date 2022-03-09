@@ -10,7 +10,6 @@ body {
 
 a {
 	text-decoration: none;
-	color: maroon;
 	opacity: 0.4;
 }
 
@@ -24,10 +23,16 @@ h3 {
 	max-width: 80%;
 }
 
-.a-date-link {}
+.a-date-link {
+	color: maroon;
+}
 
 .a-date-link-current {
 	opacity: 1.0;
+}
+
+.a-newspaper {
+	color: orange;
 }
 
 .column-left {
@@ -47,7 +52,7 @@ h3 {
 }
 
 .div-link-box {
-	text-align: center;
+	text-align: left;
 }
 
 .span-time-str-only {
@@ -61,6 +66,10 @@ h3 {
 
 .div-last-updated {
 	color: lightgray;
+}
+
+.span-n-articles {
+	font-size: x-small;
 }
 
 .span-reading-time {
