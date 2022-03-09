@@ -1,73 +1,72 @@
+
+
 body {
-    font-family: Gill Sans;
-    width: 80%;
-    margin: auto;
-    margin-top: 12px;
-    font-size: 150%;
+	font-family: Gill Sans;
+	width: 80%;
+	margin: auto;
+	margin-top: 12px;
+	font-size: 150%;
 }
 
 a {
-  text-decoration: none;
-  color: maroon;
-  opacity: 0.4;
+	text-decoration: none;
+	color: maroon;
+	opacity: 0.4;
 }
 
 a:hover {
-  opacity: 0.7;
+	opacity: 0.7;
 }
 
 h3 {
-  margin-top: 3px;
-  margin-bottom: 3px;
-  max-width: 80%;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	max-width: 80%;
 }
 
-.a-date-link {
-}
+.a-date-link {}
 
 .a-date-link-current {
-  opacity: 1.0;
+	opacity: 1.0;
 }
 
 .column-left {
-  float: left;
-  width: 85%;
+	float: left;
+	width: 85%;
 }
 
 .column-right {
-  float: left;
-  width: 15%;
+	float: left;
+	width: 15%;
 }
 
 .row:after {
-  content: "";
-  display: table;
-  clear: both;
+	content: "";
+	display: table;
+	clear: both;
 }
 
-
 .div-link-box {
-  text-align: center;
+	text-align: center;
 }
 
 .span-time-str-only {
-  color: lightgray;
+	color: lightgray;
 }
 
 .div-article {
-  margin-bottom: 36px;
-  margin-right: 12px;
+	margin-bottom: 36px;
+	margin-right: 12px;
 }
 
-
 .div-last-updated {
-  color: lightgray;
+	color: lightgray;
 }
 
 .span-reading-time {
-  color: lightgray;
+	color: lightgray;
 }
 
 .span-seperator {
-    color: lightgray;
+	color: lightgray;
 }
