@@ -41,7 +41,9 @@ def render_date_link(date_id, is_current_date):
 
     return _(
         'a',
-        label,
+        [
+            _('time', label, {'datetime': timex.format_time(ut)}),
+        ],
         {
             'href': get_date_file_only(date_id),
             'class': class_name,
@@ -75,7 +77,13 @@ def render_article(article):
         ]),
         _('h3', article.title),
         _('div', [
-            _('span', article.time_short_str, {'class': 'span-time-str-only'}),
+            _('span', [
+                _(
+                    'time',
+                    article.time_short_str,
+                    {'datetime': timex.format_time(article.time_ut)},
+                ),
+            ], {'class': 'span-time-str-only'}),
             _('span', ' · ', {'class': 'span-seperator'}),
             _('span',
                 f'{article.reading_time_min:.0f} min read',
@@ -111,7 +119,13 @@ def build_paper_for_date(days_ago):
     head = _('head', [render_link_styles()])
     body = _('body', [
         _('div', [
-            _('div', last_updated_text, {'class': 'div-last-updated'}),
+            _('div', [
+                _(
+                    'time',
+                    last_updated_text,
+                    {'datetime': timex.format_time(ut)},
+                )
+            ], {'class': 'div-last-updated'}),
             _('div', rendered_articles,
                 {'class': 'column-left'},
               ),
