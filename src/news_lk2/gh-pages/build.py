@@ -57,7 +57,7 @@ def render_link_box(date_id_to_articles, current_date_id):
 
     rendered_children = []
     prev_year_and_month = None
-    for date_id, articles in reversed(date_id_to_articles.items()):
+    for date_id, articles in reversed(list(date_id_to_articles.items())):
         year_and_month = date_id[:6]
         if prev_year_and_month and year_and_month != prev_year_and_month:
             rendered_children.append(_('br'))
