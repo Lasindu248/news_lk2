@@ -1,4 +1,5 @@
 
+from utils import timex
 
 from news_lk2.core import Article
 from news_lk2.core.filesys import get_article_files
@@ -27,10 +28,17 @@ def get_date_ids():
     ))))
 
 
-def get_date_id_to_articles():
+def get_date_id_to_articles(max_days_ago=None):
+    if max_days_ago is not None:
+        ut_limit = timex.get_unixtime() - timex.SECONDS_IN.DAY * max_days_ago
+    else:
+        ut_limit = None
+
     articles = get_articles()
     date_id_to_articles = {}
     for article in articles:
+        if ut_limit and article.time_ut < ut_limit:
+            continue
         date_id = article.date_id
         if date_id not in date_id_to_articles:
             date_id_to_articles[date_id] = []
