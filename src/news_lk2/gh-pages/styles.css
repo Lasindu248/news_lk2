@@ -81,13 +81,13 @@ h3 {
 }
 
 .span-nlp-num {
-	background-color: rgba(0, 128, 0, 0.2);
+	color: green;
 	border-radius: 3px;
 	padding: 3px;
 }
 
 .span-nlp-propn {
-	background-color: rgba(0, 128, 0, 0.2);
+	color: green;
 	border-radius: 3px;
 	padding: 3px;
 }
