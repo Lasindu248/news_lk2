@@ -11,7 +11,7 @@ from news_lk2.core.filesys import DIR_REPO, DIR_ROOT, git_checkout
 DIR_GH_PAGES = os.path.join(DIR_ROOT, f'{DIR_REPO}-gh-pages')
 N_BACKPOPULATE = 28
 FORMAT_LAST_UPDATED = '%A, %B %d, %Y (%I:%M%p %Z)'
-FORMAT_DATE_LINK_LABEL = '%m/%d'
+FORMAT_DATE_LINK_LABEL = '%b %d'
 
 
 def clean():
