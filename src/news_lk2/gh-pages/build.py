@@ -10,7 +10,7 @@ from news_lk2.analysis.paper import get_date_id_to_articles
 from news_lk2.core.filesys import DIR_REPO, DIR_ROOT, git_checkout
 
 DIR_GH_PAGES = os.path.join(DIR_ROOT, f'{DIR_REPO}-gh-pages')
-MAX_DAYS_AGO = 1
+MAX_DAYS_AGO = 14
 FORMAT_LAST_UPDATED = '%I:%M%p, %A, %B %d, %Y (Sri Lanka Time)'
 FORMAT_DATE_LINK_LABEL = '%b %d'
 
