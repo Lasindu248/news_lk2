@@ -5,11 +5,12 @@ from utils import timex
 from utils.xmlx import _
 
 from news_lk2._utils import log
+from news_lk2.analysis.ner import render_line
 from news_lk2.analysis.paper import get_date_id_to_articles
 from news_lk2.core.filesys import DIR_REPO, DIR_ROOT, git_checkout
 
 DIR_GH_PAGES = os.path.join(DIR_ROOT, f'{DIR_REPO}-gh-pages')
-N_BACKPOPULATE = 28
+MAX_DAYS_AGO = 1
 FORMAT_LAST_UPDATED = '%I:%M%p, %A, %B %d, %Y (Sri Lanka Time)'
 FORMAT_DATE_LINK_LABEL = '%b %d'
 
@@ -85,7 +86,7 @@ def render_article(article):
                 {'href': article.url, 'class': 'a-newspaper'}
             ),
         ]),
-        _('h3', article.title),
+        _('h3', [render_line(article.title)]),
         _('div', [
             _('span', [
                 _(
@@ -101,7 +102,7 @@ def render_article(article):
               ),
         ]),
     ] + list(map(
-        lambda line: _('p', line),
+        lambda line: _('p', [render_line(line)]),
         article.body_lines,
     )), {'class': 'div-article'})
 
@@ -176,8 +177,8 @@ def build():
     clean()
     git_checkout()
     html_file = None
-    date_id_to_articles = get_date_id_to_articles()
-    for date_id in get_date_id_to_articles():
+    date_id_to_articles = get_date_id_to_articles(max_days_ago=MAX_DAYS_AGO)
+    for date_id in date_id_to_articles:
         html_file = build_paper(date_id_to_articles, date_id)
     build_index_file(html_file)
     copy_css_file()
