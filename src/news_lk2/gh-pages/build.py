@@ -10,7 +10,7 @@ from news_lk2.core.filesys import DIR_REPO, DIR_ROOT, git_checkout
 
 DIR_GH_PAGES = os.path.join(DIR_ROOT, f'{DIR_REPO}-gh-pages')
 N_BACKPOPULATE = 28
-FORMAT_LAST_UPDATED = '%A, %B %d, %Y (%I:%M%p %Z)'
+FORMAT_LAST_UPDATED = '%I:%M%p, %A, %B %d, %Y (Sri Lanka Time)'
 FORMAT_DATE_LINK_LABEL = '%b %d'
 
 
@@ -101,7 +101,11 @@ def build_paper_for_date(days_ago):
         days_articles,
     ))
 
-    time_last_updated = timex.format_current_date_with_timezone()
+    time_last_updated = timex.format_time(
+        ut,
+        FORMAT_LAST_UPDATED,
+        timex.TIMEZONE_OFFSET_LK,
+    )
     last_updated_text = f'Last updated {time_last_updated}'
 
     head = _('head', [render_link_styles()])
