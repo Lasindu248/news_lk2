@@ -68,9 +68,27 @@ h3 {
 	color: lightgray;
 }
 
+.p-nlp {
+
+}
+
 .span-n-articles {
 	font-size: x-small;
 }
+
+.span-nlp {
+	color: black;
+}
+
+.span-nlp-num {
+	color: green;
+}
+
+.span-nlp-propn {
+	color: green;
+}
+
+
 
 .span-reading-time {
 	color: lightgray;
