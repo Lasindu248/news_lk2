@@ -76,6 +76,7 @@ def render_article(article):
         _('h3', article.title),
         _('div', [
             _('span', article.time_short_str, {'class': 'span-time-str-only'}),
+            _('span', ' · ', {'class': 'span-seperator'}),
             _('span',
                 f'{article.reading_time_min:.0f} min read',
                 {'class': 'span-reading-time'},
