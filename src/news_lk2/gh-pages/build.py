@@ -25,14 +25,6 @@ def render_link_styles(css_file='styles.css'):
     return _('link', None, {'rel': 'stylesheet', 'href': css_file})
 
 
-def get_date_file_only(date_id):
-    return f'{date_id}.html'
-
-
-def parse_date_id(date_id):
-    return timex.parse_time(date_id, timex.FORMAT_DATE_ID)
-
-
 def render_article(article):
     return _('div', [
         _('div', [
