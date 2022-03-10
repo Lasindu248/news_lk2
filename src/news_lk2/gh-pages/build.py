@@ -21,6 +21,10 @@ def clean():
     log.info(f'Cleaned {DIR_GH_PAGES}')
 
 
+def render_meta():
+    return _('meta', None, {'charset': 'utf-8'})
+
+
 def render_link_styles(css_file='styles.css'):
     return _('link', None, {'rel': 'stylesheet', 'href': css_file})
 
@@ -39,7 +43,11 @@ function tts_%s() {
 
 
 def render_tts_button_only(h):
-    return _('button', 'Speak', {'onclick': 'tts_%s()' % (h)})
+    return _(
+        'button',
+        '▶',
+        {'onclick': 'tts_%s()' % (h), 'class': 'button-tts'},
+    )
 
 
 def render_tts_button(article):
@@ -114,7 +122,7 @@ def build_paper():
         ], {'class': 'div-last-updated'}),
         _('div', rendered_articles),
     ])
-    html = _('html', [head, body])
+    html = _('html', [render_meta(), head, body])
     html_file = os.path.join(DIR_GH_PAGES, 'index.html')
     html.store(html_file)
     log.info(f'Stored {html_file} ({n_articles}  articles)')
