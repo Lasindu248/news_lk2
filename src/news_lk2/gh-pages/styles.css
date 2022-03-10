@@ -32,7 +32,7 @@ h3 {
 }
 
 .a-newspaper {
-	color: orange;
+	color: maroon;
 }
 
 .span-time-str-only {
@@ -61,7 +61,7 @@ h3 {
 }
 
 .span-nlp-num {
-	color: green;
+	color: orange;
 }
 
 .span-nlp-propn {
@@ -76,4 +76,14 @@ h3 {
 
 .span-seperator {
 	color: lightgray;
+}
+
+.button-tts {
+	font-size: 100%;
+	padding: 12px;
+	border-radius: 12px;
+	border: 1px solid gray;
+	background-color: white;
+	color: maroon;
+	opacity: 0.7;
 }
