@@ -33,50 +33,6 @@ def parse_date_id(date_id):
     return timex.parse_time(date_id, timex.FORMAT_DATE_ID)
 
 
-def render_date_link(date_id, is_current_date, n_articles):
-    ut = parse_date_id(date_id)
-    label = timex.format_time(ut, FORMAT_DATE_LINK_LABEL)
-    class_name = 'a-date-link'
-    if is_current_date:
-        class_name += ' a-date-link-current'
-
-    return _(
-        'a',
-        [
-            _('time', label, {'datetime': timex.format_time(ut)}),
-            _('span', f'({n_articles})', {'class': 'span-n-articles'}),
-        ],
-        {
-            'href': get_date_file_only(date_id),
-            'class': class_name,
-        },
-    )
-
-
-def render_link_box(date_id_to_articles, current_date_id):
-
-    rendered_children = []
-    prev_year_and_month = None
-    for date_id, articles in reversed(list(date_id_to_articles.items())):
-        year_and_month = date_id[:6]
-        if prev_year_and_month and year_and_month != prev_year_and_month:
-            rendered_children.append(_('br'))
-        prev_year_and_month = year_and_month
-        n_articles = len(articles)
-
-        rendered_children.append(
-            _('div', [
-                render_date_link(
-                    date_id,
-                    date_id == current_date_id,
-                    n_articles,
-                ),
-            ]),
-        )
-
-    return _('div', rendered_children, {'class': 'div-link-box'})
-
-
 def render_article(article):
     return _('div', [
         _('div', [
@@ -129,21 +85,13 @@ def build_paper(date_id_to_articles, date_id):
     head = _('head', [render_link_styles()])
     body = _('body', [
         _('div', [
-            _('div', [
-                _(
-                    'time',
-                    last_updated_text,
-                    {'datetime': timex.format_time(ut)},
-                )
-            ], {'class': 'div-last-updated'}),
-            _('div', rendered_articles,
-                {'class': 'column-left'},
-              ),
-            _('div', [
-                render_link_box(date_id_to_articles, current_date_id=date_id),
-            ], {'class': 'column-right'}),
-
-        ], {'class': 'row'})
+            _(
+                'time',
+                last_updated_text,
+                {'datetime': timex.format_time(ut)},
+            )
+        ], {'class': 'div-last-updated'}),
+        _('div', rendered_articles),
     ])
     html = _('html', [head, body])
     file_only = get_date_file_only(date_id)
