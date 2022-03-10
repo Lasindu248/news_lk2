@@ -25,6 +25,27 @@ def render_link_styles(css_file='styles.css'):
     return _('link', None, {'rel': 'stylesheet', 'href': css_file})
 
 
+def render_tts_script(article):
+    text = '. '.join([article.title] + article.body_lines)
+    return _('script', '''
+function tts(text) {
+    let synth = window.speechSynthesis;
+    let utterThis = new SpeechSynthesisUtterance('%s');
+    synth.speak(utterThis);
+}
+    ''' % (text))
+
+
+def render_tts_button_only():
+    return _('button', 'Speak', {'onclick': 'tts()'})
+
+
+def render_tts_button(article):
+    return _('span', [
+        render_tts_script(article),
+        render_tts_button_only(),
+    ])
+
 def render_article(article):
     return _('div', [
         _('div', [
