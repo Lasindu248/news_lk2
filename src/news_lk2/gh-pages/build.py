@@ -46,6 +46,7 @@ def render_tts_button(article):
         render_tts_button_only(),
     ])
 
+
 def render_article(article):
     return _('div', [
         _('div', [
@@ -69,6 +70,7 @@ def render_article(article):
                 f'{article.reading_time_min:.0f} min read',
                 {'class': 'span-reading-time'},
               ),
+            render_tts_button(article),
         ]),
     ] + list(map(
         lambda line: _('p', [render_line(line)]),
