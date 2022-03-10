@@ -30,6 +30,7 @@ def render_tts_script(article, h):
     return _('script', '''
 function tts_%s() {
     let synth = window.speechSynthesis;
+    synth.cancel();
     let text = '%s';
     let utterThis = new SpeechSynthesisUtterance(text);
     synth.speak(utterThis);
