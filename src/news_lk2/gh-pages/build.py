@@ -1,7 +1,7 @@
 import os
 import shutil
 
-from utils import timex
+from utils import hashx, timex
 from utils.xmlx import _
 
 from news_lk2._utils import log
@@ -25,25 +25,27 @@ def render_link_styles(css_file='styles.css'):
     return _('link', None, {'rel': 'stylesheet', 'href': css_file})
 
 
-def render_tts_script(article):
+def render_tts_script(article, h):
     text = '. '.join([article.title] + article.body_lines)
     return _('script', '''
-function tts(text) {
+function tts_%s() {
     let synth = window.speechSynthesis;
-    let utterThis = new SpeechSynthesisUtterance('%s');
+    let text = '%s';
+    let utterThis = new SpeechSynthesisUtterance(text);
     synth.speak(utterThis);
 }
-    ''' % (text))
+    ''' % (h, text))
 
 
-def render_tts_button_only():
-    return _('button', 'Speak', {'onclick': 'tts()'})
+def render_tts_button_only(h):
+    return _('button', 'Speak', {'onclick': 'tts_%s()' % (h)})
 
 
 def render_tts_button(article):
+    h = hashx.md5(article.title)
     return _('span', [
-        render_tts_script(article),
-        render_tts_button_only(),
+        render_tts_script(article, h),
+        render_tts_button_only(h),
     ])
 
 
