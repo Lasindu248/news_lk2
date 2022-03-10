@@ -35,26 +35,6 @@ h3 {
 	color: orange;
 }
 
-.column-left {
-	float: left;
-	width: 85%;
-}
-
-.column-right {
-	float: left;
-	width: 15%;
-}
-
-.row:after {
-	content: "";
-	display: table;
-	clear: both;
-}
-
-.div-link-box {
-	text-align: left;
-}
-
 .span-time-str-only {
 	color: lightgray;
 }
