@@ -7,11 +7,17 @@ from news_lk2.core.filesys import get_article_files
 DELIM_MD = '\n\n'
 
 
-def get_articles():
-    return list(reversed(sorted(map(
+def get_articles(ut_min=None):
+    articles = list(map(
         Article.load,
         get_article_files(),
-    ))))
+    ))
+    if ut_min:
+        articles = list(filter(
+            lambda article: article.time_ut >= ut_min,
+            articles,
+        ))
+    return list(reversed(sorted(articles)))
 
 
 def get_articles_for_date_id(date_id):
