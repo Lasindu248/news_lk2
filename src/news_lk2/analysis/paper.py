@@ -52,3 +52,10 @@ def get_date_id_to_articles(max_days_ago=None):
         key=lambda item: item[0],
     ))
     return date_id_to_articles
+
+
+def dedupe_by_title(articles):
+    title_to_article = {}
+    for article in articles:
+        title_to_article[article.title] = article
+    return sorted(list(title_to_article.values()))
