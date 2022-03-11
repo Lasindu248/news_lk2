@@ -39,11 +39,16 @@ def render_link_styles(css_file='styles.css'):
 
 
 def render_tts_button(article):
+    id = f'button-tts-{article.url_hash}'
     text = '. '.join([article.title] + article.body_lines)
     return _(
         'button',
-        '▶',
-        {'onclick': '''tts('%s')''' % (text), 'class': 'button-tts'},
+        '⏯︎',
+        {
+            'onclick': '''tts('%s', '%s')''' % (id, text),
+            'class': 'button-tts',
+            'id': id,
+        },
     )
 
 
@@ -83,6 +88,8 @@ def build_paper():
     ut_min = ut - MAX_DAYS_AGO * timex.SECONDS_IN.DAY
 
     articles = get_articles(ut_min=ut_min)
+    if TEST_MODE:
+        articles = articles[:5]
     articles = dedupe_by_title(articles)
     articles.reverse()
 
@@ -130,7 +137,7 @@ def build():
     if not TEST_MODE:
         clean()
         git_checkout()
-    build_paper()
+        build_paper()
     copy_files()
 
 
