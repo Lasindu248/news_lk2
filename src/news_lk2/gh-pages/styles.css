@@ -79,9 +79,9 @@ h3 {
 }
 
 .button-tts {
-	font-size: 100%;
-	padding: 12px;
-	border-radius: 12px;
+	font-size: 80%;
+	padding: 6px;
+	border-radius: 6px;
 	border: 1px solid gray;
 	background-color: white;
 	color: maroon;
