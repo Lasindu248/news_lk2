@@ -3,7 +3,7 @@ import math
 from utils import jsonx, timex
 
 from news_lk2._utils import log
-from news_lk2.core.filesys import get_article_file
+from news_lk2.core.filesys import get_article_file, get_hash
 
 WORDS_PER_MINUTE = 250
 
@@ -15,6 +15,10 @@ class Article:
         self.time_ut = time_ut
         self.title = title
         self.body_lines = body_lines
+
+    @property
+    def url_hash(self):
+        return get_hash(self.url)
 
     @property
     def file_name(self):
