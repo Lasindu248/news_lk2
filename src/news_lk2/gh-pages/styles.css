@@ -85,5 +85,9 @@ h3 {
 	border: 1px solid gray;
 	background-color: white;
 	color: maroon;
-	opacity: 0.7;
+	opacity: 0.5;
+}
+
+.button-tts:hover {
+	opacity: 1;
 }
