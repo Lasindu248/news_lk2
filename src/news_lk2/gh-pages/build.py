@@ -4,12 +4,12 @@ import shutil
 from utils import timex
 from utils.xmlx import _
 
+from news_lk2._constants import TEST_MODE
 from news_lk2._utils import log
 from news_lk2.analysis.ner import render_line
 from news_lk2.analysis.paper import dedupe_by_title, get_articles
 from news_lk2.core.filesys import DIR_REPO, DIR_ROOT, git_checkout
 
-TEST_MODE = True
 DIR_GH_PAGES = os.path.join(DIR_ROOT, f'{DIR_REPO}-gh-pages')
 MAX_DAYS_AGO = 1 if TEST_MODE else 7
 FORMAT_LAST_UPDATED = '%I:%M%p, %A, %B %d, %Y (Sri Lanka Time)'
