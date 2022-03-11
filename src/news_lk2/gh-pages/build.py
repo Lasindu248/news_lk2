@@ -129,11 +129,12 @@ def build_paper():
     log.info(f'Stored {html_file} ({n_articles}  articles)')
 
 
-def copy_css_file():
-    src_css_file = 'src/news_lk2/gh-pages/styles.css'
-    dest_css_file = os.path.join(DIR_GH_PAGES, 'styles.css')
-    shutil.copy(src_css_file, dest_css_file)
-    log.info(f'Copied {src_css_file} to {dest_css_file}')
+def copy_files():
+    for file_only in ['styles.css', 'index.js']:
+        src_file = os.path.join('src/news_lk2/gh-pages', file_only)
+        dest_file = os.path.join(DIR_GH_PAGES, file_only)
+        shutil.copy(src_file, dest_file)
+        log.info(f'Copied {src_file} to {dest_file}')
 
 
 def build():
@@ -141,7 +142,7 @@ def build():
         clean()
         git_checkout()
     build_paper()
-    copy_css_file()
+    copy_files()
 
 
 if __name__ == '__main__':
