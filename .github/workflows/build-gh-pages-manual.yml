@@ -28,7 +28,6 @@ jobs:
     - name: Run - Upload Data
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
-        python -m spacy download en_core_web_sm
         python src/news_lk2/gh-pages/build.py
 
     - name: Checkout repo branch gh-pages
