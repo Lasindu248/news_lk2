@@ -40,12 +40,13 @@ def render_link_styles(css_file='styles.css'):
 
 def render_tts_button(article):
     id = f'button-tts-{article.url_hash}'
-    text = '. '.join([article.title] + article.body_lines)
+    title = article.title
+    body = '. '.join(article.body_lines)
     return _(
         'button',
         '⏯︎',
         {
-            'onclick': '''tts('%s', '%s')''' % (id, text),
+            'onclick': '''tts('%s', '%s', '%s')''' % (id, title, body),
             'class': 'button-tts',
             'id': id,
         },
