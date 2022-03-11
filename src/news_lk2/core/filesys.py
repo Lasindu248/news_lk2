@@ -27,8 +27,12 @@ def get_dir_article_shard(file_name_only):
     return os.path.join(DIR_ARTICLES, dir_shard_only)
 
 
+def get_hash(url):
+    return hashx.md5(url + SALT)[:HASH_LENGTH]
+
+
 def get_article_file_only(url):
-    h = hashx.md5(url + SALT)[:HASH_LENGTH]
+    h = get_hash(url)
     return f'{h}.json'
 
 
