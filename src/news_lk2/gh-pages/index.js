@@ -17,8 +17,8 @@ function tts(id, title, body) {
 
         let utterBody = new SpeechSynthesisUtterance(body);
         utterBody.lang = "en-GB";
-        utterBody.rate = 1.25;
-        utterBody.pitch = 1.25;
+        utterBody.rate = 1.4;
+        utterBody.pitch = 1.2;
         synth.speak(utterBody);
 
       } else {
