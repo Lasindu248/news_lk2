@@ -1,5 +1,5 @@
 // See https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance/voice
-function tts(id, text) {
+function tts(id, title, body) {
   const synth = window.speechSynthesis;
   synth.cancel();
 
@@ -8,10 +8,19 @@ function tts(id, text) {
     if (button.id === id) {
       if (button.innerHTML === "⏯︎") {
         button.innerHTML = "⏸︎";
-        let utterThis = new SpeechSynthesisUtterance(text);
-        utterThis.lang = "en-GB";
-        utterThis.rate = 1.25;
-        synth.speak(utterThis);
+
+        let utterTitle = new SpeechSynthesisUtterance(title);
+        utterTitle.lang = "en-GB";
+        utterTitle.rate = 1;
+        utterTitle.pitch = 0.5;
+        synth.speak(utterTitle);
+
+        let utterBody = new SpeechSynthesisUtterance(body);
+        utterBody.lang = "en-GB";
+        utterBody.rate = 1.25;
+        utterBody.pitch = 1.25;
+        synth.speak(utterBody);
+
       } else {
         button.innerHTML = "⏯︎";
       }
