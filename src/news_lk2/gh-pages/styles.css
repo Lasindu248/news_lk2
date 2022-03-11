@@ -1,93 +1,86 @@
-
-
 body {
-	font-family: Gill Sans;
-	width: 80%;
-	margin: auto;
-	margin-top: 12px;
-	font-size: 200%;
+  font-family: Gill Sans;
+  width: 80%;
+  margin: auto;
+  margin-top: 12px;
+  font-size: 200%;
 }
 
 a {
-	text-decoration: none;
-	opacity: 0.4;
+  text-decoration: none;
+  opacity: 0.4;
 }
 
 a:hover {
-	opacity: 0.7;
+  opacity: 0.7;
 }
 
 h3 {
-	margin-top: 3px;
-	margin-bottom: 3px;
-	max-width: 80%;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  max-width: 80%;
 }
 
 .a-date-link {
-	color: maroon;
+  color: maroon;
 }
 
 .a-date-link-current {
-	opacity: 1.0;
+  opacity: 1;
 }
 
 .a-newspaper {
-	color: maroon;
+  color: maroon;
 }
 
 .span-time-str-only {
-	color: lightgray;
+  color: lightgray;
 }
 
 .div-article {
-	margin-bottom: 36px;
-	margin-right: 12px;
+  margin-bottom: 36px;
+  margin-right: 12px;
 }
 
 .div-last-updated {
-	color: lightgray;
+  color: lightgray;
 }
 
 .p-nlp {
-
 }
 
 .span-n-articles {
-	font-size: x-small;
+  font-size: x-small;
 }
 
 .span-nlp {
-	color: black;
+  color: black;
 }
 
 .span-nlp-num {
-	color: orange;
+  color: orange;
 }
 
 .span-nlp-propn {
-	color: green;
+  color: green;
 }
 
-
-
 .span-reading-time {
-	color: lightgray;
+  color: lightgray;
 }
 
 .span-seperator {
-	color: lightgray;
+  color: lightgray;
 }
 
 .button-tts {
-	font-size: 80%;
-	padding: 6px;
-	border-radius: 6px;
-	border: 1px solid gray;
-	background-color: white;
-	color: maroon;
-	opacity: 0.5;
+  padding: 6px;
+  border: none;
+  background-color: white;
+  font-size: 100%;
+  opacity: 0.5;
 }
 
 .button-tts:hover {
-	opacity: 1;
+  opacity: 1;
 }
