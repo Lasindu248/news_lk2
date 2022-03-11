@@ -32,37 +32,18 @@ def render_javascript():
         {'type': 'text/javascript', 'src': 'index.js'},
     )
 
+
 def render_link_styles(css_file='styles.css'):
     return _('link', None, {'rel': 'stylesheet', 'href': css_file})
 
 
-def render_tts_script(article, h):
+def render_tts_button(article):
     text = '. '.join([article.title] + article.body_lines)
-    return _('script', '''
-function tts_%s() {
-    let synth = window.speechSynthesis;
-    synth.cancel();
-    let text = '%s';
-    let utterThis = new SpeechSynthesisUtterance(text);
-    synth.speak(utterThis);
-}
-    ''' % (h, text))
-
-
-def render_tts_button_only(h):
     return _(
         'button',
         '▶',
-        {'onclick': 'tts_%s()' % (h), 'class': 'button-tts'},
+        {'onclick': '''tts('%s')''' % (text), 'class': 'button-tts'},
     )
-
-
-def render_tts_button(article):
-    h = hashx.md5(article.title)
-    return _('span', [
-        render_tts_script(article, h),
-        render_tts_button_only(h),
-    ])
 
 
 def render_article(article):
