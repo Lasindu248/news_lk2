@@ -1,7 +1,7 @@
 import os
 import shutil
 
-from utils import hashx, timex
+from utils import timex
 from utils.xmlx import _
 
 from news_lk2._utils import log
@@ -24,6 +24,7 @@ def clean():
 
 def render_meta():
     return _('meta', None, {'charset': 'utf-8'})
+
 
 def render_javascript():
     return _(
