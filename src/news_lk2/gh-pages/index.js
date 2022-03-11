@@ -12,7 +12,7 @@ function tts(id, title, body) {
         let utterTitle = new SpeechSynthesisUtterance(title);
         utterTitle.lang = "en-GB";
         utterTitle.rate = 1;
-        utterTitle.pitch = 0.5;
+        utterTitle.pitch = 1;
         synth.speak(utterTitle);
 
         let utterBody = new SpeechSynthesisUtterance(body);
