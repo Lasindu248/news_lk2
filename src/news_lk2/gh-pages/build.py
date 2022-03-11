@@ -25,6 +25,12 @@ def clean():
 def render_meta():
     return _('meta', None, {'charset': 'utf-8'})
 
+def render_javascript():
+    return _(
+        'script',
+        ' ',
+        {'type': 'text/javascript', 'src': 'index.js'},
+    )
 
 def render_link_styles(css_file='styles.css'):
     return _('link', None, {'rel': 'stylesheet', 'href': css_file})
@@ -122,6 +128,7 @@ def build_paper():
             )
         ], {'class': 'div-last-updated'}),
         _('div', rendered_articles),
+        render_javascript(),
     ])
     html = _('html', [render_meta(), head, body])
     html_file = os.path.join(DIR_GH_PAGES, 'index.html')
