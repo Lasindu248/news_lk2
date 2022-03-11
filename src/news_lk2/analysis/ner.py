@@ -54,35 +54,16 @@ def get_combined_nlp(text):
 
 
 def render_line(line):
-    doc = nlp(line)
-    prev_pos = None
-    current_segment = None
+    combined_nlp = get_combined_nlp(line)
     rendered_segments = []
-    for token in doc:
-        pos = token.pos_.lower()
-        text = token.text
-        if pos != prev_pos:
-            rendered_segments.append(
-                _(
-                    'span',
-                    current_segment,
-                    {'class': f'span-nlp span-nlp-{prev_pos}'},
-                )
-            )
-            current_segment = None
-
-        if current_segment is None:
-            current_segment = text
-        else:
-            current_segment += ' ' + text
-        prev_pos = pos
-
-    if current_segment:
+    for token in combined_nlp:
+        pos = token['pos']
+        text = token['text']
         rendered_segments.append(
             _(
                 'span',
                 text,
-                {'class': f'span-nlp span-nlp-{prev_pos}'},
+                {'class': f'span-nlp span-nlp-{pos}'},
             )
         )
     return _('span', rendered_segments)
