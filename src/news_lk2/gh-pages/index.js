@@ -1,10 +1,21 @@
-function tts(text) {
-    let synth = window.speechSynthesis;
-    synth.cancel();
+function tts(id, text) {
+  const synth = window.speechSynthesis;
+  synth.cancel();
 
-    let utterThis = new SpeechSynthesisUtterance(text);
-    utterThis.lang = 'en-GB';
-    utterThis.rate = 1.25;
-
-    synth.speak(utterThis);
+  const buttons = document.getElementsByTagName("button");
+  for (button of buttons) {
+    if (button.id === id) {
+      if (button.innerHTML === "⏯︎") {
+        button.innerHTML = "⏸︎";
+        let utterThis = new SpeechSynthesisUtterance(text);
+        utterThis.lang = "en-GB";
+        utterThis.rate = 1.25;
+        synth.speak(utterThis);
+      } else {
+        button.innerHTML = "⏯︎";
+      }
+    } else {
+      button.innerHTML = "⏯︎";
+    }
+  }
 }
