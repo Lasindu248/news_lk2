@@ -2,10 +2,9 @@ import math
 
 from utils import jsonx, timex
 
+from news_lk2._constants import WORDS_PER_MINUTE
 from news_lk2._utils import log
 from news_lk2.core.filesys import get_article_file, get_hash
-
-WORDS_PER_MINUTE = 250
 
 
 class Article:
