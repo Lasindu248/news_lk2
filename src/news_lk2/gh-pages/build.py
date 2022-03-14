@@ -7,7 +7,8 @@ from utils.xmlx import _
 from news_lk2._constants import TEST_MODE
 from news_lk2._utils import log
 from news_lk2.analysis.ner import render_line
-from news_lk2.analysis.paper import dedupe_by_title, get_articles
+from news_lk2.analysis.paper import (dedupe_by_title, get_articles,
+                                     split_body_lines)
 from news_lk2.core.filesys import DIR_REPO, DIR_ROOT, git_checkout
 
 DIR_GH_PAGES = os.path.join(DIR_ROOT, f'{DIR_REPO}-gh-pages')
@@ -54,6 +55,7 @@ def render_tts_button(article):
 
 
 def render_article(article):
+    before_lines, after_lines = split_body_lines(article.body_lines)
     return _('div', [
         _('div', [
             _(
@@ -80,7 +82,7 @@ def render_article(article):
         ]),
     ] + list(map(
         lambda line: _('p', [render_line(line)]),
-        article.body_lines,
+        before_lines + ['...'],
     )), {'class': 'div-article'})
 
 
