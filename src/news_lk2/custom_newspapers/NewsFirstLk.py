@@ -8,6 +8,10 @@ TIME_RAW_FORMAT = '%d %b, %Y\t| %I:%M %p'
 
 class NewsFirstLk(AbstractNewsPaper):
     @classmethod
+    def use_selenium(cls):
+        return True
+
+    @classmethod
     def get_index_urls(cls):
         return [
             'https://www.newsfirst.lk/latest-news/',

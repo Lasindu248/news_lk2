@@ -10,6 +10,10 @@ TIME_RAW_FORMAT = '%A, %B %d, %Y - %H:%M'
 
 class DailyNewsLk(AbstractNewsPaper):
     @classmethod
+    def use_selenium(cls):
+        return True
+
+    @classmethod
     def get_index_urls(cls):
         return [os.path.join(URL_BASE, 'category/local')]
         return list(map(
