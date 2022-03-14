@@ -1,6 +1,7 @@
 
 from utils import timex
 
+from news_lk2._constants import WORDS_PER_MINUTE
 from news_lk2.core import Article
 from news_lk2.core.filesys import get_article_files
 
@@ -65,3 +66,17 @@ def dedupe_by_title(articles):
     for article in articles:
         title_to_article[article.title] = article
     return sorted(list(title_to_article.values()))
+
+
+def split_body_lines(lines, split_point=WORDS_PER_MINUTE):
+    word_count = 0
+    before_lines = []
+    after_lines = []
+    for line in lines:
+        words = line.split(' ')
+        if word_count < split_point:
+            before_lines.append(line)
+        else:
+            after_lines.append(line)
+        word_count += len(words)
+    return before_lines, after_lines
