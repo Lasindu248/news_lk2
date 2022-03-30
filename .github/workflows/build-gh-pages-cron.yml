@@ -2,7 +2,7 @@ name: Build GitHub Pages - Cron
 
 on:
  schedule:
-   - cron:  "59 * * * *"
+   - cron:  "15 */4 * * *"
 
 jobs:
   upload-data:
