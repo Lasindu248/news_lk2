@@ -40,7 +40,12 @@ class AbstractNewsPaper(ABC):
 
     @classmethod
     def get_soup(cls, url):
-        html = www.read(url, cached=True, use_selenium=cls.use_selenium())
+        try:
+            html = www.read(url, cached=True, use_selenium=cls.use_selenium())
+        except Exception as e:
+            log.error(str(e))
+            return None
+
         if is_html_valid(html):
             return BeautifulSoup(html, 'html.parser')
         return None
