@@ -20,7 +20,6 @@ function tts(id, title, body) {
         utterBody.rate = 1.2;
         utterBody.pitch = 1.2;
         synth.speak(utterBody);
-
       } else {
         button.innerHTML = "⏯︎";
       }
