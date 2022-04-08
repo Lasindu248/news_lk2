@@ -1,149 +1,83 @@
 # news_lk2 (upload_data summary)
 
-*Last run April 08, 2022 08:41AM UTC*
+*Last run April 08, 2022 09:16AM UTC*
 
-* 20220408 - 92 articles
+* 20220408 - 74 articles
 
-* 20220407 - 137 articles
+* 20220407 - 58 articles
 
-* 20220406 - 147 articles
+* 20220406 - 22 articles
 
-* 20220405 - 160 articles
+* 20220405 - 12 articles
 
-* 20220404 - 174 articles
+* 20220404 - 11 articles
 
-* 20220403 - 136 articles
+* 20220403 - 1 articles
 
-* 20220402 - 126 articles
+* 20220402 - 3 articles
 
-* 20220401 - 203 articles
+* 20220401 - 8 articles
 
-* 20220331 - 162 articles
+* 20220331 - 10 articles
 
-* 20220330 - 139 articles
+* 20220330 - 5 articles
 
-* 20220329 - 109 articles
+* 20220329 - 5 articles
 
-* 20220328 - 115 articles
+* 20220328 - 3 articles
 
-* 20220327 - 65 articles
+* 20220325 - 1 articles
 
-* 20220326 - 81 articles
+* 20220323 - 1 articles
 
-* 20220325 - 134 articles
+* 20220318 - 2 articles
 
-* 20220324 - 141 articles
+* 20220315 - 1 articles
 
-* 20220323 - 134 articles
+* 20220312 - 1 articles
 
-* 20220322 - 128 articles
+* 20220311 - 3 articles
 
-* 20220321 - 139 articles
+* 20220304 - 3 articles
 
-* 20220320 - 78 articles
+* 20220302 - 1 articles
 
-* 20220319 - 81 articles
+* 20220228 - 1 articles
 
-* 20220318 - 147 articles
+* 20220227 - 1 articles
 
-* 20220317 - 112 articles
+* 20220226 - 1 articles
 
-* 20220316 - 157 articles
+* 20220215 - 1 articles
 
-* 20220315 - 156 articles
+* 20220209 - 1 articles
 
-* 20220314 - 154 articles
+* 20220201 - 1 articles
 
-* 20220313 - 64 articles
+* 20220124 - 1 articles
 
-* 20220312 - 70 articles
+* 20220106 - 2 articles
 
-* 20220311 - 135 articles
+* 20211209 - 1 articles
 
-* 20220310 - 129 articles
+* 20211207 - 1 articles
 
-* 20220309 - 126 articles
+* 20211126 - 1 articles
 
-* 20220308 - 137 articles
+* 20211113 - 1 articles
 
-* 20220307 - 76 articles
+* 20211109 - 1 articles
 
-* 20220306 - 2 articles
+* 20211108 - 1 articles
 
-* 20220305 - 20 articles
+* 20211001 - 1 articles
 
-* 20220304 - 26 articles
+* 20210909 - 1 articles
 
-* 20220303 - 8 articles
+* 20210905 - 1 articles
 
-* 20220302 - 18 articles
+* 20210827 - 1 articles
 
-* 20220301 - 6 articles
+* 20210823 - 1 articles
 
-* 20220228 - 11 articles
-
-* 20220227 - 3 articles
-
-* 20220226 - 2 articles
-
-* 20220225 - 3 articles
-
-* 20220218 - 2 articles
-
-* 20220215 - 2 articles
-
-* 20220211 - 2 articles
-
-* 20220209 - 2 articles
-
-* 20220205 - 2 articles
-
-* 20220203 - 1 articles
-
-* 20220201 - 2 articles
-
-* 20220124 - 2 articles
-
-* 20220115 - 1 articles
-
-* 20220106 - 6 articles
-
-* 20211209 - 3 articles
-
-* 20211207 - 2 articles
-
-* 20211126 - 3 articles
-
-* 20211113 - 2 articles
-
-* 20211109 - 2 articles
-
-* 20211108 - 3 articles
-
-* 20211105 - 2 articles
-
-* 20211030 - 1 articles
-
-* 20211001 - 3 articles
-
-* 20210909 - 3 articles
-
-* 20210905 - 3 articles
-
-* 20210827 - 3 articles
-
-* 20210823 - 2 articles
-
-* 20210821 - 3 articles
-
-* 20210721 - 3 articles
-
-* 20210712 - 2 articles
-
-* 20210708 - 3 articles
-
-* 20210625 - 2 articles
-
-* 20210617 - 2 articles
-
-* 20210610 - 3 articles
+* 20210821 - 1 articles
