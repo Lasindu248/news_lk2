@@ -1,8 +1,8 @@
 # news_lk2 (upload_data summary)
 
-*Last run April 08, 2022 07:06AM UTC*
+*Last run April 08, 2022 07:37AM UTC*
 
-* 20220408 - 66 articles
+* 20220408 - 75 articles
 
 * 20220407 - 137 articles
 
