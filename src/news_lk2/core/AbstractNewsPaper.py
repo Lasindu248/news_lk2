@@ -94,17 +94,21 @@ class AbstractNewsPaper(ABC):
         if not soup:
             log.warn(f'{article_file} has invalid HTML. Not parsing.')
             return
-        article = Article(
-            newspaper_id=cls.get_newspaper_id(),
-            url=article_url,
-            time_ut=cls.parse_time_ut(soup),
-            title=cls.parse_title(soup),
-            body_lines=list(filter(
-                lambda line: is_valid_line(line),
-                cls.parse_body_lines(soup),
-            )),
-        )
-        article.store()
+        try:
+            article = Article(
+                newspaper_id=cls.get_newspaper_id(),
+                url=article_url,
+                time_ut=cls.parse_time_ut(soup),
+                title=cls.parse_title(soup),
+                body_lines=list(filter(
+                    lambda line: is_valid_line(line),
+                    cls.parse_body_lines(soup),
+                )),
+            )
+            article.store()
+        except ValueError as e:
+            log.error(str(e))
+            return
 
     @classmethod
     def scrape(cls):
