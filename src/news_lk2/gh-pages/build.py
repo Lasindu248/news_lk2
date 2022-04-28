@@ -80,7 +80,7 @@ def render_article(article):
         ]),
     ] + list(map(
         lambda line: _('p', [render_line(line)]),
-        article.body_lines,
+        article.body_lines_truncated,
     )), {'class': 'div-article'})
 
 
