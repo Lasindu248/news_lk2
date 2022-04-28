@@ -6,6 +6,8 @@ from news_lk2._constants import WORDS_PER_MINUTE
 from news_lk2._utils import log
 from news_lk2.core.filesys import get_article_file, get_hash
 
+MAX_BODY_LINES_TRUNCATED = 5
+
 
 class Article:
     def __init__(self, newspaper_id, url, time_ut, title, body_lines):
@@ -77,3 +79,9 @@ class Article:
             title=d['title'],
             body_lines=d['body_lines'],
         )
+
+    @property
+    def body_lines_truncated(self):
+        if len(self.body_lines) > MAX_BODY_LINES_TRUNCATED:
+            return self.body_lines[:MAX_BODY_LINES_TRUNCATED] + ['...']
+        return self.body_lines
