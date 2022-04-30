@@ -85,7 +85,7 @@ class Article:
     def body_lines_truncated(self):
         truncated_body_lines = []
         word_count = 0
-        for line in self.body_Lines:
+        for line in self.body_lines:
             truncated_body_lines.append(line)
 
             words = line.split(' ')
