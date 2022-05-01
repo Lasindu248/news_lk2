@@ -91,5 +91,6 @@ class Article:
             words = line.split(' ')
             word_count += len(words)
             if word_count > MAX_WORDS_TRUNCATED:
-                return truncated_body_lines
+                return truncated_body_lines + ['...']
+
         return self.body_lines
