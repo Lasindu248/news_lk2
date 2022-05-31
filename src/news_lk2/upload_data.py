@@ -17,9 +17,12 @@ def build_readme_summary():
     time_last_run = timex.format_current_date_with_timezone()
     md_lines.append(f'*Last run {time_last_run}*')
 
+    total_n_articles = 0
     for date_id, articles in reversed(list(date_id_to_articles.items())):
         n_articles = len(articles)
         md_lines.append(f'* {date_id} - {n_articles} articles')
+        total_n_articles += n_articles
+    md_lines.append(f'* **TOTAL** - {total_n_articles} articles')
 
     md_file = os.path.join(DIR_REPO, 'README.md')
     filex.write(md_file, DELIM_MD.join(md_lines))
