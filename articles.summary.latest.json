@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654007760,
+    "title": "Notice for O/L exam candidates",
+    "url": "http://www.adaderana.lk/news/82792/notice-for-ol-exam-candidates",
+    "file_name": "/tmp/news_lk2/articles/70/70e7d080.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654005360,
     "title": "Sri Lanka key tax changes, top personal tax rate 34-pct, companies 30-pct",
@@ -691,12 +698,5 @@
     "title": "Oil climbs above $121 a barrel",
     "url": "https://www.dailymirror.lk/breaking_news/Oil-climbs-above-121-a-barrel/108-238090",
     "file_name": "/tmp/news_lk2/articles/af/afb58651.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653970440,
-    "title": "Oil climbs above $121 a barrel",
-    "url": "https://www.dailymirror.lk/latest_news/Oil-climbs-above-121-a-barrel/342-238090",
-    "file_name": "/tmp/news_lk2/articles/b6/b6176aa0.json"
   }
 ]
