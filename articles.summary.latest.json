@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653994440,
+    "title": "Rain is fine for some....",
+    "url": "https://www.dailymirror.lk/latest_news/Rain-is-fine-for-some/342-238106",
+    "file_name": "/tmp/news_lk2/articles/57/57aff76c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1653994020,
+    "title": "Sri Lanka to increaes VAT to 12 percent, telecom levy to 15 percent",
+    "url": "https://economynext.com/sri-lanka-to-increaes-vat-to-12-percent-telecom-levy-to-15-percent-94976/",
+    "file_name": "/tmp/news_lk2/articles/dd/dd85247d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653993780,
+    "title": "Powercut to return after O/L exam",
+    "url": "https://www.dailymirror.lk/latest_news/Powercut-to-return-after-OL-exam/342-238105",
+    "file_name": "/tmp/news_lk2/articles/90/9055f649.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1653993780,
+    "title": "Sri Lanka inflation hits 39.1-pct in May after money printing, botched float",
+    "url": "https://economynext.com/sri-lanka-inflation-hits-39-1-pct-in-may-after-money-printing-botched-float-94974/",
+    "file_name": "/tmp/news_lk2/articles/f9/f92ace13.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1653993240,
     "title": "Sri Lanka increases VAT to 12% & Telecommunication Levy to 15%",
@@ -670,33 +698,5 @@
     "title": "Sri Lanka seeks another US$ 500 million credit from India for fuel",
     "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-seeks-another-US-500-million-credit-from-India-for-fuel/342-238029",
     "file_name": "/tmp/news_lk2/articles/9a/9a9574a7.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1653936120,
-    "title": "President instructs officials to take speedy actions to ensure food security",
-    "url": "http://www.adaderana.lk/news/82777/president-instructs-officials-to-take-speedy-actions-to-ensure-food-security",
-    "file_name": "/tmp/news_lk2/articles/6e/6e32aa9f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653936000,
-    "title": "21 A should be a genuine move",
-    "url": "https://www.dailymirror.lk/opinion/21-A-should-be-a-genuine-move/172-238054",
-    "file_name": "/tmp/news_lk2/articles/f8/f8e011ce.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653935940,
-    "title": "Unpopular opinion: Gota pushed the failing economy down the precipice Perhaps someone had to break it to fix it",
-    "url": "https://www.dailymirror.lk/opinion/Unpopular-opinion-Gota-pushed-the-failing-economy-down-the-precipice-Perhaps-someone-had-to-break-it-to-fix-it/172-238055",
-    "file_name": "/tmp/news_lk2/articles/0a/0aca639c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653934380,
-    "title": "IUSF on public awareness campaign...",
-    "url": "https://www.dailymirror.lk/caption_story/IUSF-on-public-awareness-campaign/110-238032",
-    "file_name": "/tmp/news_lk2/articles/6d/6d828366.json"
   }
 ]

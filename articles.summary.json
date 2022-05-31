@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653994440,
+    "title": "Rain is fine for some....",
+    "url": "https://www.dailymirror.lk/latest_news/Rain-is-fine-for-some/342-238106",
+    "file_name": "/tmp/news_lk2/articles/57/57aff76c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1653994020,
+    "title": "Sri Lanka to increaes VAT to 12 percent, telecom levy to 15 percent",
+    "url": "https://economynext.com/sri-lanka-to-increaes-vat-to-12-percent-telecom-levy-to-15-percent-94976/",
+    "file_name": "/tmp/news_lk2/articles/dd/dd85247d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653993780,
+    "title": "Powercut to return after O/L exam",
+    "url": "https://www.dailymirror.lk/latest_news/Powercut-to-return-after-OL-exam/342-238105",
+    "file_name": "/tmp/news_lk2/articles/90/9055f649.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1653993780,
+    "title": "Sri Lanka inflation hits 39.1-pct in May after money printing, botched float",
+    "url": "https://economynext.com/sri-lanka-inflation-hits-39-1-pct-in-may-after-money-printing-botched-float-94974/",
+    "file_name": "/tmp/news_lk2/articles/f9/f92ace13.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1653993240,
     "title": "Sri Lanka increases VAT to 12% & Telecommunication Levy to 15%",
