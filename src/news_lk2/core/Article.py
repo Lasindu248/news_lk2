@@ -22,39 +22,13 @@ class Article:
         time_ut,
         title,
         body_lines,
-        title_si=None,
-        body_lines_si=None,
-        title_ta=None,
-        body_lines_ta=None,
     ):
         self.newspaper_id = newspaper_id
         self.url = url
         self.time_ut = time_ut
 
         self.title = title
-        self.title_si = title_si
-        self.title_ta = title_ta
-
         self.body_lines = body_lines
-        self.body_lines_si = body_lines_si
-        self.body_lines_ta = body_lines_ta
-
-        if not self.title_si:
-            self.title_si = TRANSLATOR_EN_TO_SI.translate(self.title)
-
-        if not self.title_ta:
-            self.title_ta = TRANSLATOR_END_TO_TA.translate(self.title)
-
-        if not self.body_lines_si:
-            self.body_lines_si = list(map(
-                lambda line: TRANSLATOR_EN_TO_SI.translate(line),
-                self.body_lines,
-            ))
-        if not self.body_lines_ta:
-            self.body_lines_ta = list(map(
-                lambda line: TRANSLATOR_END_TO_TA.translate(line),
-                self.body_lines,
-            ))
 
     @property
     def url_hash(self):
@@ -99,10 +73,6 @@ class Article:
             time_ut=self.time_ut,
             title=self.title,
             body_lines=self.body_lines,
-            title_si=self.title_si,
-            body_lines_si=self.body_lines_si,
-            title_ta=self.title_ta,
-            body_lines_ta=self.body_lines_ta,
         )
 
     def store(self):
@@ -120,11 +90,7 @@ class Article:
             url=d['url'],
             time_ut=d['time_ut'],
             title=d['title'],
-            body_lines=d['body_lines'],
-            title_si=d.get('title_si', ''),
-            body_lines_si=d.get('body_lines_si', []),
-            title_ta=d.get('title_ta', ''),
-            body_lines_ta=d.get('body_lines_ta', []),
+            body_lines=d['body_lines'],            
         )
 
     @property
