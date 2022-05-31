@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654023000,
+    "title": "Bollywood singer KK dies after concert In Kolkata",
+    "url": "https://www.dailymirror.lk/breaking_news/Bollywood-singer-KK-dies-after-concert-In-Kolkata/108-238118",
+    "file_name": "/tmp/news_lk2/articles/02/02034332.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654019400,
     "title": "NBRO extends landslide early warning issued to several areas",
@@ -16,16 +23,16 @@
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654017600,
-    "title": "Six more arrested over unrest on May 09 incidents",
-    "url": "http://www.adaderana.lk/news/82793/six-more-arrested-over-unrest-on-may-09-incidents",
-    "file_name": "/tmp/news_lk2/articles/d6/d6e7da05.json"
+    "title": "Six more arrested over unrest on May 09",
+    "url": "http://www.adaderana.lk/news/82793/six-more-arrested-over-unrest-on-may-09",
+    "file_name": "/tmp/news_lk2/articles/c4/c41ab554.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654017600,
-    "title": "Six more arrested over unrest on May 09",
-    "url": "http://www.adaderana.lk/news/82793/six-more-arrested-over-unrest-on-may-09",
-    "file_name": "/tmp/news_lk2/articles/c4/c41ab554.json"
+    "title": "Six more arrested over unrest on May 09 incidents",
+    "url": "http://www.adaderana.lk/news/82793/six-more-arrested-over-unrest-on-may-09-incidents",
+    "file_name": "/tmp/news_lk2/articles/d6/d6e7da05.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -52,15 +59,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654010820,
     "title": "Basil\u2019s loyalists in fresh move to scuttle 21A",
-    "url": "https://www.dailymirror.lk/latest_news/Basils-loyalists-in-fresh-move-to-scuttle-21A/342-238115",
-    "file_name": "/tmp/news_lk2/articles/25/254125a4.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Basils-loyalists-in-fresh-move-to-scuttle-21A/108-238115",
+    "file_name": "/tmp/news_lk2/articles/19/197a1b1d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654010820,
     "title": "Basil\u2019s loyalists in fresh move to scuttle 21A",
-    "url": "https://www.dailymirror.lk/breaking_news/Basils-loyalists-in-fresh-move-to-scuttle-21A/108-238115",
-    "file_name": "/tmp/news_lk2/articles/19/197a1b1d.json"
+    "url": "https://www.dailymirror.lk/latest_news/Basils-loyalists-in-fresh-move-to-scuttle-21A/342-238115",
+    "file_name": "/tmp/news_lk2/articles/25/254125a4.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -114,6 +121,13 @@
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654002180,
+    "title": "SC orders CID to place Duminda Silva under prison custody",
+    "url": "https://www.dailymirror.lk/top_story/SC-orders-CID-to-place-Duminda-Silva-under-prison-custody/155-238114",
+    "file_name": "/tmp/news_lk2/articles/a5/a5b1bf82.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654002180,
     "title": "SC orders CID to place Duminda Silva under prison custody: Court suspends presidential pardon granted to Duminda",
     "url": "https://www.dailymirror.lk/top_story/SC-orders-CID-to-place-Duminda-Silva-under-prison-custody-Court-suspends-presidential-pardon-granted-to-Duminda/155-238114",
     "file_name": "/tmp/news_lk2/articles/87/87a6a837.json"
@@ -127,17 +141,10 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654002180,
-    "title": "SC orders CID to place Duminda Silva under prison custody",
-    "url": "https://www.dailymirror.lk/top_story/SC-orders-CID-to-place-Duminda-Silva-under-prison-custody/155-238114",
-    "file_name": "/tmp/news_lk2/articles/a5/a5b1bf82.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654001700,
-    "title": "Suspect arrested over death of girl from Atulugama remanded",
-    "url": "http://www.adaderana.lk/news/82790/suspect-arrested-over-death-of-girl-from-atulugama-remanded",
-    "file_name": "/tmp/news_lk2/articles/a6/a677f84c.json"
+    "title": "PM to bring in political reforms, secure foreign assistance: Ruwan",
+    "url": "https://www.dailymirror.lk/latest_news/PM-to-bring-in-political-reforms-secure-foreign-assistance-Ruwan/342-238112",
+    "file_name": "/tmp/news_lk2/articles/e8/e85d8093.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -147,11 +154,11 @@
     "file_name": "/tmp/news_lk2/articles/05/0567388f.json"
   },
   {
-    "newspaper_id": "daily-mirror-lk",
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654001700,
-    "title": "PM to bring in political reforms, secure foreign assistance: Ruwan",
-    "url": "https://www.dailymirror.lk/latest_news/PM-to-bring-in-political-reforms-secure-foreign-assistance-Ruwan/342-238112",
-    "file_name": "/tmp/news_lk2/articles/e8/e85d8093.json"
+    "title": "Suspect arrested over death of girl from Atulugama remanded",
+    "url": "http://www.adaderana.lk/news/82790/suspect-arrested-over-death-of-girl-from-atulugama-remanded",
+    "file_name": "/tmp/news_lk2/articles/a6/a677f84c.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -248,15 +255,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653997320,
     "title": "Taxes incl. VAT to be increased",
-    "url": "https://www.dailymirror.lk/latest_news/Taxes-incl-VAT-to-be-increased/342-238109",
-    "file_name": "/tmp/news_lk2/articles/e0/e0392de3.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Taxes-incl-VAT-to-be-increased/108-238109",
+    "file_name": "/tmp/news_lk2/articles/54/543b1fdc.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653997320,
     "title": "Taxes incl. VAT to be increased",
-    "url": "https://www.dailymirror.lk/breaking_news/Taxes-incl-VAT-to-be-increased/108-238109",
-    "file_name": "/tmp/news_lk2/articles/54/543b1fdc.json"
+    "url": "https://www.dailymirror.lk/latest_news/Taxes-incl-VAT-to-be-increased/342-238109",
+    "file_name": "/tmp/news_lk2/articles/e0/e0392de3.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -276,22 +283,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653994440,
     "title": "Rain is fine for some....",
-    "url": "https://www.dailymirror.lk/latest_news/Rain-is-fine-for-some/342-238106",
-    "file_name": "/tmp/news_lk2/articles/57/57aff76c.json"
+    "url": "https://www.dailymirror.lk/caption_story/Rain-is-fine-for-some/110-238106",
+    "file_name": "/tmp/news_lk2/articles/11/1194da60.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653994440,
     "title": "Rain is fine for some....",
-    "url": "https://www.dailymirror.lk/caption_story/Rain-is-fine-for-some/110-238106",
-    "file_name": "/tmp/news_lk2/articles/11/1194da60.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1653994020,
-    "title": "Sri Lanka to increase VAT to 12 percent, telecom levy to 15 percent",
-    "url": "https://economynext.com/sri-lanka-to-increase-vat-to-12-percent-telecom-levy-to-15-percent-94976/",
-    "file_name": "/tmp/news_lk2/articles/18/18d31870.json"
+    "url": "https://www.dailymirror.lk/latest_news/Rain-is-fine-for-some/342-238106",
+    "file_name": "/tmp/news_lk2/articles/57/57aff76c.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -299,6 +299,13 @@
     "title": "Sri Lanka to increaes VAT to 12 percent, telecom levy to 15 percent",
     "url": "https://economynext.com/sri-lanka-to-increaes-vat-to-12-percent-telecom-levy-to-15-percent-94976/",
     "file_name": "/tmp/news_lk2/articles/dd/dd85247d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1653994020,
+    "title": "Sri Lanka to increase VAT to 12 percent, telecom levy to 15 percent",
+    "url": "https://economynext.com/sri-lanka-to-increase-vat-to-12-percent-telecom-levy-to-15-percent-94976/",
+    "file_name": "/tmp/news_lk2/articles/18/18d31870.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -381,15 +388,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653990540,
     "title": "SC suspends presidential pardon granted on Duminda Silva",
-    "url": "https://www.dailymirror.lk/breaking_news/SC-suspends-presidential-pardon-granted-on-Duminda-Silva/108-238103",
-    "file_name": "/tmp/news_lk2/articles/d6/d6597792.json"
+    "url": "https://www.dailymirror.lk/top_story/SC-suspends-presidential-pardon-granted-on-Duminda-Silva/155-238103",
+    "file_name": "/tmp/news_lk2/articles/4b/4b27d52b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653990540,
     "title": "SC suspends presidential pardon granted on Duminda Silva",
-    "url": "https://www.dailymirror.lk/top_story/SC-suspends-presidential-pardon-granted-on-Duminda-Silva/155-238103",
-    "file_name": "/tmp/news_lk2/articles/4b/4b27d52b.json"
+    "url": "https://www.dailymirror.lk/breaking_news/SC-suspends-presidential-pardon-granted-on-Duminda-Silva/108-238103",
+    "file_name": "/tmp/news_lk2/articles/d6/d6597792.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -402,15 +409,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653988740,
     "title": "Stop smoking, save dollars...",
-    "url": "https://www.dailymirror.lk/latest_news/Stop-smoking-save-dollars/342-238102",
-    "file_name": "/tmp/news_lk2/articles/d5/d51f16f0.json"
+    "url": "https://www.dailymirror.lk/caption_story/Stop-smoking-save-dollars/110-238102",
+    "file_name": "/tmp/news_lk2/articles/00/0070a635.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653988740,
     "title": "Stop smoking, save dollars...",
-    "url": "https://www.dailymirror.lk/caption_story/Stop-smoking-save-dollars/110-238102",
-    "file_name": "/tmp/news_lk2/articles/00/0070a635.json"
+    "url": "https://www.dailymirror.lk/latest_news/Stop-smoking-save-dollars/342-238102",
+    "file_name": "/tmp/news_lk2/articles/d5/d51f16f0.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -423,15 +430,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653986040,
     "title": "Edu. Ministry to probe incident",
-    "url": "https://www.dailymirror.lk/breaking_news/Edu-Ministry-to-probe-incident/108-238101",
-    "file_name": "/tmp/news_lk2/articles/50/50c3978d.json"
+    "url": "https://www.dailymirror.lk/latest_news/Edu-Ministry-to-probe-incident/342-238101",
+    "file_name": "/tmp/news_lk2/articles/a2/a2e47fa5.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653986040,
     "title": "Edu. Ministry to probe incident",
-    "url": "https://www.dailymirror.lk/latest_news/Edu-Ministry-to-probe-incident/342-238101",
-    "file_name": "/tmp/news_lk2/articles/a2/a2e47fa5.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Edu-Ministry-to-probe-incident/108-238101",
+    "file_name": "/tmp/news_lk2/articles/50/50c3978d.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -493,15 +500,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653982620,
     "title": "Navy deploys six teams to provide relief",
-    "url": "https://www.dailymirror.lk/breaking_news/Navy-deploys-six-teams-to-provide-relief/108-238098",
-    "file_name": "/tmp/news_lk2/articles/85/85a87ad8.json"
+    "url": "https://www.dailymirror.lk/latest_news/Navy-deploys-six-teams-to-provide-relief/342-238098",
+    "file_name": "/tmp/news_lk2/articles/1b/1b1b4edc.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653982620,
     "title": "Navy deploys six teams to provide relief",
-    "url": "https://www.dailymirror.lk/latest_news/Navy-deploys-six-teams-to-provide-relief/342-238098",
-    "file_name": "/tmp/news_lk2/articles/1b/1b1b4edc.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Navy-deploys-six-teams-to-provide-relief/108-238098",
+    "file_name": "/tmp/news_lk2/articles/85/85a87ad8.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -521,15 +528,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653981900,
     "title": "Shashi Weerawansa released on bail",
-    "url": "https://www.dailymirror.lk/breaking_news/Shashi-Weerawansa-released-on-bail/108-238095",
-    "file_name": "/tmp/news_lk2/articles/bd/bdd5c20a.json"
+    "url": "https://www.dailymirror.lk/latest_news/Shashi-Weerawansa-released-on-bail/342-238095",
+    "file_name": "/tmp/news_lk2/articles/a6/a66334b9.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653981900,
     "title": "Shashi Weerawansa released on bail",
-    "url": "https://www.dailymirror.lk/latest_news/Shashi-Weerawansa-released-on-bail/342-238095",
-    "file_name": "/tmp/news_lk2/articles/a6/a66334b9.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Shashi-Weerawansa-released-on-bail/108-238095",
+    "file_name": "/tmp/news_lk2/articles/bd/bdd5c20a.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -583,16 +590,16 @@
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1653979740,
-    "title": "Sashi Weerawansa granted bail",
-    "url": "http://www.adaderana.lk/news/82783/sashi-weerawansa-granted-bail",
-    "file_name": "/tmp/news_lk2/articles/29/29b98406.json"
+    "title": "Sashi Weerawansa\u2019s bail application taken up for consideration today",
+    "url": "http://www.adaderana.lk/news/82783/sashi-weerawansas-bail-application-taken-up-for-consideration-today",
+    "file_name": "/tmp/news_lk2/articles/b3/b3f38ed5.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1653979740,
-    "title": "Sashi Weerawansa\u2019s bail application taken up for consideration today",
-    "url": "http://www.adaderana.lk/news/82783/sashi-weerawansas-bail-application-taken-up-for-consideration-today",
-    "file_name": "/tmp/news_lk2/articles/b3/b3f38ed5.json"
+    "title": "Sashi Weerawansa granted bail",
+    "url": "http://www.adaderana.lk/news/82783/sashi-weerawansa-granted-bail",
+    "file_name": "/tmp/news_lk2/articles/29/29b98406.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -654,20 +661,6 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653975660,
     "title": "Rs. 695 bn Supplementary Budget receives cabinet nod",
-    "url": "https://www.dailymirror.lk/business/Rs-695-bn-Supplementary-Budget-receives-cabinet-nod/215-238092",
-    "file_name": "/tmp/news_lk2/articles/87/87e59bf1.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653975660,
-    "title": "Rs. 695 bn Supplementary Budget receives cabinet nod",
-    "url": "https://www.dailymirror.lk/mirror_business/Rs-695-bn-Supplementary-Budget-receives-cabinet-nod/241-238092",
-    "file_name": "/tmp/news_lk2/articles/8d/8d75e0d0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653975660,
-    "title": "Rs. 695 bn Supplementary Budget receives cabinet nod",
     "url": "https://www.dailymirror.lk/business_247/Rs-695-bn-Supplementary-Budget-receives-cabinet-nod/395-238092",
     "file_name": "/tmp/news_lk2/articles/d7/d77ebdd2.json"
   },
@@ -675,8 +668,22 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653975660,
     "title": "Rs. 695 bn Supplementary Budget receives cabinet nod",
+    "url": "https://www.dailymirror.lk/business/Rs-695-bn-Supplementary-Budget-receives-cabinet-nod/215-238092",
+    "file_name": "/tmp/news_lk2/articles/87/87e59bf1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653975660,
+    "title": "Rs. 695 bn Supplementary Budget receives cabinet nod",
     "url": "https://www.dailymirror.lk/breaking_news/Rs-695-bn-Supplementary-Budget-receives-cabinet-nod/108-238092",
     "file_name": "/tmp/news_lk2/articles/8b/8bc356de.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653975660,
+    "title": "Rs. 695 bn Supplementary Budget receives cabinet nod",
+    "url": "https://www.dailymirror.lk/mirror_business/Rs-695-bn-Supplementary-Budget-receives-cabinet-nod/241-238092",
+    "file_name": "/tmp/news_lk2/articles/8d/8d75e0d0.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -691,12 +698,5 @@
     "title": "Sri Lanka to hike taxes back to 2019 levels: Minister",
     "url": "https://economynext.com/sri-lanka-to-hike-taxes-back-to-2019-levels-minister-94945/",
     "file_name": "/tmp/news_lk2/articles/32/32b8cf65.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1653974760,
-    "title": "Sri Lanka agriculture minister says food crisis avoidable, promises rice self-sufficiency in 2023",
-    "url": "https://economynext.com/sri-lanka-agriculture-minister-says-food-crisis-avoidable-promises-rice-self-sufficiency-in-2023-94944/",
-    "file_name": "/tmp/news_lk2/articles/4f/4fb593f7.json"
   }
 ]
