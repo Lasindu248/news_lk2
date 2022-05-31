@@ -22,10 +22,10 @@ class Article:
         time_ut,
         title,
         body_lines,
-        title_si,
-        body_lines_si,
-        title_ta,
-        body_lines_ta,
+        title_si=None,
+        body_lines_si=None,
+        title_ta=None,
+        body_lines_ta=None,
     ):
         self.newspaper_id = newspaper_id
         self.url = url
@@ -121,7 +121,6 @@ class Article:
             time_ut=d['time_ut'],
             title=d['title'],
             body_lines=d['body_lines'],
-
             title_si=d.get('title_si', ''),
             body_si_lines=d.get('body_lines_si', []),
             title_ta=d.get('title_ta', ''),
