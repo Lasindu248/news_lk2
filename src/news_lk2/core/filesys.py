@@ -1,4 +1,5 @@
 import os
+import shutil
 
 from utils import hashx
 
@@ -44,27 +45,19 @@ def get_article_file(url, dir_prefix=''):
 
 
 def git_checkout():
-    if not os.path.exists(DIR_REPO):
-        os.mkdir(DIR_REPO)
-        os.system(
-            '; '.join([
-                f'cd {DIR_ROOT}',
-                f'git clone {GIT_REPO_URL}',
-                'cd news_lk2',
-                'git checkout data',
-            ])
-        )
-        log.debug(f'Cloned {GIT_REPO_URL} [data] to {DIR_REPO}')
+    if os.path.exists(DIR_REPO):
+        shutil.rmtree(DIR_REPO)
 
+    os.mkdir(DIR_REPO)
     os.system(
         '; '.join([
             f'cd {DIR_ROOT}',
+            f'git clone {GIT_REPO_URL}',
             'cd news_lk2',
-            'git reset --hard HEAD',
-            'git pull origin data',
+            'git checkout data',
         ])
     )
-    log.debug(f'Pulled data from {GIT_REPO_URL} [data]')
+    log.debug(f'Cloned {GIT_REPO_URL} [data] to {DIR_REPO}')
 
 
 def get_article_files():
