@@ -1,6 +1,41 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653997920,
+    "title": "Atulugama murder:Suspect remanded",
+    "url": "https://www.dailymirror.lk/latest_news/Atulugama-murderSuspect-remanded/342-238110",
+    "file_name": "/tmp/news_lk2/articles/e6/e633196f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653997740,
+    "title": "Trinco Port to be devloped as industrial harbour",
+    "url": "https://www.dailymirror.lk/latest_news/Trinco-Port-to-be-devloped-as-industrial-harbour/342-238111",
+    "file_name": "/tmp/news_lk2/articles/7e/7ee5c84c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1653997680,
+    "title": "Sri Lanka\u2019s outgoing army commander Shavendra Silva to be Chief of Defence Staff",
+    "url": "https://economynext.com/sri-lankas-outgoing-army-commander-shavendra-silva-to-be-chief-of-defence-staff-94991/",
+    "file_name": "/tmp/news_lk2/articles/80/809e2891.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1653997560,
+    "title": "VAT and Telecom Tax to be increased",
+    "url": "http://www.adaderana.lk/news/82789/vat-and-telecom-tax-to-be-increased",
+    "file_name": "/tmp/news_lk2/articles/07/07e58318.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653997320,
+    "title": "Taxes incl. VAT to be increased",
+    "url": "https://www.dailymirror.lk/latest_news/Taxes-incl-VAT-to-be-increased/342-238109",
+    "file_name": "/tmp/news_lk2/articles/e0/e0392de3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653994440,
     "title": "Rain is fine for some....",
     "url": "https://www.dailymirror.lk/caption_story/Rain-is-fine-for-some/110-238106",
@@ -446,6 +481,13 @@
     "title": "Siblings murdered following a family dispute",
     "url": "https://www.newsfirst.lk/2022/05/31/siblings-murdered-following-a-family-dispute/",
     "file_name": "/tmp/news_lk2/articles/58/58e93d57.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653971880,
+    "title": "Bicycles for port workers",
+    "url": "https://www.dailymirror.lk/latest_news/Bicycles-for-port-workers/342-238108",
+    "file_name": "/tmp/news_lk2/articles/75/75c20991.json"
   },
   {
     "newspaper_id": "economy-next-com",

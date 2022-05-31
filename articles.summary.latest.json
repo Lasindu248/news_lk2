@@ -1,6 +1,41 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653997920,
+    "title": "Atulugama murder:Suspect remanded",
+    "url": "https://www.dailymirror.lk/latest_news/Atulugama-murderSuspect-remanded/342-238110",
+    "file_name": "/tmp/news_lk2/articles/e6/e633196f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653997740,
+    "title": "Trinco Port to be devloped as industrial harbour",
+    "url": "https://www.dailymirror.lk/latest_news/Trinco-Port-to-be-devloped-as-industrial-harbour/342-238111",
+    "file_name": "/tmp/news_lk2/articles/7e/7ee5c84c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1653997680,
+    "title": "Sri Lanka\u2019s outgoing army commander Shavendra Silva to be Chief of Defence Staff",
+    "url": "https://economynext.com/sri-lankas-outgoing-army-commander-shavendra-silva-to-be-chief-of-defence-staff-94991/",
+    "file_name": "/tmp/news_lk2/articles/80/809e2891.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1653997560,
+    "title": "VAT and Telecom Tax to be increased",
+    "url": "http://www.adaderana.lk/news/82789/vat-and-telecom-tax-to-be-increased",
+    "file_name": "/tmp/news_lk2/articles/07/07e58318.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653997320,
+    "title": "Taxes incl. VAT to be increased",
+    "url": "https://www.dailymirror.lk/latest_news/Taxes-incl-VAT-to-be-increased/342-238109",
+    "file_name": "/tmp/news_lk2/articles/e0/e0392de3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653994440,
     "title": "Rain is fine for some....",
     "url": "https://www.dailymirror.lk/caption_story/Rain-is-fine-for-some/110-238106",
@@ -448,6 +483,13 @@
     "file_name": "/tmp/news_lk2/articles/58/58e93d57.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653971880,
+    "title": "Bicycles for port workers",
+    "url": "https://www.dailymirror.lk/latest_news/Bicycles-for-port-workers/342-238108",
+    "file_name": "/tmp/news_lk2/articles/75/75c20991.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1653971820,
     "title": "Sri Lanka police 29-y-o father of three over murder of nine-year-old Fathima Ayesha",
@@ -656,47 +698,5 @@
     "title": "Suspect arrested for Atalugama girl\u2019s murder confesses to the crime",
     "url": "https://www.ft.lk/news/Suspect-arrested-for-Atalugama-girl-s-murder-confesses-to-the-crime/56-735534",
     "file_name": "/tmp/news_lk2/articles/4c/4c02be1a.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653942120,
-    "title": "Litro to resume LP gas distribution from today",
-    "url": "https://www.ft.lk/news/Litro-to-resume-LP-gas-distribution-from-today/56-735535",
-    "file_name": "/tmp/news_lk2/articles/32/32c7c81d.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653942120,
-    "title": "UNP Chairman says failing to pay ISBs will have direct negative impact on economy",
-    "url": "https://www.ft.lk/news/UNP-Chairman-says-failing-to-pay-ISBs-will-have-direct-negative-impact-on-economy/56-735536",
-    "file_name": "/tmp/news_lk2/articles/5c/5cde8cf6.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653941760,
-    "title": "Alumex wins Bronze at Asia Integrated Reporting Awards",
-    "url": "https://www.ft.lk/business/Alumex-wins-Bronze-at-Asia-Integrated-Reporting-Awards/34-735529",
-    "file_name": "/tmp/news_lk2/articles/1a/1ac1e394.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653941760,
-    "title": "Resus Energy connects 6 MW Solar PV power plant to national grid",
-    "url": "https://www.ft.lk/business/Resus-Energy-connects-6-MW-Solar-PV-power-plant-to-national-grid/34-735530",
-    "file_name": "/tmp/news_lk2/articles/58/58fd751c.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653940680,
-    "title": "Lanka SSL sweeps 4 Gold awards at National Convention on Quality and Productivity",
-    "url": "https://www.ft.lk/business/Lanka-SSL-sweeps-4-Gold-awards-at-National-Convention-on-Quality-and-Productivity/34-735518",
-    "file_name": "/tmp/news_lk2/articles/d5/d5210c99.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653940320,
-    "title": "Road Map for a Literature Review",
-    "url": "https://www.ft.lk/news/Road-Map-for-a-Literature-Review/56-735514",
-    "file_name": "/tmp/news_lk2/articles/5f/5f88f5de.json"
   }
 ]
