@@ -9,6 +9,7 @@ from news_lk2.core.filesys import get_article_file, get_hash
 MINUTES_PER_TRUNCATED_BODY = 1
 MAX_WORDS_TRUNCATED = WORDS_PER_MINUTE * MINUTES_PER_TRUNCATED_BODY
 
+
 class Article:
     def __init__(
         self,
