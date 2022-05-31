@@ -21,6 +21,27 @@
     "file_name": "/tmp/news_lk2/articles/02/02034332.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654021800,
+    "title": "Govt. to present Rs. 695 b Supplementary Budget soon",
+    "url": "https://www.ft.lk/news/Govt-to-present-Rs-695-b-Supplementary-Budget-soon/56-735562",
+    "file_name": "/tmp/news_lk2/articles/0c/0c2c7e27.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654021800,
+    "title": "Major General Vikum Liyanage appointed as the new Sri Lanka Army Commander",
+    "url": "https://www.ft.lk/news/Major-General-Vikum-Liyanage-appointed-as-the-new-Sri-Lanka-Army-Commander/56-735564",
+    "file_name": "/tmp/news_lk2/articles/78/780d951a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654021800,
+    "title": "Cabinet nod to amend five Acts to boost Govt. revenue",
+    "url": "https://www.ft.lk/news/Cabinet-nod-to-amend-five-Acts-to-boost-Govt-revenue/56-735563",
+    "file_name": "/tmp/news_lk2/articles/e0/e09e91f0.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654019400,
     "title": "NBRO extends landslide early warning issued to several areas",
@@ -677,26 +698,5 @@
     "title": "5 Acts to be amended to boost revenue; Rs. 695 b supplementary budget coming",
     "url": "https://www.ft.lk/news/5-Acts-to-be-amended-to-boost-revenue-Rs-695-b-supplementary-budget-coming/56-735550",
     "file_name": "/tmp/news_lk2/articles/10/107eb58c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653975660,
-    "title": "Rs. 695 bn Supplementary Budget receives cabinet nod",
-    "url": "https://www.dailymirror.lk/business_247/Rs-695-bn-Supplementary-Budget-receives-cabinet-nod/395-238092",
-    "file_name": "/tmp/news_lk2/articles/d7/d77ebdd2.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653975660,
-    "title": "Rs. 695 bn Supplementary Budget receives cabinet nod",
-    "url": "https://www.dailymirror.lk/business/Rs-695-bn-Supplementary-Budget-receives-cabinet-nod/215-238092",
-    "file_name": "/tmp/news_lk2/articles/87/87e59bf1.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653975660,
-    "title": "Rs. 695 bn Supplementary Budget receives cabinet nod",
-    "url": "https://www.dailymirror.lk/breaking_news/Rs-695-bn-Supplementary-Budget-receives-cabinet-nod/108-238092",
-    "file_name": "/tmp/news_lk2/articles/8b/8bc356de.json"
   }
 ]
