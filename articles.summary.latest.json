@@ -57,6 +57,13 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654012800,
+    "title": "US donor consortium partners with Rotary Club of Colombo Regency to donate crucial medical supplies",
+    "url": "https://www.dailymirror.lk/breaking_news/US-donor-consortium-partners-with-Rotary-Club-of-Colombo-Regency-to-donate-crucial-medical-supplies/108-238116",
+    "file_name": "/tmp/news_lk2/articles/08/086a9da9.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654010820,
     "title": "Basil\u2019s loyalists in fresh move to scuttle 21A",
     "url": "https://www.dailymirror.lk/breaking_news/Basils-loyalists-in-fresh-move-to-scuttle-21A/108-238115",
@@ -691,12 +698,5 @@
     "title": "Bastian Mw Shooting: CCD takes over Inquiry",
     "url": "https://www.newsfirst.lk/2022/05/31/bastian-mw-shooting-ccd-takes-over-inquiry/",
     "file_name": "/tmp/news_lk2/articles/2b/2b278f8f.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1653974820,
-    "title": "Sri Lanka to hike taxes back to 2019 levels: Minister",
-    "url": "https://economynext.com/sri-lanka-to-hike-taxes-back-to-2019-levels-minister-94945/",
-    "file_name": "/tmp/news_lk2/articles/32/32b8cf65.json"
   }
 ]
