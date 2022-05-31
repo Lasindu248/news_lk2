@@ -3,6 +3,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653994440,
     "title": "Rain is fine for some....",
+    "url": "https://www.dailymirror.lk/caption_story/Rain-is-fine-for-some/110-238106",
+    "file_name": "/tmp/news_lk2/articles/11/1194da60.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653994440,
+    "title": "Rain is fine for some....",
     "url": "https://www.dailymirror.lk/latest_news/Rain-is-fine-for-some/342-238106",
     "file_name": "/tmp/news_lk2/articles/57/57aff76c.json"
   },
@@ -14,11 +21,32 @@
     "file_name": "/tmp/news_lk2/articles/dd/dd85247d.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1653994020,
+    "title": "Sri Lanka to increase VAT to 12 percent, telecom levy to 15 percent",
+    "url": "https://economynext.com/sri-lanka-to-increase-vat-to-12-percent-telecom-levy-to-15-percent-94976/",
+    "file_name": "/tmp/news_lk2/articles/18/18d31870.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1653993900,
+    "title": "Power Cuts reduced to 2 hours \u2013 PUCSL",
+    "url": "https://www.newsfirst.lk/2022/05/31/power-cuts-reduced-to-2-hours-pucsl/",
+    "file_name": "/tmp/news_lk2/articles/fe/fee96518.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653993780,
     "title": "Powercut to return after O/L exam",
     "url": "https://www.dailymirror.lk/latest_news/Powercut-to-return-after-OL-exam/342-238105",
     "file_name": "/tmp/news_lk2/articles/90/9055f649.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653993780,
+    "title": "Powercut to return after O/L exam",
+    "url": "https://www.dailymirror.lk/breaking_news/Powercut-to-return-after-OL-exam/108-238105",
+    "file_name": "/tmp/news_lk2/articles/33/334d1af9.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -670,33 +698,5 @@
     "title": "Road Map for a Literature Review",
     "url": "https://www.ft.lk/news/Road-Map-for-a-Literature-Review/56-735514",
     "file_name": "/tmp/news_lk2/articles/5f/5f88f5de.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653937020,
-    "title": "TUI extends suspension of all tours to Sri Lanka till June 12",
-    "url": "https://www.dailymirror.lk/business-news/TUI-extends-suspension-of-all-tours-to-Sri-Lanka-till-June-12/273-238069",
-    "file_name": "/tmp/news_lk2/articles/18/185894d4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653937020,
-    "title": "TUI extends suspension of all tours to Sri Lanka till June 12",
-    "url": "https://www.dailymirror.lk/breaking_news/TUI-extends-suspension-of-all-tours-to-Sri-Lanka-till-June-12/108-238069",
-    "file_name": "/tmp/news_lk2/articles/03/032a71a2.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653936360,
-    "title": "Sri Lanka seeks another US$ 500 million credit from India for fuel",
-    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-seeks-another-US-500-million-credit-from-India-for-fuel/108-238029",
-    "file_name": "/tmp/news_lk2/articles/22/227dbd66.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653936360,
-    "title": "Sri Lanka seeks another US$ 500 million credit from India for fuel",
-    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-seeks-another-US-500-million-credit-from-India-for-fuel/342-238029",
-    "file_name": "/tmp/news_lk2/articles/9a/9a9574a7.json"
   }
 ]
