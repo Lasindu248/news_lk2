@@ -60,6 +60,7 @@ def git_checkout():
         '; '.join([
             f'cd {DIR_ROOT}',
             'cd news_lk2',
+            'git reset --hard HEAD',
             'git pull origin data',
         ])
     )
