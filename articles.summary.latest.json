@@ -1,38 +1,10 @@
 [
   {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654002180,
-    "title": "SC orders CID to place Duminda Silva under prison custody: Court suspends presidential pardon granted to Duminda",
-    "url": "https://www.dailymirror.lk/top_story/SC-orders-CID-to-place-Duminda-Silva-under-prison-custody-Court-suspends-presidential-pardon-granted-to-Duminda/155-238114",
-    "file_name": "/tmp/news_lk2/articles/87/87a6a837.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654001700,
-    "title": "PM to bring in political reforms, secure foreign assistance: Ruwan",
-    "url": "https://www.dailymirror.lk/breaking_news/PM-to-bring-in-political-reforms-secure-foreign-assistance-Ruwan/108-238112",
-    "file_name": "/tmp/news_lk2/articles/05/0567388f.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654001700,
-    "title": "Suspect arrested over death of girl from Atulugama remanded",
-    "url": "http://www.adaderana.lk/news/82790/suspect-arrested-over-death-of-girl-from-atulugama-remanded",
-    "file_name": "/tmp/news_lk2/articles/a6/a677f84c.json"
-  },
-  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654000620,
     "title": "Sri Lanka Supreme Court orders arrest of pardoned murder convict Duminda Silva: report",
     "url": "https://economynext.com/sri-lanka-supreme-court-orders-arrest-of-pardoned-murder-convict-duminda-silva-report-94996/",
     "file_name": "/tmp/news_lk2/articles/cb/cba851f3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653999840,
-    "title": "Army bids colourful farewell to Gen. Shavendra Silva",
-    "url": "https://www.dailymirror.lk/caption_story/Army-bids-colourful-farewell-to-Gen-Shavendra-Silva/110-238113",
-    "file_name": "/tmp/news_lk2/articles/88/885617cb.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -59,13 +31,6 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653997920,
     "title": "Atulugama murder:Suspect remanded",
-    "url": "https://www.dailymirror.lk/breaking_news/Atulugama-murderSuspect-remanded/108-238110",
-    "file_name": "/tmp/news_lk2/articles/c1/c1e0e37d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653997920,
-    "title": "Atulugama murder:Suspect remanded",
     "url": "https://www.dailymirror.lk/latest_news/Atulugama-murderSuspect-remanded/342-238110",
     "file_name": "/tmp/news_lk2/articles/e6/e633196f.json"
   },
@@ -75,13 +40,6 @@
     "title": "Trinco Port to be devloped as industrial harbour",
     "url": "https://www.dailymirror.lk/latest_news/Trinco-Port-to-be-devloped-as-industrial-harbour/342-238111",
     "file_name": "/tmp/news_lk2/articles/7e/7ee5c84c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653997740,
-    "title": "Trinco Port to be devloped as industrial harbour",
-    "url": "https://www.dailymirror.lk/breaking_news/Trinco-Port-to-be-devloped-as-industrial-harbour/108-238111",
-    "file_name": "/tmp/news_lk2/articles/9e/9edd9df1.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -103,13 +61,6 @@
     "title": "VAT and Telecom Tax to be increased",
     "url": "http://www.adaderana.lk/news/82789/vat-and-telecom-tax-to-be-increased",
     "file_name": "/tmp/news_lk2/articles/07/07e58318.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653997320,
-    "title": "Taxes incl. VAT to be increased",
-    "url": "https://www.dailymirror.lk/breaking_news/Taxes-incl-VAT-to-be-increased/108-238109",
-    "file_name": "/tmp/news_lk2/articles/54/543b1fdc.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -236,13 +187,6 @@
     "title": "SC suspends presidential pardon granted on Duminda Silva",
     "url": "https://www.dailymirror.lk/top_story/SC-suspends-presidential-pardon-granted-on-Duminda-Silva/155-238103",
     "file_name": "/tmp/news_lk2/articles/4b/4b27d52b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653990540,
-    "title": "SC suspends presidential pardon granted on Duminda Silva",
-    "url": "https://www.dailymirror.lk/breaking_news/SC-suspends-presidential-pardon-granted-on-Duminda-Silva/108-238103",
-    "file_name": "/tmp/news_lk2/articles/d6/d6597792.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -698,5 +642,61 @@
     "title": "SPC & Medical Supplies Division at COPE",
     "url": "https://www.newsfirst.lk/2022/05/31/spc-medical-supplies-division-at-cope/",
     "file_name": "/tmp/news_lk2/articles/87/87eba585.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653963360,
+    "title": "Five-point assistance from China to overcome crisis",
+    "url": "https://www.dailymirror.lk/latest_news/Five-point-assistance-from-China-to-overcome-crisis/342-238087",
+    "file_name": "/tmp/news_lk2/articles/11/117f8504.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653963360,
+    "title": "Five-point assistance from China to overcome crisis",
+    "url": "https://www.dailymirror.lk/breaking_news/Five-point-assistance-from-China-to-overcome-crisis/108-238087",
+    "file_name": "/tmp/news_lk2/articles/e2/e2553819.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1653961260,
+    "title": "Sri Lanka sell 2025, 2028 bonds raising Rs40bn",
+    "url": "https://economynext.com/sri-lanka-sell-2025-2028-bonds-raising-rs40bn-94939/",
+    "file_name": "/tmp/news_lk2/articles/db/db29b6fb.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1653960660,
+    "title": "Parts of the island to receive heavy rainfall above 100mm",
+    "url": "http://www.adaderana.lk/news/82778/parts-of-the-island-to-receive-heavy-rainfall-above-100mm-",
+    "file_name": "/tmp/news_lk2/articles/52/528de5e3.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1653960660,
+    "title": "Parts of the island to receive heavy rainfall above 100mm today",
+    "url": "http://www.adaderana.lk/news/82778/parts-of-the-island-to-receive-heavy-rainfall-above-100mm-today",
+    "file_name": "/tmp/news_lk2/articles/c5/c53e4d2f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1653958740,
+    "title": "Strong winds & heavy rain in many areas; Met Dept.",
+    "url": "https://www.newsfirst.lk/2022/05/31/strong-winds-met-dept/",
+    "file_name": "/tmp/news_lk2/articles/ee/eed92d74.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653957780,
+    "title": "Hearing of Shashi Weerawansa bail application postponed for today",
+    "url": "https://www.dailymirror.lk/breaking_news/Hearing-of-Shashi-Weerawansa-bail-application-postponed-for-today/108-238086",
+    "file_name": "/tmp/news_lk2/articles/bc/bc728522.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653957780,
+    "title": "Hearing of Shashi Weerawansa bail application postponed for today",
+    "url": "https://www.dailymirror.lk/latest_news/Hearing-of-Shashi-Weerawansa-bail-application-postponed-for-today/342-238086",
+    "file_name": "/tmp/news_lk2/articles/78/78e21168.json"
   }
 ]
