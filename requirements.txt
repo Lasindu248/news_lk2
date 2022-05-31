@@ -5,4 +5,4 @@ selenium
 tweepy
 utils-nuuuwan
 spacy
-googletrans
+deep-translator
