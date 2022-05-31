@@ -20,10 +20,10 @@ SHARD_NAME_LENGTH = 2
 ARTICLE_FILE_ONLY_LEN = HASH_LENGTH + 5
 
 
-def get_dir_article_shard(file_name_only):
+def get_dir_article_shard(file_name_only, dir_prefix):
     assert(len(file_name_only) == ARTICLE_FILE_ONLY_LEN)
     dir_shard_only = file_name_only[:SHARD_NAME_LENGTH]
-    return os.path.join(DIR_ARTICLES, dir_shard_only)
+    return os.path.join(DIR_ARTICLES + dir_prefix, dir_shard_only)
 
 
 def get_hash(url):
@@ -35,9 +35,9 @@ def get_article_file_only(url):
     return f'{h}.json'
 
 
-def get_article_file(url):
+def get_article_file(url, dir_prefix=''):
     file_name_only = get_article_file_only(url)
-    dir_article_shard = get_dir_article_shard(file_name_only)
+    dir_article_shard = get_dir_article_shard(file_name_only, dir_prefix)
     if not os.path.exists(dir_article_shard):
         os.system(f'mkdir -p {dir_article_shard}')
     return os.path.join(dir_article_shard, file_name_only)
