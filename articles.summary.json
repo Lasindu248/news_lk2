@@ -1,10 +1,31 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653988740,
+    "title": "Stop smoking, save dollars...",
+    "url": "https://www.dailymirror.lk/caption_story/Stop-smoking-save-dollars/110-238102",
+    "file_name": "/tmp/news_lk2/articles/00/0070a635.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1653988500,
+    "title": "Torrential downpour in Sri Lanka adds to people\u2019s woes; floods, landslides likely",
+    "url": "https://economynext.com/torrential-downpour-in-sri-lanka-adds-to-peoples-woes-floods-landslides-likely-94969/",
+    "file_name": "/tmp/news_lk2/articles/4d/4ddf601e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653986040,
     "title": "Edu. Ministry to probe incident",
     "url": "https://www.dailymirror.lk/latest_news/Edu-Ministry-to-probe-incident/342-238101",
     "file_name": "/tmp/news_lk2/articles/a2/a2e47fa5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653986040,
+    "title": "Edu. Ministry to probe incident",
+    "url": "https://www.dailymirror.lk/breaking_news/Edu-Ministry-to-probe-incident/108-238101",
+    "file_name": "/tmp/news_lk2/articles/50/50c3978d.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
