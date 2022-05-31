@@ -90,7 +90,7 @@ class Article:
             url=d['url'],
             time_ut=d['time_ut'],
             title=d['title'],
-            body_lines=d['body_lines'],            
+            body_lines=d['body_lines'],
         )
 
     @property
