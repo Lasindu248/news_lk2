@@ -1,6 +1,5 @@
 import math
 
-from deep_translator import GoogleTranslator
 from utils import jsonx, timex
 
 from news_lk2._constants import WORDS_PER_MINUTE
@@ -9,10 +8,6 @@ from news_lk2.core.filesys import get_article_file, get_hash
 
 MINUTES_PER_TRUNCATED_BODY = 1
 MAX_WORDS_TRUNCATED = WORDS_PER_MINUTE * MINUTES_PER_TRUNCATED_BODY
-
-TRANSLATOR_EN_TO_SI = GoogleTranslator(source='en', target='si')
-TRANSLATOR_END_TO_TA = GoogleTranslator(source='en', target='ta')
-
 
 class Article:
     def __init__(
