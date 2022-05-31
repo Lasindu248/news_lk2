@@ -41,7 +41,6 @@ def build_articles_summary():
             url=article.url,
             file_name=article.file_name,
         ))
-    data_list = sorted(data_list, key=lambda data: -data['time_ut'])
 
     articles_summary_file = os.path.join(DIR_REPO, 'articles.summary.json')
     jsonx.write(articles_summary_file, data_list)
