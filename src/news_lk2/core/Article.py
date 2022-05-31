@@ -15,24 +15,46 @@ TRANSLATOR_END_TO_TA = GoogleTranslator(source='en', target='ta')
 
 
 class Article:
-    def __init__(self, newspaper_id, url, time_ut, title, body_lines):
+    def __init__(
+        self,
+        newspaper_id,
+        url,
+        time_ut,
+        title,
+        body_lines,
+        title_si,
+        body_lines_si,
+        title_ta,
+        body_lines_ta,
+    ):
         self.newspaper_id = newspaper_id
         self.url = url
         self.time_ut = time_ut
 
         self.title = title
-        self.title_si = TRANSLATOR_EN_TO_SI.translate(title)
-        self.title_ta = TRANSLATOR_END_TO_TA.translate(title)
+        self.title_si = title_si
+        self.title_ta = title_ta
 
         self.body_lines = body_lines
-        self.body_lines_si = list(map(
-            lambda line: TRANSLATOR_EN_TO_SI.translate(line),
-            body_lines,
-        ))
-        self.body_lines_ta = list(map(
-            lambda line: TRANSLATOR_END_TO_TA.translate(line),
-            body_lines,
-        ))
+        self.body_lines_si = body_lines_si
+        self.body_lines_ta = body_lines_ta
+
+        if not self.title_si:
+            self.title_si = TRANSLATOR_EN_TO_SI.translate(self.title)
+
+        if not self.title_ta:
+            self.title_ta = TRANSLATOR_END_TO_TA.translate(self.title)
+
+        if not self.body_lines_si:
+            self.body_lines_si = list(map(
+                lambda line: TRANSLATOR_EN_TO_SI.translate(line),
+                self.body_lines,
+            ))
+        if not self.body_lines_ta:
+            self.body_lines_ta = list(map(
+                lambda line: TRANSLATOR_END_TO_TA.translate(line),
+                self.body_lines,
+            ))
 
     @property
     def url_hash(self):
@@ -99,10 +121,11 @@ class Article:
             time_ut=d['time_ut'],
             title=d['title'],
             body_lines=d['body_lines'],
-            title_si=d['title_si'],
-            body_si_lines=d['body_lines_si'],
-            title_ta=d['title_ta'],
-            body_lines_ta=d['body_lines_ta'],
+
+            title_si=d.get('title_si', ''),
+            body_si_lines=d.get('body_lines_si', []),
+            title_ta=d.get('title_ta', ''),
+            body_lines_ta=d.get('body_lines_ta', []),
         )
 
     @property
