@@ -1,17 +1,38 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653983160,
+    "title": "Vikum Liyanage appointed new Army Chief, Shavendra continues as CDS",
+    "url": "https://www.dailymirror.lk/breaking_news/Vikum-Liyanage-appointed-new-Army-Chief-Shavendra-continues-as-CDS/108-238100",
+    "file_name": "/tmp/news_lk2/articles/7c/7cf8facd.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653982980,
+    "title": "Two sluice gates opened in Deduru Oya",
+    "url": "https://www.dailymirror.lk/breaking_news/Two-sluice-gates-opened-in-Deduru-Oya/108-238099",
+    "file_name": "/tmp/news_lk2/articles/7d/7dbd407b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653982620,
+    "title": "Navy deploys six teams to provide relief",
+    "url": "https://www.dailymirror.lk/breaking_news/Navy-deploys-six-teams-to-provide-relief/108-238098",
+    "file_name": "/tmp/news_lk2/articles/85/85a87ad8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653982380,
     "title": "Deluge to continue today and for next few days",
-    "url": "https://www.dailymirror.lk/latest_news/Deluge-to-continue-today-and-for-next-few-days/342-238097",
-    "file_name": "/tmp/news_lk2/articles/eb/ebbadcc1.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Deluge-to-continue-today-and-for-next-few-days/108-238097",
+    "file_name": "/tmp/news_lk2/articles/ee/ee664564.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653981900,
     "title": "Shashi Weerawansa released on bail",
-    "url": "https://www.dailymirror.lk/latest_news/Shashi-Weerawansa-released-on-bail/342-238095",
-    "file_name": "/tmp/news_lk2/articles/a6/a66334b9.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Shashi-Weerawansa-released-on-bail/108-238095",
+    "file_name": "/tmp/news_lk2/articles/bd/bdd5c20a.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -31,8 +52,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653980580,
     "title": "Case against Prasanna Ranatunga fixed for judgment",
-    "url": "https://www.dailymirror.lk/latest_news/Case-against-Prasanna-Ranatunga-fixed-for-judgment/342-238094",
-    "file_name": "/tmp/news_lk2/articles/e5/e5de9425.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Case-against-Prasanna-Ranatunga-fixed-for-judgment/108-238094",
+    "file_name": "/tmp/news_lk2/articles/df/df4c38bc.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -94,8 +115,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653976740,
     "title": "Gold worth over Rs.43 mn seized",
-    "url": "https://www.dailymirror.lk/latest_news/Gold-worth-over-Rs-43-mn-seized/342-238096",
-    "file_name": "/tmp/news_lk2/articles/9d/9d52f881.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Gold-worth-over-Rs-43-mn-seized/108-238096",
+    "file_name": "/tmp/news_lk2/articles/01/013c523f.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -115,8 +136,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653975660,
     "title": "Rs. 695 bn Supplementary Budget receives cabinet nod",
-    "url": "https://www.dailymirror.lk/business/Rs-695-bn-Supplementary-Budget-receives-cabinet-nod/215-238092",
-    "file_name": "/tmp/news_lk2/articles/87/87e59bf1.json"
+    "url": "https://www.dailymirror.lk/business_247/Rs-695-bn-Supplementary-Budget-receives-cabinet-nod/395-238092",
+    "file_name": "/tmp/news_lk2/articles/d7/d77ebdd2.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -192,8 +213,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653970440,
     "title": "Oil climbs above $121 a barrel",
-    "url": "https://www.dailymirror.lk/latest_news/Oil-climbs-above-121-a-barrel/342-238090",
-    "file_name": "/tmp/news_lk2/articles/b6/b6176aa0.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Oil-climbs-above-121-a-barrel/108-238090",
+    "file_name": "/tmp/news_lk2/articles/af/afb58651.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -206,8 +227,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653969600,
     "title": "Freighter carrying 40,000 MT diesel reaches port",
-    "url": "https://www.dailymirror.lk/latest_news/Freighter-carrying-40-000-MT-diesel-reaches-port/342-238089",
-    "file_name": "/tmp/news_lk2/articles/7f/7fa7e4ab.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Freighter-carrying-40-000-MT-diesel-reaches-port/108-238089",
+    "file_name": "/tmp/news_lk2/articles/15/15bad9a8.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -248,8 +269,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653963360,
     "title": "Five-point assistance from China to overcome crisis",
-    "url": "https://www.dailymirror.lk/latest_news/Five-point-assistance-from-China-to-overcome-crisis/342-238087",
-    "file_name": "/tmp/news_lk2/articles/11/117f8504.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Five-point-assistance-from-China-to-overcome-crisis/108-238087",
+    "file_name": "/tmp/news_lk2/articles/e2/e2553819.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -276,15 +297,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653951300,
     "title": "Sri Lankans to grow older before economy gets bigger and better",
-    "url": "https://www.dailymirror.lk/latest_news/Sri-Lankans-to-grow-older-before-economy-gets-bigger-and-better/342-238068",
-    "file_name": "/tmp/news_lk2/articles/6c/6c754efd.json"
+    "url": "https://www.dailymirror.lk/top_story/Sri-Lankans-to-grow-older-before-economy-gets-bigger-and-better/155-238068",
+    "file_name": "/tmp/news_lk2/articles/31/31726f21.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653942900,
     "title": "CB says open account suspension won\u2019t cause huge shortages",
-    "url": "https://www.dailymirror.lk/latest_news/CB-says-open-account-suspension-wont-cause-huge-shortages/342-238044",
-    "file_name": "/tmp/news_lk2/articles/c1/c110abbd.json"
+    "url": "https://www.dailymirror.lk/breaking_news/CB-says-open-account-suspension-wont-cause-huge-shortages/108-238044",
+    "file_name": "/tmp/news_lk2/articles/ba/ba8422c2.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -346,15 +367,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653937020,
     "title": "TUI extends suspension of all tours to Sri Lanka till June 12",
-    "url": "https://www.dailymirror.lk/business-news/TUI-extends-suspension-of-all-tours-to-Sri-Lanka-till-June-12/273-238069",
-    "file_name": "/tmp/news_lk2/articles/18/185894d4.json"
+    "url": "https://www.dailymirror.lk/breaking_news/TUI-extends-suspension-of-all-tours-to-Sri-Lanka-till-June-12/108-238069",
+    "file_name": "/tmp/news_lk2/articles/03/032a71a2.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653936360,
     "title": "Sri Lanka seeks another US$ 500 million credit from India for fuel",
-    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-seeks-another-US-500-million-credit-from-India-for-fuel/342-238029",
-    "file_name": "/tmp/news_lk2/articles/9a/9a9574a7.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-seeks-another-US-500-million-credit-from-India-for-fuel/108-238029",
+    "file_name": "/tmp/news_lk2/articles/22/227dbd66.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -381,8 +402,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653934380,
     "title": "IUSF on public awareness campaign...",
-    "url": "https://www.dailymirror.lk/latest_news/IUSF-on-public-awareness-campaign/342-238032",
-    "file_name": "/tmp/news_lk2/articles/1c/1c4731d4.json"
+    "url": "https://www.dailymirror.lk/caption_story/IUSF-on-public-awareness-campaign/110-238032",
+    "file_name": "/tmp/news_lk2/articles/6d/6d828366.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -402,8 +423,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653926340,
     "title": "People busy buying expensive veggies...",
-    "url": "https://www.dailymirror.lk/latest_news/People-busy-buying-expensive-veggies/342-238031",
-    "file_name": "/tmp/news_lk2/articles/7e/7eccbac0.json"
+    "url": "https://www.dailymirror.lk/caption_story/People-busy-buying-expensive-veggies/110-238031",
+    "file_name": "/tmp/news_lk2/articles/70/702859da.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -416,15 +437,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653926220,
     "title": "Boralesgamuwa UC Chairman arrested",
-    "url": "https://www.dailymirror.lk/latest_news/Boralesgamuwa-UC-Chairman-arrested/342-238030",
-    "file_name": "/tmp/news_lk2/articles/1e/1e9194f5.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Boralesgamuwa-UC-Chairman-arrested/108-238030",
+    "file_name": "/tmp/news_lk2/articles/00/00c6a961.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653925380,
     "title": "Focus on establishing a joint framework: Wajira",
-    "url": "https://www.dailymirror.lk/latest_news/Focus-on-establishing-a-joint-framework-Wajira/342-238028",
-    "file_name": "/tmp/news_lk2/articles/72/7263d032.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Focus-on-establishing-a-joint-framework-Wajira/108-238028",
+    "file_name": "/tmp/news_lk2/articles/a0/a0b3d2e4.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -514,8 +535,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653917040,
     "title": "Gnanasara Thera visits Saudi Arabia to discuss religious extremism in SL",
-    "url": "https://www.dailymirror.lk/latest_news/Gnanasara-Thera-visits-Saudi-Arabia-to-discuss-religious-extremism-in-SL/342-238027",
-    "file_name": "/tmp/news_lk2/articles/95/95f22c4c.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Gnanasara-Thera-visits-Saudi-Arabia-to-discuss-religious-extremism-in-SL/108-238027",
+    "file_name": "/tmp/news_lk2/articles/1a/1ad81984.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -542,8 +563,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653914100,
     "title": "Social media activist \u2019Ratta\u2019 arrested",
-    "url": "https://www.dailymirror.lk/latest_news/Social-media-activist-Ratta-arrested/342-238025",
-    "file_name": "/tmp/news_lk2/articles/96/9621fb0f.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Social-media-activist-Ratta-arrested/108-238025",
+    "file_name": "/tmp/news_lk2/articles/c2/c2d5aa11.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -560,18 +581,18 @@
     "file_name": "/tmp/news_lk2/articles/6e/6e2cdc68.json"
   },
   {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653912180,
-    "title": "Chokolaate Mother-Daughter Fashion Designer finale",
-    "url": "https://www.dailymirror.lk/latest_news/Chokolaate-Mother-Daughter-Fashion-Designer-finale/342-238024",
-    "file_name": "/tmp/news_lk2/articles/c6/c677537d.json"
-  },
-  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1653912180,
     "title": "Sri Lanka\u2019s Litro Gas to resume distribution on May 31",
     "url": "https://economynext.com/sri-lankas-litro-gas-to-resume-distribution-on-may-31-94935/",
     "file_name": "/tmp/news_lk2/articles/7e/7e3ab488.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653912180,
+    "title": "Chokolaate Mother-Daughter Fashion Designer finale",
+    "url": "https://www.dailymirror.lk/caption_story/Chokolaate-Mother-Daughter-Fashion-Designer-finale/110-238024",
+    "file_name": "/tmp/news_lk2/articles/70/70a4b4c6.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -598,8 +619,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653909060,
     "title": "SJB says will support 21A only if shortcomings rectified",
-    "url": "https://www.dailymirror.lk/latest_news/SJB-says-will-support-21A-only-if-shortcomings-rectified/342-238023",
-    "file_name": "/tmp/news_lk2/articles/81/81441022.json"
+    "url": "https://www.dailymirror.lk/breaking_news/SJB-says-will-support-21A-only-if-shortcomings-rectified/108-238023",
+    "file_name": "/tmp/news_lk2/articles/2c/2c5f1f25.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -612,8 +633,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653907920,
     "title": "World Bank denies Foreign Ministry\u2019s claim of $700 million financing",
-    "url": "https://www.dailymirror.lk/latest_news/World-Bank-denies-Foreign-Ministrys-claim-of-700-million-financing/342-238022",
-    "file_name": "/tmp/news_lk2/articles/50/508ba907.json"
+    "url": "https://www.dailymirror.lk/breaking_news/World-Bank-denies-Foreign-Ministrys-claim-of-700-million-financing/108-238022",
+    "file_name": "/tmp/news_lk2/articles/88/882fd4cd.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -626,8 +647,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653906600,
     "title": "21A handed over to Maha Sangha",
-    "url": "https://www.dailymirror.lk/latest_news/21A-handed-over-to-Maha-Sangha/342-238021",
-    "file_name": "/tmp/news_lk2/articles/e2/e2eea85b.json"
+    "url": "https://www.dailymirror.lk/caption_story/21A-handed-over-to-Maha-Sangha/110-238021",
+    "file_name": "/tmp/news_lk2/articles/ed/ed47e8ac.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -640,8 +661,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653905820,
     "title": "Minor technical fault reported at Sapugaskanda refinery",
-    "url": "https://www.dailymirror.lk/latest_news/Minor-technical-fault-reported-at-Sapugaskanda-refinery/342-238019",
-    "file_name": "/tmp/news_lk2/articles/f8/f8827138.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Minor-technical-fault-reported-at-Sapugaskanda-refinery/108-238019",
+    "file_name": "/tmp/news_lk2/articles/b3/b3946399.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -654,8 +675,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653904860,
     "title": "If President resigns, Basil could become President: Wijeyadasa",
-    "url": "https://www.dailymirror.lk/latest_news/If-President-resigns-Basil-could-become-President-Wijeyadasa/342-238018",
-    "file_name": "/tmp/news_lk2/articles/cc/cc93e29d.json"
+    "url": "https://www.dailymirror.lk/breaking_news/If-President-resigns-Basil-could-become-President-Wijeyadasa/108-238018",
+    "file_name": "/tmp/news_lk2/articles/67/67bb5adc.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -679,13 +700,6 @@
     "file_name": "/tmp/news_lk2/articles/fe/fe276042.json"
   },
   {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653902820,
-    "title": "Railway dept. to revise seat reservation charges",
-    "url": "https://www.dailymirror.lk/latest_news/Railway-dept-to-revise-seat-reservation-charges/342-238016",
-    "file_name": "/tmp/news_lk2/articles/ab/abcfab58.json"
-  },
-  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1653900780,
     "title": "Sri Lanka minister hunts forex for June oil imports",
@@ -700,13 +714,6 @@
     "file_name": "/tmp/news_lk2/articles/65/65295f82.json"
   },
   {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653898560,
-    "title": "Be fair, be reasonable",
-    "url": "https://www.dailymirror.lk/latest_news/Be-fair-be-reasonable/342-238012",
-    "file_name": "/tmp/news_lk2/articles/37/377e256b.json"
-  },
-  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1653898380,
     "title": "Bribery Commission again files case against Johnston",
@@ -719,13 +726,6 @@
     "title": "Sri Lanka rupee at 365.7 to TT dollar, interbank rupee at 360.7",
     "url": "https://economynext.com/sri-lanka-rupee-at-365-7-to-tt-dollar-interbank-rupee-at-360-7-94922/",
     "file_name": "/tmp/news_lk2/articles/e3/e36f81e3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653896340,
-    "title": "Deshabandu Thennakoon takes leave: Acting SDIG appointed for WP",
-    "url": "https://www.dailymirror.lk/breaking_news/Deshabandu-Thennakoon-takes-leave-Acting-SDIG-appointed-for-WP/108-238010",
-    "file_name": "/tmp/news_lk2/articles/50/5006117a.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -885,43 +885,43 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653849600,
     "title": "Our home grown democracy begins now",
-    "url": "https://www.dailymirror.lk/plus/Our-home-grown-democracy-begins-now/352-237936",
-    "file_name": "/tmp/news_lk2/articles/a2/a2ebf76a.json"
+    "url": "https://www.dailymirror.lk/opinion/Our-home-grown-democracy-begins-now/231-237936",
+    "file_name": "/tmp/news_lk2/articles/50/50b4d451.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653849480,
     "title": "Statement marking 5o days of Gotagogama struggle: Establishing democracy;the need of the hour",
-    "url": "https://www.dailymirror.lk/opinion/Statement-marking-5o-days-of-Gotagogama-struggle-Establishing-democracythe-need-of-the-hour/231-237935",
-    "file_name": "/tmp/news_lk2/articles/29/293cab4d.json"
+    "url": "https://www.dailymirror.lk/opinion/Statement-marking-5o-days-of-Gotagogama-struggle-Establishing-democracythe-need-of-the-hour/172-237935",
+    "file_name": "/tmp/news_lk2/articles/cb/cbdf4085.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653849300,
     "title": "Racism has to be proscribed - Kumar Gunaratnam",
-    "url": "https://www.dailymirror.lk/hard-talk/Racism-has-to-be-proscribed-Kumar-Gunaratnam/334-237933",
-    "file_name": "/tmp/news_lk2/articles/bb/bb392cae.json"
+    "url": "https://www.dailymirror.lk/opinion/Racism-has-to-be-proscribed-Kumar-Gunaratnam/231-237933",
+    "file_name": "/tmp/news_lk2/articles/5a/5ae61d15.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653849240,
     "title": "No Intl. Economic Fix for Democracy in SL",
-    "url": "https://www.dailymirror.lk/opinion/No-Intl-Economic-Fix-for-Democracy-in-SL/231-237932",
-    "file_name": "/tmp/news_lk2/articles/c1/c17cf5dc.json"
+    "url": "https://www.dailymirror.lk/opinion/No-Intl-Economic-Fix-for-Democracy-in-SL/172-237932",
+    "file_name": "/tmp/news_lk2/articles/cd/cd4ae717.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653849120,
     "title": "Murder of a 9-year old child in Atulugama: Sri Lanka weeps over the 14th child murdered within 20 months",
-    "url": "https://www.dailymirror.lk/news-features/Murder-of-a-9-year-old-child-in-Atulugama-Sri-Lanka-weeps-over-the-14th-child-murdered-within-20-months/131-237930",
-    "file_name": "/tmp/news_lk2/articles/2b/2b890091.json"
+    "url": "https://www.dailymirror.lk/recomended-news/Murder-of-a-9-year-old-child-in-Atulugama-Sri-Lanka-weeps-over-the-14th-child-murdered-within-20-months/277-237930",
+    "file_name": "/tmp/news_lk2/articles/fa/fa4a23e6.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653849060,
     "title": "Rising costs in Lanka and friends in need - EDITORIAL",
-    "url": "https://www.dailymirror.lk/opinion/Rising-costs-in-Lanka-and-friends-in-need-EDITORIAL/231-237931",
-    "file_name": "/tmp/news_lk2/articles/69/6995ece3.json"
+    "url": "https://www.dailymirror.lk/opinion/Rising-costs-in-Lanka-and-friends-in-need-EDITORIAL/172-237931",
+    "file_name": "/tmp/news_lk2/articles/6e/6e5df7a3.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -962,8 +962,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653681300,
     "title": "How Ranil Wickremesinghe became Prime Minister again",
-    "url": "https://www.dailymirror.lk/plus/How-Ranil-Wickremesinghe-became-Prime-Minister-again/352-237912",
-    "file_name": "/tmp/news_lk2/articles/a1/a1c32b62.json"
+    "url": "https://www.dailymirror.lk/dbs-jeyaraj-column/How-Ranil-Wickremesinghe-became-Prime-Minister-again/192-237912",
+    "file_name": "/tmp/news_lk2/articles/ff/ff8965a7.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -971,41 +971,6 @@
     "title": "India will support democracy, stability in Sri Lanka: PM Modi",
     "url": "https://www.ft.lk/business/India-will-support-democracy-stability-in-Sri-Lanka-PM-Modi/34-735434",
     "file_name": "/tmp/news_lk2/articles/78/781bb755.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653681180,
-    "title": "COPE recommends setting up PSC to examine economic crises",
-    "url": "https://www.ft.lk/business/COPE-recommends-setting-up-PSC-to-examine-economic-crises/34-735435",
-    "file_name": "/tmp/news_lk2/articles/2c/2c2a1bfe.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653681120,
-    "title": "Milinda and Indian Finance Minister evaluate status of economic cooperation, way forward",
-    "url": "https://www.ft.lk/business/Milinda-and-Indian-Finance-Minister-evaluate-status-of-economic-cooperation-way-forward/34-735433",
-    "file_name": "/tmp/news_lk2/articles/01/014d7b87.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653681060,
-    "title": "Global economic outlook has \u2018darkened\u2019, business and Government leaders warn in Davos",
-    "url": "https://www.ft.lk/business/Global-economic-outlook-has-darkened-business-and-Government-leaders-warn-in-Davos/34-735431",
-    "file_name": "/tmp/news_lk2/articles/28/28af7fe3.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653681060,
-    "title": "OPA\u2019s voice on way forward to address  Sri Lanka\u2019s agriculture and food production crisis",
-    "url": "https://www.ft.lk/business/OPA-s-voice-on-way-forward-to-address-Sri-Lanka-s-agriculture-and-food-production-crisis/34-735432",
-    "file_name": "/tmp/news_lk2/articles/40/4000ec0f.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653681000,
-    "title": "World economy has \u2018buffer\u2019 against recession, says IMF\u2019s Gopinath",
-    "url": "https://www.ft.lk/business/World-economy-has-buffer-against-recession-says-IMF-s-Gopinath/34-735430",
-    "file_name": "/tmp/news_lk2/articles/54/54733ea7.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1081,22 +1046,22 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653612840,
     "title": "Basil fights back to save his political future as RW pushes for 21A today",
-    "url": "https://www.dailymirror.lk/latest_news/Basil-fights-back-to-save-his-political-future-as-RW-pushes-for-21A-today/342-237802",
-    "file_name": "/tmp/news_lk2/articles/1e/1e5080db.json"
+    "url": "https://www.dailymirror.lk/top_story/Basil-fights-back-to-save-his-political-future-as-RW-pushes-for-21A-today/155-237802",
+    "file_name": "/tmp/news_lk2/articles/9b/9bb25c37.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653596460,
     "title": "Good and bad violence",
-    "url": "https://www.dailymirror.lk/plus/Good-and-bad-violence/352-237801",
-    "file_name": "/tmp/news_lk2/articles/74/74b448ed.json"
+    "url": "https://www.dailymirror.lk/opinion/Good-and-bad-violence/231-237801",
+    "file_name": "/tmp/news_lk2/articles/1a/1aad53b4.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653596160,
     "title": "Celebrating the life and service of Ven. Dr. Omalpe Sobitha Thera: Adored for his relentless service to  Buddhism and Nation",
-    "url": "https://www.dailymirror.lk/plus/Celebrating-the-life-and-service-of-Ven-Dr-Omalpe-Sobitha-Thera-Adored-for-his-relentless-service-to-Buddhism-and-Nation/352-237800",
-    "file_name": "/tmp/news_lk2/articles/57/571e92bf.json"
+    "url": "https://www.dailymirror.lk/opinion/Celebrating-the-life-and-service-of-Ven-Dr-Omalpe-Sobitha-Thera-Adored-for-his-relentless-service-to-Buddhism-and-Nation/231-237800",
+    "file_name": "/tmp/news_lk2/articles/eb/eb21fd42.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1125,27 +1090,6 @@
     "title": "CPA writes to IGP, AG on arrests relating to attacks on peaceful protesters",
     "url": "https://www.ft.lk/news/CPA-writes-to-IGP-AG-on-arrests-relating-to-attacks-on-peaceful-protesters/56-735357",
     "file_name": "/tmp/news_lk2/articles/6d/6df5b1ec.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653589800,
-    "title": "Abans launches new initiative to boost micro, SME local manufacturers",
-    "url": "https://www.ft.lk/business/Abans-launches-new-initiative-to-boost-micro-SME-local-manufacturers/34-735361",
-    "file_name": "/tmp/news_lk2/articles/42/42fa8efe.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653589800,
-    "title": "Ruhunu Hospital invests Rs. 250 m to launch 1st private sector  Cath Lab in Southern Province",
-    "url": "https://www.ft.lk/business/Ruhunu-Hospital-invests-Rs-250-m-to-launch-1st-private-sector-Cath-Lab-in-Southern-Province/34-735360",
-    "file_name": "/tmp/news_lk2/articles/14/14fbc247.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653589800,
-    "title": "Sri Lanka Gem and Jewellery Association aims to build country\u2019s global standing",
-    "url": "https://www.ft.lk/business/Sri-Lanka-Gem-and-Jewellery-Association-aims-to-build-country-s-global-standing/34-735362",
-    "file_name": "/tmp/news_lk2/articles/fd/fda428fb.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -1197,32 +1141,11 @@
     "file_name": "/tmp/news_lk2/articles/56/56675aaa.json"
   },
   {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653515280,
-    "title": "STF Corporate Advisory help source $\u00a015\u00a0m loan from US Govt. for BPPL\u00a0Holdings",
-    "url": "https://www.ft.lk/business/STF-Corporate-Advisory-help-source-15m-loan-from-US-Govt-for-BPPLHoldings/34-735330",
-    "file_name": "/tmp/news_lk2/articles/ee/eeecf20c.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653515100,
-    "title": "Resilient New Anthoney\u2019s Farms reaffirms poultry supply amidst economic challenges",
-    "url": "https://www.ft.lk/business/Resilient-New-Anthoney-s-Farms-reaffirms-poultry-supply-amidst-economic-challenges/34-735329",
-    "file_name": "/tmp/news_lk2/articles/ab/abe34353.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653514860,
-    "title": "\u2018Sri Lanka Meltdown\u2019 on Channel News Asia tonight",
-    "url": "https://www.ft.lk/business/Sri-Lanka-Meltdown-on-Channel-News-Asia-tonight/34-735328",
-    "file_name": "/tmp/news_lk2/articles/c9/c9239ac0.json"
-  },
-  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653511860,
     "title": "Rashini Ready to Fight Cancer, but needs help",
-    "url": "https://www.dailymirror.lk/recomended-news/Rashini-Ready-to-Fight-Cancer-but-needs-help/277-237745",
-    "file_name": "/tmp/news_lk2/articles/5b/5b916f86.json"
+    "url": "https://www.dailymirror.lk/news-features/Rashini-Ready-to-Fight-Cancer-but-needs-help/131-237745",
+    "file_name": "/tmp/news_lk2/articles/8c/8ce1bab7.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1263,8 +1186,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653421080,
     "title": "Sajith will lead SL soon  but this time he failed in his  decision making - Harin",
-    "url": "https://www.dailymirror.lk/opinion/Sajith-will-lead-SL-soon-but-this-time-he-failed-in-his-decision-making-Harin/231-237668",
-    "file_name": "/tmp/news_lk2/articles/99/99abe44b.json"
+    "url": "https://www.dailymirror.lk/hard-talk/Sajith-will-lead-SL-soon-but-this-time-he-failed-in-his-decision-making-Harin/334-237668",
+    "file_name": "/tmp/news_lk2/articles/a9/a97c276c.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1284,15 +1207,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653419160,
     "title": "Shocking inside stories of the sugar scam",
-    "url": "https://www.dailymirror.lk/opinion/Shocking-inside-stories-of-the-sugar-scam/231-237659",
-    "file_name": "/tmp/news_lk2/articles/58/580827f3.json"
+    "url": "https://www.dailymirror.lk/recomended-news/Shocking-inside-stories-of-the-sugar-scam/277-237659",
+    "file_name": "/tmp/news_lk2/articles/b8/b8ebbd2b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653418860,
     "title": "Sri Lankans stuck between hunting for essentials and fighting for good governance",
-    "url": "https://www.dailymirror.lk/recomended-news/Sri-Lankans-stuck-between-hunting-for-essentials-and-fighting-for-good-governance/277-237658",
-    "file_name": "/tmp/news_lk2/articles/f6/f63bf614.json"
+    "url": "https://www.dailymirror.lk/plus/Sri-Lankans-stuck-between-hunting-for-essentials-and-fighting-for-good-governance/352-237658",
+    "file_name": "/tmp/news_lk2/articles/04/045da1f1.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -1332,34 +1255,6 @@
   {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1653417000,
-    "title": "Exterminators posts impressive results in 4Q and FY22",
-    "url": "https://www.ft.lk/business/Exterminators-posts-impressive-results-in-4Q-and-FY22/34-735289",
-    "file_name": "/tmp/news_lk2/articles/67/67351cc6.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653417000,
-    "title": "Macksons Paints Lanka awarded at Architect 2022 exhibition",
-    "url": "https://www.ft.lk/business/Macksons-Paints-Lanka-awarded-at-Architect-2022-exhibition/34-735290",
-    "file_name": "/tmp/news_lk2/articles/dd/ddeb4802.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653417000,
-    "title": "Ceylon Exchange Mentoring receives strategic investment from Ataraxia Capital Partners to expand overseas",
-    "url": "https://www.ft.lk/business/Ceylon-Exchange-Mentoring-receives-strategic-investment-from-Ataraxia-Capital-Partners-to-expand-overseas/34-735291",
-    "file_name": "/tmp/news_lk2/articles/0f/0fd11e5b.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653417000,
-    "title": "South Asia Textiles commits to SBTi to limit global warming at 1.5\u00b0C",
-    "url": "https://www.ft.lk/business/South-Asia-Textiles-commits-to-SBTi-to-limit-global-warming-at-1-5C/34-735288",
-    "file_name": "/tmp/news_lk2/articles/08/082b347c.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653417000,
     "title": "Karu calls for democratic principles enshrined in 19 A incorporated into 21 A",
     "url": "https://www.ft.lk/news/Karu-calls-for-democratic-principles-enshrined-in-19-A-incorporated-into-21-A/56-735292",
     "file_name": "/tmp/news_lk2/articles/28/2820af8b.json"
@@ -1372,18 +1267,11 @@
     "file_name": "/tmp/news_lk2/articles/ff/ffc07314.json"
   },
   {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653335220,
-    "title": "Manusha on mission to lure  $ 500 m from migrant workers",
-    "url": "https://www.ft.lk/business/Manusha-on-mission-to-lure-500-m-from-migrant-workers/34-735224",
-    "file_name": "/tmp/news_lk2/articles/c9/c9d9431c.json"
-  },
-  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653331500,
     "title": "Food crisis in Sri Lanka From granary of East to  barren nation",
-    "url": "https://www.dailymirror.lk/recomended-news/Food-crisis-in-Sri-Lanka-From-granary-of-East-to-barren-nation/277-237604",
-    "file_name": "/tmp/news_lk2/articles/78/78098806.json"
+    "url": "https://www.dailymirror.lk/plus/Food-crisis-in-Sri-Lanka-From-granary-of-East-to-barren-nation/352-237604",
+    "file_name": "/tmp/news_lk2/articles/2c/2cc61c37.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1396,15 +1284,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653331140,
     "title": "The danger of Basil Rajapaksa\u2019s rule by proxy",
-    "url": "https://www.dailymirror.lk/recomended-news/The-danger-of-Basil-Rajapaksas-rule-by-proxy/277-237593",
-    "file_name": "/tmp/news_lk2/articles/f4/f44a1b70.json"
+    "url": "https://www.dailymirror.lk/plus/The-danger-of-Basil-Rajapaksas-rule-by-proxy/352-237593",
+    "file_name": "/tmp/news_lk2/articles/67/676011ca.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653331080,
     "title": "Sri Lanka\u2019s Crisis of Representative Democracy",
-    "url": "https://www.dailymirror.lk/recomended-news/Sri-Lankas-Crisis-of-Representative-Democracy/277-237595",
-    "file_name": "/tmp/news_lk2/articles/1a/1ad3a350.json"
+    "url": "https://www.dailymirror.lk/plus/Sri-Lankas-Crisis-of-Representative-Democracy/352-237595",
+    "file_name": "/tmp/news_lk2/articles/86/86450f40.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1431,43 +1319,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653244500,
     "title": "Golden republic in mourning",
-    "url": "https://www.dailymirror.lk/recomended-news/Golden-republic-in-mourning/277-237495",
-    "file_name": "/tmp/news_lk2/articles/ba/ba4dfdad.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653244200,
-    "title": "Torrington Estate sets up all-time record price",
-    "url": "https://www.ft.lk/business/Torrington-Estate-sets-up-all-time-record-price/34-735154",
-    "file_name": "/tmp/news_lk2/articles/ed/edc5388e.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653244200,
-    "title": "Craighead Estate achieves all-time record price",
-    "url": "https://www.ft.lk/business/Craighead-Estate-achieves-all-time-record-price/34-735155",
-    "file_name": "/tmp/news_lk2/articles/90/90d06244.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653244200,
-    "title": "University of Moratuwa Inaugural Lecture Series",
-    "url": "https://www.ft.lk/business/University-of-Moratuwa-Inaugural-Lecture-Series/34-735152",
-    "file_name": "/tmp/news_lk2/articles/06/0653dcff.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653244200,
-    "title": "Dickwella Estate achieves all-time record price",
-    "url": "https://www.ft.lk/business/Dickwella-Estate-achieves-all-time-record-price/34-735153",
-    "file_name": "/tmp/news_lk2/articles/88/8857abf7.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653244200,
-    "title": "Reyaz Mihular appointed Chairman of Bairaha Farms",
-    "url": "https://www.ft.lk/business/Reyaz-Mihular-appointed-Chairman-of-Bairaha-Farms/34-735156",
-    "file_name": "/tmp/news_lk2/articles/03/0336852f.json"
+    "url": "https://www.dailymirror.lk/plus/Golden-republic-in-mourning/352-237495",
+    "file_name": "/tmp/news_lk2/articles/13/13cd0982.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -1491,32 +1344,25 @@
     "file_name": "/tmp/news_lk2/articles/53/53c01f69.json"
   },
   {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1653071460,
-    "title": "Greenee celebrates 10th anniversary",
-    "url": "https://www.ft.lk/business/Greenee-celebrates-10th-anniversary/34-735083",
-    "file_name": "/tmp/news_lk2/articles/0f/0f3621fc.json"
-  },
-  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1652707260,
     "title": "The next couple of months will be the most difficult of our lives, PM informs the nation",
-    "url": "https://www.dailymirror.lk/top_story/The-next-couple-of-months-will-be-the-most-difficult-of-our-lives-PM-informs-the-nation/155-237090",
-    "file_name": "/tmp/news_lk2/articles/c8/c8812a81.json"
+    "url": "https://www.dailymirror.lk/breaking_news/The-next-couple-of-months-will-be-the-most-difficult-of-our-lives-PM-informs-the-nation/108-237090",
+    "file_name": "/tmp/news_lk2/articles/ea/ea3dadcb.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1652673960,
     "title": "More Ministers to be sworn in today",
-    "url": "https://www.dailymirror.lk/top_story/More-Ministers-to-be-sworn-in-today/155-237068",
-    "file_name": "/tmp/news_lk2/articles/5a/5a88aa1d.json"
+    "url": "https://www.dailymirror.lk/breaking_news/More-Ministers-to-be-sworn-in-today/108-237068",
+    "file_name": "/tmp/news_lk2/articles/10/10ffd170.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1652512320,
     "title": "Leave aside party politics and lets join hands to resolve burning issues - RW writes to Sajith",
-    "url": "https://www.dailymirror.lk/top_story/Leave-aside-party-politics-and-lets-join-hands-to-resolve-burning-issues-RW-writes-to-Sajith/155-237033",
-    "file_name": "/tmp/news_lk2/articles/7e/7ebe9a84.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Leave-aside-party-politics-and-lets-join-hands-to-resolve-burning-issues-RW-writes-to-Sajith/108-237033",
+    "file_name": "/tmp/news_lk2/articles/a3/a365d25f.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -1536,8 +1382,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1652341200,
     "title": "RANIL TO TAKE OATHS AS PM TODAY",
-    "url": "https://www.dailymirror.lk/top_story/RANIL-TO-TAKE-OATHS-AS-PM-TODAY/155-236872",
-    "file_name": "/tmp/news_lk2/articles/66/6673a461.json"
+    "url": "https://www.dailymirror.lk/breaking_news/RANIL-TO-TAKE-OATHS-AS-PM-TODAY/108-236872",
+    "file_name": "/tmp/news_lk2/articles/a9/a9a5a95d.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -1557,8 +1403,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1651650360,
     "title": "Dozen arrested for protesting near Parliament",
-    "url": "https://www.dailymirror.lk/top_story/Dozen-arrested-for-protesting-near-Parliament/155-236256",
-    "file_name": "/tmp/news_lk2/articles/b2/b2f06fc8.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Dozen-arrested-for-protesting-near-Parliament/108-236256",
+    "file_name": "/tmp/news_lk2/articles/14/1490a287.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -1578,29 +1424,29 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1650634500,
     "title": "PM and Cabinet should resign and form an all party govt- Dullas writes to Prez",
-    "url": "https://www.dailymirror.lk/top_story/PM-and-Cabinet-should-resign-and-form-an-all-party-govt-Dullas-writes-to-Prez/155-235515",
-    "file_name": "/tmp/news_lk2/articles/f2/f2eaa466.json"
+    "url": "https://www.dailymirror.lk/breaking_news/PM-and-Cabinet-should-resign-and-form-an-all-party-govt-Dullas-writes-to-Prez/108-235515",
+    "file_name": "/tmp/news_lk2/articles/45/457ebffe.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1650547020,
     "title": "Cardinal says recommendations made by PCoI delayed",
-    "url": "https://www.dailymirror.lk/top_story/Cardinal-says-recommendations-made-by-PCoI-delayed/155-235439",
-    "file_name": "/tmp/news_lk2/articles/76/76831ed9.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Cardinal-says-recommendations-made-by-PCoI-delayed/108-235439",
+    "file_name": "/tmp/news_lk2/articles/d1/d1618b2b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1649850660,
     "title": "Protestors refuse to meet PM, put forward two demands",
-    "url": "https://www.dailymirror.lk/top_story/Protestors-refuse-to-meet-PM-put-forward-two-demands/155-235062",
-    "file_name": "/tmp/news_lk2/articles/d0/d0885b6d.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Protestors-refuse-to-meet-PM-put-forward-two-demands/108-235062",
+    "file_name": "/tmp/news_lk2/articles/74/74a1c7c3.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1649063880,
     "title": "Protest erupts outside GR\u2019s son\u2019s house in LA",
-    "url": "https://www.dailymirror.lk/top_story/Protest-erupts-outside-GRs-sons-house-in-LA/155-234458",
-    "file_name": "/tmp/news_lk2/articles/26/26c5b97a.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Protest-erupts-outside-GRs-sons-house-in-LA/108-234458",
+    "file_name": "/tmp/news_lk2/articles/64/64debc1b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
