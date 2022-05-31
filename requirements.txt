@@ -5,3 +5,4 @@ selenium
 tweepy
 utils-nuuuwan
 spacy
+googletrans
