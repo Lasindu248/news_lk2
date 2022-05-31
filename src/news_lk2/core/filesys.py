@@ -20,7 +20,7 @@ SHARD_NAME_LENGTH = 2
 ARTICLE_FILE_ONLY_LEN = HASH_LENGTH + 5
 
 
-def get_dir_article_shard(file_name_only, dir_prefix):
+def get_dir_article_shard(file_name_only, dir_prefix=''):
     assert(len(file_name_only) == ARTICLE_FILE_ONLY_LEN)
     dir_shard_only = file_name_only[:SHARD_NAME_LENGTH]
     return os.path.join(DIR_ARTICLES + dir_prefix, dir_shard_only)
