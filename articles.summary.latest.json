@@ -1,12 +1,5 @@
 [
   {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654005360,
-    "title": "Sri Lanka key tax changes, top personal tax rate 34-pct, companies 30-pct",
-    "url": "https://economynext.com/sri-lanka-key-tax-changes-top-personal-tax-rate-34-pct-companies-30-pct-95004/",
-    "file_name": "/tmp/news_lk2/articles/d5/d5c84969.json"
-  },
-  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654004280,
     "title": "Sri Lanka\u2019s headline inflation soars to 39.1% in May",
@@ -698,5 +691,12 @@
     "title": "Freighter carrying 40,000 MT diesel reaches port",
     "url": "https://www.dailymirror.lk/breaking_news/Freighter-carrying-40-000-MT-diesel-reaches-port/108-238089",
     "file_name": "/tmp/news_lk2/articles/15/15bad9a8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1653969600,
+    "title": "Freighter carrying 40,000 MT diesel reaches port",
+    "url": "https://www.dailymirror.lk/latest_news/Freighter-carrying-40-000-MT-diesel-reaches-port/342-238089",
+    "file_name": "/tmp/news_lk2/articles/7f/7fa7e4ab.json"
   }
 ]
