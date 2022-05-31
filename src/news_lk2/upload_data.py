@@ -1,6 +1,6 @@
 import os
 
-from utils import filex, timex, jsonx
+from utils import filex, jsonx, timex
 
 from news_lk2._utils import log
 from news_lk2.analysis.paper import get_articles, get_date_id_to_articles
@@ -8,6 +8,7 @@ from news_lk2.core.filesys import DIR_REPO, git_checkout
 from news_lk2.custom_newspapers import newspaper_class_list
 
 DELIM_MD = '\n' * 2
+N_LATEST = 100
 
 
 def build_readme_summary():
@@ -40,9 +41,16 @@ def build_articles_summary():
             url=article.url,
             file_name=article.file_name,
         ))
+    data_list = sorted(data_list, key=lambda data: -data['time_ut'])
+
     articles_summary_file = os.path.join(DIR_REPO, 'articles.summary.json')
     jsonx.write(articles_summary_file, data_list)
     log.info(f'Wrote {articles_summary_file}')
+
+    articles_summary_latest_file = os.path.join(
+        DIR_REPO, 'articles.summary.latest.json')
+    jsonx.write(articles_summary_latest_file, data_list[:N_LATEST])
+    log.info(f'Wrote {articles_summary_latest_file}')
 
 
 if __name__ == '__main__':
