@@ -1,5 +1,40 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1653993240,
+    "title": "Sri Lanka increases VAT to 12% & Telecommunication Levy to 15%",
+    "url": "https://www.newsfirst.lk/2022/05/31/sri-lanka-increases-vat-to-12-telecommunication-levy-to-15/",
+    "file_name": "/tmp/news_lk2/articles/4a/4a6f2a22.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1653993180,
+    "title": "SC suspends special presidential pardon granted to Duminda Silva",
+    "url": "http://www.adaderana.lk/news/82788/sc-suspends-special-presidential-pardon-granted-to-duminda-silva",
+    "file_name": "/tmp/news_lk2/articles/0c/0c5febea.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1653992580,
+    "title": "Sri Lankan court suspends Presidential Pardon given to Duminda Silva",
+    "url": "https://www.newsfirst.lk/2022/05/31/sri-lankan-court-suspends-presidential-pardon-given-to-duminda-silva/",
+    "file_name": "/tmp/news_lk2/articles/1b/1bcbdd90.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1653992160,
+    "title": "PUCSL announces power cut schedule for this week",
+    "url": "http://www.adaderana.lk/news/82787/pucsl-announces-power-cut-schedule-for-this-week",
+    "file_name": "/tmp/news_lk2/articles/3e/3e84d4f4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1653991080,
+    "title": "Foreign Minister Peiris meets with Japanese Deputy Head of Mission",
+    "url": "https://www.newsfirst.lk/2022/05/31/foreign-minister-peiris-meets-with-japanese-deputy-head-of-mission/",
+    "file_name": "/tmp/news_lk2/articles/44/44772a4e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1653990600,
     "title": "Two siblings hacked to death during family dispute",

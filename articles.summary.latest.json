@@ -1,5 +1,40 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1653993240,
+    "title": "Sri Lanka increases VAT to 12% & Telecommunication Levy to 15%",
+    "url": "https://www.newsfirst.lk/2022/05/31/sri-lanka-increases-vat-to-12-telecommunication-levy-to-15/",
+    "file_name": "/tmp/news_lk2/articles/4a/4a6f2a22.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1653993180,
+    "title": "SC suspends special presidential pardon granted to Duminda Silva",
+    "url": "http://www.adaderana.lk/news/82788/sc-suspends-special-presidential-pardon-granted-to-duminda-silva",
+    "file_name": "/tmp/news_lk2/articles/0c/0c5febea.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1653992580,
+    "title": "Sri Lankan court suspends Presidential Pardon given to Duminda Silva",
+    "url": "https://www.newsfirst.lk/2022/05/31/sri-lankan-court-suspends-presidential-pardon-given-to-duminda-silva/",
+    "file_name": "/tmp/news_lk2/articles/1b/1bcbdd90.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1653992160,
+    "title": "PUCSL announces power cut schedule for this week",
+    "url": "http://www.adaderana.lk/news/82787/pucsl-announces-power-cut-schedule-for-this-week",
+    "file_name": "/tmp/news_lk2/articles/3e/3e84d4f4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1653991080,
+    "title": "Foreign Minister Peiris meets with Japanese Deputy Head of Mission",
+    "url": "https://www.newsfirst.lk/2022/05/31/foreign-minister-peiris-meets-with-japanese-deputy-head-of-mission/",
+    "file_name": "/tmp/news_lk2/articles/44/44772a4e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1653990600,
     "title": "Two siblings hacked to death during family dispute",
@@ -663,40 +698,5 @@
     "title": "IUSF on public awareness campaign...",
     "url": "https://www.dailymirror.lk/caption_story/IUSF-on-public-awareness-campaign/110-238032",
     "file_name": "/tmp/news_lk2/articles/6d/6d828366.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653934380,
-    "title": "IUSF on public awareness campaign...",
-    "url": "https://www.dailymirror.lk/latest_news/IUSF-on-public-awareness-campaign/342-238032",
-    "file_name": "/tmp/news_lk2/articles/1c/1c4731d4.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1653929100,
-    "title": "50,000 gas cylinders to be distributed daily from tomorrow",
-    "url": "http://www.adaderana.lk/news/82776/50000-gas-cylinders-to-be-distributed-daily-from-tomorrow",
-    "file_name": "/tmp/news_lk2/articles/ee/eee3115e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653928380,
-    "title": "Suspect arrested over Atulugama girl\u2019s death confesses to murder",
-    "url": "https://www.dailymirror.lk/latest_news/Suspect-arrested-over-Atulugama-girls-death-confesses-to-murder/342-238033",
-    "file_name": "/tmp/news_lk2/articles/b2/b276168f.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1653928020,
-    "title": "Social activist \u2018Ratta\u2019 granted bail",
-    "url": "http://www.adaderana.lk/news/82775/social-activist-ratta-granted-bail",
-    "file_name": "/tmp/news_lk2/articles/0a/0ae984e8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653926340,
-    "title": "People busy buying expensive veggies...",
-    "url": "https://www.dailymirror.lk/latest_news/People-busy-buying-expensive-veggies/342-238031",
-    "file_name": "/tmp/news_lk2/articles/7e/7eccbac0.json"
   }
 ]
