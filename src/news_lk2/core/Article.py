@@ -1,5 +1,6 @@
 import math
 
+from deep_translator import GoogleTranslator
 from utils import jsonx, timex
 
 from news_lk2._constants import WORDS_PER_MINUTE
@@ -9,14 +10,29 @@ from news_lk2.core.filesys import get_article_file, get_hash
 MINUTES_PER_TRUNCATED_BODY = 1
 MAX_WORDS_TRUNCATED = WORDS_PER_MINUTE * MINUTES_PER_TRUNCATED_BODY
 
+TRANSLATOR_EN_TO_SI = GoogleTranslator(source='en', target='si')
+TRANSLATOR_END_TO_TA = GoogleTranslator(source='en', target='ta')
+
 
 class Article:
     def __init__(self, newspaper_id, url, time_ut, title, body_lines):
         self.newspaper_id = newspaper_id
         self.url = url
         self.time_ut = time_ut
+
         self.title = title
+        self.title_si = TRANSLATOR_EN_TO_SI.translate(title)
+        self.title_ta = TRANSLATOR_END_TO_TA.translate(title)
+
         self.body_lines = body_lines
+        self.body_lines_si = list(map(
+            lambda line: TRANSLATOR_EN_TO_SI.translate(line),
+            body_lines,
+        ))
+        self.body_lines_ta = list(map(
+            lambda line: TRANSLATOR_END_TO_TA.translate(line),
+            body_lines,
+        ))
 
     @property
     def url_hash(self):
@@ -61,6 +77,10 @@ class Article:
             time_ut=self.time_ut,
             title=self.title,
             body_lines=self.body_lines,
+            title_si=self.title_si,
+            body_lines_si=self.body_lines_si,
+            title_ta=self.title_ta,
+            body_lines_ta=self.body_lines_ta,
         )
 
     def store(self):
@@ -79,6 +99,10 @@ class Article:
             time_ut=d['time_ut'],
             title=d['title'],
             body_lines=d['body_lines'],
+            title_si=d['title_si'],
+            body_si_lines=d['body_lines_si'],
+            title_ta=d['title_ta'],
+            body_lines_ta=d['body_lines_ta'],
         )
 
     @property
