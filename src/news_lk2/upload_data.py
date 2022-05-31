@@ -5,6 +5,7 @@ from utils import filex, timex, tsv
 from news_lk2._utils import log
 from news_lk2.analysis.paper import get_articles, get_date_id_to_articles
 from news_lk2.core.filesys import DIR_REPO, git_checkout
+from news_lk2.custom_newspapers import newspaper_class_list
 
 DELIM_MD = '\n' * 2
 
