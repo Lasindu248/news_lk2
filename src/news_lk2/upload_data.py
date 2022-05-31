@@ -1,6 +1,6 @@
 import os
 
-from utils import filex, timex, tsv
+from utils import filex, timex, jsonx
 
 from news_lk2._utils import log
 from news_lk2.analysis.paper import get_articles, get_date_id_to_articles
@@ -40,9 +40,9 @@ def build_articles_summary():
             url=article.url,
             file_name=article.file_name,
         ))
-    tsv_file = os.path.join(DIR_REPO, 'articles.summary.tsv')
-    tsv.write(tsv_file, data_list)
-    log.info(f'Wrote {tsv_file}')
+    articles_summary_file = os.path.join(DIR_REPO, 'articles.summary.json')
+    jsonx.write(articles_summary_file, data_list)
+    log.info(f'Wrote {articles_summary_file}')
 
 
 if __name__ == '__main__':
