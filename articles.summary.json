@@ -1,10 +1,31 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654005360,
+    "title": "Sri Lanka key tax changes, top personal tax rate 34-pct, companies 30-pct",
+    "url": "https://economynext.com/sri-lanka-key-tax-changes-top-personal-tax-rate-34-pct-companies-30-pct-95004/",
+    "file_name": "/tmp/news_lk2/articles/d5/d5c84969.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654005120,
+    "title": "Saving lives from drowning for over seven decades, Sri Lanka Life Saving marks 75 years",
+    "url": "https://www.newsfirst.lk/2022/05/31/saving-lives-from-drowning-for-over-seven-decades-sri-lanka-life-saving-marks-75-years/",
+    "file_name": "/tmp/news_lk2/articles/d4/d44ec940.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654004280,
     "title": "Sri Lanka\u2019s headline inflation soars to 39.1% in May",
     "url": "http://www.adaderana.lk/news/82791/sri-lankas-headline-inflation-soars-to-391-in-may",
     "file_name": "/tmp/news_lk2/articles/a1/a179ebf5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654003320,
+    "title": "50,000 LP Gas cylinders will be delivered on 1st June",
+    "url": "https://www.newsfirst.lk/2022/05/31/50000-lp-gas-cylinders-will-be-delivered-on-1st-june/",
+    "file_name": "/tmp/news_lk2/articles/22/22ddd784.json"
   },
   {
     "newspaper_id": "news-first-lk",
