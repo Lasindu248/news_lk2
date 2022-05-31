@@ -122,7 +122,7 @@ class Article:
             title=d['title'],
             body_lines=d['body_lines'],
             title_si=d.get('title_si', ''),
-            body_si_lines=d.get('body_lines_si', []),
+            body_lines_si=d.get('body_lines_si', []),
             title_ta=d.get('title_ta', ''),
             body_lines_ta=d.get('body_lines_ta', []),
         )
