@@ -1,5 +1,82 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654119660,
+    "title": "COPE recommends purchase of medicines with funds from Indian credit line, other sources",
+    "url": "https://www.ft.lk/news/COPE-recommends-purchase-of-medicines-with-funds-from-Indian-credit-line-other-sources/56-735631",
+    "file_name": "/tmp/news_lk2/articles/0a/0a41606b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654119480,
+    "title": "COPE, COPA to summon more institutions, officials next week",
+    "url": "https://www.ft.lk/news/COPE-COPA-to-summon-more-institutions-officials-next-week/56-735630",
+    "file_name": "/tmp/news_lk2/articles/fc/fcdd7427.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654119180,
+    "title": "Education Ministry orders probe on conduct of O/L Exam in leaking classroom",
+    "url": "https://www.ft.lk/news/Education-Ministry-orders-probe-on-conduct-of-O-L-Exam-in-leaking-classroom/56-735629",
+    "file_name": "/tmp/news_lk2/articles/9c/9c40f47d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654119120,
+    "title": "PM instructs Treasury to provide relief funds to flood affected",
+    "url": "https://www.ft.lk/news/PM-instructs-Treasury-to-provide-relief-funds-to-flood-affected/56-735628",
+    "file_name": "/tmp/news_lk2/articles/49/4983c636.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654119060,
+    "title": "Movement to Protect Patients\u2019 Rights write to PM on NMRA",
+    "url": "https://www.ft.lk/news/Movement-to-Protect-Patients-Rights-write-to-PM-on-NMRA/56-735627",
+    "file_name": "/tmp/news_lk2/articles/60/605c31c4.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654119000,
+    "title": "President appoints CoI on incidents of arson, looting, murders",
+    "url": "https://www.ft.lk/news/President-appoints-CoI-on-incidents-of-arson-looting-murders/56-735626",
+    "file_name": "/tmp/news_lk2/articles/30/3006df55.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654118580,
+    "title": "Dilrukshi, Rajeev appointed to DIMO Board of Directors",
+    "url": "https://www.ft.lk/business/Dilrukshi-Rajeev-appointed-to-DIMO-Board-of-Directors/34-735625",
+    "file_name": "/tmp/news_lk2/articles/a1/a1cbccd6.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654118460,
+    "title": "\u2018Rise Up School Meal Program\u2019 to nourish needy rural children",
+    "url": "https://www.ft.lk/news/Rise-Up-School-Meal-Program-to-nourish-needy-rural-children/56-735624",
+    "file_name": "/tmp/news_lk2/articles/3a/3aeb087a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654117980,
+    "title": "Bangladesh donates essential medicines worth $ 2.2 m to Sri Lanka",
+    "url": "https://www.ft.lk/news/Bangladesh-donates-essential-medicines-worth-2-2-m-to-Sri-Lanka/56-735623",
+    "file_name": "/tmp/news_lk2/articles/53/53161bed.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654117920,
+    "title": "57 institutions to function under PM, 42 under President",
+    "url": "https://www.ft.lk/news/57-institutions-to-function-under-PM-42-under-President/56-735622",
+    "file_name": "/tmp/news_lk2/articles/a6/a6199758.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654114380,
+    "title": "\u201cThe main cause for deforestation is poverty\u201d : Dr. Pethiyagoda",
+    "url": "https://www.dailymirror.lk/hard-talk/The-main-cause-for-deforestation-is-poverty-Dr-Pethiyagoda/334-238224",
+    "file_name": "/tmp/news_lk2/articles/eb/ebea1cde.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654111560,
     "title": "Govt. loses its way amid shortages and queues",
@@ -24,8 +101,22 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654106760,
     "title": "Duminda Silva under CID custody, still at J\u2019pura hospital",
+    "url": "https://www.dailymirror.lk/top_story/Duminda-Silva-under-CID-custody-still-at-Jpura-hospital/155-238198",
+    "file_name": "/tmp/news_lk2/articles/d2/d2a13e08.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654106760,
+    "title": "Duminda Silva under CID custody, still at J\u2019pura hospital",
     "url": "https://www.dailymirror.lk/latest_news/Duminda-Silva-under-CID-custody-still-at-Jpura-hospital/342-238198",
     "file_name": "/tmp/news_lk2/articles/01/01fa94d0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654103880,
+    "title": "Recently concluded O/L exam was the toughest, challenging in history: Exam. Com. Gen.",
+    "url": "https://www.dailymirror.lk/breaking_news/Recently-concluded-OL-exam-was-the-toughest-challenging-in-history-Exam-Com-Gen/108-238196",
+    "file_name": "/tmp/news_lk2/articles/83/83293b44.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -40,6 +131,13 @@
     "title": "Use available credit lines to resolve country\u2019s drug shortage: COPE tells SPC",
     "url": "http://www.adaderana.lk/news/82815/use-available-credit-lines-to-resolve-countrys-drug-shortage-cope-tells-spc",
     "file_name": "/tmp/news_lk2/articles/72/72a83692.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654100700,
+    "title": "Educational structure should start at elementary stage: Minister",
+    "url": "https://www.dailymirror.lk/breaking_news/Educational-structure-should-start-at-elementary-stage-Minister/108-238197",
+    "file_name": "/tmp/news_lk2/articles/a4/a436cfab.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -68,6 +166,13 @@
     "title": "Will take disciplinary action: Exam Com Gen",
     "url": "https://www.dailymirror.lk/latest_news/Will-take-disciplinary-action-Exam-Com-Gen/342-238195",
     "file_name": "/tmp/news_lk2/articles/34/343bc9de.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654096380,
+    "title": "Will take disciplinary action: Exam Com Gen",
+    "url": "https://www.dailymirror.lk/breaking_news/Will-take-disciplinary-action-Exam-Com-Gen/108-238195",
+    "file_name": "/tmp/news_lk2/articles/41/41b76874.json"
   },
   {
     "newspaper_id": "economy-next-com",
