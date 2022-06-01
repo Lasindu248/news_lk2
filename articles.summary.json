@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654072500,
+    "title": "Duminda Silva admitted to SJP Hospital; CID sent to hospital",
+    "url": "https://www.dailymirror.lk/latest_news/Duminda-Silva-admitted-to-SJP-Hospital-CID-sent-to-hospital/342-238174",
+    "file_name": "/tmp/news_lk2/articles/a7/a7c6341a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654070760,
+    "title": "PM instructs to provide relief for flood affected",
+    "url": "https://www.dailymirror.lk/breaking_news/PM-instructs-to-provide-relief-for-flood-affected/108-238173",
+    "file_name": "/tmp/news_lk2/articles/cf/cf180603.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654070760,
+    "title": "WEATHER: Disaster Relief Officer dead after he was swept away by strong currents",
+    "url": "https://www.newsfirst.lk/2022/06/01/weather-disaster-relief-officer-dead-after-he-was-swept-away-by-strong-currents/",
+    "file_name": "/tmp/news_lk2/articles/09/097f766e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654070640,
     "title": "Japan reiterates support to find sustainable solutions to stabilize Sri Lanka\u2019s economy",
