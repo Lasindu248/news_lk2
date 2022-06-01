@@ -1,10 +1,45 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654061880,
+    "title": "Bangladesh donates 2.2 mn US dollars\u2019 worth of drugs to Sri Lanka",
+    "url": "https://economynext.com/bangladesh-donates-2-2-mn-us-dollars-worth-of-drugs-to-sri-lanka-95026/",
+    "file_name": "/tmp/news_lk2/articles/24/245bd5ce.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654061700,
+    "title": "Boats to move O/L students affected by floods",
+    "url": "https://www.newsfirst.lk/2022/06/01/boats-to-move-o-l-students-affected-by-floods/",
+    "file_name": "/tmp/news_lk2/articles/b5/b5973520.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654061100,
+    "title": "Sri Lanka issues gazette hiking value added tax from June 01",
+    "url": "https://economynext.com/sri-lanka-issues-gazette-hiking-value-added-tax-from-june-01-95023/",
+    "file_name": "/tmp/news_lk2/articles/40/40f01cbf.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654060860,
+    "title": "Political party secretaries summoned to elections commission",
+    "url": "https://www.newsfirst.lk/2022/06/01/political-party-secretaries-summoned-to-elections-commission/",
+    "file_name": "/tmp/news_lk2/articles/a1/a1f52a94.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654059960,
     "title": "Litro issues dealer list for today\u2019s LP gas stock availability",
     "url": "http://www.adaderana.lk/news/82797/litro-issues-dealer-list-for-todays-lp-gas-stock-availability",
     "file_name": "/tmp/news_lk2/articles/30/3068bbf4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654059540,
+    "title": "Yala season cultivations must begin \u2013 Agri DG",
+    "url": "https://www.newsfirst.lk/2022/06/01/yala-season-cultivations-must-begin-agri-dg/",
+    "file_name": "/tmp/news_lk2/articles/b1/b1a712db.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -663,40 +698,5 @@
     "title": "Rain is fine for some....",
     "url": "https://www.dailymirror.lk/latest_news/Rain-is-fine-for-some/342-238106",
     "file_name": "/tmp/news_lk2/articles/57/57aff76c.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1653994020,
-    "title": "Sri Lanka to increaes VAT to 12 percent, telecom levy to 15 percent",
-    "url": "https://economynext.com/sri-lanka-to-increaes-vat-to-12-percent-telecom-levy-to-15-percent-94976/",
-    "file_name": "/tmp/news_lk2/articles/dd/dd85247d.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1653994020,
-    "title": "Sri Lanka to increase VAT to 12 percent, telecom levy to 15 percent",
-    "url": "https://economynext.com/sri-lanka-to-increase-vat-to-12-percent-telecom-levy-to-15-percent-94976/",
-    "file_name": "/tmp/news_lk2/articles/18/18d31870.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1653993900,
-    "title": "Power Cuts reduced to 2 hours \u2013 PUCSL",
-    "url": "https://www.newsfirst.lk/2022/05/31/power-cuts-reduced-to-2-hours-pucsl/",
-    "file_name": "/tmp/news_lk2/articles/fe/fee96518.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653993780,
-    "title": "Powercut to return after O/L exam",
-    "url": "https://www.dailymirror.lk/latest_news/Powercut-to-return-after-OL-exam/342-238105",
-    "file_name": "/tmp/news_lk2/articles/90/9055f649.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653993780,
-    "title": "Powercut to return after O/L exam",
-    "url": "https://www.dailymirror.lk/breaking_news/Powercut-to-return-after-OL-exam/108-238105",
-    "file_name": "/tmp/news_lk2/articles/33/334d1af9.json"
   }
 ]
