@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654092840,
+    "title": "Sri Lanka: President appoints Commission of Inquiry to probe recent violence",
+    "url": "https://www.newsfirst.lk/2022/06/01/sri-lanka-president-appoints-commission-of-inquiry-to-probe-recent-violence/",
+    "file_name": "/tmp/news_lk2/articles/9a/9afbfa0e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654092480,
     "title": "Prices of cigarettes and liquor increased",
@@ -19,6 +26,13 @@
     "title": "\u2018Aragalaya\u2019 youths present set of proposals to Prez",
     "url": "https://www.dailymirror.lk/latest_news/Aragalaya-youths-present-set-of-proposals-to-Prez/342-238192",
     "file_name": "/tmp/news_lk2/articles/a0/a04d02c8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654091520,
+    "title": "Sri Lanka\u2019s Police Chief in Court, says does not have power to transfer Deshabandu",
+    "url": "https://www.newsfirst.lk/2022/06/01/sri-lankas-police-chief-in-court-says-does-not-have-power-to-transfer-deshabandu/",
+    "file_name": "/tmp/news_lk2/articles/ed/eda079b4.json"
   },
   {
     "newspaper_id": "news-first-lk",
