@@ -1,6 +1,69 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654087380,
+    "title": "Duminda Silva arrested by the CID",
+    "url": "http://www.adaderana.lk/news/82811/duminda-silva-arrested-by-the-cid",
+    "file_name": "/tmp/news_lk2/articles/a7/a72b8d5f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654087320,
+    "title": "Duminda Silva arrested",
+    "url": "https://www.dailymirror.lk/latest_news/Duminda-Silva-arrested/342-238188",
+    "file_name": "/tmp/news_lk2/articles/b9/b9d61e04.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654087080,
+    "title": "President appoints 3-member commission to probe unrest in Sri Lanka",
+    "url": "http://www.adaderana.lk/news/82810/president-appoints-3-member-commission-to-probe-unrest-in-sri-lanka",
+    "file_name": "/tmp/news_lk2/articles/eb/eb7200bc.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654086780,
+    "title": "Ex-MP Duminda Silva arrested by the CID while at the Sri Jayawardenapura Hospital",
+    "url": "https://www.newsfirst.lk/2022/06/01/ex-mp-duminda-silva-arrested-by-the-cid-while-at-the-sri-jayawardenapura-hospital/",
+    "file_name": "/tmp/news_lk2/articles/2f/2f306e30.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654086120,
+    "title": "Over 12,000 people affected by inclement weather",
+    "url": "https://www.dailymirror.lk/latest_news/Over-12-000-people-affected-by-inclement-weather/342-238187",
+    "file_name": "/tmp/news_lk2/articles/82/82eb22ff.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654086000,
+    "title": "A-PAD coordinated medicine donation to MoH",
+    "url": "https://www.newsfirst.lk/2022/06/01/a-pad-coordinated-medicine-donation-to-moh/",
+    "file_name": "/tmp/news_lk2/articles/89/89e25de4.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654085520,
+    "title": "Labour Department\u2019s offices closed on Fridays",
+    "url": "http://www.adaderana.lk/news/82809/labour-departments-offices-closed-on-fridays",
+    "file_name": "/tmp/news_lk2/articles/61/611e3e3b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654085040,
+    "title": "Excise has no say over liquor price increase",
+    "url": "https://www.dailymirror.lk/latest_news/Excise-has-no-say-over-liquor-price-increase/342-238185",
+    "file_name": "/tmp/news_lk2/articles/1c/1c098335.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654083720,
+    "title": "Over $330 Mn dollars received to buy medicine, but not disbursed properly \u2013 COPE",
+    "url": "https://www.newsfirst.lk/2022/06/01/over-330-mn-dollars-received-to-buy-medicine-but-not-disbursed-properly-cope/",
+    "file_name": "/tmp/news_lk2/articles/af/aff66168.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654083420,
     "title": "May 9 violence: Johnston and Kahandagama named as suspects",
     "url": "http://www.adaderana.lk/news/82808/may-9-violence-johnston-and-kahandagama-named-as-suspects",
@@ -635,68 +698,5 @@
     "title": "Major General Vikum Liyanage appointed as the new Sri Lanka Army Commander",
     "url": "https://www.ft.lk/news/Major-General-Vikum-Liyanage-appointed-as-the-new-Sri-Lanka-Army-Commander/56-735564",
     "file_name": "/tmp/news_lk2/articles/78/780d951a.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654021800,
-    "title": "Justice Minister to brief MPs on 21 A tomorrow",
-    "url": "https://www.ft.lk/news/Justice-Minister-to-brief-MPs-on-21-A-tomorrow/56-735565",
-    "file_name": "/tmp/news_lk2/articles/9d/9d12813f.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654021800,
-    "title": "Cabinet nod to amend five Acts to boost Govt. revenue",
-    "url": "https://www.ft.lk/news/Cabinet-nod-to-amend-five-Acts-to-boost-Govt-revenue/56-735563",
-    "file_name": "/tmp/news_lk2/articles/e0/e09e91f0.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654021800,
-    "title": "Norway, FAO to strengthen fisheries sector in Sri Lanka",
-    "url": "https://www.ft.lk/business/Norway-FAO-to-strengthen-fisheries-sector-in-Sri-Lanka/34-735574",
-    "file_name": "/tmp/news_lk2/articles/92/9216059d.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654021800,
-    "title": "WindForce registers steady performance amidst turbulent times",
-    "url": "https://www.ft.lk/business/WindForce-registers-steady-performance-amidst-turbulent-times/34-735569",
-    "file_name": "/tmp/news_lk2/articles/8a/8af1fdd9.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654021800,
-    "title": "Colombo Arbitration Week 2022 kicks off today",
-    "url": "https://www.ft.lk/business/Colombo-Arbitration-Week-2022-kicks-off-today/34-735572",
-    "file_name": "/tmp/news_lk2/articles/96/96d5943c.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654021800,
-    "title": "Agriculture Minister says SL can avert food crisis via massive\u00a0cultivation drive",
-    "url": "https://www.ft.lk/business/Agriculture-Minister-says-SL-can-avert-food-crisis-via-massivecultivation-drive/34-735571",
-    "file_name": "/tmp/news_lk2/articles/a3/a3eac05b.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654019400,
-    "title": "NBRO extends landslide early warning issued to several areas",
-    "url": "http://www.adaderana.lk/news/82794/nbro-extends-landslide-early-warning-issued-to-several-areas",
-    "file_name": "/tmp/news_lk2/articles/66/66d4e8e4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654019100,
-    "title": "School girl\u2019s body found in well in Vavuniya",
-    "url": "https://www.dailymirror.lk/breaking_news/School-girls-body-found-in-well-in-Vavuniya/108-238117",
-    "file_name": "/tmp/news_lk2/articles/ab/abfe5d1e.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654017600,
-    "title": "Six more arrested over unrest on May 09",
-    "url": "http://www.adaderana.lk/news/82793/six-more-arrested-over-unrest-on-may-09",
-    "file_name": "/tmp/news_lk2/articles/c4/c41ab554.json"
   }
 ]
