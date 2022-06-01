@@ -1,6 +1,20 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654066500,
+    "title": "PM gives directives to provide relief to flood-affected people",
+    "url": "http://www.adaderana.lk/news/82799/pm-gives-directives-to-provide-relief-to-flood-affected-people-",
+    "file_name": "/tmp/news_lk2/articles/e2/e20fcd94.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654065840,
+    "title": "Sri Lanka stocks slip in mid-day trade on Wednesday",
+    "url": "https://economynext.com/sri-lanka-stocks-slip-in-mid-day-trade-on-wednesday-95034/",
+    "file_name": "/tmp/news_lk2/articles/04/0478b024.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654064760,
     "title": "Sri Lankan Muslims to forgo Hajj pilgrimage this year",
     "url": "http://www.adaderana.lk/news/82798/sri-lankan-muslims-to-forgo-hajj-pilgrimage-this-year",
@@ -269,6 +283,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654031400,
     "title": "Is the 21st A another  political farce?",
+    "url": "https://www.dailymirror.lk/news-features/Is-the-21st-A-another-political-farce/131-238137",
+    "file_name": "/tmp/news_lk2/articles/f6/f666cb77.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654031400,
+    "title": "Is the 21st A another  political farce?",
     "url": "https://www.dailymirror.lk/recomended-news/Is-the-21st-A-another-political-farce/277-238137",
     "file_name": "/tmp/news_lk2/articles/01/0180b667.json"
   },
@@ -278,6 +299,13 @@
     "title": "Cracking minds",
     "url": "https://www.dailymirror.lk/plus/Cracking-minds/352-238136",
     "file_name": "/tmp/news_lk2/articles/d8/d82ab52a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654030560,
+    "title": "Cracking minds",
+    "url": "https://www.dailymirror.lk/insight/Cracking-minds/374-238136",
+    "file_name": "/tmp/news_lk2/articles/bf/bf143c83.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -670,33 +698,5 @@
     "title": "Rs.43 Mn worth of Gold confiscated by Customs",
     "url": "https://www.newsfirst.lk/2022/05/31/rs-43-mn-worth-of-gold-confiscated-by-customs/",
     "file_name": "/tmp/news_lk2/articles/a5/a5bd97a1.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1653997560,
-    "title": "VAT and Telecom Tax to be increased",
-    "url": "http://www.adaderana.lk/news/82789/vat-and-telecom-tax-to-be-increased",
-    "file_name": "/tmp/news_lk2/articles/07/07e58318.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653997320,
-    "title": "Taxes incl. VAT to be increased",
-    "url": "https://www.dailymirror.lk/breaking_news/Taxes-incl-VAT-to-be-increased/108-238109",
-    "file_name": "/tmp/news_lk2/articles/54/543b1fdc.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653997320,
-    "title": "Taxes incl. VAT to be increased",
-    "url": "https://www.dailymirror.lk/latest_news/Taxes-incl-VAT-to-be-increased/342-238109",
-    "file_name": "/tmp/news_lk2/articles/e0/e0392de3.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1653997260,
-    "title": "New Army Commander Accepts Letter of Appointment",
-    "url": "https://www.newsfirst.lk/2022/05/31/new-army-commander-accepts-letter-of-appointment/",
-    "file_name": "/tmp/news_lk2/articles/c8/c86af9ac.json"
   }
 ]
