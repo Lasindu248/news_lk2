@@ -1,10 +1,52 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654057620,
+    "title": "New Army Commander assumes duties",
+    "url": "http://www.adaderana.lk/news/82796/new-army-commander-assumes-duties",
+    "file_name": "/tmp/news_lk2/articles/43/434dc2aa.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654056300,
+    "title": "MoU signed with Malaysia to establish job training centre",
+    "url": "https://www.dailymirror.lk/latest_news/MoU-signed-with-Malaysia-to-establish-job-training-centre/342-238148",
+    "file_name": "/tmp/news_lk2/articles/1a/1ad261da.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654056120,
+    "title": "HRC decides to summon Ex-PM Rajapaksa",
+    "url": "https://www.newsfirst.lk/2022/06/01/hrc-decides-to-summon-ex-pm-rajapaksa/",
+    "file_name": "/tmp/news_lk2/articles/fb/fbd6edb6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654055760,
+    "title": "Sri Lanka Navy deploys 13 flood relief teams; transports students facing O/L exam by boat",
+    "url": "https://www.newsfirst.lk/2022/06/01/sri-lanka-navy-deploys-13-flood-relief-teams-transports-students-facing-o-l-exam-by-boat/",
+    "file_name": "/tmp/news_lk2/articles/aa/aa97a1f7.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654055280,
+    "title": "Sri Lanka healthcare agencies to pay suppliers current dollar rate to reduce shortages",
+    "url": "https://economynext.com/sri-lanka-healthcare-agencies-to-pay-suppliers-current-dollar-rate-to-reduce-shortages-95016/",
+    "file_name": "/tmp/news_lk2/articles/d6/d658e2e4.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654054980,
     "title": "Basil\u2019s loyalists in fresh move to scuttle 21A",
     "url": "https://www.dailymirror.lk/latest_news/Basils-loyalists-in-fresh-move-to-scuttle-21A/342-238144",
     "file_name": "/tmp/news_lk2/articles/23/23eee90a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654054200,
+    "title": "New Army Commander Lieutenant General Vikum Liyanage Assumes Duties",
+    "url": "https://www.newsfirst.lk/2022/06/01/new-army-commander-lieutenant-general-vikum-liyanage-assumes-duties/",
+    "file_name": "/tmp/news_lk2/articles/41/4133f16a.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -57,10 +99,24 @@
   },
   {
     "newspaper_id": "economy-next-com",
+    "time_ut": 1654048020,
+    "title": "Sri Lanka\u2019s CB Governors should be bound by rules, not given independence to print: Bellwether",
+    "url": "https://economynext.com/sri-lankas-cb-governors-should-be-bound-by-rules-not-given-independence-to-print-bellwether-95009/",
+    "file_name": "/tmp/news_lk2/articles/e4/e42d9d56.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "time_ut": 1654047900,
     "title": "Sri Lanka LOLC Holdings net up 440-pct in March",
     "url": "https://economynext.com/sri-lanka-lolc-holdings-net-up-440-pct-in-march-95011/",
     "file_name": "/tmp/news_lk2/articles/21/213189d1.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654047600,
+    "title": "Sri Lanka\u2019s People\u2019s Bank clarifies NPA treatment",
+    "url": "https://economynext.com/sri-lankas-peoples-bank-clarifies-npa-treatment-95017/",
+    "file_name": "/tmp/news_lk2/articles/fd/fd364168.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -113,10 +169,24 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654031400,
+    "title": "Is the 21st A another  political farce?",
+    "url": "https://www.dailymirror.lk/recomended-news/Is-the-21st-A-another-political-farce/277-238137",
+    "file_name": "/tmp/news_lk2/articles/01/0180b667.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654030560,
     "title": "Cracking minds",
     "url": "https://www.dailymirror.lk/plus/Cracking-minds/352-238136",
     "file_name": "/tmp/news_lk2/articles/d8/d82ab52a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654030560,
+    "title": "Cracking minds",
+    "url": "https://www.dailymirror.lk/recomended-news/Cracking-minds/277-238136",
+    "file_name": "/tmp/news_lk2/articles/96/9676723f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -628,75 +698,5 @@
     "title": "Foreign Minister Peiris meets with Japanese Deputy Head of Mission",
     "url": "https://www.newsfirst.lk/2022/05/31/foreign-minister-peiris-meets-with-japanese-deputy-head-of-mission/",
     "file_name": "/tmp/news_lk2/articles/44/44772a4e.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1653990600,
-    "title": "Two siblings hacked to death during family dispute",
-    "url": "http://www.adaderana.lk/news/82786/two-siblings-hacked-to-death-during-family-dispute",
-    "file_name": "/tmp/news_lk2/articles/6c/6cb13d71.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653990540,
-    "title": "SC suspends presidential pardon granted on Duminda Silva",
-    "url": "https://www.dailymirror.lk/latest_news/SC-suspends-presidential-pardon-granted-on-Duminda-Silva/342-238103",
-    "file_name": "/tmp/news_lk2/articles/5e/5e1005ca.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653990540,
-    "title": "SC suspends presidential pardon granted on Duminda Silva",
-    "url": "https://www.dailymirror.lk/top_story/SC-suspends-presidential-pardon-granted-on-Duminda-Silva/155-238103",
-    "file_name": "/tmp/news_lk2/articles/4b/4b27d52b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653990540,
-    "title": "SC suspends presidential pardon granted on Duminda Silva",
-    "url": "https://www.dailymirror.lk/breaking_news/SC-suspends-presidential-pardon-granted-on-Duminda-Silva/108-238103",
-    "file_name": "/tmp/news_lk2/articles/d6/d6597792.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1653989820,
-    "title": "Sri Lanka schedules two-hour power cut for June 01; daily outages to reduce to one hour",
-    "url": "https://economynext.com/sri-lanka-schedules-two-hour-power-cut-for-june-01-daily-outages-to-reduce-to-one-hour-94971/",
-    "file_name": "/tmp/news_lk2/articles/6a/6aefe45c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653988740,
-    "title": "Stop smoking, save dollars...",
-    "url": "https://www.dailymirror.lk/caption_story/Stop-smoking-save-dollars/110-238102",
-    "file_name": "/tmp/news_lk2/articles/00/0070a635.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653988740,
-    "title": "Stop smoking, save dollars...",
-    "url": "https://www.dailymirror.lk/latest_news/Stop-smoking-save-dollars/342-238102",
-    "file_name": "/tmp/news_lk2/articles/d5/d51f16f0.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1653988500,
-    "title": "Torrential downpour in Sri Lanka adds to people\u2019s woes; floods, landslides likely",
-    "url": "https://economynext.com/torrential-downpour-in-sri-lanka-adds-to-peoples-woes-floods-landslides-likely-94969/",
-    "file_name": "/tmp/news_lk2/articles/4d/4ddf601e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653986040,
-    "title": "Edu. Ministry to probe incident",
-    "url": "https://www.dailymirror.lk/latest_news/Edu-Ministry-to-probe-incident/342-238101",
-    "file_name": "/tmp/news_lk2/articles/a2/a2e47fa5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653986040,
-    "title": "Edu. Ministry to probe incident",
-    "url": "https://www.dailymirror.lk/breaking_news/Edu-Ministry-to-probe-incident/108-238101",
-    "file_name": "/tmp/news_lk2/articles/50/50c3978d.json"
   }
 ]
