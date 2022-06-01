@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654090260,
+    "title": "Tirantha Walaliyadda quits HRC Committee on 9th May Violence",
+    "url": "https://www.newsfirst.lk/2022/06/01/tirantha-walaliyadda-quits-hrc-committee-on-9th-may-violence/",
+    "file_name": "/tmp/news_lk2/articles/ce/ce390ec1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654089120,
+    "title": "Sri Lanka to impose 100% surcharge on multiple imports; 200% on Chocolate related imports",
+    "url": "https://www.newsfirst.lk/2022/06/01/sri-lanka-to-impose-100-surcharge-on-multiple-imports-200-on-chocolate-related-imports/",
+    "file_name": "/tmp/news_lk2/articles/d4/d4059dc4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654088460,
+    "title": "Funds received for drug purchase not properly utilized: COPE reveals",
+    "url": "https://www.dailymirror.lk/breaking_news/Funds-received-for-drug-purchase-not-properly-utilized-COPE-reveals/108-238190",
+    "file_name": "/tmp/news_lk2/articles/69/69d9645b.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654088460,
     "title": "Funds received for drug purchase not properly utilized: COPE reveals",
@@ -26,6 +47,13 @@
     "title": "Duminda Silva arrested by the CID",
     "url": "http://www.adaderana.lk/news/82811/duminda-silva-arrested-by-the-cid",
     "file_name": "/tmp/news_lk2/articles/a7/a72b8d5f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654087320,
+    "title": "Duminda Silva arrested",
+    "url": "https://www.dailymirror.lk/top_story/Duminda-Silva-arrested/155-238188",
+    "file_name": "/tmp/news_lk2/articles/7d/7dd88f08.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -82,6 +110,13 @@
     "title": "Labour Department\u2019s offices closed on Fridays",
     "url": "http://www.adaderana.lk/news/82809/labour-departments-offices-closed-on-fridays",
     "file_name": "/tmp/news_lk2/articles/61/611e3e3b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654085040,
+    "title": "Excise has no say over liquor price increase",
+    "url": "https://www.dailymirror.lk/breaking_news/Excise-has-no-say-over-liquor-price-increase/108-238185",
+    "file_name": "/tmp/news_lk2/articles/c3/c3305f85.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -663,40 +698,5 @@
     "title": "Is the 21st A another  political farce?",
     "url": "https://www.dailymirror.lk/news-features/Is-the-21st-A-another-political-farce/131-238137",
     "file_name": "/tmp/news_lk2/articles/f6/f666cb77.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654031400,
-    "title": "Is the 21st A another  political farce?",
-    "url": "https://www.dailymirror.lk/recomended-news/Is-the-21st-A-another-political-farce/277-238137",
-    "file_name": "/tmp/news_lk2/articles/01/0180b667.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654030560,
-    "title": "Cracking minds",
-    "url": "https://www.dailymirror.lk/plus/Cracking-minds/352-238136",
-    "file_name": "/tmp/news_lk2/articles/d8/d82ab52a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654030560,
-    "title": "Cracking minds",
-    "url": "https://www.dailymirror.lk/news-features/Cracking-minds/131-238136",
-    "file_name": "/tmp/news_lk2/articles/00/002194c4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654030560,
-    "title": "Cracking minds",
-    "url": "https://www.dailymirror.lk/insight/Cracking-minds/374-238136",
-    "file_name": "/tmp/news_lk2/articles/bf/bf143c83.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654030560,
-    "title": "Cracking minds",
-    "url": "https://www.dailymirror.lk/recomended-news/Cracking-minds/277-238136",
-    "file_name": "/tmp/news_lk2/articles/96/9676723f.json"
   }
 ]
