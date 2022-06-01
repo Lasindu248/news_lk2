@@ -1,10 +1,38 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654103880,
+    "title": "Recently concluded O/L exam was the toughest, challenging in history: Exam. Com. Gen.",
+    "url": "https://www.dailymirror.lk/latest_news/Recently-concluded-OL-exam-was-the-toughest-challenging-in-history-Exam-Com-Gen/342-238196",
+    "file_name": "/tmp/news_lk2/articles/77/770f596a.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654103220,
+    "title": "Use available credit lines to resolve country\u2019s drug shortage: COPE tells SPC",
+    "url": "http://www.adaderana.lk/news/82815/use-available-credit-lines-to-resolve-countrys-drug-shortage-cope-tells-spc",
+    "file_name": "/tmp/news_lk2/articles/72/72a83692.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654100700,
+    "title": "Indian PM assures immediate aid to supply fertilizer for Sri Lanka",
+    "url": "http://www.adaderana.lk/news/82814/indian-pm-assures-immediate-aid-to-supply-fertilizer-for-sri-lanka",
+    "file_name": "/tmp/news_lk2/articles/cd/cd14ddab.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654100700,
     "title": "Indian PM assures immediate aid to provide fertilizer for Sri Lanka",
     "url": "http://www.adaderana.lk/news/82814/indian-pm-assures-immediate-aid-to-provide-fertilizer-for-sri-lanka",
     "file_name": "/tmp/news_lk2/articles/98/98f91d79.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654100700,
+    "title": "Educational structure should start at elementary stage: Minister",
+    "url": "https://www.dailymirror.lk/latest_news/Educational-structure-should-start-at-elementary-stage-Minister/342-238197",
+    "file_name": "/tmp/news_lk2/articles/bf/bf7c232e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -24,15 +52,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654095000,
     "title": "Prison authorities to take Duminda Silva into custody tonight",
-    "url": "https://www.dailymirror.lk/breaking_news/Prison-authorities-to-take-Duminda-Silva-into-custody-tonight/108-238194",
-    "file_name": "/tmp/news_lk2/articles/35/35dcaab5.json"
+    "url": "https://www.dailymirror.lk/latest_news/Prison-authorities-to-take-Duminda-Silva-into-custody-tonight/342-238194",
+    "file_name": "/tmp/news_lk2/articles/cb/cbff727f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654095000,
     "title": "Prison authorities to take Duminda Silva into custody tonight",
-    "url": "https://www.dailymirror.lk/latest_news/Prison-authorities-to-take-Duminda-Silva-into-custody-tonight/342-238194",
-    "file_name": "/tmp/news_lk2/articles/cb/cbff727f.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Prison-authorities-to-take-Duminda-Silva-into-custody-tonight/108-238194",
+    "file_name": "/tmp/news_lk2/articles/35/35dcaab5.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -129,15 +157,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654088040,
     "title": "Silent protest to free Ranjan",
-    "url": "https://www.dailymirror.lk/caption_story/Silent-protest-to-free-Ranjan/110-238189",
-    "file_name": "/tmp/news_lk2/articles/50/50008ced.json"
+    "url": "https://www.dailymirror.lk/latest_news/Silent-protest-to-free-Ranjan/342-238189",
+    "file_name": "/tmp/news_lk2/articles/df/df70ecf0.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654088040,
     "title": "Silent protest to free Ranjan",
-    "url": "https://www.dailymirror.lk/latest_news/Silent-protest-to-free-Ranjan/342-238189",
-    "file_name": "/tmp/news_lk2/articles/df/df70ecf0.json"
+    "url": "https://www.dailymirror.lk/caption_story/Silent-protest-to-free-Ranjan/110-238189",
+    "file_name": "/tmp/news_lk2/articles/50/50008ced.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -157,6 +185,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654087320,
     "title": "Duminda Silva arrested",
+    "url": "https://www.dailymirror.lk/breaking_news/Duminda-Silva-arrested/108-238188",
+    "file_name": "/tmp/news_lk2/articles/90/90e2656c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654087320,
+    "title": "Duminda Silva arrested",
     "url": "https://www.dailymirror.lk/top_story/Duminda-Silva-arrested/155-238188",
     "file_name": "/tmp/news_lk2/articles/7d/7dd88f08.json"
   },
@@ -170,16 +205,16 @@
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654087080,
-    "title": "President appoints 3-member commission to probe unrest in Sri Lanka",
-    "url": "http://www.adaderana.lk/news/82810/president-appoints-3-member-commission-to-probe-unrest-in-sri-lanka",
-    "file_name": "/tmp/news_lk2/articles/eb/eb7200bc.json"
+    "title": "President appoints 3-member commission to probe recent unrest in Sri Lanka",
+    "url": "http://www.adaderana.lk/news/82810/president-appoints-3-member-commission-to-probe-recent-unrest-in-sri-lanka",
+    "file_name": "/tmp/news_lk2/articles/39/39ca6f1e.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654087080,
-    "title": "President appoints 3-member commission to probe recent unrest in Sri Lanka",
-    "url": "http://www.adaderana.lk/news/82810/president-appoints-3-member-commission-to-probe-recent-unrest-in-sri-lanka",
-    "file_name": "/tmp/news_lk2/articles/39/39ca6f1e.json"
+    "title": "President appoints 3-member commission to probe unrest in Sri Lanka",
+    "url": "http://www.adaderana.lk/news/82810/president-appoints-3-member-commission-to-probe-unrest-in-sri-lanka",
+    "file_name": "/tmp/news_lk2/articles/eb/eb7200bc.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -346,15 +381,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654077600,
     "title": "Nimal Siripala, Amaraweera to be removed from all positions of SLFP",
-    "url": "https://www.dailymirror.lk/latest_news/Nimal-Siripala-Amaraweera-to-be-removed-from-all-positions-of-SLFP/342-238184",
-    "file_name": "/tmp/news_lk2/articles/ce/ce5de76b.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Nimal-Siripala-Amaraweera-to-be-removed-from-all-positions-of-SLFP/108-238184",
+    "file_name": "/tmp/news_lk2/articles/76/769463ac.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654077600,
     "title": "Nimal Siripala, Amaraweera to be removed from all positions of SLFP",
-    "url": "https://www.dailymirror.lk/breaking_news/Nimal-Siripala-Amaraweera-to-be-removed-from-all-positions-of-SLFP/108-238184",
-    "file_name": "/tmp/news_lk2/articles/76/769463ac.json"
+    "url": "https://www.dailymirror.lk/latest_news/Nimal-Siripala-Amaraweera-to-be-removed-from-all-positions-of-SLFP/342-238184",
+    "file_name": "/tmp/news_lk2/articles/ce/ce5de76b.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -378,11 +413,11 @@
     "file_name": "/tmp/news_lk2/articles/25/25635729.json"
   },
   {
-    "newspaper_id": "economy-next-com",
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654075080,
-    "title": "Sri Lanka Freedom party sacks Mahinda Amaraweera, Nimal Siripala de Silva for joining govt",
-    "url": "https://economynext.com/sri-lanka-freedom-party-sacks-mahinda-amaraweera-nimal-siripala-de-silva-for-joining-govt-95038/",
-    "file_name": "/tmp/news_lk2/articles/84/843bfcc4.json"
+    "title": "Import restrictions imposed on multiple items relaxed",
+    "url": "http://www.adaderana.lk/news/82803/import-restrictions-imposed-on-multiple-items-relaxed-",
+    "file_name": "/tmp/news_lk2/articles/36/36ab996b.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -392,11 +427,11 @@
     "file_name": "/tmp/news_lk2/articles/6b/6b67199a.json"
   },
   {
-    "newspaper_id": "ada-derana-lk",
+    "newspaper_id": "economy-next-com",
     "time_ut": 1654075080,
-    "title": "Import restrictions imposed on multiple items relaxed",
-    "url": "http://www.adaderana.lk/news/82803/import-restrictions-imposed-on-multiple-items-relaxed-",
-    "file_name": "/tmp/news_lk2/articles/36/36ab996b.json"
+    "title": "Sri Lanka Freedom party sacks Mahinda Amaraweera, Nimal Siripala de Silva for joining govt",
+    "url": "https://economynext.com/sri-lanka-freedom-party-sacks-mahinda-amaraweera-nimal-siripala-de-silva-for-joining-govt-95038/",
+    "file_name": "/tmp/news_lk2/articles/84/843bfcc4.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -436,6 +471,13 @@
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654072500,
+    "title": "IGP arrives at Fort Magistrate\u2019s Court",
+    "url": "https://www.dailymirror.lk/breaking_news/IGP-arrives-at-Fort-Magistrates-Court/108-238176",
+    "file_name": "/tmp/news_lk2/articles/0e/0e9d88a2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654072500,
     "title": "Duminda Silva admitted to J'Pura Hospital; CID sent to hospital",
     "url": "https://www.dailymirror.lk/top_story/Duminda-Silva-admitted-to-J-Pura-Hospital-CID-sent-to-hospital/155-238174",
     "file_name": "/tmp/news_lk2/articles/a6/a6d97da4.json"
@@ -443,9 +485,9 @@
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654072500,
-    "title": "IGP arrives at Fort Magistrate\u2019s Court",
-    "url": "https://www.dailymirror.lk/breaking_news/IGP-arrives-at-Fort-Magistrates-Court/108-238176",
-    "file_name": "/tmp/news_lk2/articles/0e/0e9d88a2.json"
+    "title": "Duminda Silva admitted to J'Pura Hospital; CID sent to hospital",
+    "url": "https://www.dailymirror.lk/latest_news/Duminda-Silva-admitted-to-J-Pura-Hospital-CID-sent-to-hospital/342-238174",
+    "file_name": "/tmp/news_lk2/articles/e4/e4928358.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -463,24 +505,10 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654072500,
-    "title": "Duminda Silva admitted to J'Pura Hospital; CID sent to hospital",
-    "url": "https://www.dailymirror.lk/latest_news/Duminda-Silva-admitted-to-J-Pura-Hospital-CID-sent-to-hospital/342-238174",
-    "file_name": "/tmp/news_lk2/articles/e4/e4928358.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654071060,
     "title": "Vikum Liyanage assumes office as new Army Chief",
     "url": "https://www.dailymirror.lk/caption_story/Vikum-Liyanage-assumes-office-as-new-Army-Chief/110-238175",
     "file_name": "/tmp/news_lk2/articles/27/2784d220.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654070760,
-    "title": "WEATHER: Disaster Relief Officer dead after he was swept away by strong currents",
-    "url": "https://www.newsfirst.lk/2022/06/01/weather-disaster-relief-officer-dead-after-he-was-swept-away-by-strong-currents/",
-    "file_name": "/tmp/news_lk2/articles/09/097f766e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -488,6 +516,13 @@
     "title": "PM instructs to provide relief for flood affected",
     "url": "https://www.dailymirror.lk/breaking_news/PM-instructs-to-provide-relief-for-flood-affected/108-238173",
     "file_name": "/tmp/news_lk2/articles/cf/cf180603.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654070760,
+    "title": "WEATHER: Disaster Relief Officer dead after he was swept away by strong currents",
+    "url": "https://www.newsfirst.lk/2022/06/01/weather-disaster-relief-officer-dead-after-he-was-swept-away-by-strong-currents/",
+    "file_name": "/tmp/news_lk2/articles/09/097f766e.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -514,15 +549,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654067280,
     "title": "Riding purely on luck...",
-    "url": "https://www.dailymirror.lk/latest_news/Riding-purely-on-luck/342-238177",
-    "file_name": "/tmp/news_lk2/articles/d2/d2d40663.json"
+    "url": "https://www.dailymirror.lk/caption_story/Riding-purely-on-luck/110-238177",
+    "file_name": "/tmp/news_lk2/articles/22/221ef0a3.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654067280,
     "title": "Riding purely on luck...",
-    "url": "https://www.dailymirror.lk/caption_story/Riding-purely-on-luck/110-238177",
-    "file_name": "/tmp/news_lk2/articles/22/221ef0a3.json"
+    "url": "https://www.dailymirror.lk/latest_news/Riding-purely-on-luck/342-238177",
+    "file_name": "/tmp/news_lk2/articles/d2/d2d40663.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -661,42 +696,7 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654054980,
     "title": "Basil\u2019s loyalists in fresh move to scuttle 21A",
-    "url": "https://www.dailymirror.lk/breaking_news/Basils-loyalists-in-fresh-move-to-scuttle-21A/108-238144",
-    "file_name": "/tmp/news_lk2/articles/10/10786556.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654054980,
-    "title": "Basil\u2019s loyalists in fresh move to scuttle 21A",
     "url": "https://www.dailymirror.lk/latest_news/Basils-loyalists-in-fresh-move-to-scuttle-21A/342-238144",
     "file_name": "/tmp/news_lk2/articles/23/23eee90a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654054200,
-    "title": "New Army Commander Lieutenant General Vikum Liyanage Assumes Duties",
-    "url": "https://www.newsfirst.lk/2022/06/01/new-army-commander-lieutenant-general-vikum-liyanage-assumes-duties/",
-    "file_name": "/tmp/news_lk2/articles/41/4133f16a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654052100,
-    "title": "SI dies in accident in Ratnapura",
-    "url": "https://www.dailymirror.lk/breaking_news/SI-dies-in-accident-in-Ratnapura/108-238145",
-    "file_name": "/tmp/news_lk2/articles/ff/ff4ef32e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654052100,
-    "title": "SI dies in accident in Ratnapura",
-    "url": "https://www.dailymirror.lk/latest_news/SI-dies-in-accident-in-Ratnapura/342-238145",
-    "file_name": "/tmp/news_lk2/articles/3a/3a880745.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654051020,
-    "title": "Top ruling party politico\u2019s liquor factories release harmful booze to market",
-    "url": "https://www.dailymirror.lk/breaking_news/Top-ruling-party-politicos-liquor-factories-release-harmful-booze-to-market/108-238143",
-    "file_name": "/tmp/news_lk2/articles/7b/7beda37e.json"
   }
 ]
