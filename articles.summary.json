@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654092480,
+    "title": "Prices of cigarettes and liquor increased",
+    "url": "http://www.adaderana.lk/news/82813/prices-of-cigarettes-and-liquor-increased",
+    "file_name": "/tmp/news_lk2/articles/b0/b0fef9a9.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654092240,
+    "title": "Import levies on several items increased; prices to go up",
+    "url": "http://www.adaderana.lk/news/82812/import-levies-on-several-items-increased-prices-to-go-up",
+    "file_name": "/tmp/news_lk2/articles/c7/c78dd6f0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654092060,
+    "title": "\u2018Aragalaya\u2019 youths present set of proposals to Prez",
+    "url": "https://www.dailymirror.lk/latest_news/Aragalaya-youths-present-set-of-proposals-to-Prez/342-238192",
+    "file_name": "/tmp/news_lk2/articles/a0/a04d02c8.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654090260,
     "title": "Tirantha Walaliyadda quits HRC Committee on 9th May Violence",
@@ -26,6 +47,13 @@
     "title": "Funds received for drug purchase not properly utilized: COPE reveals",
     "url": "https://www.dailymirror.lk/latest_news/Funds-received-for-drug-purchase-not-properly-utilized-COPE-reveals/342-238190",
     "file_name": "/tmp/news_lk2/articles/e1/e1c36ce8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654088040,
+    "title": "Silent protest to free Ranjan",
+    "url": "https://www.dailymirror.lk/latest_news/Silent-protest-to-free-Ranjan/342-238189",
+    "file_name": "/tmp/news_lk2/articles/df/df70ecf0.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
