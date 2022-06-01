@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654100700,
+    "title": "Indian PM assures immediate aid to provide fertilizer for Sri Lanka",
+    "url": "http://www.adaderana.lk/news/82814/indian-pm-assures-immediate-aid-to-provide-fertilizer-for-sri-lanka",
+    "file_name": "/tmp/news_lk2/articles/98/98f91d79.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654096380,
     "title": "Will take disciplinary action: Exam Com Gen",
@@ -691,12 +698,5 @@
     "title": "Top ruling party politico\u2019s liquor factories release harmful booze to market",
     "url": "https://www.dailymirror.lk/breaking_news/Top-ruling-party-politicos-liquor-factories-release-harmful-booze-to-market/108-238143",
     "file_name": "/tmp/news_lk2/articles/7b/7beda37e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654051020,
-    "title": "Top ruling party politico\u2019s liquor factories release harmful booze to market",
-    "url": "https://www.dailymirror.lk/latest_news/Top-ruling-party-politicos-liquor-factories-release-harmful-booze-to-market/342-238143",
-    "file_name": "/tmp/news_lk2/articles/97/9715a853.json"
   }
 ]
