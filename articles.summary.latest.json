@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654088460,
+    "title": "Funds received for drug purchase not properly utilized: COPE reveals",
+    "url": "https://www.dailymirror.lk/latest_news/Funds-received-for-drug-purchase-not-properly-utilized-COPE-reveals/342-238190",
+    "file_name": "/tmp/news_lk2/articles/e1/e1c36ce8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654088040,
+    "title": "Silent protest to free Ranjan",
+    "url": "https://www.dailymirror.lk/caption_story/Silent-protest-to-free-Ranjan/110-238189",
+    "file_name": "/tmp/news_lk2/articles/50/50008ced.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654087680,
+    "title": "Sri Lanka stocks fall for the seventh day on weak sentiments",
+    "url": "https://economynext.com/sri-lanka-stocks-fall-for-the-seventh-day-on-weak-sentiments-95043/",
+    "file_name": "/tmp/news_lk2/articles/dd/dddc0f10.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654087380,
     "title": "Duminda Silva arrested by the CID",
@@ -16,6 +37,13 @@
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654087080,
+    "title": "President appoints 3-member commission to probe recent unrest in Sri Lanka",
+    "url": "http://www.adaderana.lk/news/82810/president-appoints-3-member-commission-to-probe-recent-unrest-in-sri-lanka",
+    "file_name": "/tmp/news_lk2/articles/39/39ca6f1e.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654087080,
     "title": "President appoints 3-member commission to probe unrest in Sri Lanka",
     "url": "http://www.adaderana.lk/news/82810/president-appoints-3-member-commission-to-probe-unrest-in-sri-lanka",
     "file_name": "/tmp/news_lk2/articles/eb/eb7200bc.json"
@@ -26,6 +54,13 @@
     "title": "Ex-MP Duminda Silva arrested by the CID while at the Sri Jayawardenapura Hospital",
     "url": "https://www.newsfirst.lk/2022/06/01/ex-mp-duminda-silva-arrested-by-the-cid-while-at-the-sri-jayawardenapura-hospital/",
     "file_name": "/tmp/news_lk2/articles/2f/2f306e30.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654086120,
+    "title": "Over 12,000 people affected by inclement weather",
+    "url": "https://www.dailymirror.lk/breaking_news/Over-12-000-people-affected-by-inclement-weather/108-238187",
+    "file_name": "/tmp/news_lk2/articles/17/17adaf68.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -119,6 +154,13 @@
     "file_name": "/tmp/news_lk2/articles/7e/7e8febdf.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654079100,
+    "title": "Demanding full monthly wages ...",
+    "url": "https://www.dailymirror.lk/caption_story/Demanding-full-monthly-wages/110-238183",
+    "file_name": "/tmp/news_lk2/articles/6e/6e4702f0.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654078740,
     "title": "Probe into invigilator accused of sexually molesting O/L candidate",
@@ -145,6 +187,13 @@
     "title": "Stop cruelty on children...",
     "url": "https://www.dailymirror.lk/latest_news/Stop-cruelty-on-children/342-238182",
     "file_name": "/tmp/news_lk2/articles/43/43ea0f27.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654077660,
+    "title": "Stop cruelty on children...",
+    "url": "https://www.dailymirror.lk/caption_story/Stop-cruelty-on-children/110-238182",
+    "file_name": "/tmp/news_lk2/articles/82/82e7245b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -250,6 +299,13 @@
     "title": "Duminda Silva admitted to J'Pura Hospital; CID sent to hospital",
     "url": "https://www.dailymirror.lk/latest_news/Duminda-Silva-admitted-to-J-Pura-Hospital-CID-sent-to-hospital/342-238174",
     "file_name": "/tmp/news_lk2/articles/e4/e4928358.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654072500,
+    "title": "Duminda Silva admitted to J'Pura Hospital; CID sent to hospital",
+    "url": "https://www.dailymirror.lk/breaking_news/Duminda-Silva-admitted-to-J-Pura-Hospital-CID-sent-to-hospital/108-238174",
+    "file_name": "/tmp/news_lk2/articles/9e/9ed35024.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -626,6 +682,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654030560,
     "title": "Cracking minds",
+    "url": "https://www.dailymirror.lk/news-features/Cracking-minds/131-238136",
+    "file_name": "/tmp/news_lk2/articles/00/002194c4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654030560,
+    "title": "Cracking minds",
     "url": "https://www.dailymirror.lk/insight/Cracking-minds/374-238136",
     "file_name": "/tmp/news_lk2/articles/bf/bf143c83.json"
   },
@@ -635,68 +698,5 @@
     "title": "Cracking minds",
     "url": "https://www.dailymirror.lk/recomended-news/Cracking-minds/277-238136",
     "file_name": "/tmp/news_lk2/articles/96/9676723f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654023000,
-    "title": "Bollywood singer KK dies after concert In Kolkata",
-    "url": "https://www.dailymirror.lk/breaking_news/Bollywood-singer-KK-dies-after-concert-In-Kolkata/108-238118",
-    "file_name": "/tmp/news_lk2/articles/02/02034332.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654021800,
-    "title": "Govt. to present Rs. 695 b Supplementary Budget soon",
-    "url": "https://www.ft.lk/news/Govt-to-present-Rs-695-b-Supplementary-Budget-soon/56-735562",
-    "file_name": "/tmp/news_lk2/articles/0c/0c2c7e27.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654021800,
-    "title": "Transport Minister justifies train ticket price adjustments from today",
-    "url": "https://www.ft.lk/news/Transport-Minister-justifies-train-ticket-price-adjustments-from-today/56-735567",
-    "file_name": "/tmp/news_lk2/articles/24/246fa345.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654021800,
-    "title": "Lankem ranked amongst the most valuable consumer brands in Sri Lanka",
-    "url": "https://www.ft.lk/business/Lankem-ranked-amongst-the-most-valuable-consumer-brands-in-Sri-Lanka/34-735573",
-    "file_name": "/tmp/news_lk2/articles/72/72e0e686.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654021800,
-    "title": "Lankan Muslims forgo Hajj pilgrimage to save forex for the country",
-    "url": "https://www.ft.lk/news/Lankan-Muslims-forgo-Hajj-pilgrimage-to-save-forex-for-the-country/56-735566",
-    "file_name": "/tmp/news_lk2/articles/b8/b8f6ad7e.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654021800,
-    "title": "Department of Census and Statistics explains rebasing of GDP estimates 2015 \u2013 2021",
-    "url": "https://www.ft.lk/business/Department-of-Census-and-Statistics-explains-rebasing-of-GDP-estimates-2015-2021/34-735575",
-    "file_name": "/tmp/news_lk2/articles/9b/9b24bd08.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654021800,
-    "title": "Govt. explains rationale for wide ranging hikes in taxes",
-    "url": "https://www.ft.lk/news/Govt-explains-rationale-for-wide-ranging-hikes-in-taxes/56-735570",
-    "file_name": "/tmp/news_lk2/articles/5e/5e6862db.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654021800,
-    "title": "Sunshine Holdings delivers robust FY22 results  amidst unprecedented economic challenges",
-    "url": "https://www.ft.lk/business/Sunshine-Holdings-delivers-robust-FY22-results-amidst-unprecedented-economic-challenges/34-735568",
-    "file_name": "/tmp/news_lk2/articles/cc/cc5736ba.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654021800,
-    "title": "Major General Vikum Liyanage appointed as the new Sri Lanka Army Commander",
-    "url": "https://www.ft.lk/news/Major-General-Vikum-Liyanage-appointed-as-the-new-Sri-Lanka-Army-Commander/56-735564",
-    "file_name": "/tmp/news_lk2/articles/78/780d951a.json"
   }
 ]
