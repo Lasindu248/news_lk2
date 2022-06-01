@@ -1,12 +1,5 @@
 [
   {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654077000,
-    "title": "Sri Lanka Treasury bill yields drop after tax hike",
-    "url": "https://economynext.com/sri-lanka-treasury-bill-yields-drop-after-tax-hike-95039/",
-    "file_name": "/tmp/news_lk2/articles/23/23c08454.json"
-  },
-  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654075080,
     "title": "Import restrictions imposed on 369 items relaxed",
@@ -19,13 +12,6 @@
     "title": "Sri Lanka Freedom party sacks Mahinda Amaraweera, Nimal Siripala de Silva for joining govt",
     "url": "https://economynext.com/sri-lanka-freedom-party-sacks-mahinda-amaraweera-nimal-siripala-de-silva-for-joining-govt-95038/",
     "file_name": "/tmp/news_lk2/articles/84/843bfcc4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654074600,
-    "title": "To take wings...",
-    "url": "https://www.dailymirror.lk/caption_story/To-take-wings/110-238178",
-    "file_name": "/tmp/news_lk2/articles/87/872b9a97.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -61,13 +47,6 @@
     "title": "IGP arrives at Fort Magistrate\u2019s Court",
     "url": "https://www.dailymirror.lk/breaking_news/IGP-arrives-at-Fort-Magistrates-Court/108-238176",
     "file_name": "/tmp/news_lk2/articles/0e/0e9d88a2.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654072500,
-    "title": "Duminda Silva admitted to J'Pura Hospital; CID sent to hospital",
-    "url": "https://www.dailymirror.lk/top_story/Duminda-Silva-admitted-to-J-Pura-Hospital-CID-sent-to-hospital/155-238174",
-    "file_name": "/tmp/news_lk2/articles/a6/a6d97da4.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -131,13 +110,6 @@
     "title": "Riding purely on luck...",
     "url": "https://www.dailymirror.lk/caption_story/Riding-purely-on-luck/110-238177",
     "file_name": "/tmp/news_lk2/articles/22/221ef0a3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654067280,
-    "title": "Riding purely on luck...",
-    "url": "https://www.dailymirror.lk/latest_news/Riding-purely-on-luck/342-238177",
-    "file_name": "/tmp/news_lk2/articles/d2/d2d40663.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -698,5 +670,33 @@
     "title": "Saving lives from drowning for over seven decades, Sri Lanka Life Saving marks 75 years",
     "url": "https://www.newsfirst.lk/2022/05/31/saving-lives-from-drowning-for-over-seven-decades-sri-lanka-life-saving-marks-75-years/",
     "file_name": "/tmp/news_lk2/articles/d4/d44ec940.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654004280,
+    "title": "Sri Lanka\u2019s headline inflation soars to 39.1% in May",
+    "url": "http://www.adaderana.lk/news/82791/sri-lankas-headline-inflation-soars-to-391-in-may",
+    "file_name": "/tmp/news_lk2/articles/a1/a179ebf5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654003320,
+    "title": "50,000 LP Gas cylinders will be delivered on 1st June",
+    "url": "https://www.newsfirst.lk/2022/05/31/50000-lp-gas-cylinders-will-be-delivered-on-1st-june/",
+    "file_name": "/tmp/news_lk2/articles/22/22ddd784.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654002300,
+    "title": "General Shavendra honors War Heroes who groomed him to be \u2018Commander of the Sri Lanka Army\u2019 in farewell speech",
+    "url": "https://www.newsfirst.lk/2022/05/31/general-shavendra-honors-war-heroes-who-groomed-him-to-be-commander-of-the-sri-lanka-army-in-farewell-speech/",
+    "file_name": "/tmp/news_lk2/articles/e8/e830f492.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654002180,
+    "title": "SC orders CID to place Duminda Silva under prison custody",
+    "url": "https://www.dailymirror.lk/top_story/SC-orders-CID-to-place-Duminda-Silva-under-prison-custody/155-238114",
+    "file_name": "/tmp/news_lk2/articles/a5/a5b1bf82.json"
   }
 ]
