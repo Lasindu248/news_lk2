@@ -1,5 +1,47 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654051020,
+    "title": "Top ruling party politico\u2019s liquor factories release harmful booze to market",
+    "url": "https://www.dailymirror.lk/latest_news/Top-ruling-party-politicos-liquor-factories-release-harmful-booze-to-market/342-238143",
+    "file_name": "/tmp/news_lk2/articles/97/9715a853.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654050420,
+    "title": "Sapugaskanda issues rectified",
+    "url": "https://www.newsfirst.lk/2022/06/01/sapugaskanda-issues-rectified/",
+    "file_name": "/tmp/news_lk2/articles/cc/cc5cf936.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654049940,
+    "title": "50,000 Gas cylinders to be delivered today (1)",
+    "url": "https://www.newsfirst.lk/2022/06/01/50000-gas-cylinders-to-be-delivered-today-1/",
+    "file_name": "/tmp/news_lk2/articles/17/17dc12a2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654049040,
+    "title": "Regulation on tuk-tuk transportation; assembling of solar powered tuks discussed: Union",
+    "url": "https://www.dailymirror.lk/breaking_news/Regulation-on-tuk-tuk-transportation-assembling-of-solar-powered-tuks-discussed-Union/108-238142",
+    "file_name": "/tmp/news_lk2/articles/09/09bb0f70.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654048020,
+    "title": "Sri Lanka\u2019s CB Governors should be bound by rules, not given independence: Bellwether",
+    "url": "https://economynext.com/sri-lankas-cb-governors-should-be-bound-by-rules-not-given-independence-bellwether-95009/",
+    "file_name": "/tmp/news_lk2/articles/bb/bb3b9701.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654047900,
+    "title": "Sri Lanka LOLC Holdings net up 440-pct in March",
+    "url": "https://economynext.com/sri-lanka-lolc-holdings-net-up-440-pct-in-march-95011/",
+    "file_name": "/tmp/news_lk2/articles/21/213189d1.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654047240,
     "title": "Fairly heavy rainfall expected to continue in several areas",
@@ -51,9 +93,30 @@
   {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1654021800,
+    "title": "Govt. to present Rs. 695 b Supplementary Budget soon",
+    "url": "https://www.ft.lk/news/Govt-to-present-Rs-695-b-Supplementary-Budget-soon/56-735562",
+    "file_name": "/tmp/news_lk2/articles/0c/0c2c7e27.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654021800,
     "title": "Transport Minister justifies train ticket price adjustments from today",
     "url": "https://www.ft.lk/news/Transport-Minister-justifies-train-ticket-price-adjustments-from-today/56-735567",
     "file_name": "/tmp/news_lk2/articles/24/246fa345.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654021800,
+    "title": "Lankem ranked amongst the most valuable consumer brands in Sri Lanka",
+    "url": "https://www.ft.lk/business/Lankem-ranked-amongst-the-most-valuable-consumer-brands-in-Sri-Lanka/34-735573",
+    "file_name": "/tmp/news_lk2/articles/72/72e0e686.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654021800,
+    "title": "Lankan Muslims forgo Hajj pilgrimage to save forex for the country",
+    "url": "https://www.ft.lk/news/Lankan-Muslims-forgo-Hajj-pilgrimage-to-save-forex-for-the-country/56-735566",
+    "file_name": "/tmp/news_lk2/articles/b8/b8f6ad7e.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -65,16 +128,30 @@
   {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1654021800,
-    "title": "Norway, FAO to strengthen fisheries sector in Sri Lanka",
-    "url": "https://www.ft.lk/business/Norway-FAO-to-strengthen-fisheries-sector-in-Sri-Lanka/34-735574",
-    "file_name": "/tmp/news_lk2/articles/92/9216059d.json"
+    "title": "Govt. explains rationale for wide ranging hikes in taxes",
+    "url": "https://www.ft.lk/news/Govt-explains-rationale-for-wide-ranging-hikes-in-taxes/56-735570",
+    "file_name": "/tmp/news_lk2/articles/5e/5e6862db.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1654021800,
-    "title": "Govt. explains rationale for wide ranging hikes in taxes",
-    "url": "https://www.ft.lk/news/Govt-explains-rationale-for-wide-ranging-hikes-in-taxes/56-735570",
-    "file_name": "/tmp/news_lk2/articles/5e/5e6862db.json"
+    "title": "Sunshine Holdings delivers robust FY22 results  amidst unprecedented economic challenges",
+    "url": "https://www.ft.lk/business/Sunshine-Holdings-delivers-robust-FY22-results-amidst-unprecedented-economic-challenges/34-735568",
+    "file_name": "/tmp/news_lk2/articles/cc/cc5736ba.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654021800,
+    "title": "Major General Vikum Liyanage appointed as the new Sri Lanka Army Commander",
+    "url": "https://www.ft.lk/news/Major-General-Vikum-Liyanage-appointed-as-the-new-Sri-Lanka-Army-Commander/56-735564",
+    "file_name": "/tmp/news_lk2/articles/78/780d951a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654021800,
+    "title": "Justice Minister to brief MPs on 21 A tomorrow",
+    "url": "https://www.ft.lk/news/Justice-Minister-to-brief-MPs-on-21-A-tomorrow/56-735565",
+    "file_name": "/tmp/news_lk2/articles/9d/9d12813f.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -86,9 +163,16 @@
   {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1654021800,
-    "title": "Sunshine Holdings delivers robust FY22 results  amidst unprecedented economic challenges",
-    "url": "https://www.ft.lk/business/Sunshine-Holdings-delivers-robust-FY22-results-amidst-unprecedented-economic-challenges/34-735568",
-    "file_name": "/tmp/news_lk2/articles/cc/cc5736ba.json"
+    "title": "Norway, FAO to strengthen fisheries sector in Sri Lanka",
+    "url": "https://www.ft.lk/business/Norway-FAO-to-strengthen-fisheries-sector-in-Sri-Lanka/34-735574",
+    "file_name": "/tmp/news_lk2/articles/92/9216059d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654021800,
+    "title": "WindForce registers steady performance amidst turbulent times",
+    "url": "https://www.ft.lk/business/WindForce-registers-steady-performance-amidst-turbulent-times/34-735569",
+    "file_name": "/tmp/news_lk2/articles/8a/8af1fdd9.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -103,48 +187,6 @@
     "title": "Agriculture Minister says SL can avert food crisis via massive\u00a0cultivation drive",
     "url": "https://www.ft.lk/business/Agriculture-Minister-says-SL-can-avert-food-crisis-via-massivecultivation-drive/34-735571",
     "file_name": "/tmp/news_lk2/articles/a3/a3eac05b.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654021800,
-    "title": "Justice Minister to brief MPs on 21 A tomorrow",
-    "url": "https://www.ft.lk/news/Justice-Minister-to-brief-MPs-on-21-A-tomorrow/56-735565",
-    "file_name": "/tmp/news_lk2/articles/9d/9d12813f.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654021800,
-    "title": "Lankem ranked amongst the most valuable consumer brands in Sri Lanka",
-    "url": "https://www.ft.lk/business/Lankem-ranked-amongst-the-most-valuable-consumer-brands-in-Sri-Lanka/34-735573",
-    "file_name": "/tmp/news_lk2/articles/72/72e0e686.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654021800,
-    "title": "Govt. to present Rs. 695 b Supplementary Budget soon",
-    "url": "https://www.ft.lk/news/Govt-to-present-Rs-695-b-Supplementary-Budget-soon/56-735562",
-    "file_name": "/tmp/news_lk2/articles/0c/0c2c7e27.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654021800,
-    "title": "Lankan Muslims forgo Hajj pilgrimage to save forex for the country",
-    "url": "https://www.ft.lk/news/Lankan-Muslims-forgo-Hajj-pilgrimage-to-save-forex-for-the-country/56-735566",
-    "file_name": "/tmp/news_lk2/articles/b8/b8f6ad7e.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654021800,
-    "title": "WindForce registers steady performance amidst turbulent times",
-    "url": "https://www.ft.lk/business/WindForce-registers-steady-performance-amidst-turbulent-times/34-735569",
-    "file_name": "/tmp/news_lk2/articles/8a/8af1fdd9.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654021800,
-    "title": "Major General Vikum Liyanage appointed as the new Sri Lanka Army Commander",
-    "url": "https://www.ft.lk/news/Major-General-Vikum-Liyanage-appointed-as-the-new-Sri-Lanka-Army-Commander/56-735564",
-    "file_name": "/tmp/news_lk2/articles/78/780d951a.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -163,16 +205,16 @@
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654017600,
-    "title": "Six more arrested over unrest on May 09 incidents",
-    "url": "http://www.adaderana.lk/news/82793/six-more-arrested-over-unrest-on-may-09-incidents",
-    "file_name": "/tmp/news_lk2/articles/d6/d6e7da05.json"
+    "title": "Six more arrested over unrest on May 09",
+    "url": "http://www.adaderana.lk/news/82793/six-more-arrested-over-unrest-on-may-09",
+    "file_name": "/tmp/news_lk2/articles/c4/c41ab554.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654017600,
-    "title": "Six more arrested over unrest on May 09",
-    "url": "http://www.adaderana.lk/news/82793/six-more-arrested-over-unrest-on-may-09",
-    "file_name": "/tmp/news_lk2/articles/c4/c41ab554.json"
+    "title": "Six more arrested over unrest on May 09 incidents",
+    "url": "http://www.adaderana.lk/news/82793/six-more-arrested-over-unrest-on-may-09-incidents",
+    "file_name": "/tmp/news_lk2/articles/d6/d6e7da05.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -206,15 +248,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654010820,
     "title": "Basil\u2019s loyalists in fresh move to scuttle 21A",
-    "url": "https://www.dailymirror.lk/latest_news/Basils-loyalists-in-fresh-move-to-scuttle-21A/342-238115",
-    "file_name": "/tmp/news_lk2/articles/25/254125a4.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Basils-loyalists-in-fresh-move-to-scuttle-21A/108-238115",
+    "file_name": "/tmp/news_lk2/articles/19/197a1b1d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654010820,
     "title": "Basil\u2019s loyalists in fresh move to scuttle 21A",
-    "url": "https://www.dailymirror.lk/breaking_news/Basils-loyalists-in-fresh-move-to-scuttle-21A/108-238115",
-    "file_name": "/tmp/news_lk2/articles/19/197a1b1d.json"
+    "url": "https://www.dailymirror.lk/latest_news/Basils-loyalists-in-fresh-move-to-scuttle-21A/342-238115",
+    "file_name": "/tmp/news_lk2/articles/25/254125a4.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -240,16 +282,16 @@
   {
     "newspaper_id": "island-lk",
     "time_ut": 1654009560,
-    "title": "SLT-MOBITEL marks milestone completing infrastructure for One Million Fibre Project",
-    "url": "http://island.lk/slt-mobitel-marks-milestone-completing-infrastructure-for-one-million-fibre-project/",
-    "file_name": "/tmp/news_lk2/articles/29/2986ad60.json"
+    "title": "Appointment of Nihal Fonseka as a member of the Monetary Board of CBSL",
+    "url": "http://island.lk/appointment-of-nihal-fonseka-as-a-member-of-the-monetary-board-of-cbsl/",
+    "file_name": "/tmp/news_lk2/articles/38/38b74d5f.json"
   },
   {
     "newspaper_id": "island-lk",
     "time_ut": 1654009560,
-    "title": "Appointment of Nihal Fonseka as a member of the Monetary Board of CBSL",
-    "url": "http://island.lk/appointment-of-nihal-fonseka-as-a-member-of-the-monetary-board-of-cbsl/",
-    "file_name": "/tmp/news_lk2/articles/38/38b74d5f.json"
+    "title": "SLT-MOBITEL marks milestone completing infrastructure for One Million Fibre Project",
+    "url": "http://island.lk/slt-mobitel-marks-milestone-completing-infrastructure-for-one-million-fibre-project/",
+    "file_name": "/tmp/news_lk2/articles/29/2986ad60.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -303,6 +345,13 @@
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654002180,
+    "title": "SC orders CID to place Duminda Silva under prison custody",
+    "url": "https://www.dailymirror.lk/top_story/SC-orders-CID-to-place-Duminda-Silva-under-prison-custody/155-238114",
+    "file_name": "/tmp/news_lk2/articles/a5/a5b1bf82.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654002180,
     "title": "SC orders CID to place Duminda Silva under prison custody: Court suspends presidential pardon granted to Duminda",
     "url": "https://www.dailymirror.lk/top_story/SC-orders-CID-to-place-Duminda-Silva-under-prison-custody-Court-suspends-presidential-pardon-granted-to-Duminda/155-238114",
     "file_name": "/tmp/news_lk2/articles/87/87a6a837.json"
@@ -316,17 +365,10 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654002180,
-    "title": "SC orders CID to place Duminda Silva under prison custody",
-    "url": "https://www.dailymirror.lk/top_story/SC-orders-CID-to-place-Duminda-Silva-under-prison-custody/155-238114",
-    "file_name": "/tmp/news_lk2/articles/a5/a5b1bf82.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654001700,
-    "title": "Suspect arrested over death of girl from Atulugama remanded",
-    "url": "http://www.adaderana.lk/news/82790/suspect-arrested-over-death-of-girl-from-atulugama-remanded",
-    "file_name": "/tmp/news_lk2/articles/a6/a677f84c.json"
+    "title": "PM to bring in political reforms, secure foreign assistance: Ruwan",
+    "url": "https://www.dailymirror.lk/latest_news/PM-to-bring-in-political-reforms-secure-foreign-assistance-Ruwan/342-238112",
+    "file_name": "/tmp/news_lk2/articles/e8/e85d8093.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -336,11 +378,11 @@
     "file_name": "/tmp/news_lk2/articles/05/0567388f.json"
   },
   {
-    "newspaper_id": "daily-mirror-lk",
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654001700,
-    "title": "PM to bring in political reforms, secure foreign assistance: Ruwan",
-    "url": "https://www.dailymirror.lk/latest_news/PM-to-bring-in-political-reforms-secure-foreign-assistance-Ruwan/342-238112",
-    "file_name": "/tmp/news_lk2/articles/e8/e85d8093.json"
+    "title": "Suspect arrested over death of girl from Atulugama remanded",
+    "url": "http://www.adaderana.lk/news/82790/suspect-arrested-over-death-of-girl-from-atulugama-remanded",
+    "file_name": "/tmp/news_lk2/articles/a6/a677f84c.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -437,15 +479,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653997320,
     "title": "Taxes incl. VAT to be increased",
-    "url": "https://www.dailymirror.lk/latest_news/Taxes-incl-VAT-to-be-increased/342-238109",
-    "file_name": "/tmp/news_lk2/articles/e0/e0392de3.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Taxes-incl-VAT-to-be-increased/108-238109",
+    "file_name": "/tmp/news_lk2/articles/54/543b1fdc.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653997320,
     "title": "Taxes incl. VAT to be increased",
-    "url": "https://www.dailymirror.lk/breaking_news/Taxes-incl-VAT-to-be-increased/108-238109",
-    "file_name": "/tmp/news_lk2/articles/54/543b1fdc.json"
+    "url": "https://www.dailymirror.lk/latest_news/Taxes-incl-VAT-to-be-increased/342-238109",
+    "file_name": "/tmp/news_lk2/articles/e0/e0392de3.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -465,22 +507,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653994440,
     "title": "Rain is fine for some....",
-    "url": "https://www.dailymirror.lk/latest_news/Rain-is-fine-for-some/342-238106",
-    "file_name": "/tmp/news_lk2/articles/57/57aff76c.json"
+    "url": "https://www.dailymirror.lk/caption_story/Rain-is-fine-for-some/110-238106",
+    "file_name": "/tmp/news_lk2/articles/11/1194da60.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653994440,
     "title": "Rain is fine for some....",
-    "url": "https://www.dailymirror.lk/caption_story/Rain-is-fine-for-some/110-238106",
-    "file_name": "/tmp/news_lk2/articles/11/1194da60.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1653994020,
-    "title": "Sri Lanka to increase VAT to 12 percent, telecom levy to 15 percent",
-    "url": "https://economynext.com/sri-lanka-to-increase-vat-to-12-percent-telecom-levy-to-15-percent-94976/",
-    "file_name": "/tmp/news_lk2/articles/18/18d31870.json"
+    "url": "https://www.dailymirror.lk/latest_news/Rain-is-fine-for-some/342-238106",
+    "file_name": "/tmp/news_lk2/articles/57/57aff76c.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -488,6 +523,13 @@
     "title": "Sri Lanka to increaes VAT to 12 percent, telecom levy to 15 percent",
     "url": "https://economynext.com/sri-lanka-to-increaes-vat-to-12-percent-telecom-levy-to-15-percent-94976/",
     "file_name": "/tmp/news_lk2/articles/dd/dd85247d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1653994020,
+    "title": "Sri Lanka to increase VAT to 12 percent, telecom levy to 15 percent",
+    "url": "https://economynext.com/sri-lanka-to-increase-vat-to-12-percent-telecom-levy-to-15-percent-94976/",
+    "file_name": "/tmp/news_lk2/articles/18/18d31870.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -570,15 +612,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653990540,
     "title": "SC suspends presidential pardon granted on Duminda Silva",
-    "url": "https://www.dailymirror.lk/breaking_news/SC-suspends-presidential-pardon-granted-on-Duminda-Silva/108-238103",
-    "file_name": "/tmp/news_lk2/articles/d6/d6597792.json"
+    "url": "https://www.dailymirror.lk/top_story/SC-suspends-presidential-pardon-granted-on-Duminda-Silva/155-238103",
+    "file_name": "/tmp/news_lk2/articles/4b/4b27d52b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653990540,
     "title": "SC suspends presidential pardon granted on Duminda Silva",
-    "url": "https://www.dailymirror.lk/top_story/SC-suspends-presidential-pardon-granted-on-Duminda-Silva/155-238103",
-    "file_name": "/tmp/news_lk2/articles/4b/4b27d52b.json"
+    "url": "https://www.dailymirror.lk/breaking_news/SC-suspends-presidential-pardon-granted-on-Duminda-Silva/108-238103",
+    "file_name": "/tmp/news_lk2/articles/d6/d6597792.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -591,15 +633,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653988740,
     "title": "Stop smoking, save dollars...",
-    "url": "https://www.dailymirror.lk/latest_news/Stop-smoking-save-dollars/342-238102",
-    "file_name": "/tmp/news_lk2/articles/d5/d51f16f0.json"
+    "url": "https://www.dailymirror.lk/caption_story/Stop-smoking-save-dollars/110-238102",
+    "file_name": "/tmp/news_lk2/articles/00/0070a635.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653988740,
     "title": "Stop smoking, save dollars...",
-    "url": "https://www.dailymirror.lk/caption_story/Stop-smoking-save-dollars/110-238102",
-    "file_name": "/tmp/news_lk2/articles/00/0070a635.json"
+    "url": "https://www.dailymirror.lk/latest_news/Stop-smoking-save-dollars/342-238102",
+    "file_name": "/tmp/news_lk2/articles/d5/d51f16f0.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -612,15 +654,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653986040,
     "title": "Edu. Ministry to probe incident",
-    "url": "https://www.dailymirror.lk/breaking_news/Edu-Ministry-to-probe-incident/108-238101",
-    "file_name": "/tmp/news_lk2/articles/50/50c3978d.json"
+    "url": "https://www.dailymirror.lk/latest_news/Edu-Ministry-to-probe-incident/342-238101",
+    "file_name": "/tmp/news_lk2/articles/a2/a2e47fa5.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1653986040,
     "title": "Edu. Ministry to probe incident",
-    "url": "https://www.dailymirror.lk/latest_news/Edu-Ministry-to-probe-incident/342-238101",
-    "file_name": "/tmp/news_lk2/articles/a2/a2e47fa5.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Edu-Ministry-to-probe-incident/108-238101",
+    "file_name": "/tmp/news_lk2/articles/50/50c3978d.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -656,47 +698,5 @@
     "title": "Vikum Liyanage appointed new Army Chief, Shavendra continues as CDS",
     "url": "https://www.dailymirror.lk/breaking_news/Vikum-Liyanage-appointed-new-Army-Chief-Shavendra-continues-as-CDS/108-238100",
     "file_name": "/tmp/news_lk2/articles/7c/7cf8facd.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1653983100,
-    "title": "General Shavendra Silva \u2013 The new Chief of the Defence Staff.",
-    "url": "https://www.newsfirst.lk/2022/05/31/general-shavendra-silva-the-new-chief-of-the-defence-staff/",
-    "file_name": "/tmp/news_lk2/articles/ab/ab9aaf5c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653982980,
-    "title": "Two sluice gates opened in Deduru Oya",
-    "url": "https://www.dailymirror.lk/breaking_news/Two-sluice-gates-opened-in-Deduru-Oya/108-238099",
-    "file_name": "/tmp/news_lk2/articles/7d/7dbd407b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653982980,
-    "title": "Two sluice gates opened in Deduru Oya",
-    "url": "https://www.dailymirror.lk/latest_news/Two-sluice-gates-opened-in-Deduru-Oya/342-238099",
-    "file_name": "/tmp/news_lk2/articles/1d/1d0d7290.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653982620,
-    "title": "Navy deploys six teams to provide relief",
-    "url": "https://www.dailymirror.lk/breaking_news/Navy-deploys-six-teams-to-provide-relief/108-238098",
-    "file_name": "/tmp/news_lk2/articles/85/85a87ad8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653982620,
-    "title": "Navy deploys six teams to provide relief",
-    "url": "https://www.dailymirror.lk/latest_news/Navy-deploys-six-teams-to-provide-relief/342-238098",
-    "file_name": "/tmp/news_lk2/articles/1b/1b1b4edc.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653982380,
-    "title": "Deluge to continue today and for next few days",
-    "url": "https://www.dailymirror.lk/latest_news/Deluge-to-continue-today-and-for-next-few-days/342-238097",
-    "file_name": "/tmp/news_lk2/articles/eb/ebbadcc1.json"
   }
 ]
