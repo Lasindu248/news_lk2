@@ -1,6 +1,20 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654054980,
+    "title": "Basil\u2019s loyalists in fresh move to scuttle 21A",
+    "url": "https://www.dailymirror.lk/latest_news/Basils-loyalists-in-fresh-move-to-scuttle-21A/342-238144",
+    "file_name": "/tmp/news_lk2/articles/23/23eee90a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654052100,
+    "title": "SI dies in accident in Ratnapura",
+    "url": "https://www.dailymirror.lk/latest_news/SI-dies-in-accident-in-Ratnapura/342-238145",
+    "file_name": "/tmp/news_lk2/articles/3a/3a880745.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654051020,
     "title": "Top ruling party politico\u2019s liquor factories release harmful booze to market",
     "url": "https://www.dailymirror.lk/latest_news/Top-ruling-party-politicos-liquor-factories-release-harmful-booze-to-market/342-238143",
@@ -19,6 +33,13 @@
     "title": "50,000 Gas cylinders to be delivered today (1)",
     "url": "https://www.newsfirst.lk/2022/06/01/50000-gas-cylinders-to-be-delivered-today-1/",
     "file_name": "/tmp/news_lk2/articles/17/17dc12a2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654049040,
+    "title": "Regulation on tuk-tuk transportation; assembling of solar powered tuks discussed: Union",
+    "url": "https://www.dailymirror.lk/latest_news/Regulation-on-tuk-tuk-transportation-assembling-of-solar-powered-tuks-discussed-Union/342-238142",
+    "file_name": "/tmp/news_lk2/articles/7d/7d6a5eeb.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -82,6 +103,20 @@
     "title": "Why are journalists feeling exhausted and betrayed?",
     "url": "https://www.dailymirror.lk/opinion/Why-are-journalists-feeling-exhausted-and-betrayed/231-238138",
     "file_name": "/tmp/news_lk2/articles/d6/d608ced7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654031400,
+    "title": "Is the 21st A another  political farce?",
+    "url": "https://www.dailymirror.lk/plus/Is-the-21st-A-another-political-farce/352-238137",
+    "file_name": "/tmp/news_lk2/articles/79/792a9cee.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654030560,
+    "title": "Cracking minds",
+    "url": "https://www.dailymirror.lk/plus/Cracking-minds/352-238136",
+    "file_name": "/tmp/news_lk2/articles/d8/d82ab52a.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -663,40 +698,5 @@
     "title": "Edu. Ministry to probe incident",
     "url": "https://www.dailymirror.lk/breaking_news/Edu-Ministry-to-probe-incident/108-238101",
     "file_name": "/tmp/news_lk2/articles/50/50c3978d.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1653985740,
-    "title": "Nepal recovers bodies of all 22 victims of plane crash",
-    "url": "http://www.adaderana.lk/news/82785/nepal-recovers-bodies-of-all-22-victims-of-plane-crash",
-    "file_name": "/tmp/news_lk2/articles/a7/a7ccb0a2.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1653984900,
-    "title": "Key State Institutions gazetted under President; PM gets Central Bank.",
-    "url": "https://www.newsfirst.lk/2022/05/31/key-state-institutions-gazetted-under-president-pm-gets-central-bank/",
-    "file_name": "/tmp/news_lk2/articles/29/295aacbe.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1653984660,
-    "title": "Major General Vikum Liyanage appointed new Army Commander",
-    "url": "http://www.adaderana.lk/news/82784/major-general-vikum-liyanage-appointed-new-army-commander",
-    "file_name": "/tmp/news_lk2/articles/57/57d89b97.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1653983940,
-    "title": "WEATHER: Landslide early warnings for eight districts",
-    "url": "https://www.newsfirst.lk/2022/05/31/weather-landslide-early-warnings-for-eight-districts/",
-    "file_name": "/tmp/news_lk2/articles/c1/c1eae1c8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1653983160,
-    "title": "Vikum Liyanage appointed new Army Chief, Shavendra continues as CDS",
-    "url": "https://www.dailymirror.lk/breaking_news/Vikum-Liyanage-appointed-new-Army-Chief-Shavendra-continues-as-CDS/108-238100",
-    "file_name": "/tmp/news_lk2/articles/7c/7cf8facd.json"
   }
 ]
