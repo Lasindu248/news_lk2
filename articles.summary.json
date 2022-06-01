@@ -1,6 +1,27 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654075080,
+    "title": "Import restrictions imposed on 369 items relaxed",
+    "url": "http://www.adaderana.lk/news/82803/import-restrictions-imposed-on-369-items-relaxed-",
+    "file_name": "/tmp/news_lk2/articles/6b/6b67199a.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654075080,
+    "title": "Sri Lanka Freedom party sacks Mahinda Amaraweera, Nimal Siripala de Silva for joining govt",
+    "url": "https://economynext.com/sri-lanka-freedom-party-sacks-mahinda-amaraweera-nimal-siripala-de-silva-for-joining-govt-95038/",
+    "file_name": "/tmp/news_lk2/articles/84/843bfcc4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654074600,
+    "title": "To take wings...",
+    "url": "https://www.dailymirror.lk/latest_news/To-take-wings/342-238178",
+    "file_name": "/tmp/news_lk2/articles/1d/1d46494f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654073760,
     "title": "IGP arrives at Fort Magistrate\u2019s Court",
     "url": "http://www.adaderana.lk/news/82802/igp-arrives-at-fort-magistrates-court",
@@ -82,6 +103,13 @@
     "title": "Speeding car overturns on Vajira Road crashing into 12 vehicles",
     "url": "https://www.dailymirror.lk/breaking_news/Speeding-car-overturns-on-Vajira-Road-crashing-into-12-vehicles/108-238172",
     "file_name": "/tmp/news_lk2/articles/54/54be46df.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654067280,
+    "title": "Riding purely on luck...",
+    "url": "https://www.dailymirror.lk/caption_story/Riding-purely-on-luck/110-238177",
+    "file_name": "/tmp/news_lk2/articles/22/221ef0a3.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
