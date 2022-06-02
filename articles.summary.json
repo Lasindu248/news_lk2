@@ -1,40 +1,5 @@
 [
   {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654180140,
-    "title": "FR petition seeking an order not to remove structures set up at GotaGoGama dismissed",
-    "url": "https://www.dailymirror.lk/breaking_news/FR-petition-seeking-an-order-not-to-remove-structures-set-up-at-GotaGoGama-dismissed/108-238273",
-    "file_name": "/tmp/news_lk2/articles/2c/2c5fb5c2.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654179780,
-    "title": "CWC Leader responds to aid intervention allegations",
-    "url": "https://www.newsfirst.lk/2022/06/02/cwc-leader-responds-to-aid-intervention-allegations/",
-    "file_name": "/tmp/news_lk2/articles/a0/a0520542.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654179420,
-    "title": "G.C.E. A/Ls, Scholarship exams to be postponed",
-    "url": "https://www.newsfirst.lk/2022/06/02/g-c-e-a-ls-scholarship-exams-to-be-postponed/",
-    "file_name": "/tmp/news_lk2/articles/c0/c0e134ce.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654179300,
-    "title": "Smartphones on path of being a luxury?",
-    "url": "https://www.newsfirst.lk/2022/06/02/smartphones-on-path-of-being-a-luxury/",
-    "file_name": "/tmp/news_lk2/articles/94/94efdafe.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654179120,
-    "title": "Moscow-bound aircraft barred from leaving BIA due to court order",
-    "url": "http://www.adaderana.lk/news/82835/moscow-bound-aircraft-barred-from-leaving-bia-due-to-court-order",
-    "file_name": "/tmp/news_lk2/articles/6c/6cb984a6.json"
-  },
-  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654177320,
     "title": "Parliament debate on Supplementary Estimates set for June 8",
