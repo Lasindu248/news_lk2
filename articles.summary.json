@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654170360,
+    "title": "Dept. of Immigration face uphill task to meet demand to issue passports",
+    "url": "https://www.dailymirror.lk/latest_news/Dept-of-Immigration-face-uphill-task-to-meet-demand-to-issue-passports/342-238264",
+    "file_name": "/tmp/news_lk2/articles/b7/b72b0d52.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654170300,
+    "title": "Malinga appointed fast bowling consultant coach for Australia series",
+    "url": "http://www.adaderana.lk/news/82831/malinga-appointed-fast-bowling-consultant-coach-for-australia-series",
+    "file_name": "/tmp/news_lk2/articles/46/46f423de.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654170060,
+    "title": "Litro to distribute 16,000 LP gas cylinders tomorrow",
+    "url": "http://www.adaderana.lk/news/82830/litro-to-distribute-16000-lp-gas-cylinders-tomorrow",
+    "file_name": "/tmp/news_lk2/articles/b6/b6cce7d5.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654168500,
     "title": "Sri Lanka could get US$6.0bn from India, talks with Japan: Coomaraswamy",

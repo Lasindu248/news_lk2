@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654170360,
+    "title": "Dept. of Immigration face uphill task to meet demand to issue passports",
+    "url": "https://www.dailymirror.lk/latest_news/Dept-of-Immigration-face-uphill-task-to-meet-demand-to-issue-passports/342-238264",
+    "file_name": "/tmp/news_lk2/articles/b7/b72b0d52.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654170300,
+    "title": "Malinga appointed fast bowling consultant coach for Australia series",
+    "url": "http://www.adaderana.lk/news/82831/malinga-appointed-fast-bowling-consultant-coach-for-australia-series",
+    "file_name": "/tmp/news_lk2/articles/46/46f423de.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654170060,
+    "title": "Litro to distribute 16,000 LP gas cylinders tomorrow",
+    "url": "http://www.adaderana.lk/news/82830/litro-to-distribute-16000-lp-gas-cylinders-tomorrow",
+    "file_name": "/tmp/news_lk2/articles/b6/b6cce7d5.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654168500,
     "title": "Sri Lanka could get US$6.0bn from India, talks with Japan: Coomaraswamy",
@@ -677,26 +698,5 @@
     "title": "Tough lessons",
     "url": "https://www.dailymirror.lk/recomended-news/Tough-lessons/277-238221",
     "file_name": "/tmp/news_lk2/articles/31/31b5285d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654109820,
-    "title": "Govt. relaxes import controls to support biz",
-    "url": "https://www.dailymirror.lk/breaking_news/Govt-relaxes-import-controls-to-support-biz/108-238213",
-    "file_name": "/tmp/news_lk2/articles/7e/7e31fe71.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654109820,
-    "title": "Govt. relaxes import controls to support biz",
-    "url": "https://www.dailymirror.lk/business__main/Govt-relaxes-import-controls-to-support-biz/245-238213",
-    "file_name": "/tmp/news_lk2/articles/5b/5b2bdb65.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654107540,
-    "title": "Indian opposition\u2019s Sonia and Rahul Gandhi summoned in money laundering probe",
-    "url": "http://www.adaderana.lk/news/82816/indian-oppositions-sonia-and-rahul-gandhi-summoned-in-money-laundering-probe",
-    "file_name": "/tmp/news_lk2/articles/3d/3d242307.json"
   }
 ]
