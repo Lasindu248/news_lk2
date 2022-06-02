@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654149660,
+    "title": "Court rejects police request against protest march by university students",
+    "url": "http://www.adaderana.lk/news/82821/court-rejects-police-request-against-protest-march-by-university-students",
+    "file_name": "/tmp/news_lk2/articles/f8/f810d044.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654148640,
+    "title": "Sri Lanka port gives US$20mn in demurrage relief: Chairman",
+    "url": "https://economynext.com/sri-lanka-port-gives-us20mn-in-demurrage-relief-chairman-95067/",
+    "file_name": "/tmp/news_lk2/articles/67/673b1467.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654147740,
+    "title": "Rolling power cuts resume today",
+    "url": "http://www.adaderana.lk/news/82820/rolling-power-cuts-resume-today",
+    "file_name": "/tmp/news_lk2/articles/13/132662e1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654145940,
+    "title": "Received call from Prez to use tear gas and water cannons against SLPP attackers: Deshabandu",
+    "url": "https://www.dailymirror.lk/latest_news/Received-call-from-Prez-to-use-tear-gas-and-water-cannons-against-SLPP-attackers-Deshabandu/342-238242",
+    "file_name": "/tmp/news_lk2/articles/53/53b7ca72.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654145640,
+    "title": "SLPP MPs to meet Justice Minister",
+    "url": "https://www.newsfirst.lk/2022/06/02/slpp-mps-to-meet-justice-minister/",
+    "file_name": "/tmp/news_lk2/articles/39/39cac831.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654145520,
+    "title": "Sri Lanka president extends tenure of controversial One Country One Law task force",
+    "url": "https://economynext.com/sri-lanka-president-extends-tenure-of-controversial-one-country-one-law-task-force-95065/",
+    "file_name": "/tmp/news_lk2/articles/19/19f37d26.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654145400,
+    "title": "Sri Lanka seeking $3 Bn under IMF Extended Fund Facility",
+    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-seeking-3-Bn-under-IMF-Extended-Fund-Facility/342-238248",
+    "file_name": "/tmp/news_lk2/articles/c8/c8b61df8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654144680,
+    "title": "Sri Lanka: Indian PM agreed to deliver fertilizer for Yala season, says President",
+    "url": "https://www.newsfirst.lk/2022/06/02/sri-lanka-indian-pm-agreed-to-deliver-fertilizer-for-yala-season-says-president/",
+    "file_name": "/tmp/news_lk2/articles/c5/c5d4d32e.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654144620,
     "title": "Sri Lanka\u2019s People\u2019s Leasing net down 37-pct in March",
@@ -7,11 +63,39 @@
     "file_name": "/tmp/news_lk2/articles/b4/b4f23c3d.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654144380,
+    "title": "Over 50,000 passports issued every month so far in 2022",
+    "url": "https://www.newsfirst.lk/2022/06/02/over-50000-passports-issued-every-month-so-far-in-2022/",
+    "file_name": "/tmp/news_lk2/articles/a1/a186e2db.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654144020,
     "title": "Sri Lanka seeking USD 3 Bn under IMF Extended Fund Facility: report",
     "url": "http://www.adaderana.lk/news/82819/sri-lanka-seeking-usd-3-bn-under-imf-extended-fund-facility-report",
     "file_name": "/tmp/news_lk2/articles/20/20bd6e21.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654143540,
+    "title": "Irrigation Dept. focus on Yala Season",
+    "url": "https://www.newsfirst.lk/2022/06/02/irrigation-dept-focus-on-yala-season/",
+    "file_name": "/tmp/news_lk2/articles/ce/ce3883ed.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654143300,
+    "title": "Indian PM assures expeditious supply of fertilizer: Prez",
+    "url": "https://www.dailymirror.lk/latest_news/Indian-PM-assures-expeditious-supply-of-fertilizer-Prez/342-238249",
+    "file_name": "/tmp/news_lk2/articles/d0/d0402631.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654142640,
+    "title": "Political Party secretaries to meet Election Commission on 6th June",
+    "url": "https://www.newsfirst.lk/2022/06/02/political-party-secretaries-to-meet-election-commission-on-6th-june/",
+    "file_name": "/tmp/news_lk2/articles/df/dfdfe887.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
