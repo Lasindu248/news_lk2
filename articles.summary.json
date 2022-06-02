@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654144620,
+    "title": "Sri Lanka\u2019s People\u2019s Leasing net down 37-pct in March",
+    "url": "https://economynext.com/sri-lankas-peoples-leasing-net-down-37-pct-in-march-95064/",
+    "file_name": "/tmp/news_lk2/articles/b4/b4f23c3d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654144020,
+    "title": "Sri Lanka seeking USD 3 Bn under IMF Extended Fund Facility: report",
+    "url": "http://www.adaderana.lk/news/82819/sri-lanka-seeking-usd-3-bn-under-imf-extended-fund-facility-report",
+    "file_name": "/tmp/news_lk2/articles/20/20bd6e21.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654138260,
     "title": "Excise has no say over liquor price increase",
@@ -59,6 +73,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654131120,
     "title": "Import-export activities at risk as local agents fail to pay shipping lines",
+    "url": "https://www.dailymirror.lk/latest_news/Import-export-activities-at-risk-as-local-agents-fail-to-pay-shipping-lines/342-238209",
+    "file_name": "/tmp/news_lk2/articles/c6/c609df7b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654131120,
+    "title": "Import-export activities at risk as local agents fail to pay shipping lines",
     "url": "https://www.dailymirror.lk/breaking_news/Import-export-activities-at-risk-as-local-agents-fail-to-pay-shipping-lines/108-238209",
     "file_name": "/tmp/news_lk2/articles/03/036ff87c.json"
   },
@@ -82,6 +103,13 @@
     "title": "Money runs out to feed animals in zoos",
     "url": "https://www.dailymirror.lk/breaking_news/Money-runs-out-to-feed-animals-in-zoos/108-238227",
     "file_name": "/tmp/news_lk2/articles/aa/aa8767eb.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654123560,
+    "title": "Money runs out to feed animals in zoos",
+    "url": "https://www.dailymirror.lk/latest_news/Money-runs-out-to-feed-animals-in-zoos/342-238227",
+    "file_name": "/tmp/news_lk2/articles/d9/d97134f6.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -162,6 +190,13 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654116780,
+    "title": "Palm oil industry requests govt. to lift bans and other restrictions",
+    "url": "https://www.dailymirror.lk/latest_news/Palm-oil-industry-requests-govt-to-lift-bans-and-other-restrictions/342-238210",
+    "file_name": "/tmp/news_lk2/articles/d2/d24258e4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654114380,
     "title": "\u201cThe main cause for deforestation is poverty\u201d : Dr. Pethiyagoda",
     "url": "https://www.dailymirror.lk/hard-talk/The-main-cause-for-deforestation-is-poverty-Dr-Pethiyagoda/334-238224",
@@ -189,11 +224,39 @@
     "file_name": "/tmp/news_lk2/articles/13/13c4364b.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654111140,
+    "title": "Tough lessons",
+    "url": "https://www.dailymirror.lk/insight/Tough-lessons/374-238221",
+    "file_name": "/tmp/news_lk2/articles/0f/0fd4da81.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654111140,
+    "title": "Tough lessons",
+    "url": "https://www.dailymirror.lk/recomended-news/Tough-lessons/277-238221",
+    "file_name": "/tmp/news_lk2/articles/31/31b5285d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654109820,
+    "title": "Govt. relaxes import controls to support biz",
+    "url": "https://www.dailymirror.lk/business__main/Govt-relaxes-import-controls-to-support-biz/245-238213",
+    "file_name": "/tmp/news_lk2/articles/5b/5b2bdb65.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654107540,
     "title": "Indian opposition\u2019s Sonia and Rahul Gandhi summoned in money laundering probe",
     "url": "http://www.adaderana.lk/news/82816/indian-oppositions-sonia-and-rahul-gandhi-summoned-in-money-laundering-probe",
     "file_name": "/tmp/news_lk2/articles/3d/3d242307.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654106760,
+    "title": "Duminda Silva still at J\u2019pura hospital; now under prison custody",
+    "url": "https://www.dailymirror.lk/latest_news/Duminda-Silva-still-at-Jpura-hospital-now-under-prison-custody/342-238198",
+    "file_name": "/tmp/news_lk2/articles/3d/3d1f0b80.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
