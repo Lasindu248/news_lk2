@@ -268,6 +268,13 @@
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654170300,
+    "title": "Malinga appointed bowling strategy coach for Australia series",
+    "url": "http://www.adaderana.lk/news/82831/malinga-appointed-bowling-strategy-coach-for-australia-series",
+    "file_name": "/tmp/news_lk2/articles/f2/f2503d4c.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654170300,
     "title": "Malinga appointed fast bowling consultant coach for Australia series",
     "url": "http://www.adaderana.lk/news/82831/malinga-appointed-fast-bowling-consultant-coach-for-australia-series",
     "file_name": "/tmp/news_lk2/articles/46/46f423de.json"
@@ -453,6 +460,13 @@
     "title": "Houses submerged due to heavy rains",
     "url": "https://www.dailymirror.lk/latest_news/Houses-submerged-due-to-heavy-rains/342-238269",
     "file_name": "/tmp/news_lk2/articles/98/98281363.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654159680,
+    "title": "Houses submerged due to heavy rains",
+    "url": "https://www.dailymirror.lk/caption_story/Houses-submerged-due-to-heavy-rains/110-238269",
+    "file_name": "/tmp/news_lk2/articles/64/645e1955.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -684,19 +698,5 @@
     "title": "Sri Lanka: Indian PM agreed to deliver fertilizer for Yala season, says President",
     "url": "https://www.newsfirst.lk/2022/06/02/sri-lanka-indian-pm-agreed-to-deliver-fertilizer-for-yala-season-says-president/",
     "file_name": "/tmp/news_lk2/articles/c5/c5d4d32e.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654144620,
-    "title": "Sri Lanka\u2019s People\u2019s Leasing net down 37-pct in March",
-    "url": "https://economynext.com/sri-lankas-peoples-leasing-net-down-37-pct-in-march-95064/",
-    "file_name": "/tmp/news_lk2/articles/b4/b4f23c3d.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654144380,
-    "title": "Over 50,000 passports issued every month so far in 2022",
-    "url": "https://www.newsfirst.lk/2022/06/02/over-50000-passports-issued-every-month-so-far-in-2022/",
-    "file_name": "/tmp/news_lk2/articles/a1/a186e2db.json"
   }
 ]
