@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654190040,
+    "title": "UN says Yemen warring parties agree to extend truce",
+    "url": "http://www.adaderana.lk/news/82837/un-says-yemen-warring-parties-agree-to-extend-truce",
+    "file_name": "/tmp/news_lk2/articles/58/5896cc1c.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654188660,
     "title": "A robust defence policy is essential \u2013 Defence Secretary",
     "url": "http://www.adaderana.lk/news/82836/a-robust-defence-policy-is-essential-defence-secretary",
@@ -691,12 +698,5 @@
     "title": "Sri Lanka seeking USD 3 Bn under IMF Extended Fund Facility: report",
     "url": "http://www.adaderana.lk/news/82819/sri-lanka-seeking-usd-3-bn-under-imf-extended-fund-facility-report",
     "file_name": "/tmp/news_lk2/articles/20/20bd6e21.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654143540,
-    "title": "Irrigation Dept. focus on Yala Season",
-    "url": "https://www.newsfirst.lk/2022/06/02/irrigation-dept-focus-on-yala-season/",
-    "file_name": "/tmp/news_lk2/articles/ce/ce3883ed.json"
   }
 ]
