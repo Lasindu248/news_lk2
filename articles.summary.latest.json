@@ -17,13 +17,6 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654194900,
     "title": "We had no option but to choose Ranil  - Dr. Wijeydasa Rajapakshe",
-    "url": "https://www.dailymirror.lk/hard-talk/We-had-no-option-but-to-choose-Ranil-Dr-Wijeydasa-Rajapakshe/334-238281",
-    "file_name": "/tmp/news_lk2/articles/61/61651641.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654194900,
-    "title": "We had no option but to choose Ranil  - Dr. Wijeydasa Rajapakshe",
     "url": "https://www.dailymirror.lk/opinion/We-had-no-option-but-to-choose-Ranil-Dr-Wijeydasa-Rajapakshe/172-238281",
     "file_name": "/tmp/news_lk2/articles/57/57891939.json"
   },
@@ -36,24 +29,10 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654194780,
-    "title": "Is Sri Lanka forced to wake up to child deaths? - EDITORIAL",
-    "url": "https://www.dailymirror.lk/opinion/Is-Sri-Lanka-forced-to-wake-up-to-child-deaths-EDITORIAL/231-238280",
-    "file_name": "/tmp/news_lk2/articles/cb/cb8a99f9.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654194720,
     "title": "If we do not take interest in political affairs, then we\u2019re doomed to live under rule of rogues",
     "url": "https://www.dailymirror.lk/opinion/If-we-do-not-take-interest-in-political-affairs-then-were-doomed-to-live-under-rule-of-rogues/172-238279",
     "file_name": "/tmp/news_lk2/articles/f8/f8941a1b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654194720,
-    "title": "If we do not take interest in political affairs, then we\u2019re doomed to live under rule of rogues",
-    "url": "https://www.dailymirror.lk/opinion/If-we-do-not-take-interest-in-political-affairs-then-were-doomed-to-live-under-rule-of-rogues/231-238279",
-    "file_name": "/tmp/news_lk2/articles/a2/a2b31901.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -698,5 +677,26 @@
     "title": "Sri Lanka port gives US$20mn in demurrage relief: Chairman",
     "url": "https://economynext.com/sri-lanka-port-gives-us20mn-in-demurrage-relief-chairman-95067/",
     "file_name": "/tmp/news_lk2/articles/67/673b1467.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654147740,
+    "title": "Rolling power cuts resume today",
+    "url": "http://www.adaderana.lk/news/82820/rolling-power-cuts-resume-today",
+    "file_name": "/tmp/news_lk2/articles/13/132662e1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654145940,
+    "title": "Received call from Prez to use tear gas and water cannons against SLPP attackers: Deshabandu",
+    "url": "https://www.dailymirror.lk/breaking_news/Received-call-from-Prez-to-use-tear-gas-and-water-cannons-against-SLPP-attackers-Deshabandu/108-238242",
+    "file_name": "/tmp/news_lk2/articles/f1/f140eed7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654145940,
+    "title": "Received call from Prez to use tear gas and water cannons against SLPP attackers: Deshabandu",
+    "url": "https://www.dailymirror.lk/latest_news/Received-call-from-Prez-to-use-tear-gas-and-water-cannons-against-SLPP-attackers-Deshabandu/342-238242",
+    "file_name": "/tmp/news_lk2/articles/53/53b7ca72.json"
   }
 ]
