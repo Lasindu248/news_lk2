@@ -1,10 +1,45 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654164060,
+    "title": "Resolution tabled urging Samanlal Fernando to resign as Moratuwa Mayor",
+    "url": "https://www.dailymirror.lk/breaking_news/Resolution-tabled-urging-Samanlal-Fernando-to-resign-as-Moratuwa-Mayor/108-238259",
+    "file_name": "/tmp/news_lk2/articles/f4/f47c55ba.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654163580,
+    "title": "First batch of China\u2019s grant of medicines to arrive tomorrow",
+    "url": "http://www.adaderana.lk/news/82826/first-batch-of-chinas-grant-of-medicines-to-arrive-tomorrow",
+    "file_name": "/tmp/news_lk2/articles/ad/ad1d593c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654163460,
+    "title": "Child malnutrition rapidly increasing from economic crisis",
+    "url": "https://www.dailymirror.lk/latest_news/Child-malnutrition-rapidly-increasing-from-economic-crisis/342-238258",
+    "file_name": "/tmp/news_lk2/articles/e7/e7caabc4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654162740,
+    "title": "Dengue fast spreading; 6,483 cases reported in May: Dr. Samaraweera",
+    "url": "https://www.dailymirror.lk/latest_news/Dengue-fast-spreading-6-483-cases-reported-in-May-Dr-Samaraweera/342-238257",
+    "file_name": "/tmp/news_lk2/articles/90/902d675e.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654160640,
     "title": "Sri Lanka free trade zone manufacturers oppose electricity tariff hike proposal",
     "url": "https://economynext.com/sri-lanka-free-trade-zone-manufacturers-oppose-electricity-tariff-hike-proposal-95075/",
     "file_name": "/tmp/news_lk2/articles/8a/8a6a9a44.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654160580,
+    "title": "Gota Go Gama  protesters deny meeting President",
+    "url": "https://www.dailymirror.lk/latest_news/Gota-Go-Gama-protesters-deny-meeting-President/342-238255",
+    "file_name": "/tmp/news_lk2/articles/51/516c8f5b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -187,6 +222,13 @@
     "title": "Rolling power cuts resume today",
     "url": "http://www.adaderana.lk/news/82820/rolling-power-cuts-resume-today",
     "file_name": "/tmp/news_lk2/articles/13/132662e1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654145940,
+    "title": "Received call from Prez to use tear gas and water cannons against SLPP attackers: Deshabandu",
+    "url": "https://www.dailymirror.lk/breaking_news/Received-call-from-Prez-to-use-tear-gas-and-water-cannons-against-SLPP-attackers-Deshabandu/108-238242",
+    "file_name": "/tmp/news_lk2/articles/f1/f140eed7.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -656,47 +698,5 @@
     "title": "Attack on Peaceful Protesters: Johnston Fernando named as a suspect",
     "url": "https://www.dailymirror.lk/breaking_news/Attack-on-Peaceful-Protesters-Johnston-Fernando-named-as-a-suspect/108-238191",
     "file_name": "/tmp/news_lk2/articles/a9/a95564c9.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654094940,
-    "title": "Attack on Peaceful Protesters: Johnston Fernando named as a suspect",
-    "url": "https://www.dailymirror.lk/latest_news/Attack-on-Peaceful-Protesters-Johnston-Fernando-named-as-a-suspect/342-238191",
-    "file_name": "/tmp/news_lk2/articles/2d/2d94eba6.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654094400,
-    "title": "Prez appoints Commission of Inquiry   to probe recent incidents of arson, looting, murders",
-    "url": "https://www.dailymirror.lk/latest_news/Prez-appoints-Commission-of-Inquiry-to-probe-recent-incidents-of-arson-looting-murders/342-238193",
-    "file_name": "/tmp/news_lk2/articles/7e/7ebe15aa.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654094400,
-    "title": "Prez appoints Commission of Inquiry   to probe recent incidents of arson, looting, murders",
-    "url": "https://www.dailymirror.lk/breaking_news/Prez-appoints-Commission-of-Inquiry-to-probe-recent-incidents-of-arson-looting-murders/108-238193",
-    "file_name": "/tmp/news_lk2/articles/dc/dcf60351.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654092840,
-    "title": "Sri Lanka: President appoints Commission of Inquiry to probe recent violence",
-    "url": "https://www.newsfirst.lk/2022/06/01/sri-lanka-president-appoints-commission-of-inquiry-to-probe-recent-violence/",
-    "file_name": "/tmp/news_lk2/articles/9a/9afbfa0e.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654092480,
-    "title": "Prices of cigarettes and liquor increased",
-    "url": "http://www.adaderana.lk/news/82813/prices-of-cigarettes-and-liquor-increased",
-    "file_name": "/tmp/news_lk2/articles/b0/b0fef9a9.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654092240,
-    "title": "Import levies on several items increased; prices to go up",
-    "url": "http://www.adaderana.lk/news/82812/import-levies-on-several-items-increased-prices-to-go-up",
-    "file_name": "/tmp/news_lk2/articles/c7/c78dd6f0.json"
   }
 ]
