@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654152960,
+    "title": "Sri Lanka customers owe shipping lines US$70mn: report",
+    "url": "https://economynext.com/sri-lanka-customers-owe-shipping-lines-us70mn-report-95068/",
+    "file_name": "/tmp/news_lk2/articles/40/40acacfc.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654152720,
+    "title": "Advanced Level exam to be postponed?",
+    "url": "http://www.adaderana.lk/news/82822/advanced-level-exam-to-be-postponed",
+    "file_name": "/tmp/news_lk2/articles/5f/5ff2a03c.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654151160,
     "title": "Reservoirs are filling: Mahaweli Authority",
@@ -408,6 +422,13 @@
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654106760,
+    "title": "Duminda Silva still at J\u2019pura hospital; now under prison custody",
+    "url": "https://www.dailymirror.lk/breaking_news/Duminda-Silva-still-at-Jpura-hospital-now-under-prison-custody/108-238198",
+    "file_name": "/tmp/news_lk2/articles/c8/c80a2e47.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654106760,
     "title": "Duminda Silva under CID custody, still at J\u2019pura hospital",
     "url": "https://www.dailymirror.lk/latest_news/Duminda-Silva-under-CID-custody-still-at-Jpura-hospital/342-238198",
     "file_name": "/tmp/news_lk2/articles/01/01fa94d0.json"
@@ -677,26 +698,5 @@
     "title": "Over 12,000 people affected by inclement weather",
     "url": "https://www.dailymirror.lk/latest_news/Over-12-000-people-affected-by-inclement-weather/342-238187",
     "file_name": "/tmp/news_lk2/articles/82/82eb22ff.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654086000,
-    "title": "A-PAD coordinated medicine donation to MoH",
-    "url": "https://www.newsfirst.lk/2022/06/01/a-pad-coordinated-medicine-donation-to-moh/",
-    "file_name": "/tmp/news_lk2/articles/89/89e25de4.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654085520,
-    "title": "Labour Department\u2019s offices closed on Fridays",
-    "url": "http://www.adaderana.lk/news/82809/labour-departments-offices-closed-on-fridays",
-    "file_name": "/tmp/news_lk2/articles/61/611e3e3b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654085040,
-    "title": "Excise has no say over liquor price increase",
-    "url": "https://www.dailymirror.lk/breaking_news/Excise-has-no-say-over-liquor-price-increase/108-238185",
-    "file_name": "/tmp/news_lk2/articles/c3/c3305f85.json"
   }
 ]

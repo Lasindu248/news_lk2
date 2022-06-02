@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654152960,
+    "title": "Sri Lanka customers owe shipping lines US$70mn: report",
+    "url": "https://economynext.com/sri-lanka-customers-owe-shipping-lines-us70mn-report-95068/",
+    "file_name": "/tmp/news_lk2/articles/40/40acacfc.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654152720,
+    "title": "Advanced Level exam to be postponed?",
+    "url": "http://www.adaderana.lk/news/82822/advanced-level-exam-to-be-postponed",
+    "file_name": "/tmp/news_lk2/articles/5f/5ff2a03c.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654151160,
     "title": "Reservoirs are filling: Mahaweli Authority",
@@ -404,6 +418,13 @@
     "title": "Duminda Silva under CID custody, still at J\u2019pura hospital",
     "url": "https://www.dailymirror.lk/top_story/Duminda-Silva-under-CID-custody-still-at-Jpura-hospital/155-238198",
     "file_name": "/tmp/news_lk2/articles/d2/d2a13e08.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654106760,
+    "title": "Duminda Silva still at J\u2019pura hospital; now under prison custody",
+    "url": "https://www.dailymirror.lk/breaking_news/Duminda-Silva-still-at-Jpura-hospital-now-under-prison-custody/108-238198",
+    "file_name": "/tmp/news_lk2/articles/c8/c80a2e47.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
