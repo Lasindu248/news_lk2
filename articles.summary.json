@@ -1,10 +1,115 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654167660,
+    "title": "Weather advisory issued for heavy rain",
+    "url": "http://www.adaderana.lk/news/82829/weather-advisory-issued-for-heavy-rain",
+    "file_name": "/tmp/news_lk2/articles/11/11151b55.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654167000,
+    "title": "Foreign Minister briefs Colombo-based diplomatic corps on present situation in Sri Lanka",
+    "url": "http://www.adaderana.lk/news/82828/foreign-minister-briefs-colombo-based-diplomatic-corps-on-present-situation-in-sri-lanka",
+    "file_name": "/tmp/news_lk2/articles/9c/9cf8f834.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654166760,
+    "title": "Sri Lanka could reach IMF staff level agreement in 4-5 weeks: Coomaraswamy",
+    "url": "https://economynext.com/sri-lanka-could-reach-imf-staff-level-agreement-in-4-5-weeks-coomaraswamy-95080/",
+    "file_name": "/tmp/news_lk2/articles/d8/d81fe430.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654165440,
+    "title": "First Batch of China\u2019s Grant Medicines to arrive in SL on June 3",
+    "url": "https://www.dailymirror.lk/breaking_news/First-Batch-of-Chinas-Grant-Medicines-to-arrive-in-SL-on-June-3/108-238260",
+    "file_name": "/tmp/news_lk2/articles/f0/f0303d7c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654165140,
+    "title": "Amber alert issued for heavy rains above 100mm",
+    "url": "https://www.newsfirst.lk/2022/06/02/amber-alert-issued-for-heavy-rains-above-100mm/",
+    "file_name": "/tmp/news_lk2/articles/46/46738d8c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654165020,
+    "title": "Power cuts reimposed from today (2)",
+    "url": "https://www.newsfirst.lk/2022/06/02/power-cuts-reimposed-from-today-2/",
+    "file_name": "/tmp/news_lk2/articles/e0/e0821d00.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654164900,
+    "title": "Mother-daughter dead, father-son injured in same accident",
+    "url": "https://www.newsfirst.lk/2022/06/02/mother-daughter-dead-father-son-injured-in-same-accident/",
+    "file_name": "/tmp/news_lk2/articles/e7/e701e735.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654164660,
+    "title": "Rambukkana shooting: Writ filed against arrest of ex-Kegalle SSP & other cops",
+    "url": "http://www.adaderana.lk/news/82827/rambukkana-shooting-writ-filed-against-arrest-of-ex-kegalle-ssp-other-cops",
+    "file_name": "/tmp/news_lk2/articles/44/441bf290.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654164060,
+    "title": "Resolution tabled urging Samanlal Fernando to resign as Moratuwa Mayor",
+    "url": "https://www.dailymirror.lk/breaking_news/Resolution-tabled-urging-Samanlal-Fernando-to-resign-as-Moratuwa-Mayor/108-238259",
+    "file_name": "/tmp/news_lk2/articles/f4/f47c55ba.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654163580,
+    "title": "First batch of China\u2019s grant of medicines to arrive tomorrow",
+    "url": "http://www.adaderana.lk/news/82826/first-batch-of-chinas-grant-of-medicines-to-arrive-tomorrow",
+    "file_name": "/tmp/news_lk2/articles/ad/ad1d593c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654163460,
+    "title": "Child malnutrition rapidly increasing from economic crisis",
+    "url": "https://www.dailymirror.lk/breaking_news/Child-malnutrition-rapidly-increasing-from-economic-crisis/108-238258",
+    "file_name": "/tmp/news_lk2/articles/21/21525cfa.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654163460,
+    "title": "Child malnutrition rapidly increasing from economic crisis",
+    "url": "https://www.dailymirror.lk/latest_news/Child-malnutrition-rapidly-increasing-from-economic-crisis/342-238258",
+    "file_name": "/tmp/news_lk2/articles/e7/e7caabc4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654162740,
+    "title": "Dengue fast spreading; 6,483 cases reported in May: Dr. Samaraweera",
+    "url": "https://www.dailymirror.lk/breaking_news/Dengue-fast-spreading-6-483-cases-reported-in-May-Dr-Samaraweera/108-238257",
+    "file_name": "/tmp/news_lk2/articles/ea/eaef4a69.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654162740,
+    "title": "Dengue fast spreading; 6,483 cases reported in May: Dr. Samaraweera",
+    "url": "https://www.dailymirror.lk/latest_news/Dengue-fast-spreading-6-483-cases-reported-in-May-Dr-Samaraweera/342-238257",
+    "file_name": "/tmp/news_lk2/articles/90/902d675e.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654160640,
     "title": "Sri Lanka free trade zone manufacturers oppose electricity tariff hike proposal",
     "url": "https://economynext.com/sri-lanka-free-trade-zone-manufacturers-oppose-electricity-tariff-hike-proposal-95075/",
     "file_name": "/tmp/news_lk2/articles/8a/8a6a9a44.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654160580,
+    "title": "Gota Go Gama  protesters deny meeting President",
+    "url": "https://www.dailymirror.lk/latest_news/Gota-Go-Gama-protesters-deny-meeting-President/342-238255",
+    "file_name": "/tmp/news_lk2/articles/51/516c8f5b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -94,6 +199,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654154220,
     "title": "Cop complains over verbal abuse by SJB MP\u2019s son",
+    "url": "https://www.dailymirror.lk/top_story/Cop-complains-over-verbal-abuse-by-SJB-MPs-son/155-238254",
+    "file_name": "/tmp/news_lk2/articles/42/424dbd55.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654154220,
+    "title": "Cop complains over verbal abuse by SJB MP\u2019s son",
     "url": "https://www.dailymirror.lk/latest_news/Cop-complains-over-verbal-abuse-by-SJB-MPs-son/342-238254",
     "file_name": "/tmp/news_lk2/articles/11/11d6fbed.json"
   },
@@ -103,6 +215,13 @@
     "title": "A/L likely to be postponed: Minister",
     "url": "https://www.dailymirror.lk/breaking_news/AL-likely-to-be-postponed-Minister/108-238253",
     "file_name": "/tmp/news_lk2/articles/6c/6c29094c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654153500,
+    "title": "A/L likely to be postponed: Minister",
+    "url": "https://www.dailymirror.lk/latest_news/AL-likely-to-be-postponed-Minister/342-238253",
+    "file_name": "/tmp/news_lk2/articles/c7/c7522bde.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -187,6 +306,13 @@
     "title": "Rolling power cuts resume today",
     "url": "http://www.adaderana.lk/news/82820/rolling-power-cuts-resume-today",
     "file_name": "/tmp/news_lk2/articles/13/132662e1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654145940,
+    "title": "Received call from Prez to use tear gas and water cannons against SLPP attackers: Deshabandu",
+    "url": "https://www.dailymirror.lk/breaking_news/Received-call-from-Prez-to-use-tear-gas-and-water-cannons-against-SLPP-attackers-Deshabandu/108-238242",
+    "file_name": "/tmp/news_lk2/articles/f1/f140eed7.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
