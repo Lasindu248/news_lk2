@@ -7,11 +7,32 @@
     "file_name": "/tmp/news_lk2/articles/50/50b121df.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654185240,
+    "title": "Russian Plane held at BIA?",
+    "url": "https://www.newsfirst.lk/2022/06/02/russian-plane-held-at-bia/",
+    "file_name": "/tmp/news_lk2/articles/f1/f17ebe64.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654185120,
+    "title": "We should have approached IMF in 2020: Former Governor Coomaraswamy",
+    "url": "https://www.newsfirst.lk/2022/06/02/we-should-have-approached-imf-in-2020-former-governor-coomaraswamy/",
+    "file_name": "/tmp/news_lk2/articles/43/43c076e6.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654183860,
     "title": "Special gas distribution in Colombo and across country: LITRO",
     "url": "https://www.dailymirror.lk/latest_news/Special-gas-distribution-in-Colombo-and-across-country-LITRO/342-238275",
     "file_name": "/tmp/news_lk2/articles/1a/1a9ea21c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654183800,
+    "title": "Our demands remain the same \u2013 GotaGoGama Protestors",
+    "url": "https://www.newsfirst.lk/2022/06/02/our-demands-remain-the-same-gotagogama-protestors/",
+    "file_name": "/tmp/news_lk2/articles/b8/b820e3ba.json"
   },
   {
     "newspaper_id": "economy-next-com",
