@@ -1,6 +1,69 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654173840,
+    "title": "Turkey wants to be called T\u00fcrkiye in rebranding move",
+    "url": "https://www.dailymirror.lk/latest_news/Turkey-wants-to-be-called-T\u00fcrkiye-in-rebranding-move/342-238267",
+    "file_name": "/tmp/news_lk2/articles/bf/bf88bbaf.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654173540,
+    "title": "UN agrees to change Turkey\u2019s official name to \u2018T\u00fcrkiye\u2019",
+    "url": "http://www.adaderana.lk/news/82833/un-agrees-to-change-turkeys-official-name-to-trkiye",
+    "file_name": "/tmp/news_lk2/articles/df/df3dad05.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654172880,
+    "title": "Kahandagama arrested after surrendering to CID",
+    "url": "http://www.adaderana.lk/news/82832/kahandagama-arrested-after-surrendering-to-cid",
+    "file_name": "/tmp/news_lk2/articles/b8/b8ec4fb2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654172460,
+    "title": "Greater risk in restarting Sapugaskanda without crude",
+    "url": "https://www.newsfirst.lk/2022/06/02/greater-risk-in-restarting-sapugaskanda-without-crude/",
+    "file_name": "/tmp/news_lk2/articles/03/039cc11c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654172160,
+    "title": "All public servants must cultivate \u2013 Youth Minister",
+    "url": "https://www.newsfirst.lk/2022/06/02/all-public-servants-must-cultivate-youth-minister/",
+    "file_name": "/tmp/news_lk2/articles/9d/9d94d54c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654171980,
+    "title": "Bengali tiger cubs attract visitors at Zoo...",
+    "url": "https://www.dailymirror.lk/latest_news/Bengali-tiger-cubs-attract-visitors-at-Zoo/342-238266",
+    "file_name": "/tmp/news_lk2/articles/69/695ac93d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654171080,
+    "title": "Nalin Bandara, SJBs new Chief of Operations",
+    "url": "https://www.newsfirst.lk/2022/06/02/nalin-bandara-sjbs-new-chief-of-operations/",
+    "file_name": "/tmp/news_lk2/articles/29/29b66b66.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654170900,
+    "title": "Govt targeting US $5bn this year for repayments",
+    "url": "https://www.newsfirst.lk/2022/06/02/govt-targeting-us-5bn-this-year-for-repayments/",
+    "file_name": "/tmp/news_lk2/articles/d0/d07f2d3b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654170660,
+    "title": "Police looking to arrest ex-UC Chairman Ravindu Wedaarachchi, spouse",
+    "url": "https://www.dailymirror.lk/breaking_news/Police-looking-to-arrest-ex-UC-Chairman-Ravindu-Wedaarachchi-spouse/108-238265",
+    "file_name": "/tmp/news_lk2/articles/59/5978d77c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654170360,
     "title": "Dept. of Immigration face uphill task to meet demand to issue passports",
     "url": "https://www.dailymirror.lk/latest_news/Dept-of-Immigration-face-uphill-task-to-meet-demand-to-issue-passports/342-238264",
@@ -635,68 +698,5 @@
     "title": "57 institutions to function under PM, 42 under President",
     "url": "https://www.ft.lk/news/57-institutions-to-function-under-PM-42-under-President/56-735622",
     "file_name": "/tmp/news_lk2/articles/a6/a6199758.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654116780,
-    "title": "Palm oil industry requests govt. to lift bans and other restrictions",
-    "url": "https://www.dailymirror.lk/breaking_news/Palm-oil-industry-requests-govt-to-lift-bans-and-other-restrictions/108-238210",
-    "file_name": "/tmp/news_lk2/articles/5b/5b25de68.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654116780,
-    "title": "Palm oil industry requests govt. to lift bans and other restrictions",
-    "url": "https://www.dailymirror.lk/latest_news/Palm-oil-industry-requests-govt-to-lift-bans-and-other-restrictions/342-238210",
-    "file_name": "/tmp/news_lk2/articles/d2/d24258e4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654116780,
-    "title": "Palm oil industry requests govt. to lift bans and other restrictions",
-    "url": "https://www.dailymirror.lk/business-news/Palm-oil-industry-requests-govt-to-lift-bans-and-other-restrictions/273-238210",
-    "file_name": "/tmp/news_lk2/articles/d8/d8c28319.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654114380,
-    "title": "\u201cThe main cause for deforestation is poverty\u201d : Dr. Pethiyagoda",
-    "url": "https://www.dailymirror.lk/hard-talk/The-main-cause-for-deforestation-is-poverty-Dr-Pethiyagoda/334-238224",
-    "file_name": "/tmp/news_lk2/articles/eb/ebea1cde.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654111560,
-    "title": "Govt. loses its way amid shortages and queues",
-    "url": "https://www.dailymirror.lk/opinion/Govt-loses-its-way-amid-shortages-and-queues/172-238223",
-    "file_name": "/tmp/news_lk2/articles/53/53bdbc3d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654111440,
-    "title": "Raising Kachchativu issue was both needless and ill-timed",
-    "url": "https://www.dailymirror.lk/opinion/Raising-Kachchativu-issue-was-both-needless-and-ill-timed/172-238222",
-    "file_name": "/tmp/news_lk2/articles/ed/ed0d0d72.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654111140,
-    "title": "Tough lessons",
-    "url": "https://www.dailymirror.lk/insight/Tough-lessons/374-238221",
-    "file_name": "/tmp/news_lk2/articles/0f/0fd4da81.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654111140,
-    "title": "Tough lessons",
-    "url": "https://www.dailymirror.lk/plus/Tough-lessons/352-238221",
-    "file_name": "/tmp/news_lk2/articles/13/13c4364b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654111140,
-    "title": "Tough lessons",
-    "url": "https://www.dailymirror.lk/recomended-news/Tough-lessons/277-238221",
-    "file_name": "/tmp/news_lk2/articles/31/31b5285d.json"
   }
 ]
