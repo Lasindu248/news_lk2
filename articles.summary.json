@@ -1,10 +1,52 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654151160,
+    "title": "Reservoirs are filling: Mahaweli Authority",
+    "url": "https://www.dailymirror.lk/latest_news/Reservoirs-are-filling-Mahaweli-Authority/342-238250",
+    "file_name": "/tmp/news_lk2/articles/e7/e7e57dde.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654150920,
+    "title": "Sri Lanka seeking $3 Bn under IMF Extended Fund Facility \u2013 Reuters",
+    "url": "https://www.newsfirst.lk/2022/06/02/sri-lanka-seeking-3-bn-under-imf-extended-fund-facility-reuters/",
+    "file_name": "/tmp/news_lk2/articles/3c/3c295e9b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654150380,
+    "title": "Southern Province nurses on strike",
+    "url": "https://www.newsfirst.lk/2022/06/02/southern-province-nurses-on-strike/",
+    "file_name": "/tmp/news_lk2/articles/7c/7c6b51e9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654149780,
+    "title": "50,000 Litro Gas cylinders released on Thursday (2)",
+    "url": "https://www.newsfirst.lk/2022/06/02/50000-litro-gas-cylinders-released-on-thursday-2/",
+    "file_name": "/tmp/news_lk2/articles/37/370eb199.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654149660,
+    "title": "Court rejects police request against university students\u2019 protest march",
+    "url": "http://www.adaderana.lk/news/82821/court-rejects-police-request-against-university-students-protest-march",
+    "file_name": "/tmp/news_lk2/articles/9f/9fb5b43d.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654149660,
     "title": "Court rejects police request against protest march by university students",
     "url": "http://www.adaderana.lk/news/82821/court-rejects-police-request-against-protest-march-by-university-students",
     "file_name": "/tmp/news_lk2/articles/f8/f810d044.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654149120,
+    "title": "Fire at Wellawa hospital storage",
+    "url": "https://www.newsfirst.lk/2022/06/02/fire-at-wellawa-hospital-storage/",
+    "file_name": "/tmp/news_lk2/articles/84/8463cd36.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -164,6 +206,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654131120,
     "title": "Import-export activities at risk as local agents fail to pay shipping lines",
+    "url": "https://www.dailymirror.lk/business-news/Import-export-activities-at-risk-as-local-agents-fail-to-pay-shipping-lines/273-238209",
+    "file_name": "/tmp/news_lk2/articles/87/87b1d163.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654131120,
+    "title": "Import-export activities at risk as local agents fail to pay shipping lines",
     "url": "https://www.dailymirror.lk/breaking_news/Import-export-activities-at-risk-as-local-agents-fail-to-pay-shipping-lines/108-238209",
     "file_name": "/tmp/news_lk2/articles/03/036ff87c.json"
   },
@@ -264,6 +313,13 @@
     "title": "57 institutions to function under PM, 42 under President",
     "url": "https://www.ft.lk/news/57-institutions-to-function-under-PM-42-under-President/56-735622",
     "file_name": "/tmp/news_lk2/articles/a6/a6199758.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654116780,
+    "title": "Palm oil industry requests govt. to lift bans and other restrictions",
+    "url": "https://www.dailymirror.lk/business-news/Palm-oil-industry-requests-govt-to-lift-bans-and-other-restrictions/273-238210",
+    "file_name": "/tmp/news_lk2/articles/d8/d8c28319.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
