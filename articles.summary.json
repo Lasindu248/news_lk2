@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654188660,
+    "title": "A robust defence policy is essential \u2013 Defence Secretary",
+    "url": "http://www.adaderana.lk/news/82836/a-robust-defence-policy-is-essential-defence-secretary",
+    "file_name": "/tmp/news_lk2/articles/31/3133f303.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654186740,
+    "title": "Rambukkana Shooting incident: SSP Keerthiratne files writ petition to quash arrest order",
+    "url": "https://www.dailymirror.lk/breaking_news/Rambukkana-Shooting-incident-SSP-Keerthiratne-files-writ-petition-to-quash-arrest-order/108-238278",
+    "file_name": "/tmp/news_lk2/articles/b4/b488ee1b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654185540,
+    "title": "Russian passenger plane stopped in Katunayake by court order",
+    "url": "https://www.dailymirror.lk/latest_news/Russian-passenger-plane-stopped-in-Katunayake-by-court-order/342-238276",
+    "file_name": "/tmp/news_lk2/articles/eb/eb8592ac.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654185540,
     "title": "Russian passenger plane stopped in Katunayake by court order",
@@ -152,6 +173,13 @@
     "title": "Mahinda Kahandagama arrested",
     "url": "https://www.newsfirst.lk/2022/06/02/mahinda-kahandagama-arrested/",
     "file_name": "/tmp/news_lk2/articles/e8/e82ca787.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654173120,
+    "title": "Malinga appointed as bowling strategy coach",
+    "url": "https://www.dailymirror.lk/headline/Malinga-appointed-as-bowling-strategy-coach/419-238272",
+    "file_name": "/tmp/news_lk2/articles/44/44baf755.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
