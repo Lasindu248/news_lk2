@@ -1,6 +1,111 @@
 [
   {
     "newspaper_id": "economy-next-com",
+    "time_ut": 1654160640,
+    "title": "Sri Lanka free trade zone manufacturers oppose electricity tariff hike proposal",
+    "url": "https://economynext.com/sri-lanka-free-trade-zone-manufacturers-oppose-electricity-tariff-hike-proposal-95075/",
+    "file_name": "/tmp/news_lk2/articles/8a/8a6a9a44.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654160580,
+    "title": "Gota Go Gama  protesters deny meeting President",
+    "url": "https://www.dailymirror.lk/breaking_news/Gota-Go-Gama-protesters-deny-meeting-President/108-238255",
+    "file_name": "/tmp/news_lk2/articles/88/8895cf8c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654160100,
+    "title": "Sri Lanka fuel shortages force labour department to shut its doors on Fridays",
+    "url": "https://economynext.com/sri-lanka-fuel-shortages-force-labour-department-to-shut-its-doors-on-fridays-95073/",
+    "file_name": "/tmp/news_lk2/articles/6c/6c3dc114.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654159620,
+    "title": "RMB 500Mn grant from China to combat medicine shortage",
+    "url": "https://www.newsfirst.lk/2022/06/02/rmb-500mn-grant-from-china-to-combat-medicine-shortage/",
+    "file_name": "/tmp/news_lk2/articles/97/9774a9f5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654159260,
+    "title": "CBSL exchange rate for today (2)",
+    "url": "https://www.newsfirst.lk/2022/06/02/cbsl-exchange-rate-for-today-2/",
+    "file_name": "/tmp/news_lk2/articles/c9/c9402bc9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654158720,
+    "title": "Rs. 645 Million paid by Pharmaceutical Corp. for a software that doesn\u2019t work",
+    "url": "https://www.newsfirst.lk/2022/06/02/rs-645-million-paid-by-pharmaceutical-corp-for-a-software-that-doesnt-work/",
+    "file_name": "/tmp/news_lk2/articles/8e/8ef0d523.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654157820,
+    "title": "For a \u201cNew Nepal\u201d, more youth in political leadership the need",
+    "url": "https://economynext.com/for-a-new-nepal-more-youth-in-political-leadership-the-need-95071/",
+    "file_name": "/tmp/news_lk2/articles/ac/ac9770e8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654157700,
+    "title": "Leopard found dead in Ududumbara",
+    "url": "https://www.newsfirst.lk/2022/06/02/leopard-found-dead-in-ududumbara/",
+    "file_name": "/tmp/news_lk2/articles/56/56858c43.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654157100,
+    "title": "Mahinda Kahandagama surrenders to CID",
+    "url": "http://www.adaderana.lk/news/82825/mahinda-kahandagama-surrenders-to-cid",
+    "file_name": "/tmp/news_lk2/articles/0d/0d3c42f5.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654156620,
+    "title": "COPE to look into CEB\u2019s performance",
+    "url": "http://www.adaderana.lk/news/82824/cope-to-look-into-cebs-performance-",
+    "file_name": "/tmp/news_lk2/articles/90/90a33c7b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654156200,
+    "title": "Sri Lanka finance minister to present Rs 695mn supplementary estimate on June 08",
+    "url": "https://economynext.com/sri-lanka-finance-minister-to-present-rs-695mn-supplementary-estimate-on-june-08-95070/",
+    "file_name": "/tmp/news_lk2/articles/47/47816ba2.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654156140,
+    "title": "PM to address parliament on country\u2019s economy next week",
+    "url": "http://www.adaderana.lk/news/82823/pm-to-address-parliament-on-countrys-economy-next-week",
+    "file_name": "/tmp/news_lk2/articles/27/275d5657.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654154280,
+    "title": "Rs. 695 Bn supplementary estimate to Parliament next week",
+    "url": "https://www.newsfirst.lk/2022/06/02/rs-695-bn-supplementary-estimate-to-parliament-next-week/",
+    "file_name": "/tmp/news_lk2/articles/37/37972a23.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654154220,
+    "title": "Cop complains over verbal abuse by SJB MP\u2019s son",
+    "url": "https://www.dailymirror.lk/latest_news/Cop-complains-over-verbal-abuse-by-SJB-MPs-son/342-238254",
+    "file_name": "/tmp/news_lk2/articles/11/11d6fbed.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654153500,
+    "title": "A/L likely to be postponed: Minister",
+    "url": "https://www.dailymirror.lk/breaking_news/AL-likely-to-be-postponed-Minister/108-238253",
+    "file_name": "/tmp/news_lk2/articles/6c/6c29094c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "time_ut": 1654152960,
     "title": "Sri Lanka customers owe shipping lines US$70mn: report",
     "url": "https://economynext.com/sri-lanka-customers-owe-shipping-lines-us70mn-report-95068/",
@@ -12,6 +117,13 @@
     "title": "Advanced Level exam to be postponed?",
     "url": "http://www.adaderana.lk/news/82822/advanced-level-exam-to-be-postponed",
     "file_name": "/tmp/news_lk2/articles/5f/5ff2a03c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654151160,
+    "title": "Reservoirs are filling: Mahaweli Authority",
+    "url": "https://www.dailymirror.lk/breaking_news/Reservoirs-are-filling-Mahaweli-Authority/108-238250",
+    "file_name": "/tmp/news_lk2/articles/5e/5eba9d1d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -101,6 +213,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654145400,
     "title": "Sri Lanka seeking $3 Bn under IMF Extended Fund Facility",
+    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-seeking-3-Bn-under-IMF-Extended-Fund-Facility/108-238248",
+    "file_name": "/tmp/news_lk2/articles/db/dbe8c3da.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654145400,
+    "title": "Sri Lanka seeking $3 Bn under IMF Extended Fund Facility",
     "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-seeking-3-Bn-under-IMF-Extended-Fund-Facility/342-238248",
     "file_name": "/tmp/news_lk2/articles/c8/c8b61df8.json"
   },
@@ -138,6 +257,13 @@
     "title": "Irrigation Dept. focus on Yala Season",
     "url": "https://www.newsfirst.lk/2022/06/02/irrigation-dept-focus-on-yala-season/",
     "file_name": "/tmp/news_lk2/articles/ce/ce3883ed.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654143300,
+    "title": "Indian PM assures expeditious supply of fertilizer: Prez",
+    "url": "https://www.dailymirror.lk/breaking_news/Indian-PM-assures-expeditious-supply-of-fertilizer-Prez/108-238249",
+    "file_name": "/tmp/news_lk2/articles/d3/d3076f2c.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -213,15 +339,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654131120,
     "title": "Import-export activities at risk as local agents fail to pay shipping lines",
-    "url": "https://www.dailymirror.lk/latest_news/Import-export-activities-at-risk-as-local-agents-fail-to-pay-shipping-lines/342-238209",
-    "file_name": "/tmp/news_lk2/articles/c6/c609df7b.json"
+    "url": "https://www.dailymirror.lk/business-news/Import-export-activities-at-risk-as-local-agents-fail-to-pay-shipping-lines/273-238209",
+    "file_name": "/tmp/news_lk2/articles/87/87b1d163.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654131120,
     "title": "Import-export activities at risk as local agents fail to pay shipping lines",
-    "url": "https://www.dailymirror.lk/business-news/Import-export-activities-at-risk-as-local-agents-fail-to-pay-shipping-lines/273-238209",
-    "file_name": "/tmp/news_lk2/articles/87/87b1d163.json"
+    "url": "https://www.dailymirror.lk/latest_news/Import-export-activities-at-risk-as-local-agents-fail-to-pay-shipping-lines/342-238209",
+    "file_name": "/tmp/news_lk2/articles/c6/c609df7b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -332,13 +458,6 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654116780,
     "title": "Palm oil industry requests govt. to lift bans and other restrictions",
-    "url": "https://www.dailymirror.lk/business-news/Palm-oil-industry-requests-govt-to-lift-bans-and-other-restrictions/273-238210",
-    "file_name": "/tmp/news_lk2/articles/d8/d8c28319.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654116780,
-    "title": "Palm oil industry requests govt. to lift bans and other restrictions",
     "url": "https://www.dailymirror.lk/breaking_news/Palm-oil-industry-requests-govt-to-lift-bans-and-other-restrictions/108-238210",
     "file_name": "/tmp/news_lk2/articles/5b/5b25de68.json"
   },
@@ -348,6 +467,13 @@
     "title": "Palm oil industry requests govt. to lift bans and other restrictions",
     "url": "https://www.dailymirror.lk/latest_news/Palm-oil-industry-requests-govt-to-lift-bans-and-other-restrictions/342-238210",
     "file_name": "/tmp/news_lk2/articles/d2/d24258e4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654116780,
+    "title": "Palm oil industry requests govt. to lift bans and other restrictions",
+    "url": "https://www.dailymirror.lk/business-news/Palm-oil-industry-requests-govt-to-lift-bans-and-other-restrictions/273-238210",
+    "file_name": "/tmp/news_lk2/articles/d8/d8c28319.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -374,13 +500,6 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654111140,
     "title": "Tough lessons",
-    "url": "https://www.dailymirror.lk/plus/Tough-lessons/352-238221",
-    "file_name": "/tmp/news_lk2/articles/13/13c4364b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654111140,
-    "title": "Tough lessons",
     "url": "https://www.dailymirror.lk/insight/Tough-lessons/374-238221",
     "file_name": "/tmp/news_lk2/articles/0f/0fd4da81.json"
   },
@@ -388,8 +507,22 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654111140,
     "title": "Tough lessons",
+    "url": "https://www.dailymirror.lk/plus/Tough-lessons/352-238221",
+    "file_name": "/tmp/news_lk2/articles/13/13c4364b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654111140,
+    "title": "Tough lessons",
     "url": "https://www.dailymirror.lk/recomended-news/Tough-lessons/277-238221",
     "file_name": "/tmp/news_lk2/articles/31/31b5285d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654109820,
+    "title": "Govt. relaxes import controls to support biz",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-relaxes-import-controls-to-support-biz/108-238213",
+    "file_name": "/tmp/news_lk2/articles/7e/7e31fe71.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -408,9 +541,9 @@
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654106760,
-    "title": "Duminda Silva still at J\u2019pura hospital; now under prison custody",
-    "url": "https://www.dailymirror.lk/latest_news/Duminda-Silva-still-at-Jpura-hospital-now-under-prison-custody/342-238198",
-    "file_name": "/tmp/news_lk2/articles/3d/3d1f0b80.json"
+    "title": "Duminda Silva under CID custody, still at J\u2019pura hospital",
+    "url": "https://www.dailymirror.lk/latest_news/Duminda-Silva-under-CID-custody-still-at-Jpura-hospital/342-238198",
+    "file_name": "/tmp/news_lk2/articles/01/01fa94d0.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -429,9 +562,9 @@
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654106760,
-    "title": "Duminda Silva under CID custody, still at J\u2019pura hospital",
-    "url": "https://www.dailymirror.lk/latest_news/Duminda-Silva-under-CID-custody-still-at-Jpura-hospital/342-238198",
-    "file_name": "/tmp/news_lk2/articles/01/01fa94d0.json"
+    "title": "Duminda Silva still at J\u2019pura hospital; now under prison custody",
+    "url": "https://www.dailymirror.lk/latest_news/Duminda-Silva-still-at-Jpura-hospital-now-under-prison-custody/342-238198",
+    "file_name": "/tmp/news_lk2/articles/3d/3d1f0b80.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -455,6 +588,13 @@
     "file_name": "/tmp/news_lk2/articles/72/72a83692.json"
   },
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654100700,
+    "title": "Indian PM assures immediate aid to provide fertilizer for Sri Lanka",
+    "url": "http://www.adaderana.lk/news/82814/indian-pm-assures-immediate-aid-to-provide-fertilizer-for-sri-lanka",
+    "file_name": "/tmp/news_lk2/articles/98/98f91d79.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654100700,
     "title": "Educational structure should start at elementary stage: Minister",
@@ -469,13 +609,6 @@
     "file_name": "/tmp/news_lk2/articles/cd/cd14ddab.json"
   },
   {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654100700,
-    "title": "Indian PM assures immediate aid to provide fertilizer for Sri Lanka",
-    "url": "http://www.adaderana.lk/news/82814/indian-pm-assures-immediate-aid-to-provide-fertilizer-for-sri-lanka",
-    "file_name": "/tmp/news_lk2/articles/98/98f91d79.json"
-  },
-  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654100700,
     "title": "Educational structure should start at elementary stage: Minister",
@@ -486,15 +619,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654096380,
     "title": "Will take disciplinary action: Exam Com Gen",
-    "url": "https://www.dailymirror.lk/latest_news/Will-take-disciplinary-action-Exam-Com-Gen/342-238195",
-    "file_name": "/tmp/news_lk2/articles/34/343bc9de.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Will-take-disciplinary-action-Exam-Com-Gen/108-238195",
+    "file_name": "/tmp/news_lk2/articles/41/41b76874.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654096380,
     "title": "Will take disciplinary action: Exam Com Gen",
-    "url": "https://www.dailymirror.lk/breaking_news/Will-take-disciplinary-action-Exam-Com-Gen/108-238195",
-    "file_name": "/tmp/news_lk2/articles/41/41b76874.json"
+    "url": "https://www.dailymirror.lk/latest_news/Will-take-disciplinary-action-Exam-Com-Gen/342-238195",
+    "file_name": "/tmp/news_lk2/articles/34/343bc9de.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -507,22 +640,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654095000,
     "title": "Prison authorities to take Duminda Silva into custody tonight",
-    "url": "https://www.dailymirror.lk/latest_news/Prison-authorities-to-take-Duminda-Silva-into-custody-tonight/342-238194",
-    "file_name": "/tmp/news_lk2/articles/cb/cbff727f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654095000,
-    "title": "Prison authorities to take Duminda Silva into custody tonight",
     "url": "https://www.dailymirror.lk/breaking_news/Prison-authorities-to-take-Duminda-Silva-into-custody-tonight/108-238194",
     "file_name": "/tmp/news_lk2/articles/35/35dcaab5.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654094940,
-    "title": "Attack on Peaceful Protesters: Johnston Fernando named as a suspect",
-    "url": "https://www.dailymirror.lk/latest_news/Attack-on-Peaceful-Protesters-Johnston-Fernando-named-as-a-suspect/342-238191",
-    "file_name": "/tmp/news_lk2/articles/2d/2d94eba6.json"
+    "time_ut": 1654095000,
+    "title": "Prison authorities to take Duminda Silva into custody tonight",
+    "url": "https://www.dailymirror.lk/latest_news/Prison-authorities-to-take-Duminda-Silva-into-custody-tonight/342-238194",
+    "file_name": "/tmp/news_lk2/articles/cb/cbff727f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -530,6 +656,13 @@
     "title": "Attack on Peaceful Protesters: Johnston Fernando named as a suspect",
     "url": "https://www.dailymirror.lk/breaking_news/Attack-on-Peaceful-Protesters-Johnston-Fernando-named-as-a-suspect/108-238191",
     "file_name": "/tmp/news_lk2/articles/a9/a95564c9.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654094940,
+    "title": "Attack on Peaceful Protesters: Johnston Fernando named as a suspect",
+    "url": "https://www.dailymirror.lk/latest_news/Attack-on-Peaceful-Protesters-Johnston-Fernando-named-as-a-suspect/342-238191",
+    "file_name": "/tmp/news_lk2/articles/2d/2d94eba6.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -565,138 +698,5 @@
     "title": "Import levies on several items increased; prices to go up",
     "url": "http://www.adaderana.lk/news/82812/import-levies-on-several-items-increased-prices-to-go-up",
     "file_name": "/tmp/news_lk2/articles/c7/c78dd6f0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654092060,
-    "title": "\u2018Aragalaya\u2019 youths present set of proposals to Prez",
-    "url": "https://www.dailymirror.lk/breaking_news/Aragalaya-youths-present-set-of-proposals-to-Prez/108-238192",
-    "file_name": "/tmp/news_lk2/articles/7e/7ec673a7.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654092060,
-    "title": "\u2018Aragalaya\u2019 youths present set of proposals to Prez",
-    "url": "https://www.dailymirror.lk/latest_news/Aragalaya-youths-present-set-of-proposals-to-Prez/342-238192",
-    "file_name": "/tmp/news_lk2/articles/a0/a04d02c8.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654091520,
-    "title": "Sri Lanka\u2019s Police Chief in Court, says does not have power to transfer Deshabandu",
-    "url": "https://www.newsfirst.lk/2022/06/01/sri-lankas-police-chief-in-court-says-does-not-have-power-to-transfer-deshabandu/",
-    "file_name": "/tmp/news_lk2/articles/ed/eda079b4.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654090260,
-    "title": "Tirantha Walaliyadda quits HRC Committee on 9th May Violence",
-    "url": "https://www.newsfirst.lk/2022/06/01/tirantha-walaliyadda-quits-hrc-committee-on-9th-may-violence/",
-    "file_name": "/tmp/news_lk2/articles/ce/ce390ec1.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654089120,
-    "title": "Sri Lanka to impose 100% surcharge on multiple imports; 200% on Chocolate related imports",
-    "url": "https://www.newsfirst.lk/2022/06/01/sri-lanka-to-impose-100-surcharge-on-multiple-imports-200-on-chocolate-related-imports/",
-    "file_name": "/tmp/news_lk2/articles/d4/d4059dc4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654088460,
-    "title": "Funds received for drug purchase not properly utilized: COPE reveals",
-    "url": "https://www.dailymirror.lk/breaking_news/Funds-received-for-drug-purchase-not-properly-utilized-COPE-reveals/108-238190",
-    "file_name": "/tmp/news_lk2/articles/69/69d9645b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654088460,
-    "title": "Funds received for drug purchase not properly utilized: COPE reveals",
-    "url": "https://www.dailymirror.lk/latest_news/Funds-received-for-drug-purchase-not-properly-utilized-COPE-reveals/342-238190",
-    "file_name": "/tmp/news_lk2/articles/e1/e1c36ce8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654088040,
-    "title": "Silent protest to free Ranjan",
-    "url": "https://www.dailymirror.lk/latest_news/Silent-protest-to-free-Ranjan/342-238189",
-    "file_name": "/tmp/news_lk2/articles/df/df70ecf0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654088040,
-    "title": "Silent protest to free Ranjan",
-    "url": "https://www.dailymirror.lk/caption_story/Silent-protest-to-free-Ranjan/110-238189",
-    "file_name": "/tmp/news_lk2/articles/50/50008ced.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654087680,
-    "title": "Sri Lanka stocks fall for the seventh day on weak sentiments",
-    "url": "https://economynext.com/sri-lanka-stocks-fall-for-the-seventh-day-on-weak-sentiments-95043/",
-    "file_name": "/tmp/news_lk2/articles/dd/dddc0f10.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654087380,
-    "title": "Duminda Silva arrested by the CID",
-    "url": "http://www.adaderana.lk/news/82811/duminda-silva-arrested-by-the-cid",
-    "file_name": "/tmp/news_lk2/articles/a7/a72b8d5f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654087320,
-    "title": "Duminda Silva arrested",
-    "url": "https://www.dailymirror.lk/breaking_news/Duminda-Silva-arrested/108-238188",
-    "file_name": "/tmp/news_lk2/articles/90/90e2656c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654087320,
-    "title": "Duminda Silva arrested",
-    "url": "https://www.dailymirror.lk/top_story/Duminda-Silva-arrested/155-238188",
-    "file_name": "/tmp/news_lk2/articles/7d/7dd88f08.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654087320,
-    "title": "Duminda Silva arrested",
-    "url": "https://www.dailymirror.lk/latest_news/Duminda-Silva-arrested/342-238188",
-    "file_name": "/tmp/news_lk2/articles/b9/b9d61e04.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654087080,
-    "title": "President appoints 3-member commission to probe recent unrest in Sri Lanka",
-    "url": "http://www.adaderana.lk/news/82810/president-appoints-3-member-commission-to-probe-recent-unrest-in-sri-lanka",
-    "file_name": "/tmp/news_lk2/articles/39/39ca6f1e.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654087080,
-    "title": "President appoints 3-member commission to probe unrest in Sri Lanka",
-    "url": "http://www.adaderana.lk/news/82810/president-appoints-3-member-commission-to-probe-unrest-in-sri-lanka",
-    "file_name": "/tmp/news_lk2/articles/eb/eb7200bc.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654086780,
-    "title": "Ex-MP Duminda Silva arrested by the CID while at the Sri Jayawardenapura Hospital",
-    "url": "https://www.newsfirst.lk/2022/06/01/ex-mp-duminda-silva-arrested-by-the-cid-while-at-the-sri-jayawardenapura-hospital/",
-    "file_name": "/tmp/news_lk2/articles/2f/2f306e30.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654086120,
-    "title": "Over 12,000 people affected by inclement weather",
-    "url": "https://www.dailymirror.lk/breaking_news/Over-12-000-people-affected-by-inclement-weather/108-238187",
-    "file_name": "/tmp/news_lk2/articles/17/17adaf68.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654086120,
-    "title": "Over 12,000 people affected by inclement weather",
-    "url": "https://www.dailymirror.lk/latest_news/Over-12-000-people-affected-by-inclement-weather/342-238187",
-    "file_name": "/tmp/news_lk2/articles/82/82eb22ff.json"
   }
 ]
