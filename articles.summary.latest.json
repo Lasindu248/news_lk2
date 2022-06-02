@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654133040,
+    "title": "Party leaders to meet today (2)",
+    "url": "https://www.newsfirst.lk/2022/06/02/party-leaders-to-meet-today-2-2/",
+    "file_name": "/tmp/news_lk2/articles/fe/febfdea1.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654132380,
+    "title": "Sri Lanka nominal GDP bloated after re-basing",
+    "url": "https://economynext.com/sri-lanka-nominal-gdp-bloated-after-re-basing-95049/",
+    "file_name": "/tmp/news_lk2/articles/d3/d3a5de68.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654130940,
+    "title": "Heavy showers likely today (2); Met Dept.",
+    "url": "https://www.newsfirst.lk/2022/06/02/heavy-showers-likely-today-2-met-dept/",
+    "file_name": "/tmp/news_lk2/articles/86/86bf1972.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654130160,
+    "title": "CEB summoned before the COPE next week",
+    "url": "https://www.newsfirst.lk/2022/06/02/ceb-summoned-before-the-cope-next-week/",
+    "file_name": "/tmp/news_lk2/articles/5d/5d38362e.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1654119660,
     "title": "COPE recommends purchase of medicines with funds from Indian credit line, other sources",
@@ -670,33 +698,5 @@
     "title": "Money orders to Energy Minister to cover rupee loss from fuel",
     "url": "https://www.newsfirst.lk/2022/06/01/money-orders-to-energy-minister-to-cover-rupee-loss-from-fuel/",
     "file_name": "/tmp/news_lk2/articles/6e/6e6d5284.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654068360,
-    "title": "Speeding car overturns on Vajira Road crashing into 12 vehicles",
-    "url": "https://www.dailymirror.lk/breaking_news/Speeding-car-overturns-on-Vajira-Road-crashing-into-12-vehicles/108-238172",
-    "file_name": "/tmp/news_lk2/articles/54/54be46df.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654067280,
-    "title": "Riding purely on luck...",
-    "url": "https://www.dailymirror.lk/latest_news/Riding-purely-on-luck/342-238177",
-    "file_name": "/tmp/news_lk2/articles/d2/d2d40663.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654067280,
-    "title": "Riding purely on luck...",
-    "url": "https://www.dailymirror.lk/caption_story/Riding-purely-on-luck/110-238177",
-    "file_name": "/tmp/news_lk2/articles/22/221ef0a3.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654066500,
-    "title": "PM gives directives to provide relief to flood-affected people",
-    "url": "http://www.adaderana.lk/news/82799/pm-gives-directives-to-provide-relief-to-flood-affected-people-",
-    "file_name": "/tmp/news_lk2/articles/e2/e20fcd94.json"
   }
 ]
