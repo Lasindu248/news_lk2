@@ -1,10 +1,38 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654196820,
+    "title": "Sri Lanka protesters deny President\u2019s claim; say PMD statement false",
+    "url": "https://economynext.com/sri-lanka-protesters-deny-presidents-claim-say-pmd-statement-false-95098/",
+    "file_name": "/tmp/news_lk2/articles/ed/edd7e5e7.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654195320,
     "title": "Sri Lanka can\u2019t use $1.5 billion China swap on IMF concerns \u2013 Dr. Coomaraswamy",
     "url": "http://www.adaderana.lk/news/82838/sri-lanka-cant-use-15-billion-china-swap-on-imf-concerns-dr-coomaraswamy",
     "file_name": "/tmp/news_lk2/articles/79/79b6e199.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654194900,
+    "title": "We had no option but to choose Ranil  - Dr. Wijeydasa Rajapakshe",
+    "url": "https://www.dailymirror.lk/opinion/We-had-no-option-but-to-choose-Ranil-Dr-Wijeydasa-Rajapakshe/172-238281",
+    "file_name": "/tmp/news_lk2/articles/57/57891939.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654194780,
+    "title": "Is Sri Lanka forced to wake up to child deaths? - EDITORIAL",
+    "url": "https://www.dailymirror.lk/opinion/Is-Sri-Lanka-forced-to-wake-up-to-child-deaths-EDITORIAL/172-238280",
+    "file_name": "/tmp/news_lk2/articles/f2/f2528f05.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654194720,
+    "title": "If we do not take interest in political affairs, then we\u2019re doomed to live under rule of rogues",
+    "url": "https://www.dailymirror.lk/opinion/If-we-do-not-take-interest-in-political-affairs-then-were-doomed-to-live-under-rule-of-rogues/172-238279",
+    "file_name": "/tmp/news_lk2/articles/f8/f8941a1b.json"
   },
   {
     "newspaper_id": "ada-derana-lk",

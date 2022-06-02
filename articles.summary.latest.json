@@ -1,10 +1,38 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654196820,
+    "title": "Sri Lanka protesters deny President\u2019s claim; say PMD statement false",
+    "url": "https://economynext.com/sri-lanka-protesters-deny-presidents-claim-say-pmd-statement-false-95098/",
+    "file_name": "/tmp/news_lk2/articles/ed/edd7e5e7.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654195320,
     "title": "Sri Lanka can\u2019t use $1.5 billion China swap on IMF concerns \u2013 Dr. Coomaraswamy",
     "url": "http://www.adaderana.lk/news/82838/sri-lanka-cant-use-15-billion-china-swap-on-imf-concerns-dr-coomaraswamy",
     "file_name": "/tmp/news_lk2/articles/79/79b6e199.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654194900,
+    "title": "We had no option but to choose Ranil  - Dr. Wijeydasa Rajapakshe",
+    "url": "https://www.dailymirror.lk/opinion/We-had-no-option-but-to-choose-Ranil-Dr-Wijeydasa-Rajapakshe/172-238281",
+    "file_name": "/tmp/news_lk2/articles/57/57891939.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654194780,
+    "title": "Is Sri Lanka forced to wake up to child deaths? - EDITORIAL",
+    "url": "https://www.dailymirror.lk/opinion/Is-Sri-Lanka-forced-to-wake-up-to-child-deaths-EDITORIAL/172-238280",
+    "file_name": "/tmp/news_lk2/articles/f2/f2528f05.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654194720,
+    "title": "If we do not take interest in political affairs, then we\u2019re doomed to live under rule of rogues",
+    "url": "https://www.dailymirror.lk/opinion/If-we-do-not-take-interest-in-political-affairs-then-were-doomed-to-live-under-rule-of-rogues/172-238279",
+    "file_name": "/tmp/news_lk2/articles/f8/f8941a1b.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -670,33 +698,5 @@
     "title": "Received call from Prez to use tear gas and water cannons against SLPP attackers: Deshabandu",
     "url": "https://www.dailymirror.lk/latest_news/Received-call-from-Prez-to-use-tear-gas-and-water-cannons-against-SLPP-attackers-Deshabandu/342-238242",
     "file_name": "/tmp/news_lk2/articles/53/53b7ca72.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654145640,
-    "title": "SLPP MPs to meet Justice Minister",
-    "url": "https://www.newsfirst.lk/2022/06/02/slpp-mps-to-meet-justice-minister/",
-    "file_name": "/tmp/news_lk2/articles/39/39cac831.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654145520,
-    "title": "Sri Lanka president extends tenure of controversial One Country One Law task force",
-    "url": "https://economynext.com/sri-lanka-president-extends-tenure-of-controversial-one-country-one-law-task-force-95065/",
-    "file_name": "/tmp/news_lk2/articles/19/19f37d26.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654145400,
-    "title": "Sri Lanka seeking $3 Bn under IMF Extended Fund Facility",
-    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-seeking-3-Bn-under-IMF-Extended-Fund-Facility/108-238248",
-    "file_name": "/tmp/news_lk2/articles/db/dbe8c3da.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654145400,
-    "title": "Sri Lanka seeking $3 Bn under IMF Extended Fund Facility",
-    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-seeking-3-Bn-under-IMF-Extended-Fund-Facility/342-238248",
-    "file_name": "/tmp/news_lk2/articles/c8/c8b61df8.json"
   }
 ]
