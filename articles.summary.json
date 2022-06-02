@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654177320,
+    "title": "Parliament debate on Supplementary Estimates set for June 8",
+    "url": "http://www.adaderana.lk/news/82834/parliament-debate-on-supplementary-estimates-set-for-june-8",
+    "file_name": "/tmp/news_lk2/articles/b7/b73f1b38.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654175520,
     "title": "Sri Lanka shares rise from 3-wk low; foreigners buy",
@@ -19,6 +26,20 @@
     "title": "China fears Sri Lanka swap re-structuring if proceeds are used: Coomaraswamy",
     "url": "https://economynext.com/china-fears-sri-lanka-swap-re-structuring-if-proceeds-are-used-coomaraswamy-95085/",
     "file_name": "/tmp/news_lk2/articles/bf/bf613591.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654174800,
+    "title": "Lasith Malinga appointed Bowling Strategy Coach",
+    "url": "https://www.newsfirst.lk/2022/06/02/lasith-malinga-appointed-bowling-strategy-coach/",
+    "file_name": "/tmp/news_lk2/articles/cc/cc86dd35.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654174740,
+    "title": "UN agrees to change Turkey\u2019s official name to \u2018T\u00fcrkiye\u2019",
+    "url": "https://www.newsfirst.lk/2022/06/02/un-agrees-to-change-turkeys-official-name-to-turkiye/",
+    "file_name": "/tmp/news_lk2/articles/64/64df832e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -145,6 +166,13 @@
     "title": "Sri Lanka could get US$6.0bn from India, talks with Japan: Coomaraswamy",
     "url": "https://economynext.com/sri-lanka-could-get-us6-0bn-from-india-talks-with-japan-coomaraswamy-95082/",
     "file_name": "/tmp/news_lk2/articles/cd/cdbe387a.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654168500,
+    "title": "Sri Lanka could get up to US$6.0bn from India, talks with Japan: Coomaraswamy",
+    "url": "https://economynext.com/sri-lanka-could-get-up-to-us6-0bn-from-india-talks-with-japan-coomaraswamy-95082/",
+    "file_name": "/tmp/news_lk2/articles/e5/e54e4e41.json"
   },
   {
     "newspaper_id": "economy-next-com",
