@@ -164,6 +164,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654173840,
     "title": "Turkey wants to be called T\u00fcrkiye in rebranding move",
+    "url": "https://www.dailymirror.lk/breaking_news/Turkey-wants-to-be-called-T\u00fcrkiye-in-rebranding-move/108-238267",
+    "file_name": "/tmp/news_lk2/articles/9e/9e44bb9e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654173840,
+    "title": "Turkey wants to be called T\u00fcrkiye in rebranding move",
     "url": "https://www.dailymirror.lk/latest_news/Turkey-wants-to-be-called-T\u00fcrkiye-in-rebranding-move/342-238267",
     "file_name": "/tmp/news_lk2/articles/bf/bf88bbaf.json"
   },
@@ -691,12 +698,5 @@
     "title": "Over 50,000 passports issued every month so far in 2022",
     "url": "https://www.newsfirst.lk/2022/06/02/over-50000-passports-issued-every-month-so-far-in-2022/",
     "file_name": "/tmp/news_lk2/articles/a1/a186e2db.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654144020,
-    "title": "Sri Lanka seeking USD 3 Bn under IMF Extended Fund Facility: report",
-    "url": "http://www.adaderana.lk/news/82819/sri-lanka-seeking-usd-3-bn-under-imf-extended-fund-facility-report",
-    "file_name": "/tmp/news_lk2/articles/20/20bd6e21.json"
   }
 ]
