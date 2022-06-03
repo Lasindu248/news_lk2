@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654255740,
+    "title": "Nine accused in Pradeep Ekneligoda abduction case remanded",
+    "url": "http://www.adaderana.lk/news/82850/nine-accused-in-pradeep-ekneligoda-abduction-case-remanded",
+    "file_name": "/tmp/news_lk2/articles/40/4064a537.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654254060,
     "title": "Prageeth Ekneligoda: Nine Military Intelligence personnel who were out on bail, remanded",
@@ -219,6 +226,13 @@
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654241940,
+    "title": "30-year-old killed in shooting incident in Panadura",
+    "url": "http://www.adaderana.lk/news/82845/30-year-old-killed-in-shooting-incident-in-panadura",
+    "file_name": "/tmp/news_lk2/articles/5c/5c7ded01.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654241940,
     "title": "Individual killed in shooting incident in Panadura",
     "url": "http://www.adaderana.lk/news/82845/individual-killed-in-shooting-incident-in-panadura",
     "file_name": "/tmp/news_lk2/articles/47/47cbb1dc.json"
@@ -313,6 +327,13 @@
     "title": "Two more arrested over killing of MP Amarakeerthi",
     "url": "http://www.adaderana.lk/news/82843/two-more-arrested-over-killing-of-mp-amarakeerthi",
     "file_name": "/tmp/news_lk2/articles/2c/2c82544c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654237020,
+    "title": "Fears of looming food shortages as Sri Lanka\u2019s President urges officials to ensure essentials",
+    "url": "https://economynext.com/fears-of-looming-food-shortages-as-sri-lankas-president-urges-officials-to-ensure-essentials-95096/",
+    "file_name": "/tmp/news_lk2/articles/f3/f3c6e857.json"
   },
   {
     "newspaper_id": "economy-next-com",

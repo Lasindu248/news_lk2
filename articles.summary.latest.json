@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654255740,
+    "title": "Nine accused in Pradeep Ekneligoda abduction case remanded",
+    "url": "http://www.adaderana.lk/news/82850/nine-accused-in-pradeep-ekneligoda-abduction-case-remanded",
+    "file_name": "/tmp/news_lk2/articles/40/4064a537.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654254060,
     "title": "Prageeth Ekneligoda: Nine Military Intelligence personnel who were out on bail, remanded",
@@ -219,6 +226,13 @@
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654241940,
+    "title": "30-year-old killed in shooting incident in Panadura",
+    "url": "http://www.adaderana.lk/news/82845/30-year-old-killed-in-shooting-incident-in-panadura",
+    "file_name": "/tmp/news_lk2/articles/5c/5c7ded01.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654241940,
     "title": "Individual killed in shooting incident in Panadura",
     "url": "http://www.adaderana.lk/news/82845/individual-killed-in-shooting-incident-in-panadura",
     "file_name": "/tmp/news_lk2/articles/47/47cbb1dc.json"
@@ -313,6 +327,13 @@
     "title": "Two more arrested over killing of MP Amarakeerthi",
     "url": "http://www.adaderana.lk/news/82843/two-more-arrested-over-killing-of-mp-amarakeerthi",
     "file_name": "/tmp/news_lk2/articles/2c/2c82544c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654237020,
+    "title": "Fears of looming food shortages as Sri Lanka\u2019s President urges officials to ensure essentials",
+    "url": "https://economynext.com/fears-of-looming-food-shortages-as-sri-lankas-president-urges-officials-to-ensure-essentials-95096/",
+    "file_name": "/tmp/news_lk2/articles/f3/f3c6e857.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -677,26 +698,5 @@
     "title": "President says Indian PM has assured speedier supply of fertiliser",
     "url": "https://www.ft.lk/news/President-says-Indian-PM-has-assured-speedier-supply-of-fertiliser/56-735653",
     "file_name": "/tmp/news_lk2/articles/c2/c25abfb4.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654194600,
-    "title": "Yashojith promoted as CEO at Asia Siyaka Commodities; Anil Cooke to remain as MD",
-    "url": "https://www.ft.lk/business/Yashojith-promoted-as-CEO-at-Asia-Siyaka-Commodities-Anil-Cooke-to-remain-as-MD/34-735659",
-    "file_name": "/tmp/news_lk2/articles/80/80ff058e.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654194600,
-    "title": "Access Engineering says Stadiumgama housing project sees steady progress",
-    "url": "https://www.ft.lk/business/Access-Engineering-says-Stadiumgama-housing-project-sees-steady-progress/34-735657",
-    "file_name": "/tmp/news_lk2/articles/a0/a0ccafac.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654194600,
-    "title": "Sasakawa Trust begins construction of new centre",
-    "url": "https://www.ft.lk/news/Sasakawa-Trust-begins-construction-of-new-centre/56-735677",
-    "file_name": "/tmp/news_lk2/articles/72/72ba774e.json"
   }
 ]
