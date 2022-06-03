@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654241940,
+    "title": "Individual killed in shooting incident in Panadura",
+    "url": "http://www.adaderana.lk/news/82845/individual-killed-in-shooting-incident-in-panadura",
+    "file_name": "/tmp/news_lk2/articles/47/47cbb1dc.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654240620,
+    "title": "Basil and Thirukumar acquitted in Malwana property case",
+    "url": "http://www.adaderana.lk/news/82844/basil-and-thirukumar-acquitted-in-malwana-property-case",
+    "file_name": "/tmp/news_lk2/articles/14/14731ffe.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654240560,
+    "title": "PM meets three-wheeler association; acknowledges need for regulatory body",
+    "url": "https://www.newsfirst.lk/2022/06/03/pm-meets-three-wheeler-association-acknowledges-need-for-regulatory-body/",
+    "file_name": "/tmp/news_lk2/articles/cb/cb802bdf.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654239240,
     "title": "Sri Lanka\u2019s Colombo port ranked 22 in world, 1 in South Asia",
@@ -26,6 +47,13 @@
     "title": "Chinese Medical Aid to reach SL today (3)",
     "url": "https://www.newsfirst.lk/2022/06/03/chinese-medical-aid-to-reach-sl-today-3/",
     "file_name": "/tmp/news_lk2/articles/ff/ffada540.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654237500,
+    "title": "Man shot dead in Aluthgama",
+    "url": "https://www.dailymirror.lk/breaking_news/Man-shot-dead-in-Aluthgama/108-238339",
+    "file_name": "/tmp/news_lk2/articles/98/986c3384.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -70,6 +98,13 @@
     "file_name": "/tmp/news_lk2/articles/05/05b23e10.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654236420,
+    "title": "Set up home gardens in every govt. institution in EP: Governor",
+    "url": "https://www.dailymirror.lk/breaking_news/Set-up-home-gardens-in-every-govt-institution-in-EP-Governor/108-238338",
+    "file_name": "/tmp/news_lk2/articles/37/375b14a1.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654235580,
     "title": "3.5 Kg of heroin seized in Grandpass; 27-year-old arrested",
@@ -82,6 +117,13 @@
     "title": "Colombo Port : Most efficient port in South Asia & Indian Sub Continent.",
     "url": "https://www.newsfirst.lk/2022/06/03/colombo-port-most-efficient-port-in-south-asia-indian-sub-continent/",
     "file_name": "/tmp/news_lk2/articles/12/12d7a7e6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654232400,
+    "title": "1990 Suwa Seriya; India\u2019s lifesaving gift to Sri Lanka celebrates 6th anniversary",
+    "url": "https://www.dailymirror.lk/breaking_news/1990-Suwa-Seriya-Indias-lifesaving-gift-to-Sri-Lanka-celebrates-6th-anniversary/108-238340",
+    "file_name": "/tmp/news_lk2/articles/92/92fad7ea.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -656,47 +698,5 @@
     "title": "Colombo City will run out of food by September: Rosy",
     "url": "https://www.dailymirror.lk/breaking_news/Colombo-City-will-run-out-of-food-by-September-Rosy/108-238268",
     "file_name": "/tmp/news_lk2/articles/a4/a4ef0085.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654174020,
-    "title": "Army Commander visits President",
-    "url": "https://www.newsfirst.lk/2022/06/02/army-commander-visits-president/",
-    "file_name": "/tmp/news_lk2/articles/bf/bfffa56c.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1654173900,
-    "title": "Ceylinco Life resumes \u2018Waidya Hamuwa\u2019 with first event of the year in Seruwawila, Trinco",
-    "url": "http://island.lk/ceylinco-life-resumes-waidya-hamuwa-with-first-event-of-the-year-in-seruwawila-trinco/",
-    "file_name": "/tmp/news_lk2/articles/a4/a40a6d77.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1654173840,
-    "title": "Undoing marketing: Why we need to embrace responsible marketing",
-    "url": "http://island.lk/undoing-marketing-why-we-need-to-embrace-responsible-marketing/",
-    "file_name": "/tmp/news_lk2/articles/2a/2a3bc4f0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654173840,
-    "title": "Turkey wants to be called T\u00fcrkiye in rebranding move",
-    "url": "https://www.dailymirror.lk/breaking_news/Turkey-wants-to-be-called-T\u00fcrkiye-in-rebranding-move/108-238267",
-    "file_name": "/tmp/news_lk2/articles/9e/9e44bb9e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654173840,
-    "title": "Turkey wants to be called T\u00fcrkiye in rebranding move",
-    "url": "https://www.dailymirror.lk/latest_news/Turkey-wants-to-be-called-T\u00fcrkiye-in-rebranding-move/342-238267",
-    "file_name": "/tmp/news_lk2/articles/bf/bf88bbaf.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654173540,
-    "title": "UN agrees to change Turkey\u2019s official name to \u2018T\u00fcrkiye\u2019",
-    "url": "http://www.adaderana.lk/news/82833/un-agrees-to-change-turkeys-official-name-to-trkiye",
-    "file_name": "/tmp/news_lk2/articles/df/df3dad05.json"
   }
 ]
