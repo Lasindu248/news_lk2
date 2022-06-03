@@ -1,6 +1,69 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654284600,
+    "title": "Nine army intelligence officers remanded over Ekneligoda murder case",
+    "url": "https://www.dailymirror.lk/front_page/Nine-army-intelligence-officers-remanded-over-Ekneligoda-murder-case/238-238364",
+    "file_name": "/tmp/news_lk2/articles/54/54986aa5.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654284420,
+    "title": "India hands over medical supplies to Suwa Seriya Foundation",
+    "url": "https://www.ft.lk/news/India-hands-over-medical-supplies-to-Suwa-Seriya-Foundation/56-735735",
+    "file_name": "/tmp/news_lk2/articles/f1/f1c05c1c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654284420,
+    "title": "Harsha says  special thanks  to people of India",
+    "url": "https://www.ft.lk/news/Harsha-says-special-thanks-to-people-of-India/56-735734",
+    "file_name": "/tmp/news_lk2/articles/31/31f10ba4.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654284420,
+    "title": "Rs. 1.8 b from COVID-19 Fund to import  essential medicines",
+    "url": "https://www.ft.lk/news/Rs-1-8-b-from-COVID-19-Fund-to-import-essential-medicines/56-735736",
+    "file_name": "/tmp/news_lk2/articles/e1/e110cfc7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654284360,
+    "title": "BASL raises concerns over indiscriminate arrests",
+    "url": "https://www.ft.lk/news/BASL-raises-concerns-over-indiscriminate-arrests/56-735733",
+    "file_name": "/tmp/news_lk2/articles/6b/6b0b652e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654284300,
+    "title": "Japanese investors tell BOI optimistic about investment opportunities in Sri Lanka",
+    "url": "https://www.ft.lk/business/Japanese-investors-tell-BOI-optimistic-about-investment-opportunities-in-Sri-Lanka/34-735732",
+    "file_name": "/tmp/news_lk2/articles/11/11da47e7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654284240,
+    "title": "OPA hands over proposals on addressing agriculture, food production crisis to Agriculture Ministry",
+    "url": "https://www.ft.lk/business/OPA-hands-over-proposals-on-addressing-agriculture-food-production-crisis-to-Agriculture-Ministry/34-735731",
+    "file_name": "/tmp/news_lk2/articles/1a/1a72ba7c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654284180,
+    "title": "Eric Rajapakse Opticians marks 105th anniversary with free eye, hearing testing offer",
+    "url": "https://www.ft.lk/business/Eric-Rajapakse-Opticians-marks-105th-anniversary-with-free-eye-hearing-testing-offer/34-735730",
+    "file_name": "/tmp/news_lk2/articles/7b/7b0cf594.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654284180,
+    "title": "Poultry traders justify soaring egg prices",
+    "url": "https://www.ft.lk/business/Poultry-traders-justify-soaring-egg-prices/34-735729",
+    "file_name": "/tmp/news_lk2/articles/c9/c9dc0d19.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654281000,
     "title": "MP Ganesan condemns MP Wedaarachchi\u2019s son over obscenities against police",
     "url": "https://www.dailymirror.lk/breaking_news/MP-Ganesan-condemns-MP-Wedaarachchis-son-over-obscenities-against-police/108-238372",
@@ -635,68 +698,5 @@
     "title": "Dengue cases on the rise; Over 6,000 patients in May 2022",
     "url": "https://www.newsfirst.lk/2022/06/03/dengue-cases-on-the-rise-over-6000-patients-in-may-2022/",
     "file_name": "/tmp/news_lk2/articles/5f/5f398af5.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654229280,
-    "title": "Party leaders set for crucial talks on 21st Amendment",
-    "url": "http://www.adaderana.lk/news/82841/party-leaders-set-for-crucial-talks-on-21st-amendment",
-    "file_name": "/tmp/news_lk2/articles/ba/ba64d7f9.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654229040,
-    "title": "21A: Political Parties to meet PM on Friday (3)",
-    "url": "https://www.newsfirst.lk/2022/06/03/21a-political-parties-to-meet-pm-on-friday-3/",
-    "file_name": "/tmp/news_lk2/articles/89/89775d59.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654228320,
-    "title": "120,000 Sri Lankans left for overseas employment so far in 2022",
-    "url": "https://www.newsfirst.lk/2022/06/03/120000-sri-lankans-left-for-overseas-employment-so-far-in-2022/",
-    "file_name": "/tmp/news_lk2/articles/79/793aec2f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654227780,
-    "title": "Crude shipments every 15 days to Sri Lanka \u2013 Energy Ministry",
-    "url": "https://www.newsfirst.lk/2022/06/03/crude-shipments-every-15-days-to-sri-lanka-energy-ministry/",
-    "file_name": "/tmp/news_lk2/articles/4c/4c38b7a8.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654224660,
-    "title": "Sri Lanka central bank deep in debt, dollar shortages at \u2018guidance\u2019 rate : Wijewardena",
-    "url": "https://economynext.com/sri-lanka-central-bank-deep-in-debt-dollar-shortages-at-guidance-rate-wijewardena-95100/",
-    "file_name": "/tmp/news_lk2/articles/49/49b9c21f.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654224660,
-    "title": "Sri Lanka central bank deep in debt, forex shortages persist at \u2018guidance\u2019 rate : Wijewardena",
-    "url": "https://economynext.com/sri-lanka-central-bank-deep-in-debt-forex-shortages-persist-at-guidance-rate-wijewardena-95100/",
-    "file_name": "/tmp/news_lk2/articles/f7/f76d33d6.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654224540,
-    "title": "ONLY 16,000 LP Gas cylinders from Litro today (3)",
-    "url": "https://www.newsfirst.lk/2022/06/03/only-16000-lp-gas-cylinders-from-litro-today-3/",
-    "file_name": "/tmp/news_lk2/articles/67/6704d0dd.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654224180,
-    "title": "Heavy showers likely today (3); Met Dept.",
-    "url": "https://www.newsfirst.lk/2022/06/03/heavy-showers-likely-today-3-met-dept/",
-    "file_name": "/tmp/news_lk2/articles/e6/e66f2e59.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654222560,
-    "title": "Edu. Ministry to initiate audit inquiry on student admissions to National Schools",
-    "url": "https://www.dailymirror.lk/breaking_news/Edu-Ministry-to-initiate-audit-inquiry-on-student-admissions-to-National-Schools/108-238308",
-    "file_name": "/tmp/news_lk2/articles/db/db67f273.json"
   }
 ]
