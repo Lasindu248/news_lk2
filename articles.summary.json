@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654218120,
+    "title": "High fruit sales in Colombo",
+    "url": "https://www.dailymirror.lk/latest_news/High-fruit-sales-in-Colombo/342-238306",
+    "file_name": "/tmp/news_lk2/articles/18/188a54cf.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654196820,
     "title": "Sri Lanka protesters deny President\u2019s claim; say PMD statement false",
@@ -72,9 +79,23 @@
   {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1654194600,
+    "title": "Several meetings for COPE, COPA scheduled for next week",
+    "url": "https://www.ft.lk/news/Several-meetings-for-COPE-COPA-scheduled-for-next-week/56-735678",
+    "file_name": "/tmp/news_lk2/articles/cc/cc105ed8.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654194600,
     "title": "President says Indian PM has assured speedier supply of fertiliser",
     "url": "https://www.ft.lk/news/President-says-Indian-PM-has-assured-speedier-supply-of-fertiliser/56-735653",
     "file_name": "/tmp/news_lk2/articles/c2/c25abfb4.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654194600,
+    "title": "Yashojith promoted as CEO at Asia Siyaka Commodities; Anil Cooke to remain as MD",
+    "url": "https://www.ft.lk/business/Yashojith-promoted-as-CEO-at-Asia-Siyaka-Commodities-Anil-Cooke-to-remain-as-MD/34-735659",
+    "file_name": "/tmp/news_lk2/articles/80/80ff058e.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -86,6 +107,13 @@
   {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1654194600,
+    "title": "Sasakawa Trust begins construction of new centre",
+    "url": "https://www.ft.lk/news/Sasakawa-Trust-begins-construction-of-new-centre/56-735677",
+    "file_name": "/tmp/news_lk2/articles/72/72ba774e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654194600,
     "title": "PM meets Joint Chambers for two-way dialogue on current crisis",
     "url": "https://www.ft.lk/business/PM-meets-Joint-Chambers-for-two-way-dialogue-on-current-crisis/34-735658",
     "file_name": "/tmp/news_lk2/articles/50/5079ee88.json"
@@ -93,9 +121,30 @@
   {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1654194600,
+    "title": "First batch of China\u2019s grant medicines arrives",
+    "url": "https://www.ft.lk/news/First-batch-of-China-s-grant-medicines-arrives/56-735680",
+    "file_name": "/tmp/news_lk2/articles/63/63dae9f7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654194600,
     "title": "CA Sri Lanka kicks off \u2018CA Live\u2019 with monthly talks ranging from exam success to mental wellbeing",
     "url": "https://www.ft.lk/business/CA-Sri-Lanka-kicks-off-CA-Live-with-monthly-talks-ranging-from-exam-success-to-mental-wellbeing/34-735656",
     "file_name": "/tmp/news_lk2/articles/3d/3d4cb04f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654194600,
+    "title": "US donor consortium partners Rotary Club of Colombo Regency, EFL Sri Lanka for $ 1.145 m donation to Health Ministry",
+    "url": "https://www.ft.lk/news/US-donor-consortium-partners-Rotary-Club-of-Colombo-Regency-EFL-Sri-Lanka-for-1-145-m-donation-to-Health-Ministry/56-735679",
+    "file_name": "/tmp/news_lk2/articles/2d/2d71add3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654193220,
+    "title": "Water from the Kelani river recedes",
+    "url": "https://www.dailymirror.lk/caption_story/Water-from-the-Kelani-river-recedes/110-238307",
+    "file_name": "/tmp/news_lk2/articles/96/96971660.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -145,6 +194,13 @@
     "title": "We should have approached IMF in 2020: Former Governor Coomaraswamy",
     "url": "https://www.newsfirst.lk/2022/06/02/we-should-have-approached-imf-in-2020-former-governor-coomaraswamy/",
     "file_name": "/tmp/news_lk2/articles/43/43c076e6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654183860,
+    "title": "Special gas distribution in Colombo and across country: LITRO",
+    "url": "https://www.dailymirror.lk/breaking_news/Special-gas-distribution-in-Colombo-and-across-country-LITRO/108-238275",
+    "file_name": "/tmp/news_lk2/articles/fc/fcfa2876.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -325,6 +381,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654173120,
     "title": "Malinga appointed as bowling strategy coach",
+    "url": "https://www.dailymirror.lk/top-story-sports-1/Malinga-appointed-as-bowling-strategy-coach/324-238272",
+    "file_name": "/tmp/news_lk2/articles/b2/b28e32d0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654173120,
+    "title": "Malinga appointed as bowling strategy coach",
     "url": "https://www.dailymirror.lk/headline/Malinga-appointed-as-bowling-strategy-coach/419-238272",
     "file_name": "/tmp/news_lk2/articles/44/44baf755.json"
   },
@@ -364,6 +427,13 @@
     "file_name": "/tmp/news_lk2/articles/69/695ac93d.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654171980,
+    "title": "Bengali tiger cubs attract visitors at Zoo...",
+    "url": "https://www.dailymirror.lk/caption_story/Bengali-tiger-cubs-attract-visitors-at-Zoo/110-238266",
+    "file_name": "/tmp/news_lk2/articles/a0/a02bb516.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654171080,
     "title": "Nalin Bandara, SJBs new Chief of Operations",
@@ -383,6 +453,13 @@
     "title": "Police looking to arrest ex-UC Chairman Ravindu Wedaarachchi, spouse",
     "url": "https://www.dailymirror.lk/breaking_news/Police-looking-to-arrest-ex-UC-Chairman-Ravindu-Wedaarachchi-spouse/108-238265",
     "file_name": "/tmp/news_lk2/articles/59/5978d77c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654170660,
+    "title": "Police looking to arrest ex-UC Chairman Ravindu Wedaarachchi, spouse",
+    "url": "https://www.dailymirror.lk/top_story/Police-looking-to-arrest-ex-UC-Chairman-Ravindu-Wedaarachchi-spouse/155-238265",
+    "file_name": "/tmp/news_lk2/articles/e7/e7c0e3e1.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
