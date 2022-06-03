@@ -1,5 +1,40 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654237500,
+    "title": "Man shot dead in Beruwala",
+    "url": "https://www.dailymirror.lk/latest_news/Man-shot-dead-in-Beruwala/342-238339",
+    "file_name": "/tmp/news_lk2/articles/37/37787ef7.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654237500,
+    "title": "Two more arrested over killing of MP Amarakeerthi",
+    "url": "http://www.adaderana.lk/news/82843/two-more-arrested-over-killing-of-mp-amarakeerthi",
+    "file_name": "/tmp/news_lk2/articles/2c/2c82544c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654237020,
+    "title": "Amid looming food shortage fears, Sri Lanka President urges officials to ensure essentials",
+    "url": "https://economynext.com/amid-looming-food-shortage-fears-sri-lanka-president-urges-officials-to-ensure-essentials-95096/",
+    "file_name": "/tmp/news_lk2/articles/71/71ec3b30.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654236420,
+    "title": "Set up home gardens in every govt. institution in EP: Governor",
+    "url": "https://www.dailymirror.lk/latest_news/Set-up-home-gardens-in-every-govt-institution-in-EP-Governor/342-238338",
+    "file_name": "/tmp/news_lk2/articles/05/05b23e10.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654235580,
+    "title": "3.5 Kg of heroin seized in Grandpass; 27-year-old arrested",
+    "url": "https://www.newsfirst.lk/2022/06/03/3-5-kg-of-heroin-seized-in-grandpass-27-year-old-arrested/",
+    "file_name": "/tmp/news_lk2/articles/bd/bda61ca1.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654232880,
     "title": "Colombo Port : Most efficient port in South Asia & Indian Sub Continent.",
@@ -663,40 +698,5 @@
     "title": "All public servants must cultivate \u2013 Youth Minister",
     "url": "https://www.newsfirst.lk/2022/06/02/all-public-servants-must-cultivate-youth-minister/",
     "file_name": "/tmp/news_lk2/articles/9d/9d94d54c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654171980,
-    "title": "Bengali tiger cubs attract visitors at Zoo...",
-    "url": "https://www.dailymirror.lk/latest_news/Bengali-tiger-cubs-attract-visitors-at-Zoo/342-238266",
-    "file_name": "/tmp/news_lk2/articles/69/695ac93d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654171980,
-    "title": "Bengali tiger cubs attract visitors at Zoo...",
-    "url": "https://www.dailymirror.lk/caption_story/Bengali-tiger-cubs-attract-visitors-at-Zoo/110-238266",
-    "file_name": "/tmp/news_lk2/articles/a0/a02bb516.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654171080,
-    "title": "Nalin Bandara, SJBs new Chief of Operations",
-    "url": "https://www.newsfirst.lk/2022/06/02/nalin-bandara-sjbs-new-chief-of-operations/",
-    "file_name": "/tmp/news_lk2/articles/29/29b66b66.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654170900,
-    "title": "Govt targeting US $5bn this year for repayments",
-    "url": "https://www.newsfirst.lk/2022/06/02/govt-targeting-us-5bn-this-year-for-repayments/",
-    "file_name": "/tmp/news_lk2/articles/d0/d07f2d3b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654170660,
-    "title": "Police looking to arrest ex-UC Chairman Ravindu Wedaarachchi, spouse",
-    "url": "https://www.dailymirror.lk/breaking_news/Police-looking-to-arrest-ex-UC-Chairman-Ravindu-Wedaarachchi-spouse/108-238265",
-    "file_name": "/tmp/news_lk2/articles/59/5978d77c.json"
   }
 ]
