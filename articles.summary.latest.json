@@ -1,10 +1,66 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654245180,
+    "title": "Kahandagama remanded in case over unrest on May 09",
+    "url": "http://www.adaderana.lk/news/82847/kahandagama-remanded-in-case-over-unrest-on-may-09",
+    "file_name": "/tmp/news_lk2/articles/34/34c619f2.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654244460,
+    "title": "Maintain sufficient stocks of all essential food items: President tells officials",
+    "url": "http://www.adaderana.lk/news/82846/maintain-sufficient-stocks-of-all-essential-food-items-president-tells-officials-",
+    "file_name": "/tmp/news_lk2/articles/c7/c765f448.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654244100,
+    "title": "EWIS refutes allegations of charging over Rs. 600 Mn for software made for SPC",
+    "url": "https://www.dailymirror.lk/top_story/EWIS-refutes-allegations-of-charging-over-Rs-600-Mn-for-software-made-for-SPC/155-238344",
+    "file_name": "/tmp/news_lk2/articles/04/04389eb2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654244040,
+    "title": "Mahinda Kahandagama remanded till June 8 over Galle Face attack case",
+    "url": "https://www.dailymirror.lk/breaking_news/Mahinda-Kahandagama-remanded-till-June-8-over-Galle-Face-attack-case/108-238343",
+    "file_name": "/tmp/news_lk2/articles/74/74acc8a2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654243500,
+    "title": "Basil aquitted from Malwana case",
+    "url": "https://www.dailymirror.lk/breaking_news/Basil-aquitted-from-Malwana-case/108-238342",
+    "file_name": "/tmp/news_lk2/articles/db/db36574e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654242900,
+    "title": "Swift action need to address shortages faced by farmers \u2013 Prime Minister tells UNDP & UN-FAO",
+    "url": "https://www.newsfirst.lk/2022/06/03/swift-action-need-to-address-shortages-faced-by-farmers-prime-minister-tells-undp-un-fao/",
+    "file_name": "/tmp/news_lk2/articles/f9/f925ec1a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654242480,
+    "title": "31-year-old man gunned down in Panadura",
+    "url": "https://www.newsfirst.lk/2022/06/03/31-year-old-man-gunned-down-in-panadura/",
+    "file_name": "/tmp/news_lk2/articles/1b/1bfea630.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654241940,
     "title": "Individual killed in shooting incident in Panadura",
     "url": "http://www.adaderana.lk/news/82845/individual-killed-in-shooting-incident-in-panadura",
     "file_name": "/tmp/news_lk2/articles/47/47cbb1dc.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654241760,
+    "title": "Maintain adequate stocks of all essential food items \u2013 President tells officials",
+    "url": "https://www.newsfirst.lk/2022/06/03/maintain-adequate-stocks-of-all-essential-food-items-president-tells-officials/",
+    "file_name": "/tmp/news_lk2/articles/e6/e64be55f.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -26,6 +82,13 @@
     "title": "Sri Lanka\u2019s Colombo port ranked 22 in world, 1 in South Asia",
     "url": "https://economynext.com/sri-lankas-colombo-port-ranked-22-in-world-1-in-south-asia-95129/",
     "file_name": "/tmp/news_lk2/articles/92/92de1ff5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654239240,
+    "title": "Gas shipment arrives tomorrow; await our intimation: LAUGFS Gas",
+    "url": "https://www.dailymirror.lk/breaking_news/Gas-shipment-arrives-tomorrow-await-our-intimation-LAUGFS-Gas/108-238341",
+    "file_name": "/tmp/news_lk2/articles/79/79cbc351.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -541,6 +604,13 @@
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654185540,
+    "title": "Russian passenger  plane grounded  in Katunayake by court order",
+    "url": "https://www.dailymirror.lk/latest_news/Russian-passenger-plane-grounded-in-Katunayake-by-court-order/342-238276",
+    "file_name": "/tmp/news_lk2/articles/ee/ee0f36c6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654185540,
     "title": "Russian passenger plane stopped in Katunayake by court order",
     "url": "https://www.dailymirror.lk/breaking_news/Russian-passenger-plane-stopped-in-Katunayake-by-court-order/108-238276",
     "file_name": "/tmp/news_lk2/articles/50/50b121df.json"
@@ -628,75 +698,5 @@
     "title": "Moscow-bound aircraft barred from leaving BIA due to court order",
     "url": "http://www.adaderana.lk/news/82835/moscow-bound-aircraft-barred-from-leaving-bia-due-to-court-order",
     "file_name": "/tmp/news_lk2/articles/6c/6cb984a6.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654177320,
-    "title": "Parliament debate on Supplementary Estimates set for June 8",
-    "url": "http://www.adaderana.lk/news/82834/parliament-debate-on-supplementary-estimates-set-for-june-8",
-    "file_name": "/tmp/news_lk2/articles/b7/b73f1b38.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1654176480,
-    "title": "Dialog Hosts Google I/O Extended in the Metaverse for the 1st Time in South Asia",
-    "url": "http://island.lk/dialog-hosts-google-i-o-extended-in-the-metaverse-for-the-1st-time-in-south-asia-2/",
-    "file_name": "/tmp/news_lk2/articles/0f/0f4884f6.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1654176480,
-    "title": "Students from Sri Lanka crowned runners-up at the 2022 Microsoft Imagine Cup World Championship",
-    "url": "http://island.lk/students-from-sri-lanka-crowned-runners-up-at-the-2022-microsoft-imagine-cup-world-championship/",
-    "file_name": "/tmp/news_lk2/articles/06/0603366d.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1654176300,
-    "title": "CSE trading takes positive turn in the wake of buying interest in apparel counters",
-    "url": "http://island.lk/cse-trading-takes-positive-turn-in-the-wake-of-buying-interest-in-apparel-counters/",
-    "file_name": "/tmp/news_lk2/articles/02/028d0c9e.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654175520,
-    "title": "Sri Lanka shares rise from 3-wk low; foreigners buy",
-    "url": "https://economynext.com/sri-lanka-shares-rise-from-3-wk-low-foreigners-buy-95088/",
-    "file_name": "/tmp/news_lk2/articles/4a/4a09c867.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654175100,
-    "title": "Over Rs. 600Mn spent for SPC\u2019s software",
-    "url": "https://www.dailymirror.lk/breaking_news/Over-Rs-600Mn-spent-for-SPCs-software/108-238271",
-    "file_name": "/tmp/news_lk2/articles/f1/f18366e8.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654175100,
-    "title": "China fears Sri Lanka swap re-structuring if proceeds are used: Coomaraswamy",
-    "url": "https://economynext.com/china-fears-sri-lanka-swap-re-structuring-if-proceeds-are-used-coomaraswamy-95085/",
-    "file_name": "/tmp/news_lk2/articles/bf/bf613591.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654174800,
-    "title": "Lasith Malinga appointed Bowling Strategy Coach",
-    "url": "https://www.newsfirst.lk/2022/06/02/lasith-malinga-appointed-bowling-strategy-coach/",
-    "file_name": "/tmp/news_lk2/articles/cc/cc86dd35.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654174740,
-    "title": "UN agrees to change Turkey\u2019s official name to \u2018T\u00fcrkiye\u2019",
-    "url": "https://www.newsfirst.lk/2022/06/02/un-agrees-to-change-turkeys-official-name-to-turkiye/",
-    "file_name": "/tmp/news_lk2/articles/64/64df832e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654174080,
-    "title": "Colombo City will run out of food by September: Rosy",
-    "url": "https://www.dailymirror.lk/breaking_news/Colombo-City-will-run-out-of-food-by-September-Rosy/108-238268",
-    "file_name": "/tmp/news_lk2/articles/a4/a4ef0085.json"
   }
 ]
