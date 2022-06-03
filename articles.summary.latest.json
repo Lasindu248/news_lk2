@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654248660,
+    "title": "Prez instructs to use Covid Fund for essential medecine",
+    "url": "https://www.dailymirror.lk/latest_news/Prez-instructs-to-use-Covid-Fund-for-essential-medecine/342-238350",
+    "file_name": "/tmp/news_lk2/articles/c1/c148bb91.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654248600,
+    "title": "Sri Lanka : New Aviation Minister not pleased with BIA delayed terminal construction",
+    "url": "https://www.newsfirst.lk/2022/06/03/sri-lanka-new-aviation-minister-not-pleased-with-bia-delayed-terminal-construction/",
+    "file_name": "/tmp/news_lk2/articles/c3/c3646845.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654248300,
+    "title": "LITRO says no supply after today\u2019s distribution",
+    "url": "https://www.dailymirror.lk/latest_news/LITRO-says-no-supply-after-todays-distribution/342-238348",
+    "file_name": "/tmp/news_lk2/articles/2a/2ab47cb5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654247520,
+    "title": "Sri Lankans for Sri Lankans: Gammadda hands over fully functional water purification plant to rural Matale village",
+    "url": "https://www.newsfirst.lk/2022/06/03/sri-lankans-for-sri-lankans-gammadda-hands-over-fully-functional-water-purification-plant-to-rural-matale-village/",
+    "file_name": "/tmp/news_lk2/articles/ee/ee80fbf9.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654246560,
     "title": "Power cuts dampen Sri Lanka rubber product exports despite higher global demand \u2013 SLAMERP",
@@ -670,33 +698,5 @@
     "title": "Russian passenger plane stopped in Katunayake by court order",
     "url": "https://www.dailymirror.lk/latest_news/Russian-passenger-plane-stopped-in-Katunayake-by-court-order/342-238276",
     "file_name": "/tmp/news_lk2/articles/eb/eb8592ac.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654185540,
-    "title": "Russian passenger  plane grounded  in Katunayake by court order",
-    "url": "https://www.dailymirror.lk/latest_news/Russian-passenger-plane-grounded-in-Katunayake-by-court-order/342-238276",
-    "file_name": "/tmp/news_lk2/articles/ee/ee0f36c6.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654185540,
-    "title": "Russian passenger  plane grounded  in Katunayake by court order",
-    "url": "https://www.dailymirror.lk/breaking_news/Russian-passenger-plane-grounded-in-Katunayake-by-court-order/108-238276",
-    "file_name": "/tmp/news_lk2/articles/dd/dd738bd0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654185540,
-    "title": "Russian passenger plane stopped in Katunayake by court order",
-    "url": "https://www.dailymirror.lk/breaking_news/Russian-passenger-plane-stopped-in-Katunayake-by-court-order/108-238276",
-    "file_name": "/tmp/news_lk2/articles/50/50b121df.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654185240,
-    "title": "Russian Plane held at BIA?",
-    "url": "https://www.newsfirst.lk/2022/06/02/russian-plane-held-at-bia/",
-    "file_name": "/tmp/news_lk2/articles/f1/f17ebe64.json"
   }
 ]
