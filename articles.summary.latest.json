@@ -56,6 +56,48 @@
     "file_name": "/tmp/news_lk2/articles/a2/a2b31901.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654194600,
+    "title": "Rs. 695 b supplementary estimate to House next week",
+    "url": "https://www.ft.lk/news/Rs-695-b-supplementary-estimate-to-House-next-week/56-735654",
+    "file_name": "/tmp/news_lk2/articles/d9/d9e6781f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654194600,
+    "title": "New Army Commander calls on Defence Secretary",
+    "url": "https://www.ft.lk/news/New-Army-Commander-calls-on-Defence-Secretary/56-735655",
+    "file_name": "/tmp/news_lk2/articles/71/717f5686.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654194600,
+    "title": "President says Indian PM has assured speedier supply of fertiliser",
+    "url": "https://www.ft.lk/news/President-says-Indian-PM-has-assured-speedier-supply-of-fertiliser/56-735653",
+    "file_name": "/tmp/news_lk2/articles/c2/c25abfb4.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654194600,
+    "title": "Access Engineering says Stadiumgama housing project sees steady progress",
+    "url": "https://www.ft.lk/business/Access-Engineering-says-Stadiumgama-housing-project-sees-steady-progress/34-735657",
+    "file_name": "/tmp/news_lk2/articles/a0/a0ccafac.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654194600,
+    "title": "PM meets Joint Chambers for two-way dialogue on current crisis",
+    "url": "https://www.ft.lk/business/PM-meets-Joint-Chambers-for-two-way-dialogue-on-current-crisis/34-735658",
+    "file_name": "/tmp/news_lk2/articles/50/5079ee88.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654194600,
+    "title": "CA Sri Lanka kicks off \u2018CA Live\u2019 with monthly talks ranging from exam success to mental wellbeing",
+    "url": "https://www.ft.lk/business/CA-Sri-Lanka-kicks-off-CA-Live-with-monthly-talks-ranging-from-exam-success-to-mental-wellbeing/34-735656",
+    "file_name": "/tmp/news_lk2/articles/3d/3d4cb04f.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654190040,
     "title": "UN says Yemen warring parties agree to extend truce",
@@ -168,6 +210,27 @@
     "file_name": "/tmp/news_lk2/articles/b7/b73f1b38.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654176480,
+    "title": "Dialog Hosts Google I/O Extended in the Metaverse for the 1st Time in South Asia",
+    "url": "http://island.lk/dialog-hosts-google-i-o-extended-in-the-metaverse-for-the-1st-time-in-south-asia-2/",
+    "file_name": "/tmp/news_lk2/articles/0f/0f4884f6.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654176480,
+    "title": "Students from Sri Lanka crowned runners-up at the 2022 Microsoft Imagine Cup World Championship",
+    "url": "http://island.lk/students-from-sri-lanka-crowned-runners-up-at-the-2022-microsoft-imagine-cup-world-championship/",
+    "file_name": "/tmp/news_lk2/articles/06/0603366d.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654176300,
+    "title": "CSE trading takes positive turn in the wake of buying interest in apparel counters",
+    "url": "http://island.lk/cse-trading-takes-positive-turn-in-the-wake-of-buying-interest-in-apparel-counters/",
+    "file_name": "/tmp/news_lk2/articles/02/028d0c9e.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654175520,
     "title": "Sri Lanka shares rise from 3-wk low; foreigners buy",
@@ -215,6 +278,20 @@
     "title": "Army Commander visits President",
     "url": "https://www.newsfirst.lk/2022/06/02/army-commander-visits-president/",
     "file_name": "/tmp/news_lk2/articles/bf/bfffa56c.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654173900,
+    "title": "Ceylinco Life resumes \u2018Waidya Hamuwa\u2019 with first event of the year in Seruwawila, Trinco",
+    "url": "http://island.lk/ceylinco-life-resumes-waidya-hamuwa-with-first-event-of-the-year-in-seruwawila-trinco/",
+    "file_name": "/tmp/news_lk2/articles/a4/a40a6d77.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654173840,
+    "title": "Undoing marketing: Why we need to embrace responsible marketing",
+    "url": "http://island.lk/undoing-marketing-why-we-need-to-embrace-responsible-marketing/",
+    "file_name": "/tmp/news_lk2/articles/2a/2a3bc4f0.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -621,82 +698,5 @@
     "title": "A/L likely to be postponed: Minister",
     "url": "https://www.dailymirror.lk/latest_news/AL-likely-to-be-postponed-Minister/342-238253",
     "file_name": "/tmp/news_lk2/articles/c7/c7522bde.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654152960,
-    "title": "Sri Lanka customers owe shipping lines US$70mn: report",
-    "url": "https://economynext.com/sri-lanka-customers-owe-shipping-lines-us70mn-report-95068/",
-    "file_name": "/tmp/news_lk2/articles/40/40acacfc.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654152720,
-    "title": "Advanced Level exam to be postponed?",
-    "url": "http://www.adaderana.lk/news/82822/advanced-level-exam-to-be-postponed",
-    "file_name": "/tmp/news_lk2/articles/5f/5ff2a03c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654151160,
-    "title": "Reservoirs are filling: Mahaweli Authority",
-    "url": "https://www.dailymirror.lk/breaking_news/Reservoirs-are-filling-Mahaweli-Authority/108-238250",
-    "file_name": "/tmp/news_lk2/articles/5e/5eba9d1d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654151160,
-    "title": "Reservoirs are filling: Mahaweli Authority",
-    "url": "https://www.dailymirror.lk/latest_news/Reservoirs-are-filling-Mahaweli-Authority/342-238250",
-    "file_name": "/tmp/news_lk2/articles/e7/e7e57dde.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654150920,
-    "title": "Sri Lanka seeking $3 Bn under IMF Extended Fund Facility \u2013 Reuters",
-    "url": "https://www.newsfirst.lk/2022/06/02/sri-lanka-seeking-3-bn-under-imf-extended-fund-facility-reuters/",
-    "file_name": "/tmp/news_lk2/articles/3c/3c295e9b.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654150380,
-    "title": "Southern Province nurses on strike",
-    "url": "https://www.newsfirst.lk/2022/06/02/southern-province-nurses-on-strike/",
-    "file_name": "/tmp/news_lk2/articles/7c/7c6b51e9.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654149780,
-    "title": "50,000 Litro Gas cylinders released on Thursday (2)",
-    "url": "https://www.newsfirst.lk/2022/06/02/50000-litro-gas-cylinders-released-on-thursday-2/",
-    "file_name": "/tmp/news_lk2/articles/37/370eb199.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654149660,
-    "title": "Court rejects police request against university students\u2019 protest march",
-    "url": "http://www.adaderana.lk/news/82821/court-rejects-police-request-against-university-students-protest-march",
-    "file_name": "/tmp/news_lk2/articles/9f/9fb5b43d.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654149660,
-    "title": "Court rejects police request against protest march by university students",
-    "url": "http://www.adaderana.lk/news/82821/court-rejects-police-request-against-protest-march-by-university-students",
-    "file_name": "/tmp/news_lk2/articles/f8/f810d044.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654149120,
-    "title": "Fire at Wellawa hospital storage",
-    "url": "https://www.newsfirst.lk/2022/06/02/fire-at-wellawa-hospital-storage/",
-    "file_name": "/tmp/news_lk2/articles/84/8463cd36.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654148640,
-    "title": "Sri Lanka port gives US$20mn in demurrage relief: Chairman",
-    "url": "https://economynext.com/sri-lanka-port-gives-us20mn-in-demurrage-relief-chairman-95067/",
-    "file_name": "/tmp/news_lk2/articles/67/673b1467.json"
   }
 ]

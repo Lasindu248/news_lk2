@@ -56,6 +56,48 @@
     "file_name": "/tmp/news_lk2/articles/a2/a2b31901.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654194600,
+    "title": "Rs. 695 b supplementary estimate to House next week",
+    "url": "https://www.ft.lk/news/Rs-695-b-supplementary-estimate-to-House-next-week/56-735654",
+    "file_name": "/tmp/news_lk2/articles/d9/d9e6781f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654194600,
+    "title": "New Army Commander calls on Defence Secretary",
+    "url": "https://www.ft.lk/news/New-Army-Commander-calls-on-Defence-Secretary/56-735655",
+    "file_name": "/tmp/news_lk2/articles/71/717f5686.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654194600,
+    "title": "President says Indian PM has assured speedier supply of fertiliser",
+    "url": "https://www.ft.lk/news/President-says-Indian-PM-has-assured-speedier-supply-of-fertiliser/56-735653",
+    "file_name": "/tmp/news_lk2/articles/c2/c25abfb4.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654194600,
+    "title": "Access Engineering says Stadiumgama housing project sees steady progress",
+    "url": "https://www.ft.lk/business/Access-Engineering-says-Stadiumgama-housing-project-sees-steady-progress/34-735657",
+    "file_name": "/tmp/news_lk2/articles/a0/a0ccafac.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654194600,
+    "title": "PM meets Joint Chambers for two-way dialogue on current crisis",
+    "url": "https://www.ft.lk/business/PM-meets-Joint-Chambers-for-two-way-dialogue-on-current-crisis/34-735658",
+    "file_name": "/tmp/news_lk2/articles/50/5079ee88.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654194600,
+    "title": "CA Sri Lanka kicks off \u2018CA Live\u2019 with monthly talks ranging from exam success to mental wellbeing",
+    "url": "https://www.ft.lk/business/CA-Sri-Lanka-kicks-off-CA-Live-with-monthly-talks-ranging-from-exam-success-to-mental-wellbeing/34-735656",
+    "file_name": "/tmp/news_lk2/articles/3d/3d4cb04f.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654190040,
     "title": "UN says Yemen warring parties agree to extend truce",
@@ -168,6 +210,27 @@
     "file_name": "/tmp/news_lk2/articles/b7/b73f1b38.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654176480,
+    "title": "Dialog Hosts Google I/O Extended in the Metaverse for the 1st Time in South Asia",
+    "url": "http://island.lk/dialog-hosts-google-i-o-extended-in-the-metaverse-for-the-1st-time-in-south-asia-2/",
+    "file_name": "/tmp/news_lk2/articles/0f/0f4884f6.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654176480,
+    "title": "Students from Sri Lanka crowned runners-up at the 2022 Microsoft Imagine Cup World Championship",
+    "url": "http://island.lk/students-from-sri-lanka-crowned-runners-up-at-the-2022-microsoft-imagine-cup-world-championship/",
+    "file_name": "/tmp/news_lk2/articles/06/0603366d.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654176300,
+    "title": "CSE trading takes positive turn in the wake of buying interest in apparel counters",
+    "url": "http://island.lk/cse-trading-takes-positive-turn-in-the-wake-of-buying-interest-in-apparel-counters/",
+    "file_name": "/tmp/news_lk2/articles/02/028d0c9e.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654175520,
     "title": "Sri Lanka shares rise from 3-wk low; foreigners buy",
@@ -215,6 +278,20 @@
     "title": "Army Commander visits President",
     "url": "https://www.newsfirst.lk/2022/06/02/army-commander-visits-president/",
     "file_name": "/tmp/news_lk2/articles/bf/bfffa56c.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654173900,
+    "title": "Ceylinco Life resumes \u2018Waidya Hamuwa\u2019 with first event of the year in Seruwawila, Trinco",
+    "url": "http://island.lk/ceylinco-life-resumes-waidya-hamuwa-with-first-event-of-the-year-in-seruwawila-trinco/",
+    "file_name": "/tmp/news_lk2/articles/a4/a40a6d77.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654173840,
+    "title": "Undoing marketing: Why we need to embrace responsible marketing",
+    "url": "http://island.lk/undoing-marketing-why-we-need-to-embrace-responsible-marketing/",
+    "file_name": "/tmp/news_lk2/articles/2a/2a3bc4f0.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1190,6 +1267,13 @@
     "file_name": "/tmp/news_lk2/articles/2d/2d94eba6.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654094880,
+    "title": "Dialog Axiata ranked Sri Lanka\u2019s Most Valuable Brand by Brand Finance for the 4th\u00a0consecutive year",
+    "url": "http://island.lk/dialog-axiata-ranked-sri-lankas-most-valuable-brand-by-brand-finance-for-the-4th-consecutive-year/",
+    "file_name": "/tmp/news_lk2/articles/d4/d4d0b4b0.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654094400,
     "title": "Prez appoints Commission of Inquiry   to probe recent incidents of arson, looting, murders",
@@ -1202,6 +1286,13 @@
     "title": "Prez appoints Commission of Inquiry   to probe recent incidents of arson, looting, murders",
     "url": "https://www.dailymirror.lk/breaking_news/Prez-appoints-Commission-of-Inquiry-to-probe-recent-incidents-of-arson-looting-murders/108-238193",
     "file_name": "/tmp/news_lk2/articles/dc/dcf60351.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654094280,
+    "title": "LOLC Holdings\u2019 positive numbers boost bourse",
+    "url": "http://island.lk/lolc-holdings-positive-numbers-boost-bourse/",
+    "file_name": "/tmp/news_lk2/articles/9d/9d9c5a0a.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -1272,6 +1363,13 @@
     "title": "Funds received for drug purchase not properly utilized: COPE reveals",
     "url": "https://www.dailymirror.lk/latest_news/Funds-received-for-drug-purchase-not-properly-utilized-COPE-reveals/342-238190",
     "file_name": "/tmp/news_lk2/articles/e1/e1c36ce8.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654088100,
+    "title": "ICC launches Sri Lankan invasion to T20 World Cup",
+    "url": "http://island.lk/icc-launches-sri-lankan-invasion-to-t20-world-cup/",
+    "file_name": "/tmp/news_lk2/articles/0c/0c0be19d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -2168,6 +2266,13 @@
     "title": "US donor consortium partners with Rotary Club of Colombo Regency to donate crucial medical supplies",
     "url": "https://www.dailymirror.lk/breaking_news/US-donor-consortium-partners-with-Rotary-Club-of-Colombo-Regency-to-donate-crucial-medical-supplies/108-238116",
     "file_name": "/tmp/news_lk2/articles/08/086a9da9.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654011540,
+    "title": "Labor wins in Australia!",
+    "url": "http://island.lk/labor-wins-in-australia/",
+    "file_name": "/tmp/news_lk2/articles/48/48eb6ea1.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -3316,6 +3421,13 @@
     "title": "People busy buying expensive veggies...",
     "url": "https://www.dailymirror.lk/caption_story/People-busy-buying-expensive-veggies/110-238031",
     "file_name": "/tmp/news_lk2/articles/70/702859da.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1653926280,
+    "title": "Will Prez make CB independent?",
+    "url": "http://island.lk/will-prez-make-cb-independent/",
+    "file_name": "/tmp/news_lk2/articles/40/405f0389.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
