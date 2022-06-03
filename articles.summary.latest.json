@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654262940,
+    "title": "No LP gas distribution until next Tuesday",
+    "url": "http://www.adaderana.lk/news/82851/no-lp-gas-distribution-until-next-tuesday",
+    "file_name": "/tmp/news_lk2/articles/fc/fced308f.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654260000,
     "title": "NO LP gas distribution on Saturday (4); Litro",
@@ -691,12 +698,5 @@
     "title": "Sri Lanka protesters deny President\u2019s claim; say PMD statement false",
     "url": "https://economynext.com/sri-lanka-protesters-deny-presidents-claim-say-pmd-statement-false-95098/",
     "file_name": "/tmp/news_lk2/articles/ed/edd7e5e7.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654195320,
-    "title": "Sri Lanka can\u2019t use $1.5 billion China swap on IMF concerns \u2013 Dr. Coomaraswamy",
-    "url": "http://www.adaderana.lk/news/82838/sri-lanka-cant-use-15-billion-china-swap-on-imf-concerns-dr-coomaraswamy",
-    "file_name": "/tmp/news_lk2/articles/79/79b6e199.json"
   }
 ]
