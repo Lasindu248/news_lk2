@@ -1,10 +1,45 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654232160,
+    "title": "Maintain adequate stocks of essential food: Prez instructs",
+    "url": "https://www.dailymirror.lk/latest_news/Maintain-adequate-stocks-of-essential-food-Prez-instructs/342-238324",
+    "file_name": "/tmp/news_lk2/articles/07/078d24cb.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654231740,
+    "title": "Man shot dead in Beruwala",
+    "url": "http://www.adaderana.lk/news/82842/man-shot-dead-in-beruwala",
+    "file_name": "/tmp/news_lk2/articles/76/76e16392.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654230840,
+    "title": "Police say accidental disposal of quarry explosives cause for explosion in Elpitiya",
+    "url": "https://www.newsfirst.lk/2022/06/03/police-say-accidental-disposal-of-quarry-explosives-cause-for-explosion-in-elpitiya/",
+    "file_name": "/tmp/news_lk2/articles/e4/e43cc8e5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654229940,
+    "title": "Dengue cases on the rise; Over 6,000 patients in May 2022",
+    "url": "https://www.newsfirst.lk/2022/06/03/dengue-cases-on-the-rise-over-6000-patients-in-may-2022/",
+    "file_name": "/tmp/news_lk2/articles/5f/5f398af5.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654229280,
     "title": "Party leaders set for crucial talks on 21st Amendment",
     "url": "http://www.adaderana.lk/news/82841/party-leaders-set-for-crucial-talks-on-21st-amendment",
     "file_name": "/tmp/news_lk2/articles/ba/ba64d7f9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654229040,
+    "title": "21A: Political Parties to meet PM on Friday (3)",
+    "url": "https://www.newsfirst.lk/2022/06/03/21a-political-parties-to-meet-pm-on-friday-3/",
+    "file_name": "/tmp/news_lk2/articles/89/89775d59.json"
   },
   {
     "newspaper_id": "news-first-lk",

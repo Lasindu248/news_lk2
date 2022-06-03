@@ -1,10 +1,45 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654232160,
+    "title": "Maintain adequate stocks of essential food: Prez instructs",
+    "url": "https://www.dailymirror.lk/latest_news/Maintain-adequate-stocks-of-essential-food-Prez-instructs/342-238324",
+    "file_name": "/tmp/news_lk2/articles/07/078d24cb.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654231740,
+    "title": "Man shot dead in Beruwala",
+    "url": "http://www.adaderana.lk/news/82842/man-shot-dead-in-beruwala",
+    "file_name": "/tmp/news_lk2/articles/76/76e16392.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654230840,
+    "title": "Police say accidental disposal of quarry explosives cause for explosion in Elpitiya",
+    "url": "https://www.newsfirst.lk/2022/06/03/police-say-accidental-disposal-of-quarry-explosives-cause-for-explosion-in-elpitiya/",
+    "file_name": "/tmp/news_lk2/articles/e4/e43cc8e5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654229940,
+    "title": "Dengue cases on the rise; Over 6,000 patients in May 2022",
+    "url": "https://www.newsfirst.lk/2022/06/03/dengue-cases-on-the-rise-over-6000-patients-in-may-2022/",
+    "file_name": "/tmp/news_lk2/articles/5f/5f398af5.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654229280,
     "title": "Party leaders set for crucial talks on 21st Amendment",
     "url": "http://www.adaderana.lk/news/82841/party-leaders-set-for-crucial-talks-on-21st-amendment",
     "file_name": "/tmp/news_lk2/articles/ba/ba64d7f9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654229040,
+    "title": "21A: Political Parties to meet PM on Friday (3)",
+    "url": "https://www.newsfirst.lk/2022/06/03/21a-political-parties-to-meet-pm-on-friday-3/",
+    "file_name": "/tmp/news_lk2/articles/89/89775d59.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -663,40 +698,5 @@
     "title": "Sri Lanka could get up to US$6bn from India, talks with Japan: Coomaraswamy",
     "url": "https://economynext.com/sri-lanka-could-get-up-to-us6bn-from-india-talks-with-japan-coomaraswamy-95082/",
     "file_name": "/tmp/news_lk2/articles/51/5194472b.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654168500,
-    "title": "Sri Lanka could get US$6.0bn from India, talks with Japan: Coomaraswamy",
-    "url": "https://economynext.com/sri-lanka-could-get-us6-0bn-from-india-talks-with-japan-coomaraswamy-95082/",
-    "file_name": "/tmp/news_lk2/articles/cd/cdbe387a.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654168500,
-    "title": "Sri Lanka could get up to US$6.0bn from India, talks with Japan: Coomaraswamy",
-    "url": "https://economynext.com/sri-lanka-could-get-up-to-us6-0bn-from-india-talks-with-japan-coomaraswamy-95082/",
-    "file_name": "/tmp/news_lk2/articles/e5/e54e4e41.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654167660,
-    "title": "Sri Lanka new govt should respect independence of central bank: Wijewardena",
-    "url": "https://economynext.com/sri-lanka-new-govt-should-respect-independence-of-central-bank-wijewardena-95081/",
-    "file_name": "/tmp/news_lk2/articles/44/4468e8d8.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654167660,
-    "title": "Weather advisory issued for heavy rain",
-    "url": "http://www.adaderana.lk/news/82829/weather-advisory-issued-for-heavy-rain",
-    "file_name": "/tmp/news_lk2/articles/11/11151b55.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654167000,
-    "title": "Foreign Minister briefs Colombo-based diplomatic corps on present situation in Sri Lanka",
-    "url": "http://www.adaderana.lk/news/82828/foreign-minister-briefs-colombo-based-diplomatic-corps-on-present-situation-in-sri-lanka",
-    "file_name": "/tmp/news_lk2/articles/9c/9cf8f834.json"
   }
 ]
