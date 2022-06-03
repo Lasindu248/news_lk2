@@ -1,5 +1,54 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654278060,
+    "title": "Ceylon Teachers\u2019 Union President arrested for assaulting Principal",
+    "url": "https://www.dailymirror.lk/breaking_news/Ceylon-Teachers-Union-President-arrested-for-assaulting-Principal/108-238385",
+    "file_name": "/tmp/news_lk2/articles/2b/2be458f6.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654277400,
+    "title": "Derana launches \u2018Api Wawamu\u2019 national competition",
+    "url": "http://www.adaderana.lk/news/82854/derana-launches-api-wawamu-national-competition",
+    "file_name": "/tmp/news_lk2/articles/c3/c3b7a3ec.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654275600,
+    "title": "Sri Lanka President\u2019s unused Covid fund to be used for medicines",
+    "url": "https://economynext.com/sri-lanka-presidents-unused-covid-fund-to-be-used-for-medicines-95140/",
+    "file_name": "/tmp/news_lk2/articles/36/362ccccc.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654272840,
+    "title": "Sri Lanka seeks to secure USD 5 billion in funds for import payments",
+    "url": "http://www.adaderana.lk/news/82853/sri-lanka-seeks-to-secure-usd-5-billion-in-funds-for-import-payments",
+    "file_name": "/tmp/news_lk2/articles/ef/ef2ae0ad.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654271700,
+    "title": "Court order issued on protest march scheduled for tomorrow in Fort",
+    "url": "https://www.dailymirror.lk/breaking_news/Court-order-issued-on-protest-march-scheduled-for-tomorrow-in-Fort/108-238362",
+    "file_name": "/tmp/news_lk2/articles/67/67b6b760.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654271100,
+    "title": "India donates 3.3 tons of essential medical supplies to Suwaseriya",
+    "url": "https://www.dailymirror.lk/latest_news/India-donates-3-3-tons-of-essential-medical-supplies-to-Suwaseriya/342-238361",
+    "file_name": "/tmp/news_lk2/articles/f3/f30d50e9.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654271100,
+    "title": "India donates 3.3 tons of essential medical supplies to Suwaseriya",
+    "url": "https://www.dailymirror.lk/breaking_news/India-donates-3-3-tons-of-essential-medical-supplies-to-Suwaseriya/108-238361",
+    "file_name": "/tmp/news_lk2/articles/09/09081dd2.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654264800,
     "title": "Court order issued on protest march scheduled for tomorrow",
@@ -313,6 +362,13 @@
     "title": "EWIS refutes allegations of charging over Rs. 600 Mn for software made for SPC",
     "url": "https://www.dailymirror.lk/latest_news/EWIS-refutes-allegations-of-charging-over-Rs-600-Mn-for-software-made-for-SPC/342-238344",
     "file_name": "/tmp/news_lk2/articles/fb/fb56309d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654244100,
+    "title": "EWIS refutes allegations of charging over Rs. 600 Mn for software made for MSD",
+    "url": "https://www.dailymirror.lk/breaking_news/EWIS-refutes-allegations-of-charging-over-Rs-600-Mn-for-software-made-for-MSD/108-238344",
+    "file_name": "/tmp/news_lk2/articles/97/970eed9f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
