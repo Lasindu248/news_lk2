@@ -143,6 +143,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654248660,
     "title": "Prez instructs to use Covid Fund for essential medicines",
+    "url": "https://www.dailymirror.lk/breaking_news/Prez-instructs-to-use-Covid-Fund-for-essential-medicines/108-238350",
+    "file_name": "/tmp/news_lk2/articles/31/31d2efc4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654248660,
+    "title": "Prez instructs to use Covid Fund for essential medicines",
     "url": "https://www.dailymirror.lk/latest_news/Prez-instructs-to-use-Covid-Fund-for-essential-medicines/342-238350",
     "file_name": "/tmp/news_lk2/articles/48/48b7fc82.json"
   },
@@ -691,12 +698,5 @@
     "title": "We had no option but to choose Ranil  - Dr. Wijeydasa Rajapakshe",
     "url": "https://www.dailymirror.lk/opinion/We-had-no-option-but-to-choose-Ranil-Dr-Wijeydasa-Rajapakshe/231-238281",
     "file_name": "/tmp/news_lk2/articles/e0/e0e46283.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654194900,
-    "title": "We had no option but to choose Ranil  - Dr. Wijeydasa Rajapakshe",
-    "url": "https://www.dailymirror.lk/opinion/We-had-no-option-but-to-choose-Ranil-Dr-Wijeydasa-Rajapakshe/172-238281",
-    "file_name": "/tmp/news_lk2/articles/57/57891939.json"
   }
 ]
