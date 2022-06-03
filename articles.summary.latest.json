@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654252080,
+    "title": "Sri Lanka Prime Minister briefs FAO, UNDP on looming food shortage",
+    "url": "https://economynext.com/sri-lanka-prime-minister-briefs-fao-undp-on-looming-food-shortage-95134/",
+    "file_name": "/tmp/news_lk2/articles/e5/e534d49c.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654250820,
+    "title": "Telecommunications levy increased from midnight today",
+    "url": "http://www.adaderana.lk/news/82849/telecommunications-levy-increased-from-midnight-today",
+    "file_name": "/tmp/news_lk2/articles/8f/8f447b81.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654250700,
+    "title": "Rs. 1.8 billion from COVID fund to be used to import essential drugs",
+    "url": "http://www.adaderana.lk/news/82848/rs-18-billion-from-covid-fund-to-be-used-to-import-essential-drugs",
+    "file_name": "/tmp/news_lk2/articles/dd/dd3357a4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654249620,
+    "title": "Mahinda Kahandagama remanded to 8th June",
+    "url": "https://www.newsfirst.lk/2022/06/03/mahinda-kahandagama-remanded-to-8th-june/",
+    "file_name": "/tmp/news_lk2/articles/1f/1fd8f2ce.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654249200,
     "title": "Protestors block Malay Street in Slave Island demanding for gas",
@@ -670,33 +698,5 @@
     "title": "Water from the Kelani river recedes",
     "url": "https://www.dailymirror.lk/caption_story/Water-from-the-Kelani-river-recedes/110-238307",
     "file_name": "/tmp/news_lk2/articles/96/96971660.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654193220,
-    "title": "Water from the Kelani river recedes",
-    "url": "https://www.dailymirror.lk/latest_news/Water-from-the-Kelani-river-recedes/342-238307",
-    "file_name": "/tmp/news_lk2/articles/a7/a7bd9800.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654190040,
-    "title": "UN says Yemen warring parties agree to extend truce",
-    "url": "http://www.adaderana.lk/news/82837/un-says-yemen-warring-parties-agree-to-extend-truce",
-    "file_name": "/tmp/news_lk2/articles/58/5896cc1c.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654188660,
-    "title": "A robust defence policy is essential \u2013 Defence Secretary",
-    "url": "http://www.adaderana.lk/news/82836/a-robust-defence-policy-is-essential-defence-secretary",
-    "file_name": "/tmp/news_lk2/articles/31/3133f303.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654186740,
-    "title": "Rambukkana Shooting incident: SSP Keerthiratne files writ petition to quash arrest order",
-    "url": "https://www.dailymirror.lk/breaking_news/Rambukkana-Shooting-incident-SSP-Keerthiratne-files-writ-petition-to-quash-arrest-order/108-238278",
-    "file_name": "/tmp/news_lk2/articles/b4/b488ee1b.json"
   }
 ]
