@@ -1,10 +1,66 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654257480,
+    "title": "Russian flight grounded at BIA: Sri Lankan authorities urge court to suspend court order",
+    "url": "https://www.dailymirror.lk/latest_news/Russian-flight-grounded-at-BIA-Sri-Lankan-authorities-urge-court-to-suspend-court-order/342-238356",
+    "file_name": "/tmp/news_lk2/articles/29/291cf805.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654257480,
+    "title": "Russian flight grounded at BIA: Sri Lankan authorities urge court to suspend court order",
+    "url": "https://www.dailymirror.lk/top_story/Russian-flight-grounded-at-BIA-Sri-Lankan-authorities-urge-court-to-suspend-court-order/155-238356",
+    "file_name": "/tmp/news_lk2/articles/3d/3dab67d5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654257240,
+    "title": "Successful people face the most obstacles: Basil",
+    "url": "https://www.newsfirst.lk/2022/06/03/successful-people-face-the-most-obstacles-basil/",
+    "file_name": "/tmp/news_lk2/articles/8b/8b204fbb.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654256580,
+    "title": "7-hour water cut for Kotte tomorrow (4)",
+    "url": "https://www.newsfirst.lk/2022/06/03/7-hour-water-cut-for-kotte-tomorrow-4/",
+    "file_name": "/tmp/news_lk2/articles/a0/a0c00ec9.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654255920,
+    "title": "Sri Lanka stocks fall to over 3-wk low; tax hike, high rates weigh",
+    "url": "https://economynext.com/sri-lanka-stocks-fall-to-over-3-wk-low-tax-hike-high-rates-weigh-95138/",
+    "file_name": "/tmp/news_lk2/articles/d0/d0f83238.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654255740,
+    "title": "Nine accused in Pradeep Eknaligoda abduction case remanded",
+    "url": "http://www.adaderana.lk/news/82850/nine-accused-in-pradeep-eknaligoda-abduction-case-remanded",
+    "file_name": "/tmp/news_lk2/articles/86/86d12fea.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654255740,
     "title": "Nine accused in Pradeep Ekneligoda abduction case remanded",
     "url": "http://www.adaderana.lk/news/82850/nine-accused-in-pradeep-ekneligoda-abduction-case-remanded",
     "file_name": "/tmp/news_lk2/articles/40/4064a537.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654255320,
+    "title": "India provides 3.3 Tonnes of medical supplies to SL",
+    "url": "https://www.newsfirst.lk/2022/06/03/india-provides-3-3-tonnes-of-medical-supplies-to-sl/",
+    "file_name": "/tmp/news_lk2/articles/48/48eaa23e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654254900,
+    "title": "CBSL exchange rate for today (3)",
+    "url": "https://www.newsfirst.lk/2022/06/03/cbsl-exchange-rate-for-today-3/",
+    "file_name": "/tmp/news_lk2/articles/34/34f53f49.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -82,6 +138,13 @@
     "title": "Prez instructs to use Covid Fund for essential medecine",
     "url": "https://www.dailymirror.lk/breaking_news/Prez-instructs-to-use-Covid-Fund-for-essential-medecine/108-238350",
     "file_name": "/tmp/news_lk2/articles/6b/6be70234.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654248660,
+    "title": "Prez instructs to use Covid Fund for essential medicines",
+    "url": "https://www.dailymirror.lk/latest_news/Prez-instructs-to-use-Covid-Fund-for-essential-medicines/342-238350",
+    "file_name": "/tmp/news_lk2/articles/48/48b7fc82.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -166,6 +229,13 @@
     "title": "Maintain sufficient stocks of all essential food items: President tells officials",
     "url": "http://www.adaderana.lk/news/82846/maintain-sufficient-stocks-of-all-essential-food-items-president-tells-officials-",
     "file_name": "/tmp/news_lk2/articles/c7/c765f448.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654244100,
+    "title": "EWIS refutes allegations of charging over Rs. 600 Mn for software made for MSD",
+    "url": "https://www.dailymirror.lk/latest_news/EWIS-refutes-allegations-of-charging-over-Rs-600-Mn-for-software-made-for-MSD/342-238344",
+    "file_name": "/tmp/news_lk2/articles/75/756ea741.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -628,75 +698,5 @@
     "title": "We had no option but to choose Ranil  - Dr. Wijeydasa Rajapakshe",
     "url": "https://www.dailymirror.lk/opinion/We-had-no-option-but-to-choose-Ranil-Dr-Wijeydasa-Rajapakshe/172-238281",
     "file_name": "/tmp/news_lk2/articles/57/57891939.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654194780,
-    "title": "Is Sri Lanka forced to wake up to child deaths? - EDITORIAL",
-    "url": "https://www.dailymirror.lk/opinion/Is-Sri-Lanka-forced-to-wake-up-to-child-deaths-EDITORIAL/172-238280",
-    "file_name": "/tmp/news_lk2/articles/f2/f2528f05.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654194780,
-    "title": "Is Sri Lanka forced to wake up to child deaths? - EDITORIAL",
-    "url": "https://www.dailymirror.lk/opinion/Is-Sri-Lanka-forced-to-wake-up-to-child-deaths-EDITORIAL/231-238280",
-    "file_name": "/tmp/news_lk2/articles/cb/cb8a99f9.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654194720,
-    "title": "If we do not take interest in political affairs, then we\u2019re doomed to live under rule of rogues",
-    "url": "https://www.dailymirror.lk/opinion/If-we-do-not-take-interest-in-political-affairs-then-were-doomed-to-live-under-rule-of-rogues/172-238279",
-    "file_name": "/tmp/news_lk2/articles/f8/f8941a1b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654194720,
-    "title": "If we do not take interest in political affairs, then we\u2019re doomed to live under rule of rogues",
-    "url": "https://www.dailymirror.lk/opinion/If-we-do-not-take-interest-in-political-affairs-then-were-doomed-to-live-under-rule-of-rogues/231-238279",
-    "file_name": "/tmp/news_lk2/articles/a2/a2b31901.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654194600,
-    "title": "Rs. 695 b supplementary estimate to House next week",
-    "url": "https://www.ft.lk/news/Rs-695-b-supplementary-estimate-to-House-next-week/56-735654",
-    "file_name": "/tmp/news_lk2/articles/d9/d9e6781f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654194600,
-    "title": "Shortage of imported beverages, new burning issue for tourism industry",
-    "url": "https://www.dailymirror.lk/business__main/Shortage-of-imported-beverages-new-burning-issue-for-tourism-industry/245-238300",
-    "file_name": "/tmp/news_lk2/articles/14/14002f22.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654194600,
-    "title": "New Army Commander calls on Defence Secretary",
-    "url": "https://www.ft.lk/news/New-Army-Commander-calls-on-Defence-Secretary/56-735655",
-    "file_name": "/tmp/news_lk2/articles/71/717f5686.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654194600,
-    "title": "Several meetings for COPE, COPA scheduled for next week",
-    "url": "https://www.ft.lk/news/Several-meetings-for-COPE-COPA-scheduled-for-next-week/56-735678",
-    "file_name": "/tmp/news_lk2/articles/cc/cc105ed8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654194600,
-    "title": "WB and S&P rank Colombo Port as most efficient in SA",
-    "url": "https://www.dailymirror.lk/breaking_news/WB-and-S-P-rank-Colombo-Port-as-most-efficient-in-SA/108-238298",
-    "file_name": "/tmp/news_lk2/articles/66/660bf58b.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654194600,
-    "title": "President says Indian PM has assured speedier supply of fertiliser",
-    "url": "https://www.ft.lk/news/President-says-Indian-PM-has-assured-speedier-supply-of-fertiliser/56-735653",
-    "file_name": "/tmp/news_lk2/articles/c2/c25abfb4.json"
   }
 ]

@@ -1,10 +1,66 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654257480,
+    "title": "Russian flight grounded at BIA: Sri Lankan authorities urge court to suspend court order",
+    "url": "https://www.dailymirror.lk/latest_news/Russian-flight-grounded-at-BIA-Sri-Lankan-authorities-urge-court-to-suspend-court-order/342-238356",
+    "file_name": "/tmp/news_lk2/articles/29/291cf805.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654257480,
+    "title": "Russian flight grounded at BIA: Sri Lankan authorities urge court to suspend court order",
+    "url": "https://www.dailymirror.lk/top_story/Russian-flight-grounded-at-BIA-Sri-Lankan-authorities-urge-court-to-suspend-court-order/155-238356",
+    "file_name": "/tmp/news_lk2/articles/3d/3dab67d5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654257240,
+    "title": "Successful people face the most obstacles: Basil",
+    "url": "https://www.newsfirst.lk/2022/06/03/successful-people-face-the-most-obstacles-basil/",
+    "file_name": "/tmp/news_lk2/articles/8b/8b204fbb.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654256580,
+    "title": "7-hour water cut for Kotte tomorrow (4)",
+    "url": "https://www.newsfirst.lk/2022/06/03/7-hour-water-cut-for-kotte-tomorrow-4/",
+    "file_name": "/tmp/news_lk2/articles/a0/a0c00ec9.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654255920,
+    "title": "Sri Lanka stocks fall to over 3-wk low; tax hike, high rates weigh",
+    "url": "https://economynext.com/sri-lanka-stocks-fall-to-over-3-wk-low-tax-hike-high-rates-weigh-95138/",
+    "file_name": "/tmp/news_lk2/articles/d0/d0f83238.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654255740,
+    "title": "Nine accused in Pradeep Eknaligoda abduction case remanded",
+    "url": "http://www.adaderana.lk/news/82850/nine-accused-in-pradeep-eknaligoda-abduction-case-remanded",
+    "file_name": "/tmp/news_lk2/articles/86/86d12fea.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654255740,
     "title": "Nine accused in Pradeep Ekneligoda abduction case remanded",
     "url": "http://www.adaderana.lk/news/82850/nine-accused-in-pradeep-ekneligoda-abduction-case-remanded",
     "file_name": "/tmp/news_lk2/articles/40/4064a537.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654255320,
+    "title": "India provides 3.3 Tonnes of medical supplies to SL",
+    "url": "https://www.newsfirst.lk/2022/06/03/india-provides-3-3-tonnes-of-medical-supplies-to-sl/",
+    "file_name": "/tmp/news_lk2/articles/48/48eaa23e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654254900,
+    "title": "CBSL exchange rate for today (3)",
+    "url": "https://www.newsfirst.lk/2022/06/03/cbsl-exchange-rate-for-today-3/",
+    "file_name": "/tmp/news_lk2/articles/34/34f53f49.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -82,6 +138,13 @@
     "title": "Prez instructs to use Covid Fund for essential medecine",
     "url": "https://www.dailymirror.lk/breaking_news/Prez-instructs-to-use-Covid-Fund-for-essential-medecine/108-238350",
     "file_name": "/tmp/news_lk2/articles/6b/6be70234.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654248660,
+    "title": "Prez instructs to use Covid Fund for essential medicines",
+    "url": "https://www.dailymirror.lk/latest_news/Prez-instructs-to-use-Covid-Fund-for-essential-medicines/342-238350",
+    "file_name": "/tmp/news_lk2/articles/48/48b7fc82.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -166,6 +229,13 @@
     "title": "Maintain sufficient stocks of all essential food items: President tells officials",
     "url": "http://www.adaderana.lk/news/82846/maintain-sufficient-stocks-of-all-essential-food-items-president-tells-officials-",
     "file_name": "/tmp/news_lk2/articles/c7/c765f448.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654244100,
+    "title": "EWIS refutes allegations of charging over Rs. 600 Mn for software made for MSD",
+    "url": "https://www.dailymirror.lk/latest_news/EWIS-refutes-allegations-of-charging-over-Rs-600-Mn-for-software-made-for-MSD/342-238344",
+    "file_name": "/tmp/news_lk2/articles/75/756ea741.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
