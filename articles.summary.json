@@ -1,6 +1,27 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654272840,
+    "title": "Sri Lanka seeks to secure USD 5 billion in funds for import payments",
+    "url": "http://www.adaderana.lk/news/82853/sri-lanka-seeks-to-secure-usd-5-billion-in-funds-for-import-payments",
+    "file_name": "/tmp/news_lk2/articles/ef/ef2ae0ad.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654271700,
+    "title": "Court order issued on protest march scheduled for tomorrow in Fort",
+    "url": "https://www.dailymirror.lk/breaking_news/Court-order-issued-on-protest-march-scheduled-for-tomorrow-in-Fort/108-238362",
+    "file_name": "/tmp/news_lk2/articles/67/67b6b760.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654271100,
+    "title": "India donates 3.3 tons of essential medical supplies to Suwaseriya",
+    "url": "https://www.dailymirror.lk/breaking_news/India-donates-3-3-tons-of-essential-medical-supplies-to-Suwaseriya/108-238361",
+    "file_name": "/tmp/news_lk2/articles/09/09081dd2.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654264800,
     "title": "Court order issued on protest march scheduled for tomorrow",
     "url": "http://www.adaderana.lk/news/82852/court-order-issued-on-protest-march-scheduled-for-tomorrow",
