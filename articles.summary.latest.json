@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654232880,
+    "title": "Colombo Port : Most efficient port in South Asia & Indian Sub Continent.",
+    "url": "https://www.newsfirst.lk/2022/06/03/colombo-port-most-efficient-port-in-south-asia-indian-sub-continent/",
+    "file_name": "/tmp/news_lk2/articles/12/12d7a7e6.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654232160,
     "title": "Maintain adequate stocks of essential food: Prez instructs",
@@ -691,12 +698,5 @@
     "title": "Police looking to arrest ex-UC Chairman Ravindu Wedaarachchi, spouse",
     "url": "https://www.dailymirror.lk/breaking_news/Police-looking-to-arrest-ex-UC-Chairman-Ravindu-Wedaarachchi-spouse/108-238265",
     "file_name": "/tmp/news_lk2/articles/59/5978d77c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654170660,
-    "title": "Police looking to arrest ex-UC Chairman Ravindu Wedaarachchi, spouse",
-    "url": "https://www.dailymirror.lk/top_story/Police-looking-to-arrest-ex-UC-Chairman-Ravindu-Wedaarachchi-spouse/155-238265",
-    "file_name": "/tmp/news_lk2/articles/e7/e7c0e3e1.json"
   }
 ]
