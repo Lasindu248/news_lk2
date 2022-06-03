@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654254060,
+    "title": "Prageeth Ekneligoda: Nine Military Intelligence personnel who were out on bail, remanded",
+    "url": "https://www.newsfirst.lk/2022/06/03/prageeth-ekneligoda-nine-military-intelligence-personnel-who-were-out-on-bail-remanded/",
+    "file_name": "/tmp/news_lk2/articles/da/da3348fb.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654253580,
+    "title": "Sri Lanka PM reveals plan to prevent tuk-tuk fuel shortage",
+    "url": "https://economynext.com/sri-lanka-pm-reveals-plan-to-prevent-tuk-tuk-fuel-shortage-95136/",
+    "file_name": "/tmp/news_lk2/articles/b3/b3ee1f64.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654252980,
+    "title": "BASL writes to IGP over allegations of indiscriminatory arrests by police",
+    "url": "https://www.dailymirror.lk/breaking_news/BASL-writes-to-IGP-over-allegations-of-indiscriminatory-arrests-by-police/108-238353",
+    "file_name": "/tmp/news_lk2/articles/29/29a0520d.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654252080,
     "title": "Sri Lanka Prime Minister briefs FAO, UNDP on looming food shortage",
@@ -31,6 +52,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654249200,
     "title": "Protestors block Malay Street in Slave Island demanding for gas",
+    "url": "https://www.dailymirror.lk/breaking_news/Protestors-block-Malay-Street-in-Slave-Island-demanding-for-gas/108-238352",
+    "file_name": "/tmp/news_lk2/articles/b9/b915a2ee.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654249200,
+    "title": "Protestors block Malay Street in Slave Island demanding for gas",
     "url": "https://www.dailymirror.lk/latest_news/Protestors-block-Malay-Street-in-Slave-Island-demanding-for-gas/342-238352",
     "file_name": "/tmp/news_lk2/articles/08/088fc556.json"
   },
@@ -40,6 +68,13 @@
     "title": "Prez instructs to use Covid Fund for essential medecine",
     "url": "https://www.dailymirror.lk/latest_news/Prez-instructs-to-use-Covid-Fund-for-essential-medecine/342-238350",
     "file_name": "/tmp/news_lk2/articles/c1/c148bb91.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654248660,
+    "title": "Prez instructs to use Covid Fund for essential medecine",
+    "url": "https://www.dailymirror.lk/breaking_news/Prez-instructs-to-use-Covid-Fund-for-essential-medecine/108-238350",
+    "file_name": "/tmp/news_lk2/articles/6b/6be70234.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -54,6 +89,13 @@
     "title": "LITRO says no supply after today\u2019s distribution",
     "url": "https://www.dailymirror.lk/latest_news/LITRO-says-no-supply-after-todays-distribution/342-238348",
     "file_name": "/tmp/news_lk2/articles/2a/2ab47cb5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654248300,
+    "title": "LITRO says no supply after today\u2019s distribution",
+    "url": "https://www.dailymirror.lk/breaking_news/LITRO-says-no-supply-after-todays-distribution/108-238348",
+    "file_name": "/tmp/news_lk2/articles/1d/1dea0d68.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -82,6 +124,13 @@
     "title": "Teachers\u2019 Union protest",
     "url": "https://www.dailymirror.lk/latest_news/Teachers-Union-protest/342-238345",
     "file_name": "/tmp/news_lk2/articles/7d/7d061975.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654245480,
+    "title": "Teachers\u2019 Union protest",
+    "url": "https://www.dailymirror.lk/caption_story/Teachers-Union-protest/110-238345",
+    "file_name": "/tmp/news_lk2/articles/57/5753256f.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -649,54 +698,5 @@
     "title": "Sasakawa Trust begins construction of new centre",
     "url": "https://www.ft.lk/news/Sasakawa-Trust-begins-construction-of-new-centre/56-735677",
     "file_name": "/tmp/news_lk2/articles/72/72ba774e.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654194600,
-    "title": "PM meets Joint Chambers for two-way dialogue on current crisis",
-    "url": "https://www.ft.lk/business/PM-meets-Joint-Chambers-for-two-way-dialogue-on-current-crisis/34-735658",
-    "file_name": "/tmp/news_lk2/articles/50/5079ee88.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654194600,
-    "title": "First batch of China\u2019s grant medicines arrives",
-    "url": "https://www.ft.lk/news/First-batch-of-China-s-grant-medicines-arrives/56-735680",
-    "file_name": "/tmp/news_lk2/articles/63/63dae9f7.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654194600,
-    "title": "CA Sri Lanka kicks off \u2018CA Live\u2019 with monthly talks ranging from exam success to mental wellbeing",
-    "url": "https://www.ft.lk/business/CA-Sri-Lanka-kicks-off-CA-Live-with-monthly-talks-ranging-from-exam-success-to-mental-wellbeing/34-735656",
-    "file_name": "/tmp/news_lk2/articles/3d/3d4cb04f.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654194600,
-    "title": "US donor consortium partners Rotary Club of Colombo Regency, EFL Sri Lanka for $ 1.145 m donation to Health Ministry",
-    "url": "https://www.ft.lk/news/US-donor-consortium-partners-Rotary-Club-of-Colombo-Regency-EFL-Sri-Lanka-for-1-145-m-donation-to-Health-Ministry/56-735679",
-    "file_name": "/tmp/news_lk2/articles/2d/2d71add3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654194600,
-    "title": "Shortage of imported beverages, new burning issue for tourism industry",
-    "url": "https://www.dailymirror.lk/breaking_news/Shortage-of-imported-beverages-new-burning-issue-for-tourism-industry/108-238300",
-    "file_name": "/tmp/news_lk2/articles/4b/4bc8cd93.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654194600,
-    "title": "WB and S&P rank Colombo Port as most efficient in SA",
-    "url": "https://www.dailymirror.lk/business-news/WB-and-S-P-rank-Colombo-Port-as-most-efficient-in-SA/273-238298",
-    "file_name": "/tmp/news_lk2/articles/2b/2b447378.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654193220,
-    "title": "Water from the Kelani river recedes",
-    "url": "https://www.dailymirror.lk/caption_story/Water-from-the-Kelani-river-recedes/110-238307",
-    "file_name": "/tmp/news_lk2/articles/96/96971660.json"
   }
 ]

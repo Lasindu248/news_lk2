@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654254060,
+    "title": "Prageeth Ekneligoda: Nine Military Intelligence personnel who were out on bail, remanded",
+    "url": "https://www.newsfirst.lk/2022/06/03/prageeth-ekneligoda-nine-military-intelligence-personnel-who-were-out-on-bail-remanded/",
+    "file_name": "/tmp/news_lk2/articles/da/da3348fb.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654253580,
+    "title": "Sri Lanka PM reveals plan to prevent tuk-tuk fuel shortage",
+    "url": "https://economynext.com/sri-lanka-pm-reveals-plan-to-prevent-tuk-tuk-fuel-shortage-95136/",
+    "file_name": "/tmp/news_lk2/articles/b3/b3ee1f64.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654252980,
+    "title": "BASL writes to IGP over allegations of indiscriminatory arrests by police",
+    "url": "https://www.dailymirror.lk/breaking_news/BASL-writes-to-IGP-over-allegations-of-indiscriminatory-arrests-by-police/108-238353",
+    "file_name": "/tmp/news_lk2/articles/29/29a0520d.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654252080,
     "title": "Sri Lanka Prime Minister briefs FAO, UNDP on looming food shortage",
@@ -31,6 +52,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654249200,
     "title": "Protestors block Malay Street in Slave Island demanding for gas",
+    "url": "https://www.dailymirror.lk/breaking_news/Protestors-block-Malay-Street-in-Slave-Island-demanding-for-gas/108-238352",
+    "file_name": "/tmp/news_lk2/articles/b9/b915a2ee.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654249200,
+    "title": "Protestors block Malay Street in Slave Island demanding for gas",
     "url": "https://www.dailymirror.lk/latest_news/Protestors-block-Malay-Street-in-Slave-Island-demanding-for-gas/342-238352",
     "file_name": "/tmp/news_lk2/articles/08/088fc556.json"
   },
@@ -40,6 +68,13 @@
     "title": "Prez instructs to use Covid Fund for essential medecine",
     "url": "https://www.dailymirror.lk/latest_news/Prez-instructs-to-use-Covid-Fund-for-essential-medecine/342-238350",
     "file_name": "/tmp/news_lk2/articles/c1/c148bb91.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654248660,
+    "title": "Prez instructs to use Covid Fund for essential medecine",
+    "url": "https://www.dailymirror.lk/breaking_news/Prez-instructs-to-use-Covid-Fund-for-essential-medecine/108-238350",
+    "file_name": "/tmp/news_lk2/articles/6b/6be70234.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -54,6 +89,13 @@
     "title": "LITRO says no supply after today\u2019s distribution",
     "url": "https://www.dailymirror.lk/latest_news/LITRO-says-no-supply-after-todays-distribution/342-238348",
     "file_name": "/tmp/news_lk2/articles/2a/2ab47cb5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654248300,
+    "title": "LITRO says no supply after today\u2019s distribution",
+    "url": "https://www.dailymirror.lk/breaking_news/LITRO-says-no-supply-after-todays-distribution/108-238348",
+    "file_name": "/tmp/news_lk2/articles/1d/1dea0d68.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -82,6 +124,13 @@
     "title": "Teachers\u2019 Union protest",
     "url": "https://www.dailymirror.lk/latest_news/Teachers-Union-protest/342-238345",
     "file_name": "/tmp/news_lk2/articles/7d/7d061975.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654245480,
+    "title": "Teachers\u2019 Union protest",
+    "url": "https://www.dailymirror.lk/caption_story/Teachers-Union-protest/110-238345",
+    "file_name": "/tmp/news_lk2/articles/57/5753256f.json"
   },
   {
     "newspaper_id": "news-first-lk",
