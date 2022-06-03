@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654229280,
+    "title": "Party leaders set for crucial talks on 21st Amendment",
+    "url": "http://www.adaderana.lk/news/82841/party-leaders-set-for-crucial-talks-on-21st-amendment",
+    "file_name": "/tmp/news_lk2/articles/ba/ba64d7f9.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654228320,
     "title": "120,000 Sri Lankans left for overseas employment so far in 2022",
@@ -691,12 +698,5 @@
     "title": "Foreign Minister briefs Colombo-based diplomatic corps on present situation in Sri Lanka",
     "url": "http://www.adaderana.lk/news/82828/foreign-minister-briefs-colombo-based-diplomatic-corps-on-present-situation-in-sri-lanka",
     "file_name": "/tmp/news_lk2/articles/9c/9cf8f834.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654166760,
-    "title": "Sri Lanka could reach IMF staff level agreement in 4-5 weeks: Coomaraswamy",
-    "url": "https://economynext.com/sri-lanka-could-reach-imf-staff-level-agreement-in-4-5-weeks-coomaraswamy-95080/",
-    "file_name": "/tmp/news_lk2/articles/d8/d81fe430.json"
   }
 ]
