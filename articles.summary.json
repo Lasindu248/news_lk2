@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654239240,
+    "title": "Sri Lanka\u2019s Colombo port ranked 22 in world, 1 in South Asia",
+    "url": "https://economynext.com/sri-lankas-colombo-port-ranked-22-in-world-1-in-south-asia-95129/",
+    "file_name": "/tmp/news_lk2/articles/92/92de1ff5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654238940,
+    "title": "Malwana Mansion Case: Basil Rajapaksa & Thirukumar Nadesan acquitted & released",
+    "url": "https://www.newsfirst.lk/2022/06/03/malwana-mansion-case-basil-rajapaksa-thirukumar-nadesan-acquitted-released/",
+    "file_name": "/tmp/news_lk2/articles/59/59717c4e.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654238640,
+    "title": "Sri Lanka stocks turn negative in lackluster mid-day trading",
+    "url": "https://economynext.com/sri-lanka-stocks-turn-negative-in-lackluster-mid-day-trading-95126/",
+    "file_name": "/tmp/news_lk2/articles/60/60d570e3.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654237680,
+    "title": "Chinese Medical Aid to reach SL today (3)",
+    "url": "https://www.newsfirst.lk/2022/06/03/chinese-medical-aid-to-reach-sl-today-3/",
+    "file_name": "/tmp/news_lk2/articles/ff/ffada540.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654237500,
     "title": "Man shot dead in Beruwala",
@@ -19,6 +47,20 @@
     "title": "Amid looming food shortage fears, Sri Lanka President urges officials to ensure essentials",
     "url": "https://economynext.com/amid-looming-food-shortage-fears-sri-lanka-president-urges-officials-to-ensure-essentials-95096/",
     "file_name": "/tmp/news_lk2/articles/71/71ec3b30.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654236900,
+    "title": "42-year-old King Coconut trader gunned down in Aluthgama",
+    "url": "https://www.newsfirst.lk/2022/06/03/42-year-old-king-coconut-trader-gunned-down-in-aluthgama/",
+    "file_name": "/tmp/news_lk2/articles/d5/d5b73dfd.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654236420,
+    "title": "Ragama resident arrested with ICE from Walpola",
+    "url": "https://www.newsfirst.lk/2022/06/03/ragama-resident-arrested-with-ice-from-walpola/",
+    "file_name": "/tmp/news_lk2/articles/9a/9ad39b97.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -401,6 +443,13 @@
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654194600,
+    "title": "Shortage of imported beverages, new burning issue for tourism industry",
+    "url": "https://www.dailymirror.lk/breaking_news/Shortage-of-imported-beverages-new-burning-issue-for-tourism-industry/108-238300",
+    "file_name": "/tmp/news_lk2/articles/4b/4bc8cd93.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654194600,
     "title": "WB and S&P rank Colombo Port as most efficient in SA",
     "url": "https://www.dailymirror.lk/business-news/WB-and-S-P-rank-Colombo-Port-as-most-efficient-in-SA/273-238298",
     "file_name": "/tmp/news_lk2/articles/2b/2b447378.json"
@@ -670,6 +719,13 @@
     "title": "Malinga appointed as bowling strategy coach",
     "url": "https://www.dailymirror.lk/headline/Malinga-appointed-as-bowling-strategy-coach/419-238272",
     "file_name": "/tmp/news_lk2/articles/44/44baf755.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654173120,
+    "title": "Malinga appointed as bowling strategy coach",
+    "url": "https://www.dailymirror.lk/mirror_sports_cricket/Malinga-appointed-as-bowling-strategy-coach/458-238272",
+    "file_name": "/tmp/news_lk2/articles/9c/9c8aecf1.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
