@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654228320,
+    "title": "120,000 Sri Lankans left for overseas employment so far in 2022",
+    "url": "https://www.newsfirst.lk/2022/06/03/120000-sri-lankans-left-for-overseas-employment-so-far-in-2022/",
+    "file_name": "/tmp/news_lk2/articles/79/793aec2f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654227780,
+    "title": "Crude shipments every 15 days to Sri Lanka \u2013 Energy Ministry",
+    "url": "https://www.newsfirst.lk/2022/06/03/crude-shipments-every-15-days-to-sri-lanka-energy-ministry/",
+    "file_name": "/tmp/news_lk2/articles/4c/4c38b7a8.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654224660,
     "title": "Sri Lanka central bank deep in debt, dollar shortages at \u2018guidance\u2019 rate : Wijewardena",
@@ -684,19 +698,5 @@
     "title": "Sri Lanka could reach IMF staff level agreement in 4-5 weeks: Coomaraswamy",
     "url": "https://economynext.com/sri-lanka-could-reach-imf-staff-level-agreement-in-4-5-weeks-coomaraswamy-95080/",
     "file_name": "/tmp/news_lk2/articles/d8/d81fe430.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654166580,
-    "title": "Oil prices fall on prospect of OPEC offsetting Russian output loss",
-    "url": "https://www.newsfirst.lk/2022/06/02/oil-prices-fall-on-prospect-of-opec-offsetting-russian-output-loss/",
-    "file_name": "/tmp/news_lk2/articles/2e/2e56b197.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654166400,
-    "title": "CBSL appeal to Sri Lankan Migrants",
-    "url": "https://www.newsfirst.lk/2022/06/02/cbsl-appeal-to-sri-lankan-migrants/",
-    "file_name": "/tmp/news_lk2/articles/7c/7c018001.json"
   }
 ]
