@@ -1,34 +1,6 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654264800,
-    "title": "Court order issued on protest march scheduled for tomorrow",
-    "url": "http://www.adaderana.lk/news/82852/court-order-issued-on-protest-march-scheduled-for-tomorrow",
-    "file_name": "/tmp/news_lk2/articles/7e/7e3fe2db.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654264680,
-    "title": "Rajitha cautions of possible monopoly in medicine market",
-    "url": "https://www.newsfirst.lk/2022/06/03/rajitha-cautions-of-possible-monopoly-in-medicine-market/",
-    "file_name": "/tmp/news_lk2/articles/ed/ed297bc7.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654264500,
-    "title": "STF nabs suspect with 1,700 L of Diesel",
-    "url": "https://www.newsfirst.lk/2022/06/03/stf-nabs-suspect-with-1700-l-of-diesel/",
-    "file_name": "/tmp/news_lk2/articles/f8/f81f2617.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654263900,
-    "title": "21A : Party Leaders agree that it should avoid provisions calling for a referendum",
-    "url": "https://www.newsfirst.lk/2022/06/03/21a-party-leaders-agree-that-it-should-avoid-provisions-calling-for-a-referendum/",
-    "file_name": "/tmp/news_lk2/articles/f5/f5d832ad.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654262940,
     "title": "No LP gas distribution until next Tuesday",
     "url": "http://www.adaderana.lk/news/82851/no-lp-gas-distribution-until-next-tuesday",
@@ -698,5 +670,33 @@
     "title": "Lankan students crowned as Runners-Up",
     "url": "https://www.dailymirror.lk/breaking_news/Lankan-students-crowned-as-Runners-Up/108-238287",
     "file_name": "/tmp/news_lk2/articles/60/6042dd81.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654201260,
+    "title": "Battled with life, double battle against desperate economic crisis",
+    "url": "https://www.dailymirror.lk/news-features/Battled-with-life-double-battle-against-desperate-economic-crisis/131-238305",
+    "file_name": "/tmp/news_lk2/articles/5d/5dcb5c11.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654201260,
+    "title": "Battled with life, double battle against desperate economic crisis",
+    "url": "https://www.dailymirror.lk/recomended-news/Battled-with-life-double-battle-against-desperate-economic-crisis/277-238305",
+    "file_name": "/tmp/news_lk2/articles/43/43c1238c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654201260,
+    "title": "Battled with life, double battle against desperate economic crisis",
+    "url": "https://www.dailymirror.lk/plus/Battled-with-life-double-battle-against-desperate-economic-crisis/352-238305",
+    "file_name": "/tmp/news_lk2/articles/a7/a72961bf.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654196820,
+    "title": "Sri Lanka protesters deny President\u2019s claim; say PMD statement false",
+    "url": "https://economynext.com/sri-lanka-protesters-deny-presidents-claim-say-pmd-statement-false-95098/",
+    "file_name": "/tmp/news_lk2/articles/ed/edd7e5e7.json"
   }
 ]
