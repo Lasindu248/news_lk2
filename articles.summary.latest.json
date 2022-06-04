@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654309560,
+    "title": "Russian Foreign Ministry summons Sri Lankan envoy over detained plane",
+    "url": "http://www.adaderana.lk/news/82858/russian-foreign-ministry-summons-sri-lankan-envoy-over-detained-plane",
+    "file_name": "/tmp/news_lk2/articles/e4/e493f22d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654307580,
+    "title": "Showers & thundershowers likely on Saturday (4); Met Dept.",
+    "url": "https://www.newsfirst.lk/2022/06/04/showers-met-dept/",
+    "file_name": "/tmp/news_lk2/articles/a3/a305993e.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654306380,
+    "title": "Showers or thundershowers expected at times today",
+    "url": "http://www.adaderana.lk/news/82857/showers-or-thundershowers-expected-at-times-today",
+    "file_name": "/tmp/news_lk2/articles/7f/7f1a6f1b.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654304160,
     "title": "Russian Foreign Ministry summons Ambassador of Sri Lanka over seizure of Aeroflot plane",
@@ -677,26 +698,5 @@
     "title": "Chinese Medical Aid to reach SL today (3)",
     "url": "https://www.newsfirst.lk/2022/06/03/chinese-medical-aid-to-reach-sl-today-3/",
     "file_name": "/tmp/news_lk2/articles/ff/ffada540.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654237500,
-    "title": "Man shot dead in Aluthgama",
-    "url": "https://www.dailymirror.lk/breaking_news/Man-shot-dead-in-Aluthgama/108-238339",
-    "file_name": "/tmp/news_lk2/articles/98/986c3384.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654237500,
-    "title": "Man shot dead in Aluthgama",
-    "url": "https://www.dailymirror.lk/latest_news/Man-shot-dead-in-Aluthgama/342-238339",
-    "file_name": "/tmp/news_lk2/articles/b9/b9f5b7bd.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654237500,
-    "title": "Man shot dead in Beruwala",
-    "url": "https://www.dailymirror.lk/latest_news/Man-shot-dead-in-Beruwala/342-238339",
-    "file_name": "/tmp/news_lk2/articles/37/37787ef7.json"
   }
 ]
