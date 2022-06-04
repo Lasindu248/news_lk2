@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654362120,
+    "title": "Youth killed in shooting incident in Ahagama",
+    "url": "http://www.adaderana.lk/news/82870/youth-killed-in-shooting-incident-in-ahagama",
+    "file_name": "/tmp/news_lk2/articles/15/1515fc0f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654362000,
+    "title": "Another youth killed in shooting incident",
+    "url": "https://www.dailymirror.lk/latest_news/Another-youth-killed-in-shooting-incident/342-238432",
+    "file_name": "/tmp/news_lk2/articles/f3/f3ff3fb2.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654361280,
+    "title": "Will not interfere with Central Bank\u2019s decisions - PM",
+    "url": "http://www.adaderana.lk/news/82869/will-not-interfere-with-central-banks-decisions-pm",
+    "file_name": "/tmp/news_lk2/articles/7d/7da6f67c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654360920,
+    "title": "Aeroflot grounding by lessor in Sri Lanka turns into diplomatic spat with Russia",
+    "url": "https://economynext.com/aeroflot-grounding-by-lessor-in-sri-lanka-turns-into-diplomatic-spat-with-russia-95168/",
+    "file_name": "/tmp/news_lk2/articles/c9/c901e584.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654360560,
     "title": "Power cut schedule from June 6 to 12 announced",
@@ -670,33 +698,5 @@
     "title": "Derana launches \u2018Api Wawamu\u2019 national competition",
     "url": "http://www.adaderana.lk/news/82854/derana-launches-api-wawamu-national-competition",
     "file_name": "/tmp/news_lk2/articles/c3/c3b7a3ec.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654275600,
-    "title": "Sri Lanka President\u2019s unused Covid fund to be used for medicines",
-    "url": "https://economynext.com/sri-lanka-presidents-unused-covid-fund-to-be-used-for-medicines-95140/",
-    "file_name": "/tmp/news_lk2/articles/36/362ccccc.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654272840,
-    "title": "Sri Lanka seeks to secure USD 5 billion in funds for import payments",
-    "url": "http://www.adaderana.lk/news/82853/sri-lanka-seeks-to-secure-usd-5-billion-in-funds-for-import-payments",
-    "file_name": "/tmp/news_lk2/articles/ef/ef2ae0ad.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654271700,
-    "title": "Court order issued on protest march scheduled for tomorrow in Fort",
-    "url": "https://www.dailymirror.lk/breaking_news/Court-order-issued-on-protest-march-scheduled-for-tomorrow-in-Fort/108-238362",
-    "file_name": "/tmp/news_lk2/articles/67/67b6b760.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654271700,
-    "title": "Sri Lanka rupee quoted 367.30 to TT dollar",
-    "url": "https://economynext.com/sri-lanka-rupee-quoted-367-30-to-tt-dollar-95164/",
-    "file_name": "/tmp/news_lk2/articles/65/65700012.json"
   }
 ]
