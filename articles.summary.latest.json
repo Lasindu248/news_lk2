@@ -1,5 +1,110 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654331340,
+    "title": "Severn-hour water cut in several areas tonight",
+    "url": "http://www.adaderana.lk/news/82863/severn-hour-water-cut-in-several-areas-tonight",
+    "file_name": "/tmp/news_lk2/articles/c5/c5bc70f3.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654331340,
+    "title": "Severn-hour water cut for several areas",
+    "url": "http://www.adaderana.lk/news/82863/severn-hour-water-cut-for-several-areas",
+    "file_name": "/tmp/news_lk2/articles/d1/d173fbac.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654329840,
+    "title": "Resolve Russian issue before bilateral ties are damaged: Dinesh",
+    "url": "https://www.newsfirst.lk/2022/06/04/resolve-russian-issue-before-bilateral-ties-are-damaged-dinesh/",
+    "file_name": "/tmp/news_lk2/articles/d0/d010109a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654328040,
+    "title": "USD 400Mn received to import essential drugs",
+    "url": "https://www.newsfirst.lk/2022/06/04/usd-400mn-received-to-import-essential-drugs/",
+    "file_name": "/tmp/news_lk2/articles/03/03dc38ab.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654327740,
+    "title": "Moragoda meets with Chief Minister Stalin",
+    "url": "https://www.newsfirst.lk/2022/06/04/moragoda-meets-with-chief-minister-stalin/",
+    "file_name": "/tmp/news_lk2/articles/46/46862ec2.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654326660,
+    "title": "Russia\u2019s Aeroflot suspends flights to Sri Lanka",
+    "url": "http://www.adaderana.lk/news/82862/russias-aeroflot-suspends-flights-to-sri-lanka",
+    "file_name": "/tmp/news_lk2/articles/5c/5cb3b845.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654326660,
+    "title": "Russia\u2019s Aeroflot suspends commercial flights to Sri Lanka",
+    "url": "http://www.adaderana.lk/news/82862/russias-aeroflot-suspends-commercial-flights-to-sri-lanka",
+    "file_name": "/tmp/news_lk2/articles/95/95b90c4b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654326120,
+    "title": "SriLankan Airlines loses Rs170bn in 2021 amid soft-peg collapse, total losses Rs542bn",
+    "url": "https://economynext.com/srilankan-airlines-loses-rs170bn-in-2021-amid-soft-peg-collapse-total-losses-rs542bn-95155/",
+    "file_name": "/tmp/news_lk2/articles/7d/7d8cad58.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654325700,
+    "title": "First batch of essential medicine from China arrives",
+    "url": "https://www.newsfirst.lk/2022/06/04/first-batch-of-essential-medicine-from-china-arrives/",
+    "file_name": "/tmp/news_lk2/articles/9c/9c84ddb3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654324620,
+    "title": "First School Term - 2022 commences from Monday",
+    "url": "https://www.dailymirror.lk/latest_news/First-School-Term-2022-commences-from-Monday/342-238428",
+    "file_name": "/tmp/news_lk2/articles/73/732dc428.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654324620,
+    "title": "First School Term - 2022 commences from Monday",
+    "url": "https://www.dailymirror.lk/breaking_news/First-School-Term-2022-commences-from-Monday/108-238428",
+    "file_name": "/tmp/news_lk2/articles/c8/c86aa1c0.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654324140,
+    "title": "Sri Lanka receives first consignment of China\u2019s grant of medicines",
+    "url": "http://www.adaderana.lk/news/82861/sri-lanka-receives-first-consignment-of-chinas-grant-of-medicines",
+    "file_name": "/tmp/news_lk2/articles/de/de0be740.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654322700,
+    "title": "Aeroflot suspends Sri Lanka commercial flights",
+    "url": "https://economynext.com/aeroflot-suspends-sri-lanka-commercial-flights-95153/",
+    "file_name": "/tmp/news_lk2/articles/c0/c0454939.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654322580,
+    "title": "Man clubbed to death in Slave Island",
+    "url": "https://www.newsfirst.lk/2022/06/04/man-clubbed-to-death-in-slave-island/",
+    "file_name": "/tmp/news_lk2/articles/31/31b2bb0d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654322280,
+    "title": "Two dead, five injured in Thanamalwila accident",
+    "url": "https://www.newsfirst.lk/2022/06/04/two-dead-five-injured-in-thanamalwila-accident/",
+    "file_name": "/tmp/news_lk2/articles/8d/8d035596.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654321920,
     "title": "Two nabbed with Kerala cannabis worth over Rs. 50Mn in Jaffna, Kilinochchi",
@@ -59,6 +164,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654317780,
     "title": "Aviation Minister says dissatisfied with BIA expansion progress",
+    "url": "https://www.dailymirror.lk/business-news/Aviation-Minister-says-dissatisfied-with-BIA-expansion-progress/273-238424",
+    "file_name": "/tmp/news_lk2/articles/b0/b0c05830.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654317780,
+    "title": "Aviation Minister says dissatisfied with BIA expansion progress",
     "url": "https://www.dailymirror.lk/breaking_news/Aviation-Minister-says-dissatisfied-with-BIA-expansion-progress/108-238424",
     "file_name": "/tmp/news_lk2/articles/e2/e279cc0b.json"
   },
@@ -68,6 +180,13 @@
     "title": "Medicines, equipment worth US$28 mn donated by China flown in",
     "url": "https://www.dailymirror.lk/breaking_news/Medicines-equipment-worth-US-28-mn-donated-by-China-flown-in/108-238420",
     "file_name": "/tmp/news_lk2/articles/af/afded2af.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654317300,
+    "title": "Medicines, equipment worth US$28 mn donated by China flown in",
+    "url": "https://www.dailymirror.lk/latest_news/Medicines-equipment-worth-US-28-mn-donated-by-China-flown-in/342-238420",
+    "file_name": "/tmp/news_lk2/articles/f9/f956c039.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -579,124 +698,5 @@
     "title": "BASL writes to IGP over allegations of indiscriminatory arrests by police",
     "url": "https://www.dailymirror.lk/breaking_news/BASL-writes-to-IGP-over-allegations-of-indiscriminatory-arrests-by-police/108-238353",
     "file_name": "/tmp/news_lk2/articles/29/29a0520d.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654252080,
-    "title": "Sri Lanka Prime Minister briefs FAO, UNDP on looming food shortage",
-    "url": "https://economynext.com/sri-lanka-prime-minister-briefs-fao-undp-on-looming-food-shortage-95134/",
-    "file_name": "/tmp/news_lk2/articles/e5/e534d49c.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654250820,
-    "title": "Telecommunications levy increased from midnight today",
-    "url": "http://www.adaderana.lk/news/82849/telecommunications-levy-increased-from-midnight-today",
-    "file_name": "/tmp/news_lk2/articles/8f/8f447b81.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654250700,
-    "title": "Rs. 1.8 billion from COVID fund to be used to import essential drugs",
-    "url": "http://www.adaderana.lk/news/82848/rs-18-billion-from-covid-fund-to-be-used-to-import-essential-drugs",
-    "file_name": "/tmp/news_lk2/articles/dd/dd3357a4.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654249620,
-    "title": "Mahinda Kahandagama remanded to 8th June",
-    "url": "https://www.newsfirst.lk/2022/06/03/mahinda-kahandagama-remanded-to-8th-june/",
-    "file_name": "/tmp/news_lk2/articles/1f/1fd8f2ce.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654249200,
-    "title": "Protestors block Malay Street in Slave Island demanding for gas",
-    "url": "https://www.dailymirror.lk/breaking_news/Protestors-block-Malay-Street-in-Slave-Island-demanding-for-gas/108-238352",
-    "file_name": "/tmp/news_lk2/articles/b9/b915a2ee.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654249200,
-    "title": "Protestors block Malay Street in Slave Island demanding for gas",
-    "url": "https://www.dailymirror.lk/latest_news/Protestors-block-Malay-Street-in-Slave-Island-demanding-for-gas/342-238352",
-    "file_name": "/tmp/news_lk2/articles/08/088fc556.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654248660,
-    "title": "Prez instructs to use Covid Fund for essential medecine",
-    "url": "https://www.dailymirror.lk/latest_news/Prez-instructs-to-use-Covid-Fund-for-essential-medecine/342-238350",
-    "file_name": "/tmp/news_lk2/articles/c1/c148bb91.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654248660,
-    "title": "Prez instructs to use Covid Fund for essential medecine",
-    "url": "https://www.dailymirror.lk/breaking_news/Prez-instructs-to-use-Covid-Fund-for-essential-medecine/108-238350",
-    "file_name": "/tmp/news_lk2/articles/6b/6be70234.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654248660,
-    "title": "Prez instructs to use Covid Fund for essential medicines",
-    "url": "https://www.dailymirror.lk/breaking_news/Prez-instructs-to-use-Covid-Fund-for-essential-medicines/108-238350",
-    "file_name": "/tmp/news_lk2/articles/31/31d2efc4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654248660,
-    "title": "Prez instructs to use Covid Fund for essential medicines",
-    "url": "https://www.dailymirror.lk/latest_news/Prez-instructs-to-use-Covid-Fund-for-essential-medicines/342-238350",
-    "file_name": "/tmp/news_lk2/articles/48/48b7fc82.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654248600,
-    "title": "Sri Lanka : New Aviation Minister not pleased with BIA delayed terminal construction",
-    "url": "https://www.newsfirst.lk/2022/06/03/sri-lanka-new-aviation-minister-not-pleased-with-bia-delayed-terminal-construction/",
-    "file_name": "/tmp/news_lk2/articles/c3/c3646845.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654248300,
-    "title": "LITRO says no supply after today\u2019s distribution",
-    "url": "https://www.dailymirror.lk/latest_news/LITRO-says-no-supply-after-todays-distribution/342-238348",
-    "file_name": "/tmp/news_lk2/articles/2a/2ab47cb5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654248300,
-    "title": "LITRO says no supply after today\u2019s distribution",
-    "url": "https://www.dailymirror.lk/breaking_news/LITRO-says-no-supply-after-todays-distribution/108-238348",
-    "file_name": "/tmp/news_lk2/articles/1d/1dea0d68.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654247520,
-    "title": "Sri Lankans for Sri Lankans: Gammadda hands over fully functional water purification plant to rural Matale village",
-    "url": "https://www.newsfirst.lk/2022/06/03/sri-lankans-for-sri-lankans-gammadda-hands-over-fully-functional-water-purification-plant-to-rural-matale-village/",
-    "file_name": "/tmp/news_lk2/articles/ee/ee80fbf9.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654246560,
-    "title": "Power cuts dampen Sri Lanka rubber product exports despite higher global demand \u2013 SLAMERP",
-    "url": "https://economynext.com/power-cuts-dampen-sri-lanka-rubber-product-exports-despite-higher-global-demand-slamerp-95128/",
-    "file_name": "/tmp/news_lk2/articles/82/822bae1c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654245660,
-    "title": "Another man shot dead in Panadura",
-    "url": "https://www.dailymirror.lk/breaking_news/Another-man-shot-dead-in-Panadura/108-238346",
-    "file_name": "/tmp/news_lk2/articles/83/8341fbd7.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654245480,
-    "title": "Teachers\u2019 Union protest",
-    "url": "https://www.dailymirror.lk/latest_news/Teachers-Union-protest/342-238345",
-    "file_name": "/tmp/news_lk2/articles/7d/7d061975.json"
   }
 ]
