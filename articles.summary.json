@@ -1,19 +1,5 @@
 [
   {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654316940,
-    "title": "Grow crops on underutilized lands owned by plantation companies \u2013 President",
-    "url": "http://www.adaderana.lk/news/82859/grow-crops-on-underutilized-lands-owned-by-plantation-companies-president",
-    "file_name": "/tmp/news_lk2/articles/91/91330f54.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654316340,
-    "title": "Soldier providing security to MP\u2019s residence in Wellawatta found dead",
-    "url": "https://www.dailymirror.lk/breaking_news/Soldier-providing-security-to-MPs-residence-in-Wellawatta-found-dead/108-238405",
-    "file_name": "/tmp/news_lk2/articles/2c/2cd7c1c1.json"
-  },
-  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654315020,
     "title": "Amid food shortage fears, Sri Lanka president orders to cultivate in underutilized plantation lands",
@@ -40,13 +26,6 @@
     "title": "$100 Mn to import essential goods",
     "url": "https://www.newsfirst.lk/2022/06/04/100-mn-to-import-essential-goods/",
     "file_name": "/tmp/news_lk2/articles/47/47991b32.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654311420,
-    "title": "Two elephants knocked to death by train; one wounded",
-    "url": "https://www.dailymirror.lk/breaking_news/Two-elephants-knocked-to-death-by-train-one-wounded/108-238415",
-    "file_name": "/tmp/news_lk2/articles/d7/d747fc77.json"
   },
   {
     "newspaper_id": "news-first-lk",
