@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654299300,
+    "title": "\u201cQue Sera Sera\u201d: Doris Day\u2019s Song of Cheerful Fatalism",
+    "url": "https://www.dailymirror.lk/dbs-jeyaraj-column/Que-Sera-Sera-Doris-Days-Song-of-Cheerful-Fatalism/192-238394",
+    "file_name": "/tmp/news_lk2/articles/be/be19e9fb.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654298820,
     "title": "Is Aragalaya dying down?",
     "url": "https://www.dailymirror.lk/opinion/Is-Aragalaya-dying-down/172-238393",
@@ -103,6 +110,27 @@
     "title": "Loss making SriLankan completes MRO service for Oman\u2019s Salam Air",
     "url": "https://economynext.com/loss-making-srilankan-completes-mro-service-for-omans-salam-air-95141/",
     "file_name": "/tmp/news_lk2/articles/8d/8d13abe4.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654279020,
+    "title": "Nations Direct Enterprise offers a holistic platform for cash management solutions",
+    "url": "http://island.lk/nations-direct-enterprise-offers-a-holistic-platform-for-cash-management-solutions/",
+    "file_name": "/tmp/news_lk2/articles/ba/ba9c78dc.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654278780,
+    "title": "Catch the action of \u2018The French Open \u2013\u00a0Roland-Garros 2022\u2019",
+    "url": "http://island.lk/catch-the-action-of-the-french-open-roland-garros-2022/",
+    "file_name": "/tmp/news_lk2/articles/3a/3a0a1c64.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654278480,
+    "title": "Boost for for-ex strapped SL as Malaysian investor buys controlling stake in Ramboda Falls",
+    "url": "http://island.lk/boost-for-for-ex-strapped-sl-as-malaysian-investor-buys-controlling-stake-in-ramboda-falls/",
+    "file_name": "/tmp/news_lk2/articles/8b/8b3b5e53.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -670,33 +698,5 @@
     "title": "Set up home gardens in every govt. institution in EP: Governor",
     "url": "https://www.dailymirror.lk/breaking_news/Set-up-home-gardens-in-every-govt-institution-in-EP-Governor/108-238338",
     "file_name": "/tmp/news_lk2/articles/37/375b14a1.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654235580,
-    "title": "3.5 Kg of heroin seized in Grandpass; 27-year-old arrested",
-    "url": "https://www.newsfirst.lk/2022/06/03/3-5-kg-of-heroin-seized-in-grandpass-27-year-old-arrested/",
-    "file_name": "/tmp/news_lk2/articles/bd/bda61ca1.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654232880,
-    "title": "Colombo Port : Most efficient port in South Asia & Indian Sub Continent.",
-    "url": "https://www.newsfirst.lk/2022/06/03/colombo-port-most-efficient-port-in-south-asia-indian-sub-continent/",
-    "file_name": "/tmp/news_lk2/articles/12/12d7a7e6.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654232400,
-    "title": "1990 Suwa Seriya; India\u2019s lifesaving gift to Sri Lanka celebrates 6th anniversary",
-    "url": "https://www.dailymirror.lk/breaking_news/1990-Suwa-Seriya-Indias-lifesaving-gift-to-Sri-Lanka-celebrates-6th-anniversary/108-238340",
-    "file_name": "/tmp/news_lk2/articles/92/92fad7ea.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654232160,
-    "title": "Maintain adequate stocks of essential food: Prez instructs",
-    "url": "https://www.dailymirror.lk/breaking_news/Maintain-adequate-stocks-of-essential-food-Prez-instructs/108-238324",
-    "file_name": "/tmp/news_lk2/articles/21/21cd92c3.json"
   }
 ]

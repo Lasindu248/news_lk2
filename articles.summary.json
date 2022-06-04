@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654299300,
+    "title": "\u201cQue Sera Sera\u201d: Doris Day\u2019s Song of Cheerful Fatalism",
+    "url": "https://www.dailymirror.lk/dbs-jeyaraj-column/Que-Sera-Sera-Doris-Days-Song-of-Cheerful-Fatalism/192-238394",
+    "file_name": "/tmp/news_lk2/articles/be/be19e9fb.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654298820,
     "title": "Is Aragalaya dying down?",
     "url": "https://www.dailymirror.lk/opinion/Is-Aragalaya-dying-down/172-238393",
@@ -103,6 +110,27 @@
     "title": "Loss making SriLankan completes MRO service for Oman\u2019s Salam Air",
     "url": "https://economynext.com/loss-making-srilankan-completes-mro-service-for-omans-salam-air-95141/",
     "file_name": "/tmp/news_lk2/articles/8d/8d13abe4.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654279020,
+    "title": "Nations Direct Enterprise offers a holistic platform for cash management solutions",
+    "url": "http://island.lk/nations-direct-enterprise-offers-a-holistic-platform-for-cash-management-solutions/",
+    "file_name": "/tmp/news_lk2/articles/ba/ba9c78dc.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654278780,
+    "title": "Catch the action of \u2018The French Open \u2013\u00a0Roland-Garros 2022\u2019",
+    "url": "http://island.lk/catch-the-action-of-the-french-open-roland-garros-2022/",
+    "file_name": "/tmp/news_lk2/articles/3a/3a0a1c64.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654278480,
+    "title": "Boost for for-ex strapped SL as Malaysian investor buys controlling stake in Ramboda Falls",
+    "url": "http://island.lk/boost-for-for-ex-strapped-sl-as-malaysian-investor-buys-controlling-stake-in-ramboda-falls/",
+    "file_name": "/tmp/news_lk2/articles/8b/8b3b5e53.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1233,6 +1261,13 @@
   },
   {
     "newspaper_id": "island-lk",
+    "time_ut": 1654176420,
+    "title": "LOLC Group records historic profitability",
+    "url": "http://island.lk/lolc-group-records-historic-profitability/",
+    "file_name": "/tmp/news_lk2/articles/b9/b9cb6d8d.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "time_ut": 1654176300,
     "title": "CSE trading takes positive turn in the wake of buying interest in apparel counters",
     "url": "http://island.lk/cse-trading-takes-positive-turn-in-the-wake-of-buying-interest-in-apparel-counters/",
@@ -1281,6 +1316,13 @@
     "file_name": "/tmp/news_lk2/articles/a4/a4ef0085.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654174020,
+    "title": "Morison commences commercial production at State-of-the-Art new pharmaceutical manufacturing facility",
+    "url": "http://island.lk/morison-commences-commercial-production-at-state-of-the-art-new-pharmaceutical-manufacturing-facility/",
+    "file_name": "/tmp/news_lk2/articles/3c/3c870844.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654174020,
     "title": "Army Commander visits President",
@@ -1314,6 +1356,13 @@
     "title": "Turkey wants to be called T\u00fcrkiye in rebranding move",
     "url": "https://www.dailymirror.lk/latest_news/Turkey-wants-to-be-called-T\u00fcrkiye-in-rebranding-move/342-238267",
     "file_name": "/tmp/news_lk2/articles/bf/bf88bbaf.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654173840,
+    "title": "Hambantota Port breaks ground for \u2018Hope Village\u2019 in Kandagasmankada",
+    "url": "http://island.lk/hambantota-port-breaks-ground-for-hope-village-in-kandagasmankada/",
+    "file_name": "/tmp/news_lk2/articles/05/0540f5a2.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -2287,6 +2336,13 @@
     "title": "Will take disciplinary action: Exam Com Gen",
     "url": "https://www.dailymirror.lk/latest_news/Will-take-disciplinary-action-Exam-Com-Gen/342-238195",
     "file_name": "/tmp/news_lk2/articles/34/343bc9de.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654095300,
+    "title": "Foreign policy quandaries for South in the face of rising poverty",
+    "url": "http://island.lk/foreign-policy-quandaries-for-south-in-the-face-of-rising-poverty/",
+    "file_name": "/tmp/news_lk2/articles/e4/e4e0579f.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -3330,6 +3386,13 @@
     "title": "Labor wins in Australia!",
     "url": "http://island.lk/labor-wins-in-australia/",
     "file_name": "/tmp/news_lk2/articles/48/48eb6ea1.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654011300,
+    "title": "Occam\u2019s razor",
+    "url": "http://island.lk/occams-razor/",
+    "file_name": "/tmp/news_lk2/articles/2d/2da8f149.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
