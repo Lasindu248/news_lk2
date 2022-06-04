@@ -1,10 +1,52 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654312560,
+    "title": "Sri Lanka stocks suffer first weekly loss in four weeks; see foreign inflows",
+    "url": "https://economynext.com/sri-lanka-stocks-suffer-first-weekly-loss-in-four-weeks-see-foreign-inflows-95143/",
+    "file_name": "/tmp/news_lk2/articles/4e/4ee58672.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654312140,
+    "title": "Govt. planning to maintain fuel supply for three-wheelers: PM",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-planning-to-maintain-fuel-supply-for-three-wheelers-PM/108-238397",
+    "file_name": "/tmp/news_lk2/articles/8a/8a510cc5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654311780,
+    "title": "$100 Mn to import essential goods",
+    "url": "https://www.newsfirst.lk/2022/06/04/100-mn-to-import-essential-goods/",
+    "file_name": "/tmp/news_lk2/articles/47/47991b32.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654310760,
+    "title": "CEB to increase electricity tariff?",
+    "url": "https://www.newsfirst.lk/2022/06/04/ceb-to-increase-electricity-tariff/",
+    "file_name": "/tmp/news_lk2/articles/1a/1affda85.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654309560,
     "title": "Russian Foreign Ministry summons Sri Lankan envoy over detained plane",
     "url": "http://www.adaderana.lk/news/82858/russian-foreign-ministry-summons-sri-lankan-envoy-over-detained-plane",
     "file_name": "/tmp/news_lk2/articles/e4/e493f22d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654309500,
+    "title": "Two elephants dead after knocked down by train",
+    "url": "https://www.newsfirst.lk/2022/06/04/two-elephants-dead-after-knocked-down-by-train/",
+    "file_name": "/tmp/news_lk2/articles/f4/f4ebdd77.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654308840,
+    "title": "7-hour water cut for Kotte tonight (4)",
+    "url": "https://www.newsfirst.lk/2022/06/04/7-hour-water-cut-for-kotte-tonight-4/",
+    "file_name": "/tmp/news_lk2/articles/e1/e1da7367.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -47,6 +89,13 @@
     "title": "\u201cQue Sera Sera\u201d: Doris Day\u2019s Song of Cheerful Fatalism",
     "url": "https://www.dailymirror.lk/dbs-jeyaraj-column/Que-Sera-Sera-Doris-Days-Song-of-Cheerful-Fatalism/192-238394",
     "file_name": "/tmp/news_lk2/articles/be/be19e9fb.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654299300,
+    "title": "\u201cQue Sera Sera\u201d: Doris Day\u2019s Song of Cheerful Fatalism",
+    "url": "https://www.dailymirror.lk/recomended-news/Que-Sera-Sera-Doris-Days-Song-of-Cheerful-Fatalism/277-238394",
+    "file_name": "/tmp/news_lk2/articles/27/273e357b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -649,54 +698,5 @@
     "title": "Basil and Thirukumar acquitted in Malwana property case",
     "url": "http://www.adaderana.lk/news/82844/basil-and-thirukumar-acquitted-in-malwana-property-case",
     "file_name": "/tmp/news_lk2/articles/14/14731ffe.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654240560,
-    "title": "PM meets three-wheeler association; acknowledges need for regulatory body",
-    "url": "https://www.newsfirst.lk/2022/06/03/pm-meets-three-wheeler-association-acknowledges-need-for-regulatory-body/",
-    "file_name": "/tmp/news_lk2/articles/cb/cb802bdf.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654239240,
-    "title": "Sri Lanka\u2019s Colombo port ranked 22 in world, 1 in South Asia",
-    "url": "https://economynext.com/sri-lankas-colombo-port-ranked-22-in-world-1-in-south-asia-95129/",
-    "file_name": "/tmp/news_lk2/articles/92/92de1ff5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654239240,
-    "title": "Gas shipment arrives tomorrow; await our intimation: LAUGFS Gas",
-    "url": "https://www.dailymirror.lk/latest_news/Gas-shipment-arrives-tomorrow-await-our-intimation-LAUGFS-Gas/342-238341",
-    "file_name": "/tmp/news_lk2/articles/64/64167b86.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654239240,
-    "title": "Gas shipment arrives tomorrow; await our intimation: LAUGFS Gas",
-    "url": "https://www.dailymirror.lk/breaking_news/Gas-shipment-arrives-tomorrow-await-our-intimation-LAUGFS-Gas/108-238341",
-    "file_name": "/tmp/news_lk2/articles/79/79cbc351.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654238940,
-    "title": "Malwana Mansion Case: Basil Rajapaksa & Thirukumar Nadesan acquitted & released",
-    "url": "https://www.newsfirst.lk/2022/06/03/malwana-mansion-case-basil-rajapaksa-thirukumar-nadesan-acquitted-released/",
-    "file_name": "/tmp/news_lk2/articles/59/59717c4e.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654238640,
-    "title": "Sri Lanka stocks turn negative in lackluster mid-day trading",
-    "url": "https://economynext.com/sri-lanka-stocks-turn-negative-in-lackluster-mid-day-trading-95126/",
-    "file_name": "/tmp/news_lk2/articles/60/60d570e3.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654237680,
-    "title": "Chinese Medical Aid to reach SL today (3)",
-    "url": "https://www.newsfirst.lk/2022/06/03/chinese-medical-aid-to-reach-sl-today-3/",
-    "file_name": "/tmp/news_lk2/articles/ff/ffada540.json"
   }
 ]
