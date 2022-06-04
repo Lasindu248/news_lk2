@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654360560,
+    "title": "Power cut schedule from June 6 to 12 announced",
+    "url": "https://www.dailymirror.lk/latest_news/Power-cut-schedule-from-June-6-to-12-announced/342-238431",
+    "file_name": "/tmp/news_lk2/articles/b4/b4f0e861.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654355100,
+    "title": "Foreign Ministry clarifies position regarding \u2018Aeroflot\u2019 aircraft",
+    "url": "https://www.newsfirst.lk/2022/06/04/foreign-ministry-clarifies-position-regarding-aeroflot-aircraft/",
+    "file_name": "/tmp/news_lk2/articles/10/10108934.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654351920,
+    "title": "Ukraine war \u2018aggravating\u2019 existing global food crisis, UN warns",
+    "url": "http://www.adaderana.lk/news/82868/ukraine-war-aggravating-existing-global-food-crisis-un-warns",
+    "file_name": "/tmp/news_lk2/articles/fe/feabbcb9.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654349340,
     "title": "Laugfs Gas to resume LP gas distribution next week",
@@ -670,6 +691,13 @@
     "title": "Court order issued on protest march scheduled for tomorrow in Fort",
     "url": "https://www.dailymirror.lk/breaking_news/Court-order-issued-on-protest-march-scheduled-for-tomorrow-in-Fort/108-238362",
     "file_name": "/tmp/news_lk2/articles/67/67b6b760.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654271700,
+    "title": "Sri Lanka rupee quoted 367.30 to TT dollar",
+    "url": "https://economynext.com/sri-lanka-rupee-quoted-367-30-to-tt-dollar-95164/",
+    "file_name": "/tmp/news_lk2/articles/65/65700012.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
