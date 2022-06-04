@@ -1,5 +1,47 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654318440,
+    "title": "Soldier attached to Sumanthiran\u2019s security detail takes own life",
+    "url": "http://www.adaderana.lk/news/82860/soldier-attached-to-sumanthirans-security-detail-takes-own-life",
+    "file_name": "/tmp/news_lk2/articles/ec/ec0e143d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654318200,
+    "title": "Prez instructs to grow food crops on underutilized lands owned by plantation companies",
+    "url": "https://www.dailymirror.lk/latest_news/Prez-instructs-to-grow-food-crops-on-underutilized-lands-owned-by-plantation-companies/342-238416",
+    "file_name": "/tmp/news_lk2/articles/0f/0f5626cb.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654317300,
+    "title": "Medicines, equipment worth US$28 mn donated by China flown in",
+    "url": "https://www.dailymirror.lk/breaking_news/Medicines-equipment-worth-US-28-mn-donated-by-China-flown-in/108-238420",
+    "file_name": "/tmp/news_lk2/articles/af/afded2af.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654316940,
+    "title": "Grow crops on underutilized lands owned by plantation companies \u2013 President",
+    "url": "http://www.adaderana.lk/news/82859/grow-crops-on-underutilized-lands-owned-by-plantation-companies-president",
+    "file_name": "/tmp/news_lk2/articles/91/91330f54.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654316340,
+    "title": "Soldier providing security to MP\u2019s residence in Wellawatta found dead",
+    "url": "https://www.dailymirror.lk/breaking_news/Soldier-providing-security-to-MPs-residence-in-Wellawatta-found-dead/108-238405",
+    "file_name": "/tmp/news_lk2/articles/2c/2cd7c1c1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654316160,
+    "title": "Soldier assigned to MPs security dies of self inflicted wounds",
+    "url": "https://www.newsfirst.lk/2022/06/04/soldier-assigned-to-mps-security-dies-of-self-inflicted-wounds/",
+    "file_name": "/tmp/news_lk2/articles/be/be3b994a.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654315020,
     "title": "Amid food shortage fears, Sri Lanka president orders to cultivate in underutilized plantation lands",
@@ -26,6 +68,13 @@
     "title": "$100 Mn to import essential goods",
     "url": "https://www.newsfirst.lk/2022/06/04/100-mn-to-import-essential-goods/",
     "file_name": "/tmp/news_lk2/articles/47/47991b32.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654311420,
+    "title": "Two elephants knocked to death by train; one wounded",
+    "url": "https://www.dailymirror.lk/breaking_news/Two-elephants-knocked-to-death-by-train-one-wounded/108-238415",
+    "file_name": "/tmp/news_lk2/articles/d7/d747fc77.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -649,54 +698,5 @@
     "title": "Mahinda Kahandagama remanded till June 8 over Galle Face attack case",
     "url": "https://www.dailymirror.lk/latest_news/Mahinda-Kahandagama-remanded-till-June-8-over-Galle-Face-attack-case/342-238343",
     "file_name": "/tmp/news_lk2/articles/2d/2dfabc15.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654243500,
-    "title": "Basil aquitted from Malwana case",
-    "url": "https://www.dailymirror.lk/latest_news/Basil-aquitted-from-Malwana-case/342-238342",
-    "file_name": "/tmp/news_lk2/articles/35/3576075c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654243500,
-    "title": "Basil aquitted from Malwana case",
-    "url": "https://www.dailymirror.lk/breaking_news/Basil-aquitted-from-Malwana-case/108-238342",
-    "file_name": "/tmp/news_lk2/articles/db/db36574e.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654242900,
-    "title": "Swift action need to address shortages faced by farmers \u2013 Prime Minister tells UNDP & UN-FAO",
-    "url": "https://www.newsfirst.lk/2022/06/03/swift-action-need-to-address-shortages-faced-by-farmers-prime-minister-tells-undp-un-fao/",
-    "file_name": "/tmp/news_lk2/articles/f9/f925ec1a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654242480,
-    "title": "31-year-old man gunned down in Panadura",
-    "url": "https://www.newsfirst.lk/2022/06/03/31-year-old-man-gunned-down-in-panadura/",
-    "file_name": "/tmp/news_lk2/articles/1b/1bfea630.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654241940,
-    "title": "30-year-old killed in shooting incident in Panadura",
-    "url": "http://www.adaderana.lk/news/82845/30-year-old-killed-in-shooting-incident-in-panadura",
-    "file_name": "/tmp/news_lk2/articles/5c/5c7ded01.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654241940,
-    "title": "Individual killed in shooting incident in Panadura",
-    "url": "http://www.adaderana.lk/news/82845/individual-killed-in-shooting-incident-in-panadura",
-    "file_name": "/tmp/news_lk2/articles/47/47cbb1dc.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654241760,
-    "title": "Maintain adequate stocks of all essential food items \u2013 President tells officials",
-    "url": "https://www.newsfirst.lk/2022/06/03/maintain-adequate-stocks-of-all-essential-food-items-president-tells-officials/",
-    "file_name": "/tmp/news_lk2/articles/e6/e64be55f.json"
   }
 ]
