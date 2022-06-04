@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654355100,
+    "title": "Foreign Ministry clarifies position regarding \u2018Aeroflot\u2019 aircraft",
+    "url": "https://www.newsfirst.lk/2022/06/04/foreign-ministry-clarifies-position-regarding-aeroflot-aircraft/",
+    "file_name": "/tmp/news_lk2/articles/10/10108934.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654351920,
+    "title": "Ukraine war \u2018aggravating\u2019 existing global food crisis, UN warns",
+    "url": "http://www.adaderana.lk/news/82868/ukraine-war-aggravating-existing-global-food-crisis-un-warns",
+    "file_name": "/tmp/news_lk2/articles/fe/feabbcb9.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654349340,
     "title": "Laugfs Gas to resume LP gas distribution next week",
@@ -684,19 +698,5 @@
     "title": "India donates 3.3 tons of essential medical supplies to Suwaseriya",
     "url": "https://www.dailymirror.lk/breaking_news/India-donates-3-3-tons-of-essential-medical-supplies-to-Suwaseriya/108-238361",
     "file_name": "/tmp/news_lk2/articles/09/09081dd2.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654264800,
-    "title": "Court order issued on protest march scheduled for tomorrow",
-    "url": "http://www.adaderana.lk/news/82852/court-order-issued-on-protest-march-scheduled-for-tomorrow",
-    "file_name": "/tmp/news_lk2/articles/7e/7e3fe2db.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654264680,
-    "title": "Rajitha cautions of possible monopoly in medicine market",
-    "url": "https://www.newsfirst.lk/2022/06/03/rajitha-cautions-of-possible-monopoly-in-medicine-market/",
-    "file_name": "/tmp/news_lk2/articles/ed/ed297bc7.json"
   }
 ]
