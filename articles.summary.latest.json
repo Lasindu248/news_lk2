@@ -1,12 +1,5 @@
 [
   {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654349340,
-    "title": "Laugfs Gas to release LP gas cylinders to market next week",
-    "url": "http://www.adaderana.lk/news/82867/laugfs-gas-to-release-lp-gas-cylinders-to-market-next-week",
-    "file_name": "/tmp/news_lk2/articles/d0/d0b8a063.json"
-  },
-  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654347420,
     "title": "Namal\u2019s way forward",
@@ -698,5 +691,12 @@
     "title": "21A : Party Leaders agree that it should avoid provisions calling for a referendum",
     "url": "https://www.newsfirst.lk/2022/06/03/21a-party-leaders-agree-that-it-should-avoid-provisions-calling-for-a-referendum/",
     "file_name": "/tmp/news_lk2/articles/f5/f5d832ad.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654262940,
+    "title": "No LP gas distribution until next Tuesday",
+    "url": "http://www.adaderana.lk/news/82851/no-lp-gas-distribution-until-next-tuesday",
+    "file_name": "/tmp/news_lk2/articles/fc/fced308f.json"
   }
 ]
