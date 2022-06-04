@@ -1,5 +1,40 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654321920,
+    "title": "Two nabbed with Kerala cannabis worth over Rs. 50Mn in Jaffna, Kilinochchi",
+    "url": "https://www.dailymirror.lk/breaking_news/Two-nabbed-with-Kerala-cannabis-worth-over-Rs-50Mn-in-Jaffna-Kilinochchi/108-238427",
+    "file_name": "/tmp/news_lk2/articles/ac/ac372961.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654321440,
+    "title": "Aeroflot suspends flights to Sri Lanka over aircraft\u2019s arrest",
+    "url": "https://www.dailymirror.lk/top_story/Aeroflot-suspends-flights-to-Sri-Lanka-over-aircrafts-arrest/155-238426",
+    "file_name": "/tmp/news_lk2/articles/d8/d850fa3f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654320780,
+    "title": "NO involvement of State in Aeroflot issue: AASL",
+    "url": "https://www.newsfirst.lk/2022/06/04/no-involvement-of-state-in-aeroflot-issue-aasl/",
+    "file_name": "/tmp/news_lk2/articles/49/492cbdb1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654320420,
+    "title": "\u2018Aeroflot\u2019 suspends flights to Sri Lanka after eight months",
+    "url": "https://www.newsfirst.lk/2022/06/04/aeroflot-suspends-flights-to-sri-lanka-after-eight-months/",
+    "file_name": "/tmp/news_lk2/articles/6d/6dfc2da5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654318620,
+    "title": "SL envoy in Russia summoned over Russian plane at BIA",
+    "url": "https://www.newsfirst.lk/2022/06/04/sl-envoy-in-russia-summoned-over-russian-plane-at-bia/",
+    "file_name": "/tmp/news_lk2/articles/06/062729a9.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654318440,
     "title": "Soldier attached to Sumanthiran\u2019s security detail takes own life",
@@ -19,6 +54,13 @@
     "title": "Prez instructs to grow food crops on underutilized lands owned by plantation companies",
     "url": "https://www.dailymirror.lk/breaking_news/Prez-instructs-to-grow-food-crops-on-underutilized-lands-owned-by-plantation-companies/108-238416",
     "file_name": "/tmp/news_lk2/articles/bf/bfc9b9e4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654317780,
+    "title": "Aviation Minister says dissatisfied with BIA expansion progress",
+    "url": "https://www.dailymirror.lk/breaking_news/Aviation-Minister-says-dissatisfied-with-BIA-expansion-progress/108-238424",
+    "file_name": "/tmp/news_lk2/articles/e2/e279cc0b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -91,6 +133,13 @@
     "file_name": "/tmp/news_lk2/articles/d7/d747fc77.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654311420,
+    "title": "Two elephants knocked to death by train; one wounded",
+    "url": "https://www.dailymirror.lk/latest_news/Two-elephants-knocked-to-death-by-train-one-wounded/342-238415",
+    "file_name": "/tmp/news_lk2/articles/c4/c42d6023.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654310760,
     "title": "CEB to increase electricity tariff?",
@@ -138,6 +187,13 @@
     "title": "Russian Foreign Ministry summons Ambassador of Sri Lanka over seizure of Aeroflot plane",
     "url": "https://www.dailymirror.lk/breaking_news/Russian-Foreign-Ministry-summons-Ambassador-of-Sri-Lanka-over-seizure-of-Aeroflot-plane/108-238396",
     "file_name": "/tmp/news_lk2/articles/e1/e12fc005.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654302600,
+    "title": "Sri Lanka\u2019s Impending Food Disaster: The Facts",
+    "url": "https://www.newsfirst.lk/2022/06/04/sri-lankas-impending-food-disaster-the-facts/",
+    "file_name": "/tmp/news_lk2/articles/de/def1a377.json"
   },
   {
     "newspaper_id": "news-first-lk",
