@@ -1,12 +1,5 @@
 [
   {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654337520,
-    "title": "Sri Lanka\u2019s Haycarb March net up on forex gains",
-    "url": "https://economynext.com/sri-lankas-haycarb-march-net-up-on-forex-gains-95160/",
-    "file_name": "/tmp/news_lk2/articles/87/875ff31a.json"
-  },
-  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654336920,
     "title": "TN chief minister assures more supplies of essential commodities to Sri Lanka",
@@ -89,13 +82,6 @@
     "title": "SriLankan Airlines loses Rs170bn in 2021 amid soft-peg collapse, total losses Rs542bn",
     "url": "https://economynext.com/srilankan-airlines-loses-rs170bn-in-2021-amid-soft-peg-collapse-total-losses-rs542bn-95155/",
     "file_name": "/tmp/news_lk2/articles/7d/7d8cad58.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654326120,
-    "title": "SriLankan Airlines loses Rs170bn in 2021 amid soft-peg collapse",
-    "url": "https://economynext.com/srilankan-airlines-loses-rs170bn-in-2021-amid-soft-peg-collapse-95155/",
-    "file_name": "/tmp/news_lk2/articles/a0/a035bf77.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -698,5 +684,19 @@
     "title": "Nine accused in Pradeep Eknaligoda abduction case remanded",
     "url": "http://www.adaderana.lk/news/82850/nine-accused-in-pradeep-eknaligoda-abduction-case-remanded",
     "file_name": "/tmp/news_lk2/articles/86/86d12fea.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654255740,
+    "title": "Nine accused in Pradeep Ekneligoda abduction case remanded",
+    "url": "http://www.adaderana.lk/news/82850/nine-accused-in-pradeep-ekneligoda-abduction-case-remanded",
+    "file_name": "/tmp/news_lk2/articles/40/4064a537.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654255320,
+    "title": "India provides 3.3 Tonnes of medical supplies to SL",
+    "url": "https://www.newsfirst.lk/2022/06/03/india-provides-3-3-tonnes-of-medical-supplies-to-sl/",
+    "file_name": "/tmp/news_lk2/articles/48/48eaa23e.json"
   }
 ]
