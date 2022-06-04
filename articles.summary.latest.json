@@ -2,6 +2,13 @@
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654367100,
+    "title": "LRH says 20% children admitted suffer from malnutrition",
+    "url": "http://www.adaderana.lk/news/82871/lrh-says-20-children-admitted-suffer-from-malnutrition",
+    "file_name": "/tmp/news_lk2/articles/f0/f032e819.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654367100,
     "title": "LRH says 20% children admitted are malnourished",
     "url": "http://www.adaderana.lk/news/82871/lrh-says-20-children-admitted-are-malnourished",
     "file_name": "/tmp/news_lk2/articles/53/5325a5a4.json"
@@ -691,12 +698,5 @@
     "title": "Catch the action of \u2018The French Open \u2013\u00a0Roland-Garros 2022\u2019",
     "url": "http://island.lk/catch-the-action-of-the-french-open-roland-garros-2022/",
     "file_name": "/tmp/news_lk2/articles/3a/3a0a1c64.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1654278480,
-    "title": "Boost for for-ex strapped SL as Malaysian investor buys controlling stake in Ramboda Falls",
-    "url": "http://island.lk/boost-for-for-ex-strapped-sl-as-malaysian-investor-buys-controlling-stake-in-ramboda-falls/",
-    "file_name": "/tmp/news_lk2/articles/8b/8b3b5e53.json"
   }
 ]
