@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654460880,
+    "title": "Exterminators win an international gold award for environmental leadership and best practices",
+    "url": "https://www.ft.lk/business/Exterminators-win-an-international-gold-award-for-environmental-leadership-and-best-practices/34-735786",
+    "file_name": "/tmp/news_lk2/articles/24/24cd6d8b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654460640,
+    "title": "Agile for the Enterprise",
+    "url": "https://www.ft.lk/business/Agile-for-the-Enterprise/34-735785",
+    "file_name": "/tmp/news_lk2/articles/de/dea1664d.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654454160,
     "title": "Presidential pardons and Courts of Justice - EDITORIAL",
@@ -684,19 +698,5 @@
     "title": "USD 400Mn received to import essential drugs",
     "url": "https://www.newsfirst.lk/2022/06/04/usd-400mn-received-to-import-essential-drugs/",
     "file_name": "/tmp/news_lk2/articles/03/03dc38ab.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654327740,
-    "title": "Moragoda meets with Chief Minister Stalin",
-    "url": "https://www.newsfirst.lk/2022/06/04/moragoda-meets-with-chief-minister-stalin/",
-    "file_name": "/tmp/news_lk2/articles/46/46862ec2.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654326660,
-    "title": "Russia\u2019s Aeroflot suspends flights to Sri Lanka",
-    "url": "http://www.adaderana.lk/news/82862/russias-aeroflot-suspends-flights-to-sri-lanka",
-    "file_name": "/tmp/news_lk2/articles/5c/5cb3b845.json"
   }
 ]
