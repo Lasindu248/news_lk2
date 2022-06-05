@@ -1,10 +1,31 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654407000,
+    "title": "Stalin assures of second shipment of essential commodities",
+    "url": "https://www.dailymirror.lk/breaking_news/Stalin-assures-of-second-shipment-of-essential-commodities/108-238434",
+    "file_name": "/tmp/news_lk2/articles/68/68cbeac2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654405680,
+    "title": "Veteran actress Sumana Amarasinghe passes away",
+    "url": "https://www.dailymirror.lk/breaking_news/Veteran-actress-Sumana-Amarasinghe-passes-away/108-238433",
+    "file_name": "/tmp/news_lk2/articles/db/dbfcacbf.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654405020,
     "title": "Sri Lanka responds to row over detained Russian plane",
     "url": "http://www.adaderana.lk/news/82874/sri-lanka-responds-to-row-over-detained-russian-plane",
     "file_name": "/tmp/news_lk2/articles/56/568e9430.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654404180,
+    "title": "21A for Cabinet approval tomorrow (6)",
+    "url": "https://www.newsfirst.lk/2022/06/05/21a-for-cabinet-approval-tomorrow-6/",
+    "file_name": "/tmp/news_lk2/articles/a5/a543628b.json"
   },
   {
     "newspaper_id": "news-first-lk",
