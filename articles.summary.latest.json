@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654417080,
+    "title": "Fridays to be \u2019work from home\u2019 days for public servants: Minister",
+    "url": "https://www.dailymirror.lk/breaking_news/Fridays-to-be-work-from-home-days-for-public-servants-Minister/108-238438",
+    "file_name": "/tmp/news_lk2/articles/8b/8bfb867d.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654416000,
     "title": "Aeroflot\u2019s repatriation flight departs BIA with stranded Russian passengers",
@@ -691,12 +698,5 @@
     "title": "Showers & thundershowers likely on Saturday (4); Met Dept.",
     "url": "https://www.newsfirst.lk/2022/06/04/showers-met-dept/",
     "file_name": "/tmp/news_lk2/articles/a3/a305993e.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654306380,
-    "title": "Showers or thundershowers expected at times today",
-    "url": "http://www.adaderana.lk/news/82857/showers-or-thundershowers-expected-at-times-today",
-    "file_name": "/tmp/news_lk2/articles/7f/7f1a6f1b.json"
   }
 ]
