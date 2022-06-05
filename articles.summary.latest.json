@@ -14,6 +14,13 @@
     "file_name": "/tmp/news_lk2/articles/4d/4db5224d.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654443000,
+    "title": "LAUGFS gas increases LP gas prices",
+    "url": "https://www.dailymirror.lk/breaking_news/LAUGFS-gas-increases-LP-gas-prices/108-238448",
+    "file_name": "/tmp/news_lk2/articles/d8/d8246300.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654439880,
     "title": "\u2018My Sweet Girl\u2019 by Amanda Jayatissa wins BIG at ThrillerFest 2022 in New York",
@@ -691,12 +698,5 @@
     "title": "Aeroflot suspends Sri Lanka commercial flights",
     "url": "https://economynext.com/aeroflot-suspends-sri-lanka-commercial-flights-95153/",
     "file_name": "/tmp/news_lk2/articles/c0/c0454939.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654322580,
-    "title": "Man clubbed to death in Slave Island",
-    "url": "https://www.newsfirst.lk/2022/06/04/man-clubbed-to-death-in-slave-island/",
-    "file_name": "/tmp/news_lk2/articles/31/31b2bb0d.json"
   }
 ]
