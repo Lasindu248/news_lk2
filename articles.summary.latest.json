@@ -21,11 +21,25 @@
     "file_name": "/tmp/news_lk2/articles/8f/8f9945e5.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654428600,
+    "title": "Post of PM, Youth in Politics, Economic Crisis : PM\u2019s stance",
+    "url": "https://www.newsfirst.lk/2022/06/05/post-of-pm-youth-in-politics-economic-crisis-pms-stance/",
+    "file_name": "/tmp/news_lk2/articles/f6/f6230a5a.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654428540,
     "title": "Sri Lanka to operate one-third of private buses from June 06",
     "url": "https://economynext.com/sri-lanka-to-operate-one-third-of-private-buses-from-june-06-95187/",
     "file_name": "/tmp/news_lk2/articles/dc/dc8bb87f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654427700,
+    "title": "Sri Lanka Navy Marines to take part in RIMPAC 2022, hosted by the US Pacific Fleet",
+    "url": "https://www.newsfirst.lk/2022/06/05/sri-lanka-navy-marines-to-take-part-in-rimpac-2022-hosted-by-the-us-pacific-fleet/",
+    "file_name": "/tmp/news_lk2/articles/28/28b36ec9.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -684,19 +698,5 @@
     "title": "Prez instructs to grow food crops on underutilized lands owned by plantation companies",
     "url": "https://www.dailymirror.lk/latest_news/Prez-instructs-to-grow-food-crops-on-underutilized-lands-owned-by-plantation-companies/342-238416",
     "file_name": "/tmp/news_lk2/articles/0f/0f5626cb.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654318200,
-    "title": "Prez instructs to grow food crops on underutilized lands owned by plantation companies",
-    "url": "https://www.dailymirror.lk/breaking_news/Prez-instructs-to-grow-food-crops-on-underutilized-lands-owned-by-plantation-companies/108-238416",
-    "file_name": "/tmp/news_lk2/articles/bf/bfc9b9e4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654317780,
-    "title": "Aviation Minister says dissatisfied with BIA expansion progress",
-    "url": "https://www.dailymirror.lk/business-news/Aviation-Minister-says-dissatisfied-with-BIA-expansion-progress/273-238424",
-    "file_name": "/tmp/news_lk2/articles/b0/b0c05830.json"
   }
 ]
