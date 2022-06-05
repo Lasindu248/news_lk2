@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654423320,
+    "title": "Daughter raped by mother\u2019s lover",
+    "url": "https://www.dailymirror.lk/breaking_news/Daughter-raped-by-mothers-lover/108-238441",
+    "file_name": "/tmp/news_lk2/articles/ba/ba426644.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654422540,
     "title": "Laugfs LP gas prices increased",
@@ -691,12 +698,5 @@
     "title": "Sri Lanka president orders plantations to grow food after soft-peg collapse",
     "url": "https://economynext.com/sri-lanka-president-orders-plantations-to-grow-food-after-soft-peg-collapse-95146/",
     "file_name": "/tmp/news_lk2/articles/89/893747c5.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654312560,
-    "title": "Sri Lanka stocks suffer first weekly loss in four weeks; see foreign inflows",
-    "url": "https://economynext.com/sri-lanka-stocks-suffer-first-weekly-loss-in-four-weeks-see-foreign-inflows-95143/",
-    "file_name": "/tmp/news_lk2/articles/4e/4ee58672.json"
   }
 ]
