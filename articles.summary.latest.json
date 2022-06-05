@@ -1,26 +1,5 @@
 [
   {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654410060,
-    "title": "Distribution of diesel to be restricted",
-    "url": "http://www.adaderana.lk/news/82875/distribution-of-diesel-to-be-restricted",
-    "file_name": "/tmp/news_lk2/articles/d6/d65fe80c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654409460,
-    "title": "Aeroflot aircraft matter is private legal issue: PM informs Russia",
-    "url": "https://www.dailymirror.lk/breaking_news/Aeroflot-aircraft-matter-is-private-legal-issue-PM-informs-Russia/108-238436",
-    "file_name": "/tmp/news_lk2/articles/10/10538f71.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654408320,
-    "title": "Elections Commission summons parties to discuss crisis",
-    "url": "https://www.newsfirst.lk/2022/06/05/elections-commission-summons-parties-to-discuss-crisis/",
-    "file_name": "/tmp/news_lk2/articles/d7/d7e76dfd.json"
-  },
-  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654407000,
     "title": "Stalin assures of second shipment of essential commodities",
@@ -698,5 +677,26 @@
     "title": "Climate crisis: A do-or-die battle",
     "url": "https://www.dailymirror.lk/opinion/Climate-crisis-A-do-or-die-battle/172-238392",
     "file_name": "/tmp/news_lk2/articles/da/da6afbe0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654284600,
+    "title": "Nine army intelligence officers remanded over Ekneligoda murder case",
+    "url": "https://www.dailymirror.lk/breaking_news/Nine-army-intelligence-officers-remanded-over-Ekneligoda-murder-case/108-238364",
+    "file_name": "/tmp/news_lk2/articles/17/1744922a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654284600,
+    "title": "Nine army intelligence officers remanded over Ekneligoda murder case",
+    "url": "https://www.dailymirror.lk/front_page/Nine-army-intelligence-officers-remanded-over-Ekneligoda-murder-case/238-238364",
+    "file_name": "/tmp/news_lk2/articles/54/54986aa5.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654284420,
+    "title": "India hands over medical supplies to Suwa Seriya Foundation",
+    "url": "https://www.ft.lk/news/India-hands-over-medical-supplies-to-Suwa-Seriya-Foundation/56-735735",
+    "file_name": "/tmp/news_lk2/articles/f1/f1c05c1c.json"
   }
 ]
