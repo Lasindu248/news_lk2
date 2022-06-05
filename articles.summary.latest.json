@@ -1,6 +1,55 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654461840,
+    "title": "SC refuses leave to proceed in FR application in Magistrate Court regarding GotaGoGama",
+    "url": "https://www.ft.lk/news/SC-refuses-leave-to-proceed-in-FR-application-in-Magistrate-Court-regarding-GotaGoGama/56-735793",
+    "file_name": "/tmp/news_lk2/articles/5f/5ff1e990.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654461660,
+    "title": "G.L. asks for more support from China",
+    "url": "https://www.ft.lk/news/G-L-asks-for-more-support-from-China/56-735792",
+    "file_name": "/tmp/news_lk2/articles/ea/ea9f3521.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654461600,
+    "title": "Nearly 50 killed in Bangladesh container depot blast",
+    "url": "https://www.ft.lk/news/Nearly-50-killed-in-Bangladesh-container-depot-blast/56-735790",
+    "file_name": "/tmp/news_lk2/articles/71/71cc2f9c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654461600,
+    "title": "21A to Cabinet today",
+    "url": "https://www.ft.lk/news/21A-to-Cabinet-today/56-735791",
+    "file_name": "/tmp/news_lk2/articles/2b/2b8f5099.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654461360,
+    "title": "Foreign Ministry says Aeroflot fiasco is a commercial dispute",
+    "url": "https://www.ft.lk/news/Foreign-Ministry-says-Aeroflot-fiasco-is-a-commercial-dispute/56-735789",
+    "file_name": "/tmp/news_lk2/articles/cd/cd02f599.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654461120,
+    "title": "Rising cost, sharp devaluation trigger loss at Tokyo Cement in FY22",
+    "url": "https://www.ft.lk/business/Rising-cost-sharp-devaluation-trigger-loss-at-Tokyo-Cement-in-FY22/34-735788",
+    "file_name": "/tmp/news_lk2/articles/f2/f237023b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654461000,
+    "title": "Dushyantha De Silva featured in Forbes \u201830 under 30 Asia 2022\u2019 list",
+    "url": "https://www.ft.lk/business/Dushyantha-De-Silva-featured-in-Forbes-30-under-30-Asia-2022-list/34-735787",
+    "file_name": "/tmp/news_lk2/articles/fc/fce71641.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "time_ut": 1654460880,
     "title": "Exterminators win an international gold award for environmental leadership and best practices",
     "url": "https://www.ft.lk/business/Exterminators-win-an-international-gold-award-for-environmental-leadership-and-best-practices/34-735786",
@@ -649,54 +698,5 @@
     "title": "TN chief minister assures more supplies of essential commodities to Sri Lanka",
     "url": "http://www.adaderana.lk/news/82865/tn-chief-minister-assures-more-supplies-of-essential-commodities-to-sri-lanka",
     "file_name": "/tmp/news_lk2/articles/94/9479eadc.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654336740,
-    "title": "Sri Lanka schedules 2-hour 15 minute power cut from June 6-8",
-    "url": "https://economynext.com/sri-lanka-schedules-2-hour-15-minute-power-cut-from-june-6-8-95157/",
-    "file_name": "/tmp/news_lk2/articles/a1/a16df89e.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654334520,
-    "title": "Sri Lanka\u2019 Dipped Products net up on forex gains",
-    "url": "https://economynext.com/sri-lanka-dipped-products-net-up-on-forex-gains-95156/",
-    "file_name": "/tmp/news_lk2/articles/a8/a83ad171.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654334340,
-    "title": "Second phase of school first term commences on Monday",
-    "url": "http://www.adaderana.lk/news/82864/second-phase-of-school-first-term-commences-on-monday-",
-    "file_name": "/tmp/news_lk2/articles/6c/6c0868ee.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654331340,
-    "title": "Severn-hour water cut in several areas tonight",
-    "url": "http://www.adaderana.lk/news/82863/severn-hour-water-cut-in-several-areas-tonight",
-    "file_name": "/tmp/news_lk2/articles/c5/c5bc70f3.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654331340,
-    "title": "Severn-hour water cut for several areas",
-    "url": "http://www.adaderana.lk/news/82863/severn-hour-water-cut-for-several-areas",
-    "file_name": "/tmp/news_lk2/articles/d1/d173fbac.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654329840,
-    "title": "Resolve Russian issue before bilateral ties are damaged: Dinesh",
-    "url": "https://www.newsfirst.lk/2022/06/04/resolve-russian-issue-before-bilateral-ties-are-damaged-dinesh/",
-    "file_name": "/tmp/news_lk2/articles/d0/d010109a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654328040,
-    "title": "USD 400Mn received to import essential drugs",
-    "url": "https://www.newsfirst.lk/2022/06/04/usd-400mn-received-to-import-essential-drugs/",
-    "file_name": "/tmp/news_lk2/articles/03/03dc38ab.json"
   }
 ]

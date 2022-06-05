@@ -1,6 +1,55 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654461840,
+    "title": "SC refuses leave to proceed in FR application in Magistrate Court regarding GotaGoGama",
+    "url": "https://www.ft.lk/news/SC-refuses-leave-to-proceed-in-FR-application-in-Magistrate-Court-regarding-GotaGoGama/56-735793",
+    "file_name": "/tmp/news_lk2/articles/5f/5ff1e990.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654461660,
+    "title": "G.L. asks for more support from China",
+    "url": "https://www.ft.lk/news/G-L-asks-for-more-support-from-China/56-735792",
+    "file_name": "/tmp/news_lk2/articles/ea/ea9f3521.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654461600,
+    "title": "Nearly 50 killed in Bangladesh container depot blast",
+    "url": "https://www.ft.lk/news/Nearly-50-killed-in-Bangladesh-container-depot-blast/56-735790",
+    "file_name": "/tmp/news_lk2/articles/71/71cc2f9c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654461600,
+    "title": "21A to Cabinet today",
+    "url": "https://www.ft.lk/news/21A-to-Cabinet-today/56-735791",
+    "file_name": "/tmp/news_lk2/articles/2b/2b8f5099.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654461360,
+    "title": "Foreign Ministry says Aeroflot fiasco is a commercial dispute",
+    "url": "https://www.ft.lk/news/Foreign-Ministry-says-Aeroflot-fiasco-is-a-commercial-dispute/56-735789",
+    "file_name": "/tmp/news_lk2/articles/cd/cd02f599.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654461120,
+    "title": "Rising cost, sharp devaluation trigger loss at Tokyo Cement in FY22",
+    "url": "https://www.ft.lk/business/Rising-cost-sharp-devaluation-trigger-loss-at-Tokyo-Cement-in-FY22/34-735788",
+    "file_name": "/tmp/news_lk2/articles/f2/f237023b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654461000,
+    "title": "Dushyantha De Silva featured in Forbes \u201830 under 30 Asia 2022\u2019 list",
+    "url": "https://www.ft.lk/business/Dushyantha-De-Silva-featured-in-Forbes-30-under-30-Asia-2022-list/34-735787",
+    "file_name": "/tmp/news_lk2/articles/fc/fce71641.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "time_ut": 1654460880,
     "title": "Exterminators win an international gold award for environmental leadership and best practices",
     "url": "https://www.ft.lk/business/Exterminators-win-an-international-gold-award-for-environmental-leadership-and-best-practices/34-735786",
