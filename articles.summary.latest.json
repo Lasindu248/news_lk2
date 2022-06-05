@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654443000,
+    "title": "LAUGFS gas increases LP gas prices",
+    "url": "https://www.dailymirror.lk/latest_news/LAUGFS-gas-increases-LP-gas-prices/342-238448",
+    "file_name": "/tmp/news_lk2/articles/4d/4db5224d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654439880,
+    "title": "\u2018My Sweet Girl\u2019 by Amanda Jayatissa wins BIG at ThrillerFest 2022 in New York",
+    "url": "https://www.newsfirst.lk/2022/06/05/my-sweet-girl-by-amanda-jayatissa-wins-big-at-thrillerfest-2022-in-new-york/",
+    "file_name": "/tmp/news_lk2/articles/5a/5ae0dffe.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654439160,
     "title": "Sri Lank tea sharply up in rupee terms after currency collapse",
@@ -684,19 +698,5 @@
     "title": "Two dead, five injured in Thanamalwila accident",
     "url": "https://www.newsfirst.lk/2022/06/04/two-dead-five-injured-in-thanamalwila-accident/",
     "file_name": "/tmp/news_lk2/articles/8d/8d035596.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654321920,
-    "title": "Two nabbed with Kerala cannabis worth over Rs. 50Mn in Jaffna, Kilinochchi",
-    "url": "https://www.dailymirror.lk/breaking_news/Two-nabbed-with-Kerala-cannabis-worth-over-Rs-50Mn-in-Jaffna-Kilinochchi/108-238427",
-    "file_name": "/tmp/news_lk2/articles/ac/ac372961.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654321440,
-    "title": "Aeroflot suspends flights to Sri Lanka over aircraft\u2019s arrest",
-    "url": "https://www.dailymirror.lk/top_story/Aeroflot-suspends-flights-to-Sri-Lanka-over-aircrafts-arrest/155-238426",
-    "file_name": "/tmp/news_lk2/articles/d8/d850fa3f.json"
   }
 ]
