@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654439160,
+    "title": "Sri Lank tea sharply up in rupee terms after currency collapse",
+    "url": "https://economynext.com/sri-lank-tea-sharply-up-in-rupee-terms-after-currency-collapse-95190/",
+    "file_name": "/tmp/news_lk2/articles/9a/9a6d88bf.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654436940,
     "title": "Health officials warn over spread of hand, foot and mouth disease",
@@ -12,6 +19,13 @@
     "title": "21st Amendment to be submitted to Cabinet for approval tomorrow",
     "url": "http://www.adaderana.lk/news/82883/21st-amendment-to-be-submitted-to-cabinet-for-approval-tomorrow",
     "file_name": "/tmp/news_lk2/articles/37/37b5f735.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654434840,
+    "title": "LRC fund for fertilizer project ? : ST report",
+    "url": "https://www.newsfirst.lk/2022/06/05/lrc-fund-for-fertilizer-project-st-report/",
+    "file_name": "/tmp/news_lk2/articles/57/579bd61d.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -68,6 +82,13 @@
     "title": "Sri Lanka Port City set back by soft-peg collapse, unrest",
     "url": "https://economynext.com/sri-lanka-port-city-set-back-by-soft-peg-collapse-unrest-95185/",
     "file_name": "/tmp/news_lk2/articles/89/89dfb86e.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654426500,
+    "title": "Sri Lanka\u2019s China-baked Port City set back by soft-peg collapse, unrest",
+    "url": "https://economynext.com/sri-lankas-china-baked-port-city-set-back-by-soft-peg-collapse-unrest-95185/",
+    "file_name": "/tmp/news_lk2/articles/05/0579d131.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
