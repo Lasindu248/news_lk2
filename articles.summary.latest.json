@@ -1,6 +1,27 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654416000,
+    "title": "Aeroflot\u2019s repatriation flight departs BIA with stranded Russian passengers",
+    "url": "http://www.adaderana.lk/news/82878/aeroflots-repatriation-flight-departs-bia-with-stranded-russian-passengers",
+    "file_name": "/tmp/news_lk2/articles/18/1892da47.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654415040,
+    "title": "Sri Lanka agriculture goes to pot after soft-peg collapse",
+    "url": "https://economynext.com/sri-lanka-agriculture-goes-to-pot-after-soft-peg-collapse-95183/",
+    "file_name": "/tmp/news_lk2/articles/f3/f3cb81fe.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654414860,
+    "title": "Sri Lanka\u2019s AG to make submissions on Aeroflot",
+    "url": "https://www.newsfirst.lk/2022/06/05/sri-lankas-ag-to-make-submissions-on-aeroflot/",
+    "file_name": "/tmp/news_lk2/articles/8c/8c56860e.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654413600,
     "title": "At least 28 dead in fire at Bangladesh container depot",
     "url": "http://www.adaderana.lk/news/82877/at-least-28-dead-in-fire-at-bangladesh-container-depot",
@@ -677,26 +698,5 @@
     "title": "Showers or thundershowers expected at times today",
     "url": "http://www.adaderana.lk/news/82857/showers-or-thundershowers-expected-at-times-today",
     "file_name": "/tmp/news_lk2/articles/7f/7f1a6f1b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654304160,
-    "title": "Russian Foreign Ministry summons Ambassador of Sri Lanka over seizure of Aeroflot plane",
-    "url": "https://www.dailymirror.lk/breaking_news/Russian-Foreign-Ministry-summons-Ambassador-of-Sri-Lanka-over-seizure-of-Aeroflot-plane/108-238396",
-    "file_name": "/tmp/news_lk2/articles/e1/e12fc005.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654302600,
-    "title": "Sri Lanka\u2019s Impending Food Disaster: The Facts",
-    "url": "https://www.newsfirst.lk/2022/06/04/sri-lankas-impending-food-disaster-the-facts/",
-    "file_name": "/tmp/news_lk2/articles/de/def1a377.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654302600,
-    "title": "A Food Crisis? The Facts",
-    "url": "https://www.newsfirst.lk/2022/06/04/a-food-crisis-the-facts/",
-    "file_name": "/tmp/news_lk2/articles/f7/f76a64d2.json"
   }
 ]
