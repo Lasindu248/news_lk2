@@ -1,6 +1,62 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654405020,
+    "title": "Sri Lanka responds to row over detained Russian plane",
+    "url": "http://www.adaderana.lk/news/82874/sri-lanka-responds-to-row-over-detained-russian-plane",
+    "file_name": "/tmp/news_lk2/articles/56/568e9430.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654404000,
+    "title": "Private bus services to reduce by 50% from tomorrow (6)",
+    "url": "https://www.newsfirst.lk/2022/06/05/private-bus-services-to-reduce-by-50-from-tomorrow-6/",
+    "file_name": "/tmp/news_lk2/articles/ce/ce95790d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654403160,
+    "title": "Veteran actress Sumana Amarasinghe passes away",
+    "url": "http://www.adaderana.lk/news/82873/veteran-actress-sumana-amarasinghe-passes-away",
+    "file_name": "/tmp/news_lk2/articles/44/440c2e38.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654402680,
+    "title": "Veteran actress Sumana Amarasinghe passes away",
+    "url": "https://www.newsfirst.lk/2022/06/05/veteran-actress-sumana-amarasinghe-passes-away/",
+    "file_name": "/tmp/news_lk2/articles/3a/3ab260c2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654402080,
+    "title": "Man shot dead in Ahangama",
+    "url": "https://www.newsfirst.lk/2022/06/05/man-shot-dead-in-ahangama/",
+    "file_name": "/tmp/news_lk2/articles/4c/4cda5d14.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654401840,
+    "title": "Unidentified body found on Ma Oya banks",
+    "url": "https://www.newsfirst.lk/2022/06/05/unidentified-body-found-on-ma-oya-banks/",
+    "file_name": "/tmp/news_lk2/articles/6d/6de2afc3.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654401600,
+    "title": "Public Service Commission to review two reports by IGP",
+    "url": "https://www.newsfirst.lk/2022/06/05/public-service-commission-to-review-two-reports-by-igp/",
+    "file_name": "/tmp/news_lk2/articles/f3/f357617c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654401240,
+    "title": "Russian Embassy is aware that Govt cannot impede on judicial process: Minister",
+    "url": "https://www.newsfirst.lk/2022/06/05/russian-embassy-is-aware-that-govt-cannot-impede-on-judicial-process-minister/",
+    "file_name": "/tmp/news_lk2/articles/e8/e84ed8b8.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654399920,
     "title": "Showers expected in several provinces and districts",
     "url": "http://www.adaderana.lk/news/82872/showers-expected-in-several-provinces-and-districts",
@@ -642,61 +698,5 @@
     "title": "BASL raises concerns over indiscriminate arrests",
     "url": "https://www.ft.lk/news/BASL-raises-concerns-over-indiscriminate-arrests/56-735733",
     "file_name": "/tmp/news_lk2/articles/6b/6b0b652e.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654284300,
-    "title": "Japanese investors tell BOI optimistic about investment opportunities in Sri Lanka",
-    "url": "https://www.ft.lk/business/Japanese-investors-tell-BOI-optimistic-about-investment-opportunities-in-Sri-Lanka/34-735732",
-    "file_name": "/tmp/news_lk2/articles/11/11da47e7.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654284240,
-    "title": "OPA hands over proposals on addressing agriculture, food production crisis to Agriculture Ministry",
-    "url": "https://www.ft.lk/business/OPA-hands-over-proposals-on-addressing-agriculture-food-production-crisis-to-Agriculture-Ministry/34-735731",
-    "file_name": "/tmp/news_lk2/articles/1a/1a72ba7c.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654284180,
-    "title": "Eric Rajapakse Opticians marks 105th anniversary with free eye, hearing testing offer",
-    "url": "https://www.ft.lk/business/Eric-Rajapakse-Opticians-marks-105th-anniversary-with-free-eye-hearing-testing-offer/34-735730",
-    "file_name": "/tmp/news_lk2/articles/7b/7b0cf594.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654284180,
-    "title": "Poultry traders justify soaring egg prices",
-    "url": "https://www.ft.lk/business/Poultry-traders-justify-soaring-egg-prices/34-735729",
-    "file_name": "/tmp/news_lk2/articles/c9/c9dc0d19.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654281000,
-    "title": "MP Ganesan condemns MP Wedaarachchi\u2019s son over obscenities against police",
-    "url": "https://www.dailymirror.lk/breaking_news/MP-Ganesan-condemns-MP-Wedaarachchis-son-over-obscenities-against-police/108-238372",
-    "file_name": "/tmp/news_lk2/articles/ef/ef3addcf.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654281000,
-    "title": "MP Ganesan condemns MP Wedaarachchi\u2019s son over obscenities against police",
-    "url": "https://www.dailymirror.lk/front_page/MP-Ganesan-condemns-MP-Wedaarachchis-son-over-obscenities-against-police/238-238372",
-    "file_name": "/tmp/news_lk2/articles/df/df006664.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654280940,
-    "title": "Russia\u2019s flagship carrier seeks suspension of enjoining order on its aircraft",
-    "url": "http://www.adaderana.lk/news/82856/russias-flagship-carrier-seeks-suspension-of-enjoining-order-on-its-aircraft",
-    "file_name": "/tmp/news_lk2/articles/04/0448626c.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654280700,
-    "title": "Company handling SPC software deny allegations made at COPE meeting",
-    "url": "http://www.adaderana.lk/news/82855/company-handling-spc-software-deny-allegations-made-at-cope-meeting",
-    "file_name": "/tmp/news_lk2/articles/63/63a44d64.json"
   }
 ]
