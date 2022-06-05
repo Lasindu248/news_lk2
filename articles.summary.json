@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654443720,
+    "title": "One dead, two injured in shooting at Tangalle",
+    "url": "http://www.adaderana.lk/news/82885/one-dead-two-injured-in-shooting-at-tangalle",
+    "file_name": "/tmp/news_lk2/articles/9f/9f89ec1e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654443000,
+    "title": "LAUGFS gas increases LP gas prices",
+    "url": "https://www.dailymirror.lk/latest_news/LAUGFS-gas-increases-LP-gas-prices/342-238448",
+    "file_name": "/tmp/news_lk2/articles/4d/4db5224d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654439880,
+    "title": "\u2018My Sweet Girl\u2019 by Amanda Jayatissa wins BIG at ThrillerFest 2022 in New York",
+    "url": "https://www.newsfirst.lk/2022/06/05/my-sweet-girl-by-amanda-jayatissa-wins-big-at-thrillerfest-2022-in-new-york/",
+    "file_name": "/tmp/news_lk2/articles/5a/5ae0dffe.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654439160,
     "title": "Sri Lank tea sharply up in rupee terms after currency collapse",
