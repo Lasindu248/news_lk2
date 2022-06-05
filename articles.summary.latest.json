@@ -1,6 +1,20 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654435200,
+    "title": "21st Amendment to be submitted to Cabinet for approval tomorrow",
+    "url": "http://www.adaderana.lk/news/82883/21st-amendment-to-be-submitted-to-cabinet-for-approval-tomorrow",
+    "file_name": "/tmp/news_lk2/articles/37/37b5f735.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654432860,
+    "title": "D. E. W. Gunasekera alleges hidden forces behind Aeroflot issue",
+    "url": "https://www.newsfirst.lk/2022/06/05/d-e-w-gunasekera-alleges-hidden-forces-behind-aeroflot-issue/",
+    "file_name": "/tmp/news_lk2/articles/2a/2a57a1ae.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654430460,
     "title": "India provides life-saving drugs, equipment to Jaffna Hospital",
     "url": "http://www.adaderana.lk/news/82882/india-provides-life-saving-drugs-equipment-to-jaffna-hospital",
@@ -684,19 +698,5 @@
     "title": "SL envoy in Russia summoned over Russian plane at BIA",
     "url": "https://www.newsfirst.lk/2022/06/04/sl-envoy-in-russia-summoned-over-russian-plane-at-bia/",
     "file_name": "/tmp/news_lk2/articles/06/062729a9.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654318440,
-    "title": "Soldier attached to Sumanthiran\u2019s security detail takes own life",
-    "url": "http://www.adaderana.lk/news/82860/soldier-attached-to-sumanthirans-security-detail-takes-own-life",
-    "file_name": "/tmp/news_lk2/articles/ec/ec0e143d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654318200,
-    "title": "Prez instructs to grow food crops on underutilized lands owned by plantation companies",
-    "url": "https://www.dailymirror.lk/latest_news/Prez-instructs-to-grow-food-crops-on-underutilized-lands-owned-by-plantation-companies/342-238416",
-    "file_name": "/tmp/news_lk2/articles/0f/0f5626cb.json"
   }
 ]
