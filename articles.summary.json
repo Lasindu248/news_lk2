@@ -1,10 +1,38 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654419540,
+    "title": "Bangladesh fire",
+    "url": "https://www.dailymirror.lk/caption_story/Bangladesh-fire/110-238443",
+    "file_name": "/tmp/news_lk2/articles/eb/eb9d4346.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654418640,
+    "title": "Minister holds discussions with Russian Embassy and Russian Aeroflot",
+    "url": "https://www.dailymirror.lk/breaking_news/Minister-holds-discussions-with-Russian-Embassy-and-Russian-Aeroflot/108-238439",
+    "file_name": "/tmp/news_lk2/articles/af/af71cce1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654417080,
     "title": "Fridays to be \u2019work from home\u2019 days for public servants: Minister",
     "url": "https://www.dailymirror.lk/breaking_news/Fridays-to-be-work-from-home-days-for-public-servants-Minister/108-238438",
     "file_name": "/tmp/news_lk2/articles/8b/8bfb867d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654416840,
+    "title": "13 State institutions summoned to COPE & COPA",
+    "url": "https://www.newsfirst.lk/2022/06/05/13-state-institutions-summoned-to-cope-copa/",
+    "file_name": "/tmp/news_lk2/articles/69/69faa10e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654416000,
+    "title": "Protests against cost of living continue",
+    "url": "https://www.newsfirst.lk/2022/06/05/protests-against-cost-of-living-continue/",
+    "file_name": "/tmp/news_lk2/articles/ad/adc8e689.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -75,6 +103,13 @@
     "title": "Aeroflot send flight to bring back Russians",
     "url": "https://www.newsfirst.lk/2022/06/05/aeroflot-send-flight-to-bring-back-russians/",
     "file_name": "/tmp/news_lk2/articles/55/55cf80d1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654409460,
+    "title": "Aeroflot aircraft matter is private legal issue: PM informs Russia",
+    "url": "https://www.dailymirror.lk/top_story/Aeroflot-aircraft-matter-is-private-legal-issue-PM-informs-Russia/155-238436",
+    "file_name": "/tmp/news_lk2/articles/ec/ec5c8d0e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -523,6 +558,13 @@
     "title": "Aeroflot suspends flights to Sri Lanka over aircraft\u2019s arrest",
     "url": "https://www.dailymirror.lk/top_story/Aeroflot-suspends-flights-to-Sri-Lanka-over-aircrafts-arrest/155-238426",
     "file_name": "/tmp/news_lk2/articles/d8/d850fa3f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654321440,
+    "title": "Aeroflot suspends flights to Sri Lanka over aircraft\u2019s arrest",
+    "url": "https://www.dailymirror.lk/breaking_news/Aeroflot-suspends-flights-to-Sri-Lanka-over-aircrafts-arrest/108-238426",
+    "file_name": "/tmp/news_lk2/articles/93/93e1f3a3.json"
   },
   {
     "newspaper_id": "news-first-lk",

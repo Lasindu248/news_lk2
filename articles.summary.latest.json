@@ -1,10 +1,38 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654419540,
+    "title": "Bangladesh fire",
+    "url": "https://www.dailymirror.lk/caption_story/Bangladesh-fire/110-238443",
+    "file_name": "/tmp/news_lk2/articles/eb/eb9d4346.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654418640,
+    "title": "Minister holds discussions with Russian Embassy and Russian Aeroflot",
+    "url": "https://www.dailymirror.lk/breaking_news/Minister-holds-discussions-with-Russian-Embassy-and-Russian-Aeroflot/108-238439",
+    "file_name": "/tmp/news_lk2/articles/af/af71cce1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654417080,
     "title": "Fridays to be \u2019work from home\u2019 days for public servants: Minister",
     "url": "https://www.dailymirror.lk/breaking_news/Fridays-to-be-work-from-home-days-for-public-servants-Minister/108-238438",
     "file_name": "/tmp/news_lk2/articles/8b/8bfb867d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654416840,
+    "title": "13 State institutions summoned to COPE & COPA",
+    "url": "https://www.newsfirst.lk/2022/06/05/13-state-institutions-summoned-to-cope-copa/",
+    "file_name": "/tmp/news_lk2/articles/69/69faa10e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654416000,
+    "title": "Protests against cost of living continue",
+    "url": "https://www.newsfirst.lk/2022/06/05/protests-against-cost-of-living-continue/",
+    "file_name": "/tmp/news_lk2/articles/ad/adc8e689.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -75,6 +103,13 @@
     "title": "Aeroflot send flight to bring back Russians",
     "url": "https://www.newsfirst.lk/2022/06/05/aeroflot-send-flight-to-bring-back-russians/",
     "file_name": "/tmp/news_lk2/articles/55/55cf80d1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654409460,
+    "title": "Aeroflot aircraft matter is private legal issue: PM informs Russia",
+    "url": "https://www.dailymirror.lk/top_story/Aeroflot-aircraft-matter-is-private-legal-issue-PM-informs-Russia/155-238436",
+    "file_name": "/tmp/news_lk2/articles/ec/ec5c8d0e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -525,6 +560,13 @@
     "file_name": "/tmp/news_lk2/articles/d8/d850fa3f.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654321440,
+    "title": "Aeroflot suspends flights to Sri Lanka over aircraft\u2019s arrest",
+    "url": "https://www.dailymirror.lk/breaking_news/Aeroflot-suspends-flights-to-Sri-Lanka-over-aircrafts-arrest/108-238426",
+    "file_name": "/tmp/news_lk2/articles/93/93e1f3a3.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654320780,
     "title": "NO involvement of State in Aeroflot issue: AASL",
@@ -656,47 +698,5 @@
     "title": "Two elephants knocked to death by train; one wounded",
     "url": "https://www.dailymirror.lk/breaking_news/Two-elephants-knocked-to-death-by-train-one-wounded/108-238415",
     "file_name": "/tmp/news_lk2/articles/d7/d747fc77.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654311420,
-    "title": "Two elephants knocked to death by train; one wounded",
-    "url": "https://www.dailymirror.lk/latest_news/Two-elephants-knocked-to-death-by-train-one-wounded/342-238415",
-    "file_name": "/tmp/news_lk2/articles/c4/c42d6023.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654310760,
-    "title": "CEB to increase electricity tariff?",
-    "url": "https://www.newsfirst.lk/2022/06/04/ceb-to-increase-electricity-tariff/",
-    "file_name": "/tmp/news_lk2/articles/1a/1affda85.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654309560,
-    "title": "Russian Foreign Ministry summons Sri Lankan envoy over detained plane",
-    "url": "http://www.adaderana.lk/news/82858/russian-foreign-ministry-summons-sri-lankan-envoy-over-detained-plane",
-    "file_name": "/tmp/news_lk2/articles/e4/e493f22d.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654309500,
-    "title": "Two elephants dead after knocked down by train",
-    "url": "https://www.newsfirst.lk/2022/06/04/two-elephants-dead-after-knocked-down-by-train/",
-    "file_name": "/tmp/news_lk2/articles/f4/f4ebdd77.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654308840,
-    "title": "7-hour water cut for Kotte tonight (4)",
-    "url": "https://www.newsfirst.lk/2022/06/04/7-hour-water-cut-for-kotte-tonight-4/",
-    "file_name": "/tmp/news_lk2/articles/e1/e1da7367.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654307580,
-    "title": "Showers & thundershowers likely on Saturday (4); Met Dept.",
-    "url": "https://www.newsfirst.lk/2022/06/04/showers-met-dept/",
-    "file_name": "/tmp/news_lk2/articles/a3/a305993e.json"
   }
 ]
