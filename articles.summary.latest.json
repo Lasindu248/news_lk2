@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654399920,
+    "title": "Showers expected in several provinces and districts",
+    "url": "http://www.adaderana.lk/news/82872/showers-expected-in-several-provinces-and-districts",
+    "file_name": "/tmp/news_lk2/articles/c3/c3bbca8d.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654396440,
     "title": "Sri Lanka\u2019s Water Supply Board loses Rs3.1 bn in 2021",
@@ -691,12 +698,5 @@
     "title": "Company handling SPC software deny allegations made at COPE meeting",
     "url": "http://www.adaderana.lk/news/82855/company-handling-spc-software-deny-allegations-made-at-cope-meeting",
     "file_name": "/tmp/news_lk2/articles/63/63a44d64.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654280700,
-    "title": "Company handling SPC software denies allegations made at COPE meeting",
-    "url": "http://www.adaderana.lk/news/82855/company-handling-spc-software-denies-allegations-made-at-cope-meeting",
-    "file_name": "/tmp/news_lk2/articles/23/232d6741.json"
   }
 ]
