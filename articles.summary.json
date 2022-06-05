@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654396440,
+    "title": "Sri Lanka\u2019s Water Supply Board loses Rs3.1 bn in 2021",
+    "url": "https://economynext.com/sri-lankas-water-supply-board-loses-rs3-1-bn-in-2021-95163/",
+    "file_name": "/tmp/news_lk2/articles/6f/6f2bc247.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654367100,
     "title": "LRH says 20% children admitted suffer from malnutrition",
@@ -61,6 +68,13 @@
     "title": "Russia\u2019s Aeroflot aircraft grounding lands Sri Lanka in diplomatic spat",
     "url": "https://economynext.com/russias-aeroflot-aircraft-grounding-lands-sri-lanka-in-diplomatic-spat-95168/",
     "file_name": "/tmp/news_lk2/articles/4c/4c1982b0.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654360920,
+    "title": "Aeroflot grounding lands Sri Lanka in diplomatic spat with Russia",
+    "url": "https://economynext.com/aeroflot-grounding-lands-sri-lanka-in-diplomatic-spat-with-russia-95168/",
+    "file_name": "/tmp/news_lk2/articles/e7/e73995f3.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
