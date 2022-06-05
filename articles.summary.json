@@ -1,6 +1,27 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654436940,
+    "title": "Health officials warn over spread of hand, foot and mouth disease",
+    "url": "http://www.adaderana.lk/news/82884/health-officials-warn-over-spread-of-hand-foot-and-mouth-disease",
+    "file_name": "/tmp/news_lk2/articles/8b/8b24c22e.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654435200,
+    "title": "21st Amendment to be submitted to Cabinet for approval tomorrow",
+    "url": "http://www.adaderana.lk/news/82883/21st-amendment-to-be-submitted-to-cabinet-for-approval-tomorrow",
+    "file_name": "/tmp/news_lk2/articles/37/37b5f735.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654432860,
+    "title": "D. E. W. Gunasekera alleges hidden forces behind Aeroflot issue",
+    "url": "https://www.newsfirst.lk/2022/06/05/d-e-w-gunasekera-alleges-hidden-forces-behind-aeroflot-issue/",
+    "file_name": "/tmp/news_lk2/articles/2a/2a57a1ae.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654430460,
     "title": "India provides life-saving drugs, equipment to Jaffna Hospital",
     "url": "http://www.adaderana.lk/news/82882/india-provides-life-saving-drugs-equipment-to-jaffna-hospital",
