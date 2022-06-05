@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654422540,
+    "title": "Laugfs LP gas prices increased",
+    "url": "http://www.adaderana.lk/news/82879/laugfs-lp-gas-prices-increased",
+    "file_name": "/tmp/news_lk2/articles/4f/4f1b9ee9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654421220,
+    "title": "5 killed, 11 injured due to accidents yesterday",
+    "url": "https://www.newsfirst.lk/2022/06/05/5-killed-11-injured-due-to-accidents-yesterday/",
+    "file_name": "/tmp/news_lk2/articles/8c/8c42ba18.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654421100,
+    "title": "Two men restore eyesight after 16 years after schoolboy donates eyes",
+    "url": "https://www.dailymirror.lk/breaking_news/Two-men-restore-eyesight-after-16-years-after-schoolboy-donates-eyes/108-238440",
+    "file_name": "/tmp/news_lk2/articles/3f/3f0b0469.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654419540,
     "title": "Bangladesh fire",
@@ -677,26 +698,5 @@
     "title": "Sri Lanka stocks suffer first weekly loss in four weeks; see foreign inflows",
     "url": "https://economynext.com/sri-lanka-stocks-suffer-first-weekly-loss-in-four-weeks-see-foreign-inflows-95143/",
     "file_name": "/tmp/news_lk2/articles/4e/4ee58672.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654312140,
-    "title": "Govt. planning to maintain fuel supply for three-wheelers: PM",
-    "url": "https://www.dailymirror.lk/breaking_news/Govt-planning-to-maintain-fuel-supply-for-three-wheelers-PM/108-238397",
-    "file_name": "/tmp/news_lk2/articles/8a/8a510cc5.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654311780,
-    "title": "$100 Mn to import essential goods",
-    "url": "https://www.newsfirst.lk/2022/06/04/100-mn-to-import-essential-goods/",
-    "file_name": "/tmp/news_lk2/articles/47/47991b32.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654311420,
-    "title": "Two elephants knocked to death by train; one wounded",
-    "url": "https://www.dailymirror.lk/breaking_news/Two-elephants-knocked-to-death-by-train-one-wounded/108-238415",
-    "file_name": "/tmp/news_lk2/articles/d7/d747fc77.json"
   }
 ]
