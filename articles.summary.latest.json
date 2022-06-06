@@ -1,24 +1,10 @@
 [
   {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654521180,
-    "title": "CBSL explains Current Exchange Rate Arrangement",
-    "url": "https://www.newsfirst.lk/2022/06/06/cbsl-explains-current-exchange-rate-arrangement/",
-    "file_name": "/tmp/news_lk2/articles/ab/ab456af8.json"
-  },
-  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654521180,
     "title": "Aeroflot flight detained in Sri Lanka departs for Moscow",
     "url": "http://www.adaderana.lk/news/82899/aeroflot-flight-detained-in-sri-lanka-departs-for-moscow",
     "file_name": "/tmp/news_lk2/articles/76/7610522a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654520400,
-    "title": "Young man gunned down in Mutuwal; Sixth shooting victim in a week",
-    "url": "https://www.newsfirst.lk/2022/06/06/young-man-gunned-down-in-mutuwal-sixth-shooting-victim-in-a-week/",
-    "file_name": "/tmp/news_lk2/articles/2f/2f4944bb.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -40,13 +26,6 @@
     "title": "Youth killed in shooting incident in Modara",
     "url": "https://www.dailymirror.lk/latest_news/Youth-killed-in-shooting-incident-in-Modara/342-238530",
     "file_name": "/tmp/news_lk2/articles/b9/b91ef382.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654519320,
-    "title": "Protestor sentenced to 3 & 1/2 years for causing property damage",
-    "url": "https://www.newsfirst.lk/2022/06/06/protestor-sentenced-to-3-1-2-years-for-causing-property-damage/",
-    "file_name": "/tmp/news_lk2/articles/04/04756018.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -698,5 +677,26 @@
     "title": "Dushyantha De Silva featured in Forbes \u201830 under 30 Asia 2022\u2019 list",
     "url": "https://www.ft.lk/business/Dushyantha-De-Silva-featured-in-Forbes-30-under-30-Asia-2022-list/34-735787",
     "file_name": "/tmp/news_lk2/articles/fc/fce71641.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654460880,
+    "title": "Exterminators win an international gold award for environmental leadership and best practices",
+    "url": "https://www.ft.lk/business/Exterminators-win-an-international-gold-award-for-environmental-leadership-and-best-practices/34-735786",
+    "file_name": "/tmp/news_lk2/articles/24/24cd6d8b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654460640,
+    "title": "Agile for the Enterprise",
+    "url": "https://www.ft.lk/business/Agile-for-the-Enterprise/34-735785",
+    "file_name": "/tmp/news_lk2/articles/de/dea1664d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654454160,
+    "title": "Presidential pardons and Courts of Justice - EDITORIAL",
+    "url": "https://www.dailymirror.lk/opinion/Presidential-pardons-and-Courts-of-Justice-EDITORIAL/172-238450",
+    "file_name": "/tmp/news_lk2/articles/d8/d8cfe1b6.json"
   }
 ]
