@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654508280,
+    "title": "Prasanna Ranatunga sentenced to 2 years suspended imprisonment",
+    "url": "https://www.dailymirror.lk/breaking_news/Prasanna-Ranatunga-sentenced-to-2-years-suspended-imprisonment/108-238522",
+    "file_name": "/tmp/news_lk2/articles/26/26de04fa.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654507980,
+    "title": "Indian businessman nabbed with Canadian dollars & Euros worth over Rs. 40Mn at BIA",
+    "url": "https://www.dailymirror.lk/breaking_news/Indian-businessman-nabbed-with-Canadian-dollars-Euros-worth-over-Rs-40Mn-at-BIA/108-238521",
+    "file_name": "/tmp/news_lk2/articles/b9/b9541c7b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654507500,
+    "title": "Sri Lanka\u2019s Sapugaskanda oil refinery to release 800MT of diesel to market",
+    "url": "https://economynext.com/sri-lankas-sapugaskanda-oil-refinery-to-release-800mt-of-diesel-to-market-95212/",
+    "file_name": "/tmp/news_lk2/articles/24/243183ac.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654506600,
+    "title": "Court suspends injunction order against Russian plane",
+    "url": "http://www.adaderana.lk/news/82895/court-suspends-injunction-order-against-russian-plane",
+    "file_name": "/tmp/news_lk2/articles/f5/f5bc877e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654505880,
     "title": "Sri Lanka Post suspends airmail services to Russia",
@@ -14,6 +42,13 @@
     "file_name": "/tmp/news_lk2/articles/95/95afd3a6.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654504980,
+    "title": "Sri Lankan court lifts ban on Aeroflot flight from leaving Sri Lanka.",
+    "url": "https://www.newsfirst.lk/2022/06/06/sri-lankan-court-lifts-ban-on-aeroflot-flight-from-leaving-sri-lanka/",
+    "file_name": "/tmp/news_lk2/articles/c1/c1eaf4d4.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654504920,
     "title": "Order issued suspending enjoining order against Russian Aeroflot flight",
@@ -26,6 +61,20 @@
     "title": "Another fuel price hike likely by mid-June: Ananda Palitha",
     "url": "https://www.dailymirror.lk/breaking_news/Another-fuel-price-hike-likely-by-mid-June-Ananda-Palitha/108-238519",
     "file_name": "/tmp/news_lk2/articles/84/84ef1d90.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654504920,
+    "title": "Order issued suspending enjoining order against Russian Aeroflot flight",
+    "url": "https://www.dailymirror.lk/latest_news/Order-issued-suspending-enjoining-order-against-Russian-Aeroflot-flight/342-238520",
+    "file_name": "/tmp/news_lk2/articles/56/560fe39e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654504920,
+    "title": "Another fuel price hike likely by mid-June: Ananda Palitha",
+    "url": "https://www.dailymirror.lk/latest_news/Another-fuel-price-hike-likely-by-mid-June-Ananda-Palitha/342-238519",
+    "file_name": "/tmp/news_lk2/articles/54/54a00823.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -442,6 +491,13 @@
   },
   {
     "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654461840,
+    "title": "SC refuses leave to proceed in FR against application in Magistrate Court regarding GotaGoGama",
+    "url": "https://www.ft.lk/news/SC-refuses-leave-to-proceed-in-FR-against-application-in-Magistrate-Court-regarding-GotaGoGama/56-735793",
+    "file_name": "/tmp/news_lk2/articles/a1/a17940be.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "time_ut": 1654461660,
     "title": "G.L. asks for more support from China",
     "url": "https://www.ft.lk/news/G-L-asks-for-more-support-from-China/56-735792",
@@ -642,61 +698,5 @@
     "title": "Sri Lank tea prices inflate steeply after currency collapse",
     "url": "https://economynext.com/sri-lank-tea-prices-inflate-steeply-after-currency-collapse-95190/",
     "file_name": "/tmp/news_lk2/articles/d4/d44c58a0.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1654437240,
-    "title": "EU promotes \u2018Art for Peace\u2019 as peace and prosperity are at stake",
-    "url": "http://island.lk/eu-promotes-art-for-peace-as-peace-and-prosperity-are-at-stake/",
-    "file_name": "/tmp/news_lk2/articles/d5/d5765037.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1654437180,
-    "title": "HNB Finance records exceptional performance turnaround",
-    "url": "http://island.lk/hnb-finance-records-exceptional-performance-turnaround/",
-    "file_name": "/tmp/news_lk2/articles/39/398e7a6c.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1654437120,
-    "title": "State banks have not written off any \u2018bad loans\u2019, says CBEU",
-    "url": "http://island.lk/state-banks-have-not-written-off-any-bad-loans-says-cbeu/",
-    "file_name": "/tmp/news_lk2/articles/f9/f9f002e9.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654436940,
-    "title": "Health officials warn over spread of hand, foot and mouth disease",
-    "url": "http://www.adaderana.lk/news/82884/health-officials-warn-over-spread-of-hand-foot-and-mouth-disease",
-    "file_name": "/tmp/news_lk2/articles/8b/8b24c22e.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654435200,
-    "title": "21st Amendment to be submitted to Cabinet for approval tomorrow",
-    "url": "http://www.adaderana.lk/news/82883/21st-amendment-to-be-submitted-to-cabinet-for-approval-tomorrow",
-    "file_name": "/tmp/news_lk2/articles/37/37b5f735.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654434840,
-    "title": "LRC fund for fertilizer project ? : ST report",
-    "url": "https://www.newsfirst.lk/2022/06/05/lrc-fund-for-fertilizer-project-st-report/",
-    "file_name": "/tmp/news_lk2/articles/57/579bd61d.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1654433940,
-    "title": "Exterminators win international gold award for environmental leadership and best practices",
-    "url": "http://island.lk/exterminators-win-international-gold-award-for-environmental-leadership-and-best-practices/",
-    "file_name": "/tmp/news_lk2/articles/80/80cb3671.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1654433880,
-    "title": "International School of Western Australia offers scholarships",
-    "url": "http://island.lk/international-school-of-western-australia-offers-scholarships/",
-    "file_name": "/tmp/news_lk2/articles/1e/1e57a482.json"
   }
 ]
