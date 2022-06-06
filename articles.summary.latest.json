@@ -1,26 +1,5 @@
 [
   {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654514040,
-    "title": "Sri Lanka explains regime which is still creating forex shortages",
-    "url": "https://economynext.com/sri-lanka-explains-regime-which-is-still-creating-forex-shortages-95215/",
-    "file_name": "/tmp/news_lk2/articles/f9/f94a0d3c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654513500,
-    "title": "SLAF launches \u2019Waga Sangramaya\u2019",
-    "url": "https://www.dailymirror.lk/caption_story/SLAF-launches-Waga-Sangramaya/110-238525",
-    "file_name": "/tmp/news_lk2/articles/77/77d14644.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654511340,
-    "title": "Army emerge overall champions at National Canoeing & Kayaking Competition",
-    "url": "https://www.newsfirst.lk/2022/06/06/army-emerge-overall-champions-at-national-canoeing-kayaking-competition/",
-    "file_name": "/tmp/news_lk2/articles/5f/5fa93a59.json"
-  },
-  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654509420,
     "title": "Army Chief pays courtesies to Navy Commander",
@@ -698,5 +677,26 @@
     "title": "Dry rations for low-income families in Ragama",
     "url": "https://www.dailymirror.lk/caption_story/Dry-rations-for-low-income-families-in-Ragama/110-238500",
     "file_name": "/tmp/news_lk2/articles/da/da8ffee4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654447080,
+    "title": "Dry rations for low-income families in Ragama",
+    "url": "https://www.dailymirror.lk/latest_news/Dry-rations-for-low-income-families-in-Ragama/342-238500",
+    "file_name": "/tmp/news_lk2/articles/6f/6f1310e2.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654443720,
+    "title": "One dead, two injured in shooting at Tangalle",
+    "url": "http://www.adaderana.lk/news/82885/one-dead-two-injured-in-shooting-at-tangalle",
+    "file_name": "/tmp/news_lk2/articles/9f/9f89ec1e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654443000,
+    "title": "LAUGFS gas increases LP gas prices",
+    "url": "https://www.dailymirror.lk/latest_news/LAUGFS-gas-increases-LP-gas-prices/342-238448",
+    "file_name": "/tmp/news_lk2/articles/4d/4db5224d.json"
   }
 ]
