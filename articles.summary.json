@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654528800,
+    "title": "President vows to finish term, won\u2019t run for re-election",
+    "url": "https://www.dailymirror.lk/latest_news/President-vows-to-finish-term-wont-run-for-re-election/342-238537",
+    "file_name": "/tmp/news_lk2/articles/1e/1e18ad98.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654527780,
     "title": "President Rajapaksa vows to finish term, won\u2019t run for re-election",
@@ -12,6 +19,13 @@
     "title": "Ranjan sits for first-semester exam of bachelor\u2019s degree",
     "url": "https://www.dailymirror.lk/breaking_news/Ranjan-sits-for-first-semester-exam-of-bachelors-degree/108-238535",
     "file_name": "/tmp/news_lk2/articles/6d/6d6e5ef7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654526400,
+    "title": "Ranjan sits for first-semester exam of bachelor\u2019s degree",
+    "url": "https://www.dailymirror.lk/latest_news/Ranjan-sits-for-first-semester-exam-of-bachelors-degree/342-238535",
+    "file_name": "/tmp/news_lk2/articles/b1/b1ab0fe6.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -285,6 +299,13 @@
     "title": "Another fuel price hike likely by mid-June: Ananda Palitha",
     "url": "https://www.dailymirror.lk/latest_news/Another-fuel-price-hike-likely-by-mid-June-Ananda-Palitha/342-238519",
     "file_name": "/tmp/news_lk2/articles/54/54a00823.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654504860,
+    "title": "CID yet to locate Johnston",
+    "url": "https://www.dailymirror.lk/latest_news/CID-yet-to-locate-Johnston/342-238518",
+    "file_name": "/tmp/news_lk2/articles/30/30934e07.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
