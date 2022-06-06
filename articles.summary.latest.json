@@ -1,10 +1,45 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654539360,
+    "title": "Russia welcomes Sri Lanka\u2019s decision to release seized Aeroflot aircraft",
+    "url": "http://www.adaderana.lk/news/82903/russia-welcomes-sri-lankas-decision-to-release-seized-aeroflot-aircraft",
+    "file_name": "/tmp/news_lk2/articles/fc/fca00d6c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654533960,
+    "title": "Sri Lanka stocks plunge to near 4-wk low on political, economic woes",
+    "url": "https://economynext.com/sri-lanka-stocks-plunge-to-near-4-wk-low-on-political-economic-woes-95233/",
+    "file_name": "/tmp/news_lk2/articles/a4/a48d45f2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654532820,
+    "title": "Verbal abuse of cop: Fmr UC Chairman Ravindu Wedaarachchi & his wife arrested",
+    "url": "https://www.dailymirror.lk/latest_news/Verbal-abuse-of-cop-Fmr-UC-Chairman-Ravindu-Wedaarachchi-his-wife-arrested/342-238538",
+    "file_name": "/tmp/news_lk2/articles/49/4977c8ff.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654531620,
+    "title": "Sri Lanka Cricket to donate ticket money from Australian tour to crisis-hit people",
+    "url": "https://economynext.com/sri-lanka-cricket-to-donate-ticket-money-from-australian-tour-to-crisis-hit-people-95229/",
+    "file_name": "/tmp/news_lk2/articles/0d/0d947c70.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654530060,
     "title": "MP Dilip Wedaarachchi\u2019s son and daughter-in-law arrested",
     "url": "http://www.adaderana.lk/news/82902/mp-dilip-wedaarachchis-son-and-daughter-in-law-arrested",
     "file_name": "/tmp/news_lk2/articles/a7/a7220e92.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654528800,
+    "title": "I can't go as a failed president, I have been given a mandate for five years. I will not contest again: President",
+    "url": "https://www.dailymirror.lk/top_story/I-can-t-go-as-a-failed-president-I-have-been-given-a-mandate-for-five-years-I-will-not-contest-again-President/155-238537",
+    "file_name": "/tmp/news_lk2/articles/a5/a5fe20e6.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -663,40 +698,5 @@
     "title": "Political parties to meet elections commission",
     "url": "https://www.newsfirst.lk/2022/06/06/political-parties-to-meet-elections-commission/",
     "file_name": "/tmp/news_lk2/articles/ad/adb50bd7.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654479960,
-    "title": "1st School Term (Phase Two) from Monday (6)",
-    "url": "https://www.newsfirst.lk/2022/06/06/1st-school-term-phase-two-from-monday-6/",
-    "file_name": "/tmp/news_lk2/articles/47/478d103f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654479300,
-    "title": "21A to cabinet on Monday (6)",
-    "url": "https://www.newsfirst.lk/2022/06/06/21a-to-cabinet-on-monday-6/",
-    "file_name": "/tmp/news_lk2/articles/fb/fb204e97.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654477320,
-    "title": "Only 20% of private buses will be in operation today: Gemunu",
-    "url": "https://www.dailymirror.lk/latest_news/Only-20-of-private-buses-will-be-in-operation-today-Gemunu/342-238453",
-    "file_name": "/tmp/news_lk2/articles/64/64f53818.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654477320,
-    "title": "Only 20% of private buses will be in operation today: Gemunu",
-    "url": "https://www.dailymirror.lk/breaking_news/Only-20-of-private-buses-will-be-in-operation-today-Gemunu/108-238453",
-    "file_name": "/tmp/news_lk2/articles/c4/c4d08cdd.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654476900,
-    "title": "Overcrowded trains",
-    "url": "https://www.dailymirror.lk/caption_story/Overcrowded-trains/110-238456",
-    "file_name": "/tmp/news_lk2/articles/c3/c34abb05.json"
   }
 ]
