@@ -1,10 +1,38 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654485360,
+    "title": "Ensure environmental justice!",
+    "url": "https://www.dailymirror.lk/latest_news/Ensure-environmental-justice/342-238467",
+    "file_name": "/tmp/news_lk2/articles/10/10f8636a.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654485300,
+    "title": "Sri Lanka\u2019s central bank advances US$388mn to banks to ease dollar mis-match",
+    "url": "https://economynext.com/sri-lankas-central-bank-advances-us388mn-to-banks-to-ease-dollar-mis-match-95197/",
+    "file_name": "/tmp/news_lk2/articles/7e/7e4043ea.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654483740,
+    "title": "21st Amendment to be submitted for Cabinet approval today",
+    "url": "http://www.adaderana.lk/news/82889/21st-amendment-to-be-submitted-for-cabinet-approval-today",
+    "file_name": "/tmp/news_lk2/articles/2f/2f71360e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654481640,
     "title": "At least 50 killed in attack on Catholic church in Nigeria",
     "url": "http://www.adaderana.lk/news/82888/at-least-50-killed-in-attack-on-catholic-church-in-nigeria",
     "file_name": "/tmp/news_lk2/articles/81/813a1975.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654481580,
+    "title": "At least 50 killed in massacre at Catholic church in southwest Nigeria",
+    "url": "https://www.dailymirror.lk/latest_news/At-least-50-killed-in-massacre-at-Catholic-church-in-southwest-Nigeria/342-238452",
+    "file_name": "/tmp/news_lk2/articles/cb/cb2ca233.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -45,8 +73,22 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654477320,
     "title": "Only 20% of private buses will be in operation today: Gemunu",
+    "url": "https://www.dailymirror.lk/latest_news/Only-20-of-private-buses-will-be-in-operation-today-Gemunu/342-238453",
+    "file_name": "/tmp/news_lk2/articles/64/64f53818.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654477320,
+    "title": "Only 20% of private buses will be in operation today: Gemunu",
     "url": "https://www.dailymirror.lk/breaking_news/Only-20-of-private-buses-will-be-in-operation-today-Gemunu/108-238453",
     "file_name": "/tmp/news_lk2/articles/c4/c4d08cdd.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654476900,
+    "title": "Overcrowded trains",
+    "url": "https://www.dailymirror.lk/latest_news/Overcrowded-trains/342-238456",
+    "file_name": "/tmp/news_lk2/articles/b0/b0d51dfb.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -54,6 +96,13 @@
     "title": "Heavy showers likely on Monday (6); Met Dept.",
     "url": "https://www.newsfirst.lk/2022/06/06/heavy-showers-likely-on-monday-6-met-dept/",
     "file_name": "/tmp/news_lk2/articles/73/737ada1e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654464120,
+    "title": "May face extra charges for waiting at BIA: Airport authorities",
+    "url": "https://www.dailymirror.lk/latest_news/May-face-extra-charges-for-waiting-at-BIA-Airport-authorities/342-238454",
+    "file_name": "/tmp/news_lk2/articles/87/8714b31c.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -96,6 +145,13 @@
     "title": "Foreign Ministry says Aeroflot fiasco is a commercial dispute",
     "url": "https://www.ft.lk/news/Foreign-Ministry-says-Aeroflot-fiasco-is-a-commercial-dispute/56-735789",
     "file_name": "/tmp/news_lk2/articles/cd/cd02f599.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654461360,
+    "title": "Air Tractors at Ratmalana Int\u2019l airport",
+    "url": "https://www.dailymirror.lk/caption_story/Air-Tractors-at-Ratmalana-Intl-airport/110-238455",
+    "file_name": "/tmp/news_lk2/articles/df/df75ed49.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
