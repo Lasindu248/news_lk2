@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654540800,
+    "title": "Nobody is to take the blame",
+    "url": "https://www.dailymirror.lk/opinion/Nobody-is-to-take-the-blame/172-238562",
+    "file_name": "/tmp/news_lk2/articles/fc/fc766e2e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654540680,
+    "title": "PROS AND CONS OF LIFTING  BAN ON OIL PALM CULTIVATION Experts differ over environmental issues",
+    "url": "https://www.dailymirror.lk/opinion/PROS-AND-CONS-OF-LIFTING-BAN-ON-OIL-PALM-CULTIVATION-Experts-differ-over-environmental-issues/172-238563",
+    "file_name": "/tmp/news_lk2/articles/c0/c0016b0f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654540440,
+    "title": "Govt. used Sinhala-Buddhist shield to its maximum benefit Ven. Galkande Dhammananda Thera",
+    "url": "https://www.dailymirror.lk/opinion/Govt-used-Sinhala-Buddhist-shield-to-its-maximum-benefit-Ven-Galkande-Dhammananda-Thera/172-238564",
+    "file_name": "/tmp/news_lk2/articles/97/97216ad7.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654539360,
     "title": "Russia welcomes Sri Lanka\u2019s decision to release seized Aeroflot aircraft",
@@ -677,26 +698,5 @@
     "title": "At least 50 killed in massacre at Catholic church in southwest Nigeria",
     "url": "https://www.dailymirror.lk/latest_news/At-least-50-killed-in-massacre-at-Catholic-church-in-southwest-Nigeria/342-238452",
     "file_name": "/tmp/news_lk2/articles/cb/cb2ca233.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654481580,
-    "title": "At least 50 killed in massacre at Catholic church in southwest Nigeria",
-    "url": "https://www.dailymirror.lk/breaking_news/At-least-50-killed-in-massacre-at-Catholic-church-in-southwest-Nigeria/108-238452",
-    "file_name": "/tmp/news_lk2/articles/04/04bafa86.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654481100,
-    "title": "Showers expected in several provinces and districts",
-    "url": "http://www.adaderana.lk/news/82887/showers-expected-in-several-provinces-and-districts",
-    "file_name": "/tmp/news_lk2/articles/dc/dc9c5d2f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654480800,
-    "title": "Political parties to meet elections commission",
-    "url": "https://www.newsfirst.lk/2022/06/06/political-parties-to-meet-elections-commission/",
-    "file_name": "/tmp/news_lk2/articles/ad/adb50bd7.json"
   }
 ]
