@@ -1,10 +1,24 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654530060,
+    "title": "MP Dilip Wedaarachchi\u2019s son and daughter-in-law arrested",
+    "url": "http://www.adaderana.lk/news/82902/mp-dilip-wedaarachchis-son-and-daughter-in-law-arrested",
+    "file_name": "/tmp/news_lk2/articles/a7/a7220e92.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654528800,
     "title": "President vows to finish term, won\u2019t run for re-election",
     "url": "https://www.dailymirror.lk/latest_news/President-vows-to-finish-term-wont-run-for-re-election/342-238537",
     "file_name": "/tmp/news_lk2/articles/1e/1e18ad98.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654528800,
+    "title": "I can't go as a failed president, I have been given a mandate for five years. I will not contest again: President",
+    "url": "https://www.dailymirror.lk/latest_news/I-can-t-go-as-a-failed-president-I-have-been-given-a-mandate-for-five-years-I-will-not-contest-again-President/342-238537",
+    "file_name": "/tmp/news_lk2/articles/0c/0c88ae79.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -306,6 +320,13 @@
     "title": "CID yet to locate Johnston",
     "url": "https://www.dailymirror.lk/latest_news/CID-yet-to-locate-Johnston/342-238518",
     "file_name": "/tmp/news_lk2/articles/30/30934e07.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654504860,
+    "title": "CID yet to locate Johnston",
+    "url": "https://www.dailymirror.lk/breaking_news/CID-yet-to-locate-Johnston/108-238518",
+    "file_name": "/tmp/news_lk2/articles/19/19495740.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -677,26 +698,5 @@
     "title": "Overcrowded trains",
     "url": "https://www.dailymirror.lk/caption_story/Overcrowded-trains/110-238456",
     "file_name": "/tmp/news_lk2/articles/c3/c34abb05.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654476900,
-    "title": "Overcrowded trains",
-    "url": "https://www.dailymirror.lk/latest_news/Overcrowded-trains/342-238456",
-    "file_name": "/tmp/news_lk2/articles/b0/b0d51dfb.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654475280,
-    "title": "Heavy showers likely on Monday (6); Met Dept.",
-    "url": "https://www.newsfirst.lk/2022/06/06/heavy-showers-likely-on-monday-6-met-dept/",
-    "file_name": "/tmp/news_lk2/articles/73/737ada1e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654464120,
-    "title": "May face extra charges for waiting at BIA: Airport authorities",
-    "url": "https://www.dailymirror.lk/latest_news/May-face-extra-charges-for-waiting-at-BIA-Airport-authorities/342-238454",
-    "file_name": "/tmp/news_lk2/articles/87/8714b31c.json"
   }
 ]
