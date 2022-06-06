@@ -1,6 +1,34 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654518840,
+    "title": "Electricity bill should increase by a considerable percentage: CEB Chairman",
+    "url": "https://www.dailymirror.lk/latest_news/Electricity-bill-should-increase-by-a-considerable-percentage-CEB-Chairman/342-238529",
+    "file_name": "/tmp/news_lk2/articles/11/112a6a74.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654518240,
+    "title": "Former President blames govt over Russian plane fiasco",
+    "url": "http://www.adaderana.lk/news/82897/former-president-blames-govt-over-russian-plane-fiasco",
+    "file_name": "/tmp/news_lk2/articles/54/54aeb6e3.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654517640,
+    "title": "Suspension of Aeroflot flights will be a devastating blow to Sri Lanka\u2019s tourism industry; Sirisena writes to Putin",
+    "url": "https://www.newsfirst.lk/2022/06/06/suspension-of-aeroflot-flights-will-be-a-devastating-blow-to-sri-lankas-tourism-industry-sirisena-writes-to-putin/",
+    "file_name": "/tmp/news_lk2/articles/8a/8a9487f7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654516260,
+    "title": "Professional Tour Guides Alliance protest in Colombo",
+    "url": "https://www.dailymirror.lk/latest_news/Professional-Tour-Guides-Alliance-protest-in-Colombo/342-238528",
+    "file_name": "/tmp/news_lk2/articles/e7/e74b7a89.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654516260,
     "title": "Professional Tour Guides Alliance protest in Colombo",
     "url": "https://www.dailymirror.lk/caption_story/Professional-Tour-Guides-Alliance-protest-in-Colombo/110-238528",
@@ -12,6 +40,13 @@
     "title": "Farmers use pack bulls to transport produce",
     "url": "https://www.dailymirror.lk/breaking_news/Farmers-use-pack-bulls-to-transport-produce/108-238527",
     "file_name": "/tmp/news_lk2/articles/9b/9b4ab524.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654515780,
+    "title": "Farmers use pack bulls to transport produce",
+    "url": "https://www.dailymirror.lk/latest_news/Farmers-use-pack-bulls-to-transport-produce/342-238527",
+    "file_name": "/tmp/news_lk2/articles/09/092163ff.json"
   },
   {
     "newspaper_id": "economy-next-com",
