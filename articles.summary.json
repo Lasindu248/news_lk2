@@ -1,6 +1,76 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "time_ut": 1654491000,
+    "title": "No restrictions on Russian arrivals",
+    "url": "https://www.newsfirst.lk/2022/06/06/no-restrictions-on-russian-arrivals/",
+    "file_name": "/tmp/news_lk2/articles/91/91a4ef58.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654490820,
+    "title": "No price hike; no distribution until Wednesday: LITRO",
+    "url": "https://www.dailymirror.lk/latest_news/No-price-hike-no-distribution-until-Wednesday-LITRO/342-238501",
+    "file_name": "/tmp/news_lk2/articles/d4/d4cdde79.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654490220,
+    "title": "Work from Home program for Public Sector",
+    "url": "https://www.newsfirst.lk/2022/06/06/work-from-home-program-for-public-sector/",
+    "file_name": "/tmp/news_lk2/articles/40/40a106f2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654489200,
+    "title": "Limited buses in operation due to fuel crisis",
+    "url": "https://www.newsfirst.lk/2022/06/06/limited-buses-in-operation-due-to-fuel-crisis/",
+    "file_name": "/tmp/news_lk2/articles/fb/fb0e8a48.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654488600,
+    "title": "Sri Lanka\u2019s Auto Diesel requirement, unusually high",
+    "url": "https://www.newsfirst.lk/2022/06/06/sri-lankas-auto-diesel-requirement-unusually-high/",
+    "file_name": "/tmp/news_lk2/articles/e6/e6dad7a2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654488240,
+    "title": "Printing money similar to giving high dose of sugar to diabetic",
+    "url": "https://www.dailymirror.lk/business__main/Printing-money-similar-to-giving-high-dose-of-sugar-to-diabetic/245-238495",
+    "file_name": "/tmp/news_lk2/articles/8b/8b5bfc48.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654488000,
+    "title": "AG to make submissions to Court on Aeroflot matter",
+    "url": "https://www.dailymirror.lk/business-news/AG-to-make-submissions-to-Court-on-Aeroflot-matter/273-238492",
+    "file_name": "/tmp/news_lk2/articles/83/83d8bde0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654487940,
+    "title": "Sri Lanka hopes for over US$ 1bn in foreign investment this year",
+    "url": "https://www.dailymirror.lk/business-news/Sri-Lanka-hopes-for-over-US-1bn-in-foreign-investment-this-year/273-238490",
+    "file_name": "/tmp/news_lk2/articles/98/98a9d450.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654487820,
+    "title": "Sri Lanka revises down tourist arrivals target for this year; expects US$ 800mn as earnings",
+    "url": "https://www.dailymirror.lk/business-news/Sri-Lanka-revises-down-tourist-arrivals-target-for-this-year-expects-US-800mn-as-earnings/273-238489",
+    "file_name": "/tmp/news_lk2/articles/31/313c1d5b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654487820,
+    "title": "NO LP Gas until Wednesday (8); Don\u2019t wait in line",
+    "url": "https://www.newsfirst.lk/2022/06/06/no-lp-gas-until-wednesday-8-dont-wait-in-line/",
+    "file_name": "/tmp/news_lk2/articles/95/952c9b04.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "time_ut": 1654486980,
     "title": "Electricity Tariff Hike? Proposal to Cabinet today (6)",
     "url": "https://www.newsfirst.lk/2022/06/06/electricity-tariff-hike-proposal-to-cabinet-today-6/",
@@ -33,6 +103,13 @@
     "title": "Sri Lanka\u2019s central bank advances US$388mn to banks to ease dollar mis-match",
     "url": "https://economynext.com/sri-lankas-central-bank-advances-us388mn-to-banks-to-ease-dollar-mis-match-95197/",
     "file_name": "/tmp/news_lk2/articles/7e/7e4043ea.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654484160,
+    "title": "SLTB depots to supply fuel for tourism industry",
+    "url": "https://www.dailymirror.lk/business-news/SLTB-depots-to-supply-fuel-for-tourism-industry/273-238488",
+    "file_name": "/tmp/news_lk2/articles/ce/ce5e414d.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -292,6 +369,13 @@
     "title": "\u2018Motorcycle Murderers\u2019 claim 5th life in 5 days, in Sri Lanka.",
     "url": "https://www.newsfirst.lk/2022/06/05/motorcycle-murderers-claim-5th-life-in-5-days-in-sri-lanka-2/",
     "file_name": "/tmp/news_lk2/articles/ec/ec1ebe65.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654447080,
+    "title": "Dry rations for low-income families in Ragama",
+    "url": "https://www.dailymirror.lk/latest_news/Dry-rations-for-low-income-families-in-Ragama/342-238500",
+    "file_name": "/tmp/news_lk2/articles/6f/6f1310e2.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
