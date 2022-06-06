@@ -147,6 +147,20 @@
     "file_name": "/tmp/news_lk2/articles/9a/9a6d88bf.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654437240,
+    "title": "EU promotes \u2018Art for Peace\u2019 as peace and prosperity are at stake",
+    "url": "http://island.lk/eu-promotes-art-for-peace-as-peace-and-prosperity-are-at-stake/",
+    "file_name": "/tmp/news_lk2/articles/d5/d5765037.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654437120,
+    "title": "State banks have not written off any \u2018bad loans\u2019, says CBEU",
+    "url": "http://island.lk/state-banks-have-not-written-off-any-bad-loans-says-cbeu/",
+    "file_name": "/tmp/news_lk2/articles/f9/f9f002e9.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654436940,
     "title": "Health officials warn over spread of hand, foot and mouth disease",
@@ -166,6 +180,41 @@
     "title": "LRC fund for fertilizer project ? : ST report",
     "url": "https://www.newsfirst.lk/2022/06/05/lrc-fund-for-fertilizer-project-st-report/",
     "file_name": "/tmp/news_lk2/articles/57/579bd61d.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654433940,
+    "title": "Exterminators win international gold award for environmental leadership and best practices",
+    "url": "http://island.lk/exterminators-win-international-gold-award-for-environmental-leadership-and-best-practices/",
+    "file_name": "/tmp/news_lk2/articles/80/80cb3671.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654433880,
+    "title": "International School of Western Australia offers scholarships",
+    "url": "http://island.lk/international-school-of-western-australia-offers-scholarships/",
+    "file_name": "/tmp/news_lk2/articles/1e/1e57a482.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654433760,
+    "title": "ZTE Blade A5 2020 midrange smartphone now available at Singer Sri Lanka",
+    "url": "http://island.lk/zte-blade-a5-2020-midrange-smartphone-now-available-at-singer-sri-lanka/",
+    "file_name": "/tmp/news_lk2/articles/e6/e68e6451.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654433580,
+    "title": "AIA Insurance continues to lend a hand to Sri Lanka Cancer Society",
+    "url": "http://island.lk/aia-insurance-continues-to-lend-a-hand-to-sri-lanka-cancer-society/",
+    "file_name": "/tmp/news_lk2/articles/2d/2d73dc38.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654433280,
+    "title": "INSEE Cement to launch next phase of globally acclaimed mangrove restoration project",
+    "url": "http://island.lk/insee-cement-to-launch-next-phase-of-globally-acclaimed-mangrove-restoration-project/",
+    "file_name": "/tmp/news_lk2/articles/a8/a81bd2f5.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -649,54 +698,5 @@
     "title": "Power cut schedule from June 06 - 12",
     "url": "http://www.adaderana.lk/news/82866/power-cut-schedule-from-june-06-12",
     "file_name": "/tmp/news_lk2/articles/1e/1eac7578.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654344240,
-    "title": "Medicine shortage will be resolved by August: Health Minister",
-    "url": "https://www.newsfirst.lk/2022/06/04/medicine-shortage-will-be-resolved-by-august-health-minister/",
-    "file_name": "/tmp/news_lk2/articles/52/5232aaaf.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654342620,
-    "title": "PUCSL approves power cuts for upcoming days",
-    "url": "https://www.newsfirst.lk/2022/06/04/pucsl-approves-power-cuts-for-upcoming-days/",
-    "file_name": "/tmp/news_lk2/articles/f7/f77bdc0f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654340400,
-    "title": "Landslide early warning issued for several areas",
-    "url": "https://www.newsfirst.lk/2022/06/04/landslide-early-warning-issued-for-several-areas/",
-    "file_name": "/tmp/news_lk2/articles/90/905b5615.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654338840,
-    "title": "Yala harvest in crisis due to non-availability of fertilizer",
-    "url": "https://www.newsfirst.lk/2022/06/04/yala-harvest-in-crisis-due-to-non-availability-of-fertilizer/",
-    "file_name": "/tmp/news_lk2/articles/69/694f548d.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654338600,
-    "title": "Current crisis is an opportunity to transform economy: CBSL Governor",
-    "url": "https://www.newsfirst.lk/2022/06/04/current-crisis-is-an-opportunity-to-transform-economy-cbsl-governor/",
-    "file_name": "/tmp/news_lk2/articles/e0/e0458e39.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654337520,
-    "title": "Sri Lanka\u2019s Haycarb March net up on forex gains",
-    "url": "https://economynext.com/sri-lankas-haycarb-march-net-up-on-forex-gains-95160/",
-    "file_name": "/tmp/news_lk2/articles/87/875ff31a.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654336920,
-    "title": "TN chief minister assures more supplies of essential commodities to Sri Lanka",
-    "url": "http://www.adaderana.lk/news/82865/tn-chief-minister-assures-more-supplies-of-essential-commodities-to-sri-lanka",
-    "file_name": "/tmp/news_lk2/articles/94/9479eadc.json"
   }
 ]
