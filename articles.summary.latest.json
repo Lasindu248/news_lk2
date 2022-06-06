@@ -14,6 +14,13 @@
     "file_name": "/tmp/news_lk2/articles/d6/d61cc498.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654498860,
+    "title": "Newly appointed Army Commander meets Commander of the Navy",
+    "url": "https://www.newsfirst.lk/2022/06/06/newly-appointed-army-commander-meets-commander-of-the-navy/",
+    "file_name": "/tmp/news_lk2/articles/cf/cfa983dc.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654498200,
     "title": "Sri Lanka stocks trading halted after 5.1-pct fall",
@@ -110,6 +117,13 @@
     "title": "No price hike; no distribution until Wednesday: LITRO",
     "url": "https://www.dailymirror.lk/latest_news/No-price-hike-no-distribution-until-Wednesday-LITRO/342-238501",
     "file_name": "/tmp/news_lk2/articles/d4/d4cdde79.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654490760,
+    "title": "Chinese vessel transports three barges to Colombo",
+    "url": "https://www.newsfirst.lk/2022/06/06/chinese-vessel-transports-three-barges-to-colombo/",
+    "file_name": "/tmp/news_lk2/articles/93/93fb96f9.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -684,19 +698,5 @@
     "title": "Post of PM, Youth in Politics, Economic Crisis : PM\u2019s stance",
     "url": "https://www.newsfirst.lk/2022/06/05/post-of-pm-youth-in-politics-economic-crisis-pms-stance/",
     "file_name": "/tmp/news_lk2/articles/f6/f6230a5a.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654428540,
-    "title": "Sri Lanka to operate one-third of private buses from June 06",
-    "url": "https://economynext.com/sri-lanka-to-operate-one-third-of-private-buses-from-june-06-95187/",
-    "file_name": "/tmp/news_lk2/articles/dc/dc8bb87f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654427700,
-    "title": "Sri Lanka Navy Marines to take part in RIMPAC 2022, hosted by the US Pacific Fleet",
-    "url": "https://www.newsfirst.lk/2022/06/05/sri-lanka-navy-marines-to-take-part-in-rimpac-2022-hosted-by-the-us-pacific-fleet/",
-    "file_name": "/tmp/news_lk2/articles/28/28b36ec9.json"
   }
 ]
