@@ -1,48 +1,6 @@
 [
   {
     "newspaper_id": "economy-next-com",
-    "time_ut": 1654498200,
-    "title": "Sri Lanka stocks trading halted after 5.1-pct fall",
-    "url": "https://economynext.com/sri-lanka-stocks-trading-halted-after-5-1-pct-fall-95207/",
-    "file_name": "/tmp/news_lk2/articles/3f/3f69bead.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654497600,
-    "title": "SLC to donate ticket sales revenue from Australia series",
-    "url": "http://www.adaderana.lk/news/82892/slc-to-donate-ticket-sales-revenue-from-australia-series",
-    "file_name": "/tmp/news_lk2/articles/e6/e6655dea.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654496460,
-    "title": "Sri Lanka stocks slip over 3-pct in mid-day trade",
-    "url": "https://economynext.com/sri-lanka-stocks-slip-over-3-pct-in-mid-day-trade-95204/",
-    "file_name": "/tmp/news_lk2/articles/12/124e8687.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654496280,
-    "title": "Bangladesh considering providing potatoes to SL during ongoing crisis",
-    "url": "https://www.dailymirror.lk/breaking_news/Bangladesh-considering-providing-potatoes-to-SL-during-ongoing-crisis/108-238515",
-    "file_name": "/tmp/news_lk2/articles/b8/b8cd2e8a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654495980,
-    "title": "Transparent tourist submarine launches at Vietnam resort",
-    "url": "https://www.newsfirst.lk/2022/06/06/transparent-tourist-submarine-launches-at-vietnam-resort/",
-    "file_name": "/tmp/news_lk2/articles/e5/e547d742.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654495080,
-    "title": "Foreign Minister calls for continued Chinese support",
-    "url": "https://www.newsfirst.lk/2022/06/06/foreign-minister-calls-for-continued-chinese-support/",
-    "file_name": "/tmp/news_lk2/articles/64/64cb4677.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
     "time_ut": 1654494900,
     "title": "Sri Lanka rupee at 367 to TT dollar, interbank rupee at 360.27",
     "url": "https://economynext.com/sri-lanka-rupee-at-367-to-tt-dollar-interbank-rupee-at-360-27-95203/",
@@ -87,13 +45,6 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654490820,
     "title": "No price hike; no distribution until Wednesday: LITRO",
-    "url": "https://www.dailymirror.lk/breaking_news/No-price-hike-no-distribution-until-Wednesday-LITRO/108-238501",
-    "file_name": "/tmp/news_lk2/articles/d8/d8abbc6f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654490820,
-    "title": "No price hike; no distribution until Wednesday: LITRO",
     "url": "https://www.dailymirror.lk/latest_news/No-price-hike-no-distribution-until-Wednesday-LITRO/342-238501",
     "file_name": "/tmp/news_lk2/articles/d4/d4cdde79.json"
   },
@@ -127,20 +78,6 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654488240,
-    "title": "Printing money similar to giving high dose of sugar to diabetic",
-    "url": "https://www.dailymirror.lk/breaking_news/Printing-money-similar-to-giving-high-dose-of-sugar-to-diabetic/108-238495",
-    "file_name": "/tmp/news_lk2/articles/05/05a0c39c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654488000,
-    "title": "AG to make submissions to Court on Aeroflot matter",
-    "url": "https://www.dailymirror.lk/breaking_news/AG-to-make-submissions-to-Court-on-Aeroflot-matter/108-238492",
-    "file_name": "/tmp/news_lk2/articles/41/41434fe2.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654488000,
     "title": "AG to make submissions to Court on Aeroflot matter",
     "url": "https://www.dailymirror.lk/business-news/AG-to-make-submissions-to-Court-on-Aeroflot-matter/273-238492",
@@ -152,20 +89,6 @@
     "title": "Sri Lanka hopes for over US$ 1bn in foreign investment this year",
     "url": "https://www.dailymirror.lk/business-news/Sri-Lanka-hopes-for-over-US-1bn-in-foreign-investment-this-year/273-238490",
     "file_name": "/tmp/news_lk2/articles/98/98a9d450.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654487940,
-    "title": "Sri Lanka hopes for over US$ 1bn in foreign investment this year",
-    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-hopes-for-over-US-1bn-in-foreign-investment-this-year/108-238490",
-    "file_name": "/tmp/news_lk2/articles/4a/4a6a8922.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654487820,
-    "title": "Sri Lanka revises down tourist arrivals target for this year; expects US$ 800mn as earnings",
-    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-revises-down-tourist-arrivals-target-for-this-year-expects-US-800mn-as-earnings/108-238489",
-    "file_name": "/tmp/news_lk2/articles/fe/fe18e3ab.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -210,25 +133,11 @@
     "file_name": "/tmp/news_lk2/articles/10/10f8636a.json"
   },
   {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654485360,
-    "title": "Ensure environmental justice!",
-    "url": "https://www.dailymirror.lk/caption_story/Ensure-environmental-justice/110-238467",
-    "file_name": "/tmp/news_lk2/articles/59/591954d8.json"
-  },
-  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654485300,
     "title": "Sri Lanka\u2019s central bank advances US$388mn to banks to ease dollar mis-match",
     "url": "https://economynext.com/sri-lankas-central-bank-advances-us388mn-to-banks-to-ease-dollar-mis-match-95197/",
     "file_name": "/tmp/news_lk2/articles/7e/7e4043ea.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654484160,
-    "title": "SLTB depots to supply fuel for tourism industry",
-    "url": "https://www.dailymirror.lk/breaking_news/SLTB-depots-to-supply-fuel-for-tourism-industry/108-238488",
-    "file_name": "/tmp/news_lk2/articles/b3/b3938270.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -341,13 +250,6 @@
     "title": "May face extra charges for waiting at BIA: Airport authorities",
     "url": "https://www.dailymirror.lk/breaking_news/May-face-extra-charges-for-waiting-at-BIA-Airport-authorities/108-238454",
     "file_name": "/tmp/news_lk2/articles/ae/ae8c2656.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654464120,
-    "title": "May face extra charges for waiting at BIA: Airport authorities",
-    "url": "https://www.dailymirror.lk/top_story/May-face-extra-charges-for-waiting-at-BIA-Airport-authorities/155-238454",
-    "file_name": "/tmp/news_lk2/articles/b9/b930b710.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -502,13 +404,6 @@
     "title": "\u2018Motorcycle Murderers\u2019 claim 5th life in 5 days, in Sri Lanka.",
     "url": "https://www.newsfirst.lk/2022/06/05/motorcycle-murderers-claim-5th-life-in-5-days-in-sri-lanka-2/",
     "file_name": "/tmp/news_lk2/articles/ec/ec1ebe65.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654447080,
-    "title": "Dry rations for low-income families in Ragama",
-    "url": "https://www.dailymirror.lk/caption_story/Dry-rations-for-low-income-families-in-Ragama/110-238500",
-    "file_name": "/tmp/news_lk2/articles/da/da8ffee4.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
