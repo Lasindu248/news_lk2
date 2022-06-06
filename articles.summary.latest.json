@@ -1,6 +1,27 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654527780,
+    "title": "President Rajapaksa vows to finish term, won\u2019t run for re-election",
+    "url": "http://www.adaderana.lk/news/82901/president-rajapaksa-vows-to-finish-term-wont-run-for-re-election",
+    "file_name": "/tmp/news_lk2/articles/8a/8a7c99ae.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654526400,
+    "title": "Ranjan sits for first-semester exam of bachelor\u2019s degree",
+    "url": "https://www.dailymirror.lk/breaking_news/Ranjan-sits-for-first-semester-exam-of-bachelors-degree/108-238535",
+    "file_name": "/tmp/news_lk2/articles/6d/6d6e5ef7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654524600,
+    "title": "\u201cI can\u2019t go as a failed president,\u201d \u2013 Sri Lankan President Rajapaksa Vows to Finish Term, Won\u2019t Run for Re-Election",
+    "url": "https://www.newsfirst.lk/2022/06/06/i-cant-go-as-a-failed-president-sri-lankan-president-rajapaksa-vows-to-finish-term-wont-run-for-re-election/",
+    "file_name": "/tmp/news_lk2/articles/8a/8a107f8d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654524480,
     "title": "Former PM\u2019s coordinating secretary remanded",
     "url": "http://www.adaderana.lk/news/82900/former-pms-coordinating-secretary-remanded",
@@ -677,26 +698,5 @@
     "title": "SC refuses leave to proceed in FR application in Magistrate Court regarding GotaGoGama",
     "url": "https://www.ft.lk/news/SC-refuses-leave-to-proceed-in-FR-application-in-Magistrate-Court-regarding-GotaGoGama/56-735793",
     "file_name": "/tmp/news_lk2/articles/5f/5ff1e990.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654461840,
-    "title": "SC refuses leave to proceed in FR against application in Magistrate Court regarding GotaGoGama",
-    "url": "https://www.ft.lk/news/SC-refuses-leave-to-proceed-in-FR-against-application-in-Magistrate-Court-regarding-GotaGoGama/56-735793",
-    "file_name": "/tmp/news_lk2/articles/a1/a17940be.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654461660,
-    "title": "G.L. asks for more support from China",
-    "url": "https://www.ft.lk/news/G-L-asks-for-more-support-from-China/56-735792",
-    "file_name": "/tmp/news_lk2/articles/ea/ea9f3521.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654461600,
-    "title": "Nearly 50 killed in Bangladesh container depot blast",
-    "url": "https://www.ft.lk/news/Nearly-50-killed-in-Bangladesh-container-depot-blast/56-735790",
-    "file_name": "/tmp/news_lk2/articles/71/71cc2f9c.json"
   }
 ]
