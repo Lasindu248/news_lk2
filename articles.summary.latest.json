@@ -155,6 +155,13 @@
   },
   {
     "newspaper_id": "island-lk",
+    "time_ut": 1654437180,
+    "title": "HNB Finance records exceptional performance turnaround",
+    "url": "http://island.lk/hnb-finance-records-exceptional-performance-turnaround/",
+    "file_name": "/tmp/news_lk2/articles/39/398e7a6c.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "time_ut": 1654437120,
     "title": "State banks have not written off any \u2018bad loans\u2019, says CBEU",
     "url": "http://island.lk/state-banks-have-not-written-off-any-bad-loans-says-cbeu/",
@@ -691,12 +698,5 @@
     "title": "Power cut schedule from June 06 - 12 announced",
     "url": "http://www.adaderana.lk/news/82866/power-cut-schedule-from-june-06-12-announced",
     "file_name": "/tmp/news_lk2/articles/5c/5cebe85f.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654344480,
-    "title": "Power cut schedule from June 06 - 12",
-    "url": "http://www.adaderana.lk/news/82866/power-cut-schedule-from-june-06-12",
-    "file_name": "/tmp/news_lk2/articles/1e/1eac7578.json"
   }
 ]
