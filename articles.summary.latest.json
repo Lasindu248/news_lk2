@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654502520,
+    "title": "After\u2019partygate\u2019, UK PM Johnson to face confidence vote",
+    "url": "https://www.newsfirst.lk/2022/06/06/afterpartygate-uk-pm-johnson-to-face-confidence-vote/",
+    "file_name": "/tmp/news_lk2/articles/4d/4de26c2e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654501800,
+    "title": "CSE: Trading halted for the day after S&P SL20 drops",
+    "url": "https://www.newsfirst.lk/2022/06/06/cse-trading-halted-for-the-day-after-sp-sl20-drops/",
+    "file_name": "/tmp/news_lk2/articles/9a/9a522659.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654501560,
+    "title": "MonkeyPox Cases outside Africa rise to 780 in three weeks",
+    "url": "https://www.newsfirst.lk/2022/06/06/monkeypox-cases-outside-africa-rise-to-780-in-three-weeks/",
+    "file_name": "/tmp/news_lk2/articles/95/95995e3e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654500000,
     "title": "Stock market halts trading as S&P SL20 falls",
@@ -677,26 +698,5 @@
     "title": "India provides life-saving drugs, equipment to Jaffna Hospital",
     "url": "http://www.adaderana.lk/news/82882/india-provides-life-saving-drugs-equipment-to-jaffna-hospital",
     "file_name": "/tmp/news_lk2/articles/37/379d3097.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654429980,
-    "title": "Probe begins on sexual abuse on minor employees by divisional secretary",
-    "url": "https://www.dailymirror.lk/breaking_news/Probe-begins-on-sexual-abuse-on-minor-employees-by-divisional-secretary/108-238442",
-    "file_name": "/tmp/news_lk2/articles/a5/a577a9ab.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654428660,
-    "title": "Indian businessman arrested for attempt to smuggle foreign currency",
-    "url": "http://www.adaderana.lk/news/82881/indian-businessman-arrested-for-attempt-to-smuggle-foreign-currency",
-    "file_name": "/tmp/news_lk2/articles/8f/8f9945e5.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654428600,
-    "title": "Post of PM, Youth in Politics, Economic Crisis : PM\u2019s stance",
-    "url": "https://www.newsfirst.lk/2022/06/05/post-of-pm-youth-in-politics-economic-crisis-pms-stance/",
-    "file_name": "/tmp/news_lk2/articles/f6/f6230a5a.json"
   }
 ]
