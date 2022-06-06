@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654493520,
+    "title": "LP gas shipment of 2,000 MT arrives at Colombo Port",
+    "url": "http://www.adaderana.lk/news/82891/lp-gas-shipment-of-2000-mt-arrives-at-colombo-port",
+    "file_name": "/tmp/news_lk2/articles/71/71052c97.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654492500,
+    "title": "Ranil and Karu reach consensus",
+    "url": "https://www.dailymirror.lk/breaking_news/Ranil-and-Karu-reach-consensus/108-238513",
+    "file_name": "/tmp/news_lk2/articles/88/881d2af1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654491780,
+    "title": "Sri Lanka: Daylight shootings linked to drug trade",
+    "url": "https://www.newsfirst.lk/2022/06/06/sri-lanka-daylight-shootings-linked-to-drug-trade/",
+    "file_name": "/tmp/news_lk2/articles/e1/e18ed57c.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654491000,
     "title": "No restrictions on Russian arrivals",
