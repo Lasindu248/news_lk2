@@ -1,10 +1,66 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654481640,
+    "title": "At least 50 killed in attack on Catholic church in Nigeria",
+    "url": "http://www.adaderana.lk/news/82888/at-least-50-killed-in-attack-on-catholic-church-in-nigeria",
+    "file_name": "/tmp/news_lk2/articles/81/813a1975.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654481580,
+    "title": "At least 50 killed in massacre at Catholic church in southwest Nigeria",
+    "url": "https://www.dailymirror.lk/breaking_news/At-least-50-killed-in-massacre-at-Catholic-church-in-southwest-Nigeria/108-238452",
+    "file_name": "/tmp/news_lk2/articles/04/04bafa86.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654481100,
+    "title": "Showers expected in several provinces and districts",
+    "url": "http://www.adaderana.lk/news/82887/showers-expected-in-several-provinces-and-districts",
+    "file_name": "/tmp/news_lk2/articles/dc/dc9c5d2f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654480800,
+    "title": "Political parties to meet elections commission",
+    "url": "https://www.newsfirst.lk/2022/06/06/political-parties-to-meet-elections-commission/",
+    "file_name": "/tmp/news_lk2/articles/ad/adb50bd7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654479960,
+    "title": "1st School Term (Phase Two) from Monday (6)",
+    "url": "https://www.newsfirst.lk/2022/06/06/1st-school-term-phase-two-from-monday-6/",
+    "file_name": "/tmp/news_lk2/articles/47/478d103f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654479300,
+    "title": "21A to cabinet on Monday (6)",
+    "url": "https://www.newsfirst.lk/2022/06/06/21a-to-cabinet-on-monday-6/",
+    "file_name": "/tmp/news_lk2/articles/fb/fb204e97.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654477320,
+    "title": "Only 20% of private buses will be in operation today: Gemunu",
+    "url": "https://www.dailymirror.lk/breaking_news/Only-20-of-private-buses-will-be-in-operation-today-Gemunu/108-238453",
+    "file_name": "/tmp/news_lk2/articles/c4/c4d08cdd.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654475280,
     "title": "Heavy showers likely on Monday (6); Met Dept.",
     "url": "https://www.newsfirst.lk/2022/06/06/heavy-showers-likely-on-monday-6-met-dept/",
     "file_name": "/tmp/news_lk2/articles/73/737ada1e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654464120,
+    "title": "May face extra charges for waiting at BIA: Airport authorities",
+    "url": "https://www.dailymirror.lk/breaking_news/May-face-extra-charges-for-waiting-at-BIA-Airport-authorities/108-238454",
+    "file_name": "/tmp/news_lk2/articles/ae/ae8c2656.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -73,8 +129,22 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654454160,
     "title": "Presidential pardons and Courts of Justice - EDITORIAL",
+    "url": "https://www.dailymirror.lk/opinion/Presidential-pardons-and-Courts-of-Justice-EDITORIAL/172-238450",
+    "file_name": "/tmp/news_lk2/articles/d8/d8cfe1b6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654454160,
+    "title": "Presidential pardons and Courts of Justice - EDITORIAL",
     "url": "https://www.dailymirror.lk/opinion/Presidential-pardons-and-Courts-of-Justice-EDITORIAL/231-238450",
     "file_name": "/tmp/news_lk2/articles/ff/ff573027.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654454100,
+    "title": "Ranil W. and Rajapaksas",
+    "url": "https://www.dailymirror.lk/opinion/Ranil-W-and-Rajapaksas/172-238449",
+    "file_name": "/tmp/news_lk2/articles/4e/4e7ee068.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -92,10 +162,24 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654453920,
+    "title": "Left with Tweedledum and Tweedledee",
+    "url": "https://www.dailymirror.lk/opinion/Left-with-Tweedledum-and-Tweedledee/172-238447",
+    "file_name": "/tmp/news_lk2/articles/c4/c488a88b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654453860,
     "title": "Will 21A pave way for a 22A?",
     "url": "https://www.dailymirror.lk/opinion/Will-21A-pave-way-for-a-22A/231-238446",
     "file_name": "/tmp/news_lk2/articles/50/509bfb0b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654453860,
+    "title": "Will 21A pave way for a 22A?",
+    "url": "https://www.dailymirror.lk/opinion/Will-21A-pave-way-for-a-22A/172-238446",
+    "file_name": "/tmp/news_lk2/articles/2c/2c8262c4.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -614,89 +698,5 @@
     "title": "Will not interfere with Central Bank\u2019s decisions - PM",
     "url": "http://www.adaderana.lk/news/82869/will-not-interfere-with-central-banks-decisions-pm",
     "file_name": "/tmp/news_lk2/articles/7d/7da6f67c.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654361280,
-    "title": "PM Ranil says the worst is yet to come",
-    "url": "http://www.adaderana.lk/news/82869/pm-ranil-says-the-worst-is-yet-to-come",
-    "file_name": "/tmp/news_lk2/articles/b7/b778e1b0.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654360920,
-    "title": "Aeroflot grounding by lessor in Sri Lanka turns into diplomatic spat with Russia",
-    "url": "https://economynext.com/aeroflot-grounding-by-lessor-in-sri-lanka-turns-into-diplomatic-spat-with-russia-95168/",
-    "file_name": "/tmp/news_lk2/articles/c9/c901e584.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654360920,
-    "title": "Russia\u2019s Aeroflot aircraft grounding lands Sri Lanka in diplomatic spat",
-    "url": "https://economynext.com/russias-aeroflot-aircraft-grounding-lands-sri-lanka-in-diplomatic-spat-95168/",
-    "file_name": "/tmp/news_lk2/articles/4c/4c1982b0.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654360920,
-    "title": "Aeroflot grounding lands Sri Lanka in diplomatic spat with Russia",
-    "url": "https://economynext.com/aeroflot-grounding-lands-sri-lanka-in-diplomatic-spat-with-russia-95168/",
-    "file_name": "/tmp/news_lk2/articles/e7/e73995f3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654360560,
-    "title": "Power cut schedule from June 6 to 12 announced",
-    "url": "https://www.dailymirror.lk/latest_news/Power-cut-schedule-from-June-6-to-12-announced/342-238431",
-    "file_name": "/tmp/news_lk2/articles/b4/b4f0e861.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654360560,
-    "title": "Power cut schedule from June 6 to 12 announced",
-    "url": "https://www.dailymirror.lk/breaking_news/Power-cut-schedule-from-June-6-to-12-announced/108-238431",
-    "file_name": "/tmp/news_lk2/articles/ff/ffe9c4df.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654355100,
-    "title": "Foreign Ministry clarifies position regarding \u2018Aeroflot\u2019 aircraft",
-    "url": "https://www.newsfirst.lk/2022/06/04/foreign-ministry-clarifies-position-regarding-aeroflot-aircraft/",
-    "file_name": "/tmp/news_lk2/articles/10/10108934.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654351920,
-    "title": "Ukraine war \u2018aggravating\u2019 existing global food crisis, UN warns",
-    "url": "http://www.adaderana.lk/news/82868/ukraine-war-aggravating-existing-global-food-crisis-un-warns",
-    "file_name": "/tmp/news_lk2/articles/fe/feabbcb9.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654349340,
-    "title": "Laugfs Gas to resume LP gas distribution next week",
-    "url": "http://www.adaderana.lk/news/82867/laugfs-gas-to-resume-lp-gas-distribution-next-week",
-    "file_name": "/tmp/news_lk2/articles/33/339d15fe.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654349340,
-    "title": "Laugfs Gas to release LP gas cylinders to market next week",
-    "url": "http://www.adaderana.lk/news/82867/laugfs-gas-to-release-lp-gas-cylinders-to-market-next-week",
-    "file_name": "/tmp/news_lk2/articles/d0/d0b8a063.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654347420,
-    "title": "Namal\u2019s way forward",
-    "url": "https://www.newsfirst.lk/2022/06/04/namals-way-forward/",
-    "file_name": "/tmp/news_lk2/articles/18/1803ae66.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654346220,
-    "title": "Some are attempting to stop farmers from receiving fertilizer: Minister",
-    "url": "https://www.newsfirst.lk/2022/06/04/some-are-attempting-to-stop-farmers-from-receiving-fertilizer-minister/",
-    "file_name": "/tmp/news_lk2/articles/cc/cc6effd2.json"
   }
 ]
