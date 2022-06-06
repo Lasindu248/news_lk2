@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654494900,
+    "title": "Sri Lanka rupee at 367 to TT dollar, interbank rupee at 360.27",
+    "url": "https://economynext.com/sri-lanka-rupee-at-367-to-tt-dollar-interbank-rupee-at-360-27-95203/",
+    "file_name": "/tmp/news_lk2/articles/47/4792677f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654493820,
+    "title": "Mass shooting at Nigeria church kills dozens",
+    "url": "https://www.newsfirst.lk/2022/06/06/mass-shooting-at-nigeria-church-kills-dozens/",
+    "file_name": "/tmp/news_lk2/articles/f2/f22b43d0.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654493520,
     "title": "LP gas shipment of 2,000 MT arrives at Colombo Port",
@@ -684,19 +698,5 @@
     "title": "Sri Lanka agriculture goes to pot after soft-peg collapse",
     "url": "https://economynext.com/sri-lanka-agriculture-goes-to-pot-after-soft-peg-collapse-95183/",
     "file_name": "/tmp/news_lk2/articles/f3/f3cb81fe.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654414860,
-    "title": "Sri Lanka\u2019s AG to make submissions on Aeroflot",
-    "url": "https://www.newsfirst.lk/2022/06/05/sri-lankas-ag-to-make-submissions-on-aeroflot/",
-    "file_name": "/tmp/news_lk2/articles/8c/8c56860e.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654413600,
-    "title": "At least 28 dead in fire at Bangladesh container depot",
-    "url": "http://www.adaderana.lk/news/82877/at-least-28-dead-in-fire-at-bangladesh-container-depot",
-    "file_name": "/tmp/news_lk2/articles/73/730e7b82.json"
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654494900,
+    "title": "Sri Lanka rupee at 367 to TT dollar, interbank rupee at 360.27",
+    "url": "https://economynext.com/sri-lanka-rupee-at-367-to-tt-dollar-interbank-rupee-at-360-27-95203/",
+    "file_name": "/tmp/news_lk2/articles/47/4792677f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654493820,
+    "title": "Mass shooting at Nigeria church kills dozens",
+    "url": "https://www.newsfirst.lk/2022/06/06/mass-shooting-at-nigeria-church-kills-dozens/",
+    "file_name": "/tmp/news_lk2/articles/f2/f22b43d0.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654493520,
     "title": "LP gas shipment of 2,000 MT arrives at Colombo Port",
