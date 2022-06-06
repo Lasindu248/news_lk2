@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654475280,
+    "title": "Heavy showers likely on Monday (6); Met Dept.",
+    "url": "https://www.newsfirst.lk/2022/06/06/heavy-showers-likely-on-monday-6-met-dept/",
+    "file_name": "/tmp/news_lk2/articles/73/737ada1e.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1654461840,
     "title": "SC refuses leave to proceed in FR application in Magistrate Court regarding GotaGoGama",
@@ -147,11 +154,25 @@
     "file_name": "/tmp/news_lk2/articles/9a/9a6d88bf.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654439160,
+    "title": "Sri Lank tea prices inflate steeply after currency collapse",
+    "url": "https://economynext.com/sri-lank-tea-prices-inflate-steeply-after-currency-collapse-95190/",
+    "file_name": "/tmp/news_lk2/articles/d4/d44c58a0.json"
+  },
+  {
     "newspaper_id": "island-lk",
     "time_ut": 1654437240,
     "title": "EU promotes \u2018Art for Peace\u2019 as peace and prosperity are at stake",
     "url": "http://island.lk/eu-promotes-art-for-peace-as-peace-and-prosperity-are-at-stake/",
     "file_name": "/tmp/news_lk2/articles/d5/d5765037.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654437180,
+    "title": "HNB Finance records exceptional performance turnaround",
+    "url": "http://island.lk/hnb-finance-records-exceptional-performance-turnaround/",
+    "file_name": "/tmp/news_lk2/articles/39/398e7a6c.json"
   },
   {
     "newspaper_id": "island-lk",
