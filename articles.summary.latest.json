@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654486560,
+    "title": "Sri Lanka state-run CPC to take up supply offers that meet criteria: Minister",
+    "url": "https://economynext.com/sri-lanka-state-run-cpc-to-take-up-supply-offers-that-meet-criteria-minister-95201/",
+    "file_name": "/tmp/news_lk2/articles/8a/8ad1bd46.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654486500,
+    "title": "Election Commission calls meeting with party secretaries",
+    "url": "http://www.adaderana.lk/news/82890/election-commission-calls-meeting-with-party-secretaries",
+    "file_name": "/tmp/news_lk2/articles/d1/d1877542.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654485360,
     "title": "Ensure environmental justice!",
@@ -87,6 +101,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654476900,
     "title": "Overcrowded trains",
+    "url": "https://www.dailymirror.lk/caption_story/Overcrowded-trains/110-238456",
+    "file_name": "/tmp/news_lk2/articles/c3/c34abb05.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654476900,
+    "title": "Overcrowded trains",
     "url": "https://www.dailymirror.lk/latest_news/Overcrowded-trains/342-238456",
     "file_name": "/tmp/news_lk2/articles/b0/b0d51dfb.json"
   },
@@ -152,6 +173,13 @@
     "title": "Air Tractors at Ratmalana Int\u2019l airport",
     "url": "https://www.dailymirror.lk/caption_story/Air-Tractors-at-Ratmalana-Intl-airport/110-238455",
     "file_name": "/tmp/news_lk2/articles/df/df75ed49.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654461360,
+    "title": "Air Tractors at Ratmalana Int\u2019l airport",
+    "url": "https://www.dailymirror.lk/latest_news/Air-Tractors-at-Ratmalana-Intl-airport/342-238455",
+    "file_name": "/tmp/news_lk2/articles/0a/0ae19172.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -670,33 +698,5 @@
     "title": "Veteran actress Sumana Amarasinghe passes away",
     "url": "https://www.newsfirst.lk/2022/06/05/veteran-actress-sumana-amarasinghe-passes-away/",
     "file_name": "/tmp/news_lk2/articles/3a/3ab260c2.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654402080,
-    "title": "Man shot dead in Ahangama",
-    "url": "https://www.newsfirst.lk/2022/06/05/man-shot-dead-in-ahangama/",
-    "file_name": "/tmp/news_lk2/articles/4c/4cda5d14.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654401840,
-    "title": "Unidentified body found on Ma Oya banks",
-    "url": "https://www.newsfirst.lk/2022/06/05/unidentified-body-found-on-ma-oya-banks/",
-    "file_name": "/tmp/news_lk2/articles/6d/6de2afc3.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654401600,
-    "title": "Public Service Commission to review two reports by IGP",
-    "url": "https://www.newsfirst.lk/2022/06/05/public-service-commission-to-review-two-reports-by-igp/",
-    "file_name": "/tmp/news_lk2/articles/f3/f357617c.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654401240,
-    "title": "Russian Embassy is aware that Govt cannot impede on judicial process: Minister",
-    "url": "https://www.newsfirst.lk/2022/06/05/russian-embassy-is-aware-that-govt-cannot-impede-on-judicial-process-minister/",
-    "file_name": "/tmp/news_lk2/articles/e8/e84ed8b8.json"
   }
 ]
