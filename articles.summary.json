@@ -1,5 +1,40 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654505880,
+    "title": "Sri Lanka Post suspends airmail services to Russia",
+    "url": "http://www.adaderana.lk/news/82894/sri-lanka-post-suspends-airmail-services-to-russia",
+    "file_name": "/tmp/news_lk2/articles/61/616ec038.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654505340,
+    "title": "Sri Lanka court suspends enjoining order issued against Russian Aeroflot flight",
+    "url": "https://economynext.com/sri-lanka-court-suspends-enjoining-order-issued-against-russian-aeroflot-flight-95209/",
+    "file_name": "/tmp/news_lk2/articles/95/95afd3a6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654504920,
+    "title": "Order issued suspending enjoining order against Russian Aeroflot flight",
+    "url": "https://www.dailymirror.lk/breaking_news/Order-issued-suspending-enjoining-order-against-Russian-Aeroflot-flight/108-238520",
+    "file_name": "/tmp/news_lk2/articles/8f/8f38a3c2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654504920,
+    "title": "Another fuel price hike likely by mid-June: Ananda Palitha",
+    "url": "https://www.dailymirror.lk/breaking_news/Another-fuel-price-hike-likely-by-mid-June-Ananda-Palitha/108-238519",
+    "file_name": "/tmp/news_lk2/articles/84/84ef1d90.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654504860,
+    "title": "CID yet to locate Johnston",
+    "url": "https://www.dailymirror.lk/top_story/CID-yet-to-locate-Johnston/155-238518",
+    "file_name": "/tmp/news_lk2/articles/72/721c9473.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654502520,
     "title": "After\u2019partygate\u2019, UK PM Johnson to face confidence vote",
