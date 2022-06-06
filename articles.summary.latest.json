@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654542300,
+    "title": "Sri Lanka sees rising trend of day-light amid drug-traffic allegations",
+    "url": "https://economynext.com/sri-lanka-sees-rising-trend-of-day-light-amid-drug-traffic-allegations-95241/",
+    "file_name": "/tmp/news_lk2/articles/2b/2bb5d856.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654540800,
     "title": "Nobody is to take the blame",
@@ -691,12 +698,5 @@
     "title": "At least 50 killed in attack on Catholic church in Nigeria",
     "url": "http://www.adaderana.lk/news/82888/at-least-50-killed-in-attack-on-catholic-church-in-nigeria",
     "file_name": "/tmp/news_lk2/articles/81/813a1975.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654481580,
-    "title": "At least 50 killed in massacre at Catholic church in southwest Nigeria",
-    "url": "https://www.dailymirror.lk/latest_news/At-least-50-killed-in-massacre-at-Catholic-church-in-southwest-Nigeria/342-238452",
-    "file_name": "/tmp/news_lk2/articles/cb/cb2ca233.json"
   }
 ]
