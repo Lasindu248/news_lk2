@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654611120,
+    "title": "Foreign Minister to visit Singapore to attend Asia Security Summit",
+    "url": "http://www.adaderana.lk/news/82921/foreign-minister-to-visit-singapore-to-attend-asia-security-summit",
+    "file_name": "/tmp/news_lk2/articles/66/667e4d10.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654610160,
     "title": "Ministry of Health to pay back-wages for Dr. Shafi Shihabdeen before July 10",
@@ -691,12 +698,5 @@
     "title": "Sri Lanka state firms to buy 230,000MT fertilizer for next cropping season: Minister",
     "url": "https://economynext.com/sri-lanka-state-firms-to-buy-230000mt-fertilizer-for-next-cropping-season-minister-95261/",
     "file_name": "/tmp/news_lk2/articles/19/1966b9f6.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654572420,
-    "title": "Cabinet nod for USD 55 Mn loan from India for Urea Fertilizer",
-    "url": "https://www.newsfirst.lk/2022/06/07/cabinet-nod-for-usd-55-mn-loan-from-india-for-urea-fertilizer/",
-    "file_name": "/tmp/news_lk2/articles/51/5167d46d.json"
   }
 ]
