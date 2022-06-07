@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654625580,
+    "title": "Sri Lanka logistics body proposes tough measures to curb fuel import bill",
+    "url": "https://economynext.com/sri-lanka-logistics-body-proposes-tough-measures-to-curb-fuel-import-bill-95325/",
+    "file_name": "/tmp/news_lk2/articles/03/03fe412a.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654624800,
     "title": "More fuel stocks released to the market from tomorrow",
@@ -590,6 +597,13 @@
   {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654580340,
+    "title": "Sri Lanka to present interim budget cutting capex: PM",
+    "url": "https://economynext.com/sri-lanka-to-present-interim-budget-cutting-capex-pm-95275/",
+    "file_name": "/tmp/news_lk2/articles/ec/ec229508.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654580340,
     "title": "Sri Lanka to present interim budget cutting cutting capex: PM",
     "url": "https://economynext.com/sri-lanka-to-present-interim-budget-cutting-cutting-capex-pm-95275/",
     "file_name": "/tmp/news_lk2/articles/20/2008182f.json"
@@ -684,19 +698,5 @@
     "title": "Sri Lanka to seek USD 55 Mn loan from India to purchase urea",
     "url": "http://www.adaderana.lk/news/82907/sri-lanka-to-seek-usd-55-mn-loan-from-india-to-purchase-urea",
     "file_name": "/tmp/news_lk2/articles/6c/6ccef02f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654576080,
-    "title": "Cabinet Ministers decide NOT to obtain salaries for this year",
-    "url": "https://www.newsfirst.lk/2022/06/07/cabinet-ministers-decide-not-to-obtain-salaries-for-this-year/",
-    "file_name": "/tmp/news_lk2/articles/68/68a30538.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654575420,
-    "title": "UK PM Johnson survives Conservative Party confidence vote",
-    "url": "http://www.adaderana.lk/news/82906/uk-pm-johnson-survives-conservative-party-confidence-vote",
-    "file_name": "/tmp/news_lk2/articles/9e/9e3d7b8e.json"
   }
 ]

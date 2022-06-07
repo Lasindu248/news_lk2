@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654625580,
+    "title": "Sri Lanka logistics body proposes tough measures to curb fuel import bill",
+    "url": "https://economynext.com/sri-lanka-logistics-body-proposes-tough-measures-to-curb-fuel-import-bill-95325/",
+    "file_name": "/tmp/news_lk2/articles/03/03fe412a.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654624800,
     "title": "More fuel stocks released to the market from tomorrow",
@@ -586,6 +593,13 @@
     "title": "Tough three weeks ahead for Sri Lanka with crippling fuel, gas shortages incoming: PM",
     "url": "https://economynext.com/tough-three-weeks-ahead-for-sri-lanka-with-crippling-fuel-gas-shortages-incoming-pm-95277/",
     "file_name": "/tmp/news_lk2/articles/24/2464b2d3.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654580340,
+    "title": "Sri Lanka to present interim budget cutting capex: PM",
+    "url": "https://economynext.com/sri-lanka-to-present-interim-budget-cutting-capex-pm-95275/",
+    "file_name": "/tmp/news_lk2/articles/ec/ec229508.json"
   },
   {
     "newspaper_id": "economy-next-com",
