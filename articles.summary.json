@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654603020,
+    "title": "No distribution of domestic LP gas tomorrow - Litro",
+    "url": "http://www.adaderana.lk/news/82919/no-distribution-of-domestic-lp-gas-tomorrow-litro",
+    "file_name": "/tmp/news_lk2/articles/37/370a2a3d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654600260,
     "title": "New Chief of Staff appointed to Sri Lanka Army",
     "url": "http://www.adaderana.lk/news/82918/new-chief-of-staff-appointed-to-sri-lanka-army",
@@ -40,6 +47,27 @@
     "title": "President invited me to accept Premiership hours before Ranil accepted it: SF",
     "url": "https://www.dailymirror.lk/latest_news/President-invited-me-to-accept-Premiership-hours-before-Ranil-accepted-it-SF/342-238613",
     "file_name": "/tmp/news_lk2/articles/2a/2a51a484.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654598580,
+    "title": "Major General Jagath Kodithuwakku \u2013 New Army CDS",
+    "url": "https://www.newsfirst.lk/2022/06/07/major-general-jagath-kodithuwakku-new-army-cds/",
+    "file_name": "/tmp/news_lk2/articles/90/90694142.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654598280,
+    "title": "Pakistan Defence delegation calls on Defence Secretary",
+    "url": "https://www.newsfirst.lk/2022/06/07/pakistan-defence-delegation-calls-on-defence-secretary/",
+    "file_name": "/tmp/news_lk2/articles/d1/d1a2daf7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654598160,
+    "title": "Foreign Minister off to Singapore for Asia Security Summit",
+    "url": "https://www.newsfirst.lk/2022/06/07/foreign-minister-off-to-singapore-for-asia-security-summit/",
+    "file_name": "/tmp/news_lk2/articles/cd/cd40cb3e.json"
   },
   {
     "newspaper_id": "news-first-lk",
