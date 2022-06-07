@@ -1,6 +1,48 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654634820,
+    "title": "Govt. presents Rs. 695 b to Parliament",
+    "url": "https://www.ft.lk/news/Govt-presents-Rs-695-b-to-Parliament/56-735888",
+    "file_name": "/tmp/news_lk2/articles/41/41374c2d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654634760,
+    "title": "Parliament goes from print to electronic to cut costs",
+    "url": "https://www.ft.lk/news/Parliament-goes-from-print-to-electronic-to-cut-costs/56-735887",
+    "file_name": "/tmp/news_lk2/articles/5a/5aae62bd.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654634580,
+    "title": "Govt. seek remedies to economic crisis through all Missions abroad",
+    "url": "https://www.ft.lk/news/Govt-seek-remedies-to-economic-crisis-through-all-Missions-abroad/56-735886",
+    "file_name": "/tmp/news_lk2/articles/e8/e8050b66.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654634520,
+    "title": "GL to visit Singapore for bilateral talks, attend Asia Security Summit",
+    "url": "https://www.ft.lk/news/GL-to-visit-Singapore-for-bilateral-talks-attend-Asia-Security-Summit/56-735885",
+    "file_name": "/tmp/news_lk2/articles/c9/c9dc30a0.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654634280,
+    "title": "Manusha calls on Sri Lankan foreign expatriates to help fellow citizens",
+    "url": "https://www.ft.lk/news/Manusha-calls-on-Sri-Lankan-foreign-expatriates-to-help-fellow-citizens/56-735884",
+    "file_name": "/tmp/news_lk2/articles/a1/a11749a5.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654634160,
+    "title": "Unilever\u2019s Horana factory gets ISO 14001:2015 Environmental Management System Certification",
+    "url": "https://www.ft.lk/business/Unilever-s-Horana-factory-gets-ISO-14001-2015-Environmental-Management-System-Certification/34-735883",
+    "file_name": "/tmp/news_lk2/articles/a9/a91521a9.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "time_ut": 1654628100,
     "title": "Prime Minister calls for new ways to resolve worst economic crisis",
     "url": "https://www.ft.lk/opinion/Prime-Minister-calls-for-new-ways-to-resolve-worst-economic-crisis/14-735882",
@@ -656,47 +698,5 @@
     "title": "Private Bus operation limited due to fuel crisis",
     "url": "https://www.newsfirst.lk/2022/06/07/private-bus-operation-limited-due-to-fuel-crisis/",
     "file_name": "/tmp/news_lk2/articles/18/18009588.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654577880,
-    "title": "\u2018Next three weeks are going to be tough\u2019 \u2013 Prime Minister appeals to use fuel & LP Gas sparingly",
-    "url": "https://www.newsfirst.lk/2022/06/07/next-three-weeks-are-going-to-be-tough-prime-minister-appeals-to-use-fuel-lp-gas-sparingly/",
-    "file_name": "/tmp/news_lk2/articles/56/5693e005.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654577640,
-    "title": "Ranjan given two-year suspended sentence",
-    "url": "http://www.adaderana.lk/news/82910/ranjan-given-two-year-suspended-sentence-",
-    "file_name": "/tmp/news_lk2/articles/17/17ac7843.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654577640,
-    "title": "Ranjan sentenced to 2-year rigorous imprisonment",
-    "url": "http://www.adaderana.lk/news/82910/ranjan-sentenced-to-2-year-rigorous-imprisonment-",
-    "file_name": "/tmp/news_lk2/articles/b5/b5254262.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654577460,
-    "title": "Sri Lanka to award 40-year tax concession to Port City investors",
-    "url": "http://www.adaderana.lk/news/82909/sri-lanka-to-award-40-year-tax-concession-to-port-city-investors",
-    "file_name": "/tmp/news_lk2/articles/e3/e3bf0a7d.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654576980,
-    "title": "Cabinet ministers decide not to draw salaries for one year",
-    "url": "http://www.adaderana.lk/news/82908/cabinet-ministers-decide-not-to-draw-salaries-for-one-year",
-    "file_name": "/tmp/news_lk2/articles/8e/8e157d87.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654576740,
-    "title": "Ranjan sentenced two years suspended imprisonment over second  contempt of court case",
-    "url": "https://www.dailymirror.lk/breaking_news/Ranjan-sentenced-two-years-suspended-imprisonment-over-second-contempt-of-court-case/108-238595",
-    "file_name": "/tmp/news_lk2/articles/07/0793e66d.json"
   }
 ]
