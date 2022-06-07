@@ -51,6 +51,13 @@
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654610160,
+    "title": "Health ministry to pay back-wages for Dr. Shafi before July 10",
+    "url": "https://www.dailymirror.lk/breaking_news/Health-ministry-to-pay-back-wages-for-Dr-Shafi-before-July-10/108-238620",
+    "file_name": "/tmp/news_lk2/articles/6c/6c502f70.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654610160,
     "title": "Ministry of Health to pay back-wages for Dr. Shafi Shihabdeen before July 10",
     "url": "https://www.dailymirror.lk/latest_news/Ministry-of-Health-to-pay-back-wages-for-Dr-Shafi-Shihabdeen-before-July-10/342-238620",
     "file_name": "/tmp/news_lk2/articles/95/95bb7933.json"
@@ -691,12 +698,5 @@
     "title": "Ranjan guilty of second contempt of court charge; Two year prison term suspended for five years",
     "url": "https://www.newsfirst.lk/2022/06/07/ranjan-guilty-of-second-contempt-of-court-charge-two-year-prison-term-suspended-for-five-years/",
     "file_name": "/tmp/news_lk2/articles/61/6169e6fb.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654576500,
-    "title": "Sri Lanka to seek USD 55 Mn loan from India to purchase urea",
-    "url": "http://www.adaderana.lk/news/82907/sri-lanka-to-seek-usd-55-mn-loan-from-india-to-purchase-urea",
-    "file_name": "/tmp/news_lk2/articles/6c/6ccef02f.json"
   }
 ]
