@@ -1,5 +1,40 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654598040,
+    "title": "Two new Vice Chancellors appointed",
+    "url": "https://www.newsfirst.lk/2022/06/07/two-new-vice-chancellors-appointed/",
+    "file_name": "/tmp/news_lk2/articles/a4/a42ca491.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654597740,
+    "title": "Major General Jagath Kodithuwakku, new Chief of Staff of Army",
+    "url": "https://www.dailymirror.lk/breaking_news/Major-General-Jagath-Kodithuwakku-new-Chief-of-Staff-of-Army/108-238611",
+    "file_name": "/tmp/news_lk2/articles/19/19749972.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654597320,
+    "title": "Sri Lanka Tri Forces at the Queen\u2019s Platinum Jubilee pageant",
+    "url": "https://economynext.com/sri-lanka-tri-forces-at-the-queens-platinum-jubilee-pageant-95310/",
+    "file_name": "/tmp/news_lk2/articles/a7/a7414611.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654596720,
+    "title": "Govt will not act on Cabinet Paper to import vehicles for MPs",
+    "url": "https://www.newsfirst.lk/2022/06/07/govt-will-not-act-on-cabinet-paper-to-import-vehicles-for-mps/",
+    "file_name": "/tmp/news_lk2/articles/28/28bedbf5.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654596600,
+    "title": "Dilip Wedaarachchi\u2019s son & daughter-in-law remanded",
+    "url": "http://www.adaderana.lk/news/82917/dilip-wedaarachchis-son-daughter-in-law-remanded",
+    "file_name": "/tmp/news_lk2/articles/8b/8bfc3446.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654595100,
     "title": "Uvais Mohamed assumes duties as CPC Chairman",
