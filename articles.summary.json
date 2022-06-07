@@ -1,10 +1,24 @@
 [
   {
     "newspaper_id": "economy-next-com",
+    "time_ut": 1654573020,
+    "title": "Sri Lanka state firms to buy 230,000MT fertilizer for next season: Minister",
+    "url": "https://economynext.com/sri-lanka-state-firms-to-buy-230000mt-fertilizer-for-next-season-minister-95261/",
+    "file_name": "/tmp/news_lk2/articles/74/74cab22d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "time_ut": 1654571640,
     "title": "Sri Lanka expects 65000MT of urea given by India after a month: Minister",
     "url": "https://economynext.com/sri-lanka-expects-65000mt-of-urea-given-by-india-after-a-month-minister-95260/",
     "file_name": "/tmp/news_lk2/articles/d6/d629693d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654570740,
+    "title": "Hydro power generation increased due to rainfall",
+    "url": "https://www.newsfirst.lk/2022/06/07/hydro-power-generation-increased-due-to-rainfall/",
+    "file_name": "/tmp/news_lk2/articles/c7/c7876e2f.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -96,6 +110,13 @@
     "title": "Tourism authorities to approach ADB, WB for financial assistance",
     "url": "https://www.dailymirror.lk/business-news/Tourism-authorities-to-approach-ADB-WB-for-financial-assistance/273-238582",
     "file_name": "/tmp/news_lk2/articles/ea/ea14fac5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654557300,
+    "title": "Tourism authorities to approach ADB, WB for financial assistance",
+    "url": "https://www.dailymirror.lk/latest_news/Tourism-authorities-to-approach-ADB-WB-for-financial-assistance/342-238582",
+    "file_name": "/tmp/news_lk2/articles/ef/effd4348.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
