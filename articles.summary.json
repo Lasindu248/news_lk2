@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654563840,
+    "title": "Limited LP Gas distribution today (7)",
+    "url": "https://www.newsfirst.lk/2022/06/07/limited-lp-gas-distribution-today-7/",
+    "file_name": "/tmp/news_lk2/articles/60/60b2ae6e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654563540,
+    "title": "Special gas distribution in Colombo, Kalutara, Gampaha today",
+    "url": "https://www.dailymirror.lk/latest_news/Special-gas-distribution-in-Colombo-Kalutara-Gampaha-today/342-238589",
+    "file_name": "/tmp/news_lk2/articles/e2/e26adac1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654561980,
+    "title": "Strong winds & thundershowers likely today (7)",
+    "url": "https://www.newsfirst.lk/2022/06/07/strong-winds-thundershowers-likely-today-7/",
+    "file_name": "/tmp/news_lk2/articles/83/83139908.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1654553820,
     "title": "President Sirisena appeals  to Putin to reconsider Aeroflot flight suspension to SL",
