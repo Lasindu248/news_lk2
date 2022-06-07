@@ -1,5 +1,47 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654576500,
+    "title": "Sri Lanka to seek USD 55 Mn loan from India to purchase urea",
+    "url": "http://www.adaderana.lk/news/82907/sri-lanka-to-seek-usd-55-mn-loan-from-india-to-purchase-urea",
+    "file_name": "/tmp/news_lk2/articles/6c/6ccef02f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654575420,
+    "title": "UK PM Johnson survives Conservative Party confidence vote",
+    "url": "http://www.adaderana.lk/news/82906/uk-pm-johnson-survives-conservative-party-confidence-vote",
+    "file_name": "/tmp/news_lk2/articles/9e/9e3d7b8e.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654575300,
+    "title": "Sri Lanka to send state workers for foreign jobs: Minister",
+    "url": "https://economynext.com/sri-lanka-to-send-state-workers-for-foreign-jobs-minister-95262/",
+    "file_name": "/tmp/news_lk2/articles/84/8493a328.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654574280,
+    "title": "Russian Govt grateful for Aeroflot settlement",
+    "url": "https://www.newsfirst.lk/2022/06/07/russian-govt-grateful-for-aeroflot-settlement/",
+    "file_name": "/tmp/news_lk2/articles/cd/cdd28bc5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654573800,
+    "title": "2,000 MT of Gas reaches Sri Lanka",
+    "url": "https://www.newsfirst.lk/2022/06/07/2000-mt-of-gas-reaches-sri-lanka/",
+    "file_name": "/tmp/news_lk2/articles/39/3923d512.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654573200,
+    "title": "No clear Link between recent shooting spree",
+    "url": "https://www.newsfirst.lk/2022/06/07/no-definite-link-between-recent-shootings-police/",
+    "file_name": "/tmp/news_lk2/articles/fd/fd4080c4.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654573020,
     "title": "Sri Lanka state firms to buy 230,000MT fertilizer for next season: Minister",
@@ -99,6 +141,13 @@
   },
   {
     "newspaper_id": "economy-next-com",
+    "time_ut": 1654566660,
+    "title": "Controversy erupts over pricing on unsolicited Adani wind power project",
+    "url": "https://economynext.com/controversy-erupts-over-pricing-on-unsolicited-adani-wind-power-project-95244/",
+    "file_name": "/tmp/news_lk2/articles/57/5767d903.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "time_ut": 1654565340,
     "title": "Sri Lanka tax hikes must be complemented by spending rationalization: Eran",
     "url": "https://economynext.com/sri-lanka-tax-hikes-must-be-complemented-by-spending-rationalization-eran-95243/",
@@ -191,6 +240,13 @@
   {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654542300,
+    "title": "Sri Lanka sees a sharp rise in day-light robbery amid drug-traffic allegations",
+    "url": "https://economynext.com/sri-lanka-sees-a-sharp-rise-in-day-light-robbery-amid-drug-traffic-allegations-95241/",
+    "file_name": "/tmp/news_lk2/articles/e3/e3007bcf.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654542300,
     "title": "Sri Lanka sees rising trend of day-light amid drug-traffic allegations",
     "url": "https://economynext.com/sri-lanka-sees-rising-trend-of-day-light-amid-drug-traffic-allegations-95241/",
     "file_name": "/tmp/news_lk2/articles/2b/2bb5d856.json"
@@ -233,6 +289,13 @@
   {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654533960,
+    "title": "Sri Lanka stocks plunge near 4-wk low on political, economic woes",
+    "url": "https://economynext.com/sri-lanka-stocks-plunge-near-4-wk-low-on-political-economic-woes-95233/",
+    "file_name": "/tmp/news_lk2/articles/fa/fa48ff6c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654533960,
     "title": "Sri Lanka stocks plunge to near 4-wk low on political, economic woes",
     "url": "https://economynext.com/sri-lanka-stocks-plunge-to-near-4-wk-low-on-political-economic-woes-95233/",
     "file_name": "/tmp/news_lk2/articles/a4/a48d45f2.json"
@@ -250,6 +313,13 @@
     "title": "Sri Lanka Cricket to donate ticket money from Australian tour to crisis-hit people",
     "url": "https://economynext.com/sri-lanka-cricket-to-donate-ticket-money-from-australian-tour-to-crisis-hit-people-95229/",
     "file_name": "/tmp/news_lk2/articles/0d/0d947c70.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654531620,
+    "title": "Australian Cricket team to donate ticket money to crisis-hit Sri Lanka",
+    "url": "https://economynext.com/australian-cricket-team-to-donate-ticket-money-to-crisis-hit-sri-lanka-95229/",
+    "file_name": "/tmp/news_lk2/articles/1f/1f35cb1c.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -544,6 +614,13 @@
     "title": "Sri Lanka\u2019s Sapugaskanda oil refinery to release 800MT of diesel to market",
     "url": "https://economynext.com/sri-lankas-sapugaskanda-oil-refinery-to-release-800mt-of-diesel-to-market-95212/",
     "file_name": "/tmp/news_lk2/articles/24/243183ac.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654507500,
+    "title": "Sri Lanka\u2019s Sapugaskanda oil refinery to release 800MT of diesel to the market",
+    "url": "https://economynext.com/sri-lankas-sapugaskanda-oil-refinery-to-release-800mt-of-diesel-to-the-market-95212/",
+    "file_name": "/tmp/news_lk2/articles/27/27b07ddf.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
