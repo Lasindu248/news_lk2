@@ -1,10 +1,38 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654600260,
+    "title": "New Chief of Staff appointed to Sri Lanka Army",
+    "url": "http://www.adaderana.lk/news/82918/new-chief-of-staff-appointed-to-sri-lanka-army",
+    "file_name": "/tmp/news_lk2/articles/32/32dc95ec.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654599780,
+    "title": "No gas distribution tomorrow: LITRO",
+    "url": "https://www.dailymirror.lk/breaking_news/No-gas-distribution-tomorrow-LITRO/108-238615",
+    "file_name": "/tmp/news_lk2/articles/fd/fda8bbc1.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654599360,
     "title": "Queues for fuel...",
     "url": "https://www.dailymirror.lk/latest_news/Queues-for-fuel/342-238614",
     "file_name": "/tmp/news_lk2/articles/5a/5ac621fb.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654599360,
+    "title": "Queues for fuel...",
+    "url": "https://www.dailymirror.lk/caption_story/Queues-for-fuel/110-238614",
+    "file_name": "/tmp/news_lk2/articles/a7/a7fdf4c7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654598760,
+    "title": "President invited me to accept Premiership hours before Ranil accepted it: SF",
+    "url": "https://www.dailymirror.lk/breaking_news/President-invited-me-to-accept-Premiership-hours-before-Ranil-accepted-it-SF/108-238613",
+    "file_name": "/tmp/news_lk2/articles/25/2541a5b9.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -19,6 +47,13 @@
     "title": "Two new Vice Chancellors appointed",
     "url": "https://www.newsfirst.lk/2022/06/07/two-new-vice-chancellors-appointed/",
     "file_name": "/tmp/news_lk2/articles/a4/a42ca491.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654597860,
+    "title": "12-year old schoolgirl slips out from home in search of lover",
+    "url": "https://www.dailymirror.lk/breaking_news/12-year-old-schoolgirl-slips-out-from-home-in-search-of-lover/108-238612",
+    "file_name": "/tmp/news_lk2/articles/f2/f284e56c.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -663,40 +698,5 @@
     "title": "Special gas distribution in Colombo, Kalutara, Gampaha today",
     "url": "https://www.dailymirror.lk/breaking_news/Special-gas-distribution-in-Colombo-Kalutara-Gampaha-today/108-238589",
     "file_name": "/tmp/news_lk2/articles/b2/b25b6c59.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654563540,
-    "title": "Special gas distribution in Colombo, Kalutara, Gampaha today",
-    "url": "https://www.dailymirror.lk/latest_news/Special-gas-distribution-in-Colombo-Kalutara-Gampaha-today/342-238589",
-    "file_name": "/tmp/news_lk2/articles/e2/e26adac1.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654561980,
-    "title": "Strong winds & thundershowers likely today (7)",
-    "url": "https://www.newsfirst.lk/2022/06/07/strong-winds-thundershowers-likely-today-7/",
-    "file_name": "/tmp/news_lk2/articles/83/83139908.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654557480,
-    "title": "Daily guidance on dollar/rupee rate has brought in greater stability to forex market: CB",
-    "url": "https://www.dailymirror.lk/breaking_news/Daily-guidance-on-dollarrupee-rate-has-brought-in-greater-stability-to-forex-market-CB/108-238584",
-    "file_name": "/tmp/news_lk2/articles/d5/d5152037.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654557480,
-    "title": "Daily guidance on dollar/rupee rate has brought in greater stability to forex market: CB",
-    "url": "https://www.dailymirror.lk/business__main/Daily-guidance-on-dollarrupee-rate-has-brought-in-greater-stability-to-forex-market-CB/245-238584",
-    "file_name": "/tmp/news_lk2/articles/34/3409cf29.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654557300,
-    "title": "Tourism authorities to approach ADB, WB for financial assistance",
-    "url": "https://www.dailymirror.lk/business-news/Tourism-authorities-to-approach-ADB-WB-for-financial-assistance/273-238582",
-    "file_name": "/tmp/news_lk2/articles/ea/ea14fac5.json"
   }
 ]
