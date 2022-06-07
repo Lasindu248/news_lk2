@@ -1,10 +1,59 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654605660,
+    "title": "Sri Lanka\u2019s Foreign Minister to Singapore for bilateral meeting with leaders",
+    "url": "https://economynext.com/sri-lankas-foreign-minister-to-singapore-for-bilateral-meeting-with-leaders-95321/",
+    "file_name": "/tmp/news_lk2/articles/c4/c4c9d5ca.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654605540,
+    "title": "Colombo Commercial HC\u2019s fiscal officer interdicted over Aeroflot flight fiasco",
+    "url": "http://www.adaderana.lk/news/82920/colombo-commercial-hcs-fiscal-officer-interdicted-over-aeroflot-flight-fiasco",
+    "file_name": "/tmp/news_lk2/articles/84/84e025c8.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654603020,
+    "title": "No distribution of domestic LP gas tomorrow - Litro",
+    "url": "http://www.adaderana.lk/news/82919/no-distribution-of-domestic-lp-gas-tomorrow-litro",
+    "file_name": "/tmp/news_lk2/articles/37/370a2a3d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654602540,
+    "title": "Elderly woman\u2019s charred remains found inside Ragama house",
+    "url": "https://www.newsfirst.lk/2022/06/07/elderly-womans-charred-remains-found-inside-ragama-house/",
+    "file_name": "/tmp/news_lk2/articles/0c/0cf3ee6e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654602240,
+    "title": "Wedarachchi\u2019s son & daughter-in-law, remanded",
+    "url": "https://www.newsfirst.lk/2022/06/07/wedarachchis-son-daughter-in-law-remanded/",
+    "file_name": "/tmp/news_lk2/articles/7f/7f2a91c7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654601280,
+    "title": "Stop attempts to remove CBSL Governor, CBSL Retired Executive Officer\u2019s write to President",
+    "url": "https://www.newsfirst.lk/2022/06/07/stop-attempts-to-remove-cbsl-governor-cbsl-retired-executive-officers-write-to-president/",
+    "file_name": "/tmp/news_lk2/articles/8d/8d15e96a.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654600260,
     "title": "New Chief of Staff appointed to Sri Lanka Army",
     "url": "http://www.adaderana.lk/news/82918/new-chief-of-staff-appointed-to-sri-lanka-army",
     "file_name": "/tmp/news_lk2/articles/32/32dc95ec.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654599780,
+    "title": "No gas distribution tomorrow: LITRO",
+    "url": "https://www.dailymirror.lk/latest_news/No-gas-distribution-tomorrow-LITRO/342-238615",
+    "file_name": "/tmp/news_lk2/articles/7d/7d84e3fa.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -40,6 +89,27 @@
     "title": "President invited me to accept Premiership hours before Ranil accepted it: SF",
     "url": "https://www.dailymirror.lk/latest_news/President-invited-me-to-accept-Premiership-hours-before-Ranil-accepted-it-SF/342-238613",
     "file_name": "/tmp/news_lk2/articles/2a/2a51a484.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654598580,
+    "title": "Major General Jagath Kodithuwakku \u2013 New Army CDS",
+    "url": "https://www.newsfirst.lk/2022/06/07/major-general-jagath-kodithuwakku-new-army-cds/",
+    "file_name": "/tmp/news_lk2/articles/90/90694142.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654598280,
+    "title": "Pakistan Defence delegation calls on Defence Secretary",
+    "url": "https://www.newsfirst.lk/2022/06/07/pakistan-defence-delegation-calls-on-defence-secretary/",
+    "file_name": "/tmp/news_lk2/articles/d1/d1a2daf7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654598160,
+    "title": "Foreign Minister off to Singapore for Asia Security Summit",
+    "url": "https://www.newsfirst.lk/2022/06/07/foreign-minister-off-to-singapore-for-asia-security-summit/",
+    "file_name": "/tmp/news_lk2/articles/cd/cd40cb3e.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -628,75 +698,5 @@
     "title": "Sri Lanka plans to import 800,000MT of rice, no immediate shortage: Minister",
     "url": "https://economynext.com/sri-lanka-plans-to-import-800000mt-of-rice-no-immediate-shortage-minister-95245/",
     "file_name": "/tmp/news_lk2/articles/56/56093983.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654567560,
-    "title": "Pfizer vaccination centres at CMC today",
-    "url": "https://www.dailymirror.lk/latest_news/Pfizer-vaccination-centres-at-CMC-today/342-238590",
-    "file_name": "/tmp/news_lk2/articles/20/20edc421.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654567560,
-    "title": "Pfizer vaccination centres at CMC today",
-    "url": "https://www.dailymirror.lk/breaking_news/Pfizer-vaccination-centres-at-CMC-today/108-238590",
-    "file_name": "/tmp/news_lk2/articles/36/36061f78.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654567320,
-    "title": "Rainfall expected in parts of the island today",
-    "url": "http://www.adaderana.lk/news/82905/rainfall-expected-in-parts-of-the-island-today",
-    "file_name": "/tmp/news_lk2/articles/8d/8d1ea8c3.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654566960,
-    "title": "Special domestic LP gas distribution in several areas today",
-    "url": "http://www.adaderana.lk/news/82904/special-domestic-lp-gas-distribution-in-several-areas-today",
-    "file_name": "/tmp/news_lk2/articles/b0/b0c8c306.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654566720,
-    "title": "Inquiry over Laugfs price hike",
-    "url": "https://www.newsfirst.lk/2022/06/07/inquiry-over-laugfs-price-hike/",
-    "file_name": "/tmp/news_lk2/articles/fc/fc523c58.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654566660,
-    "title": "Controversy erupts over Sri Lanka unsolicited Adani wind power project pricing",
-    "url": "https://economynext.com/controversy-erupts-over-sri-lanka-unsolicited-adani-wind-power-project-pricing-95244/",
-    "file_name": "/tmp/news_lk2/articles/01/01f058bb.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654566660,
-    "title": "Controversy erupts over pricing on unsolicited Adani wind power project",
-    "url": "https://economynext.com/controversy-erupts-over-pricing-on-unsolicited-adani-wind-power-project-95244/",
-    "file_name": "/tmp/news_lk2/articles/57/5767d903.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654565340,
-    "title": "Sri Lanka tax hikes must be complemented by spending rationalization: Eran",
-    "url": "https://economynext.com/sri-lanka-tax-hikes-must-be-complemented-by-spending-rationalization-eran-95243/",
-    "file_name": "/tmp/news_lk2/articles/ea/ea35bfb1.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654563840,
-    "title": "Limited LP Gas distribution today (7)",
-    "url": "https://www.newsfirst.lk/2022/06/07/limited-lp-gas-distribution-today-7/",
-    "file_name": "/tmp/news_lk2/articles/60/60b2ae6e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654563540,
-    "title": "Special gas distribution in Colombo, Kalutara, Gampaha today",
-    "url": "https://www.dailymirror.lk/breaking_news/Special-gas-distribution-in-Colombo-Kalutara-Gampaha-today/108-238589",
-    "file_name": "/tmp/news_lk2/articles/b2/b25b6c59.json"
   }
 ]

@@ -1,10 +1,59 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654605660,
+    "title": "Sri Lanka\u2019s Foreign Minister to Singapore for bilateral meeting with leaders",
+    "url": "https://economynext.com/sri-lankas-foreign-minister-to-singapore-for-bilateral-meeting-with-leaders-95321/",
+    "file_name": "/tmp/news_lk2/articles/c4/c4c9d5ca.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654605540,
+    "title": "Colombo Commercial HC\u2019s fiscal officer interdicted over Aeroflot flight fiasco",
+    "url": "http://www.adaderana.lk/news/82920/colombo-commercial-hcs-fiscal-officer-interdicted-over-aeroflot-flight-fiasco",
+    "file_name": "/tmp/news_lk2/articles/84/84e025c8.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654603020,
+    "title": "No distribution of domestic LP gas tomorrow - Litro",
+    "url": "http://www.adaderana.lk/news/82919/no-distribution-of-domestic-lp-gas-tomorrow-litro",
+    "file_name": "/tmp/news_lk2/articles/37/370a2a3d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654602540,
+    "title": "Elderly woman\u2019s charred remains found inside Ragama house",
+    "url": "https://www.newsfirst.lk/2022/06/07/elderly-womans-charred-remains-found-inside-ragama-house/",
+    "file_name": "/tmp/news_lk2/articles/0c/0cf3ee6e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654602240,
+    "title": "Wedarachchi\u2019s son & daughter-in-law, remanded",
+    "url": "https://www.newsfirst.lk/2022/06/07/wedarachchis-son-daughter-in-law-remanded/",
+    "file_name": "/tmp/news_lk2/articles/7f/7f2a91c7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654601280,
+    "title": "Stop attempts to remove CBSL Governor, CBSL Retired Executive Officer\u2019s write to President",
+    "url": "https://www.newsfirst.lk/2022/06/07/stop-attempts-to-remove-cbsl-governor-cbsl-retired-executive-officers-write-to-president/",
+    "file_name": "/tmp/news_lk2/articles/8d/8d15e96a.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654600260,
     "title": "New Chief of Staff appointed to Sri Lanka Army",
     "url": "http://www.adaderana.lk/news/82918/new-chief-of-staff-appointed-to-sri-lanka-army",
     "file_name": "/tmp/news_lk2/articles/32/32dc95ec.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654599780,
+    "title": "No gas distribution tomorrow: LITRO",
+    "url": "https://www.dailymirror.lk/latest_news/No-gas-distribution-tomorrow-LITRO/342-238615",
+    "file_name": "/tmp/news_lk2/articles/7d/7d84e3fa.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -40,6 +89,27 @@
     "title": "President invited me to accept Premiership hours before Ranil accepted it: SF",
     "url": "https://www.dailymirror.lk/latest_news/President-invited-me-to-accept-Premiership-hours-before-Ranil-accepted-it-SF/342-238613",
     "file_name": "/tmp/news_lk2/articles/2a/2a51a484.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654598580,
+    "title": "Major General Jagath Kodithuwakku \u2013 New Army CDS",
+    "url": "https://www.newsfirst.lk/2022/06/07/major-general-jagath-kodithuwakku-new-army-cds/",
+    "file_name": "/tmp/news_lk2/articles/90/90694142.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654598280,
+    "title": "Pakistan Defence delegation calls on Defence Secretary",
+    "url": "https://www.newsfirst.lk/2022/06/07/pakistan-defence-delegation-calls-on-defence-secretary/",
+    "file_name": "/tmp/news_lk2/articles/d1/d1a2daf7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654598160,
+    "title": "Foreign Minister off to Singapore for Asia Security Summit",
+    "url": "https://www.newsfirst.lk/2022/06/07/foreign-minister-off-to-singapore-for-asia-security-summit/",
+    "file_name": "/tmp/news_lk2/articles/cd/cd40cb3e.json"
   },
   {
     "newspaper_id": "news-first-lk",
