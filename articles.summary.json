@@ -1,6 +1,20 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654624800,
+    "title": "More fuel stocks released to the market from tomorrow",
+    "url": "http://www.adaderana.lk/news/82923/more-fuel-stocks-released-to-the-market-from-tomorrow",
+    "file_name": "/tmp/news_lk2/articles/d9/d9c92b58.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654623480,
+    "title": "Sri Lanka\u2019s Alpha Fire Services debuts CSE trading",
+    "url": "https://economynext.com/sri-lankas-alpha-fire-services-debuts-cse-trading-95323/",
+    "file_name": "/tmp/news_lk2/articles/ac/acb54d96.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654619340,
     "title": "World Bank warns of recession risk due to Ukraine war",
     "url": "http://www.adaderana.lk/news/82922/world-bank-warns-of-recession-risk-due-to-ukraine-war",

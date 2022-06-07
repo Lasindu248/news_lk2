@@ -1,6 +1,20 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654624800,
+    "title": "More fuel stocks released to the market from tomorrow",
+    "url": "http://www.adaderana.lk/news/82923/more-fuel-stocks-released-to-the-market-from-tomorrow",
+    "file_name": "/tmp/news_lk2/articles/d9/d9c92b58.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654623480,
+    "title": "Sri Lanka\u2019s Alpha Fire Services debuts CSE trading",
+    "url": "https://economynext.com/sri-lankas-alpha-fire-services-debuts-cse-trading-95323/",
+    "file_name": "/tmp/news_lk2/articles/ac/acb54d96.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654619340,
     "title": "World Bank warns of recession risk due to Ukraine war",
     "url": "http://www.adaderana.lk/news/82922/world-bank-warns-of-recession-risk-due-to-ukraine-war",
@@ -684,19 +698,5 @@
     "title": "UK PM Johnson survives Conservative Party confidence vote",
     "url": "http://www.adaderana.lk/news/82906/uk-pm-johnson-survives-conservative-party-confidence-vote",
     "file_name": "/tmp/news_lk2/articles/9e/9e3d7b8e.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654575300,
-    "title": "Sri Lanka to send state workers for foreign jobs: Minister",
-    "url": "https://economynext.com/sri-lanka-to-send-state-workers-for-foreign-jobs-minister-95262/",
-    "file_name": "/tmp/news_lk2/articles/84/8493a328.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654574280,
-    "title": "Russian Govt grateful for Aeroflot settlement",
-    "url": "https://www.newsfirst.lk/2022/06/07/russian-govt-grateful-for-aeroflot-settlement/",
-    "file_name": "/tmp/news_lk2/articles/cd/cdd28bc5.json"
   }
 ]
