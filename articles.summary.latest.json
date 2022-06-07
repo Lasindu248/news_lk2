@@ -1,6 +1,111 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654583700,
+    "title": "CBSL Governor denies reports of dispute with PM",
+    "url": "https://www.dailymirror.lk/breaking_news/CBSL-Governor-denies-reports-of-dispute-with-PM/108-238603",
+    "file_name": "/tmp/news_lk2/articles/01/0168c035.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654583460,
+    "title": "Sri Lanka does not rule out fuel rationing: PM",
+    "url": "https://economynext.com/sri-lanka-does-not-rule-out-fuel-rationing-pm-95284/",
+    "file_name": "/tmp/news_lk2/articles/b5/b5a4994a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654583220,
+    "title": "SL to re-sign MoU to get education, employment opportunities in Canada",
+    "url": "https://www.dailymirror.lk/breaking_news/SL-to-re-sign-MoU-to-get-education-employment-opportunities-in-Canada/108-238601",
+    "file_name": "/tmp/news_lk2/articles/d3/d352fad9.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654583160,
+    "title": "Sri Lanka must rebuild agriculture sector immediately to prevent food shortages: PM",
+    "url": "https://economynext.com/sri-lanka-must-rebuild-agriculture-sector-immediately-to-prevent-food-shortages-pm-95285/",
+    "file_name": "/tmp/news_lk2/articles/a0/a02975b3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654581900,
+    "title": "Fuel supply: PM says next three weeks will be tough",
+    "url": "https://www.dailymirror.lk/latest_news/Fuel-supply-PM-says-next-three-weeks-will-be-tough/342-238600",
+    "file_name": "/tmp/news_lk2/articles/b0/b0f450d9.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654581720,
+    "title": "Next three weeks will be tough, use fuel and LP gas sparingly: PM",
+    "url": "http://www.adaderana.lk/news/82912/next-three-weeks-will-be-tough-use-fuel-and-lp-gas-sparingly-pm",
+    "file_name": "/tmp/news_lk2/articles/38/38d37442.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654581540,
+    "title": "Sri Lanka economy may contract 6.9-pct in 2023 PM says after soft-peg collapse",
+    "url": "https://economynext.com/sri-lanka-economy-may-contract-6-9-pct-in-2023-pm-says-after-soft-peg-collapse-95281/",
+    "file_name": "/tmp/news_lk2/articles/53/536255da.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654581480,
+    "title": "NO dispute between Governor & Prime Minister \u2013 CBSL",
+    "url": "https://www.newsfirst.lk/2022/06/07/no-dispute-between-governor-prime-minister-cbsl/",
+    "file_name": "/tmp/news_lk2/articles/be/be561a59.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654581480,
+    "title": "Daily exchange rate by CBSL",
+    "url": "https://www.newsfirst.lk/2022/06/07/daily-exchange-rate-by-cbsl-3/",
+    "file_name": "/tmp/news_lk2/articles/60/60ee2de2.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654581480,
+    "title": "Sri Lanka to write off small-time farmers\u2019 debt 100 percent",
+    "url": "https://economynext.com/sri-lanka-to-write-off-small-time-farmers-debt-100-percent-95282/",
+    "file_name": "/tmp/news_lk2/articles/3a/3a8e62e9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654581060,
+    "title": "\u2018Economy started to decline when 2019 Tax system was abolished\u2019 \u2013 PMs Full Speech",
+    "url": "https://www.newsfirst.lk/2022/06/07/economy-started-to-decline-when-2019-tax-system-was-abolished-pms-full-speech/",
+    "file_name": "/tmp/news_lk2/articles/00/00f6d2b0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654580880,
+    "title": "Ajith Nivard Cabraal released on bail",
+    "url": "https://www.dailymirror.lk/breaking_news/Ajith-Nivard-Cabraal-released-on-bail/108-238597",
+    "file_name": "/tmp/news_lk2/articles/f3/f3e0449e.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654580760,
+    "title": "Tough three weeks ahead for Sri Lanka with crippling fuel, gas shortages incoming: PM",
+    "url": "https://economynext.com/tough-three-weeks-ahead-for-sri-lanka-with-crippling-fuel-gas-shortages-incoming-pm-95277/",
+    "file_name": "/tmp/news_lk2/articles/24/2464b2d3.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654580340,
+    "title": "Sri Lanka to present interim budget cutting cutting capex: PM",
+    "url": "https://economynext.com/sri-lanka-to-present-interim-budget-cutting-cutting-capex-pm-95275/",
+    "file_name": "/tmp/news_lk2/articles/20/2008182f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654579920,
+    "title": "Cabinet approves to import 231,000 MTs of fertilizer for paddy cultivation",
+    "url": "https://www.dailymirror.lk/breaking_news/Cabinet-approves-to-import-231-000-MTs-of-fertilizer-for-paddy-cultivation/108-238598",
+    "file_name": "/tmp/news_lk2/articles/b4/b40418df.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654579200,
     "title": "Two men hacked to death in Eppawala",
     "url": "https://www.dailymirror.lk/breaking_news/Two-men-hacked-to-death-in-Eppawala/108-238596",
@@ -353,6 +458,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654541040,
     "title": "Drug shortage: Whose fault is it?",
+    "url": "https://www.dailymirror.lk/plus/Drug-shortage-Whose-fault-is-it/352-238565",
+    "file_name": "/tmp/news_lk2/articles/67/6786704a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654541040,
+    "title": "Drug shortage: Whose fault is it?",
     "url": "https://www.dailymirror.lk/recomended-news/Drug-shortage-Whose-fault-is-it/277-238565",
     "file_name": "/tmp/news_lk2/articles/75/750fa23a.json"
   },
@@ -383,6 +495,13 @@
     "title": "PROS AND CONS OF LIFTING  BAN ON OIL PALM CULTIVATION Experts differ over environmental issues",
     "url": "https://www.dailymirror.lk/recomended-news/PROS-AND-CONS-OF-LIFTING-BAN-ON-OIL-PALM-CULTIVATION-Experts-differ-over-environmental-issues/277-238563",
     "file_name": "/tmp/news_lk2/articles/63/6303fb1a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654540680,
+    "title": "PROS AND CONS OF LIFTING  BAN ON OIL PALM CULTIVATION Experts differ over environmental issues",
+    "url": "https://www.dailymirror.lk/plus/PROS-AND-CONS-OF-LIFTING-BAN-ON-OIL-PALM-CULTIVATION-Experts-differ-over-environmental-issues/352-238563",
+    "file_name": "/tmp/news_lk2/articles/a7/a7a2273e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -579,124 +698,5 @@
     "title": "Young man gunned down in Mutuwal; Sixth shooting victim in a week",
     "url": "https://www.newsfirst.lk/2022/06/06/young-man-gunned-down-in-mutuwal-sixth-shooting-victim-in-a-week/",
     "file_name": "/tmp/news_lk2/articles/2f/2f4944bb.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654520160,
-    "title": "Cement prices up again",
-    "url": "https://www.dailymirror.lk/latest_news/Cement-prices-up-again/342-238531",
-    "file_name": "/tmp/news_lk2/articles/fd/fdf5d8ed.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654520160,
-    "title": "Cement prices up again",
-    "url": "https://www.dailymirror.lk/breaking_news/Cement-prices-up-again/108-238531",
-    "file_name": "/tmp/news_lk2/articles/48/4856cec4.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654519860,
-    "title": "Youth shot dead in Modara",
-    "url": "http://www.adaderana.lk/news/82898/youth-shot-dead-in-modara",
-    "file_name": "/tmp/news_lk2/articles/a8/a88ce47b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654519620,
-    "title": "Youth killed in shooting incident in Modara",
-    "url": "https://www.dailymirror.lk/latest_news/Youth-killed-in-shooting-incident-in-Modara/342-238530",
-    "file_name": "/tmp/news_lk2/articles/b9/b91ef382.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654519620,
-    "title": "Youth killed in shooting incident in Modara",
-    "url": "https://www.dailymirror.lk/breaking_news/Youth-killed-in-shooting-incident-in-Modara/108-238530",
-    "file_name": "/tmp/news_lk2/articles/15/1573b80b.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654519320,
-    "title": "Protestor sentenced to 3 & 1/2 years for causing property damage",
-    "url": "https://www.newsfirst.lk/2022/06/06/protestor-sentenced-to-3-1-2-years-for-causing-property-damage/",
-    "file_name": "/tmp/news_lk2/articles/04/04756018.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654518840,
-    "title": "Electricity bill should increase by a considerable percentage: CEB Chairman",
-    "url": "https://www.dailymirror.lk/breaking_news/Electricity-bill-should-increase-by-a-considerable-percentage-CEB-Chairman/108-238529",
-    "file_name": "/tmp/news_lk2/articles/1f/1f5a3f0a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654518840,
-    "title": "Electricity bill should increase by a considerable percentage: CEB Chairman",
-    "url": "https://www.dailymirror.lk/latest_news/Electricity-bill-should-increase-by-a-considerable-percentage-CEB-Chairman/342-238529",
-    "file_name": "/tmp/news_lk2/articles/11/112a6a74.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654518240,
-    "title": "Former President blames govt over Russian plane fiasco",
-    "url": "http://www.adaderana.lk/news/82897/former-president-blames-govt-over-russian-plane-fiasco",
-    "file_name": "/tmp/news_lk2/articles/54/54aeb6e3.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654517640,
-    "title": "Suspension of Aeroflot flights will be a devastating blow to Sri Lanka\u2019s tourism industry; Sirisena writes to Putin",
-    "url": "https://www.newsfirst.lk/2022/06/06/suspension-of-aeroflot-flights-will-be-a-devastating-blow-to-sri-lankas-tourism-industry-sirisena-writes-to-putin/",
-    "file_name": "/tmp/news_lk2/articles/8a/8a9487f7.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654516260,
-    "title": "Professional Tour Guides Alliance protest in Colombo",
-    "url": "https://www.dailymirror.lk/latest_news/Professional-Tour-Guides-Alliance-protest-in-Colombo/342-238528",
-    "file_name": "/tmp/news_lk2/articles/e7/e74b7a89.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654516260,
-    "title": "Professional Tour Guides Alliance protest in Colombo",
-    "url": "https://www.dailymirror.lk/caption_story/Professional-Tour-Guides-Alliance-protest-in-Colombo/110-238528",
-    "file_name": "/tmp/news_lk2/articles/77/7740fc2c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654515780,
-    "title": "Farmers use pack bulls to transport produce",
-    "url": "https://www.dailymirror.lk/breaking_news/Farmers-use-pack-bulls-to-transport-produce/108-238527",
-    "file_name": "/tmp/news_lk2/articles/9b/9b4ab524.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654515780,
-    "title": "Farmers use pack bulls to transport produce",
-    "url": "https://www.dailymirror.lk/latest_news/Farmers-use-pack-bulls-to-transport-produce/342-238527",
-    "file_name": "/tmp/news_lk2/articles/09/092163ff.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654514040,
-    "title": "Sri Lanka explains regime which is still creating forex shortages",
-    "url": "https://economynext.com/sri-lanka-explains-regime-which-is-still-creating-forex-shortages-95215/",
-    "file_name": "/tmp/news_lk2/articles/f9/f94a0d3c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654513500,
-    "title": "SLAF launches \u2019Waga Sangramaya\u2019",
-    "url": "https://www.dailymirror.lk/caption_story/SLAF-launches-Waga-Sangramaya/110-238525",
-    "file_name": "/tmp/news_lk2/articles/77/77d14644.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654511340,
-    "title": "Army emerge overall champions at National Canoeing & Kayaking Competition",
-    "url": "https://www.newsfirst.lk/2022/06/06/army-emerge-overall-champions-at-national-canoeing-kayaking-competition/",
-    "file_name": "/tmp/news_lk2/articles/5f/5fa93a59.json"
   }
 ]
