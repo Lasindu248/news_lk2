@@ -1,5 +1,47 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654579200,
+    "title": "Two men hacked to death in Eppawala",
+    "url": "https://www.dailymirror.lk/breaking_news/Two-men-hacked-to-death-in-Eppawala/108-238596",
+    "file_name": "/tmp/news_lk2/articles/ac/ac620a7b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654579140,
+    "title": "Two persons found hacked to death at Eppawela",
+    "url": "http://www.adaderana.lk/news/82911/two-persons-found-hacked-to-death-at-eppawela",
+    "file_name": "/tmp/news_lk2/articles/95/95a25a93.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654578780,
+    "title": "Foreign Minister thanks India for assistance",
+    "url": "https://www.newsfirst.lk/2022/06/07/foreign-minister-thanks-india-for-assistance/",
+    "file_name": "/tmp/news_lk2/articles/6a/6a7dcf4e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654578180,
+    "title": "Private Bus operation limited due to fuel crisis",
+    "url": "https://www.newsfirst.lk/2022/06/07/private-bus-operation-limited-due-to-fuel-crisis/",
+    "file_name": "/tmp/news_lk2/articles/18/18009588.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654577880,
+    "title": "\u2018Next three weeks are going to be tough\u2019 \u2013 Prime Minister appeals to use fuel & LP Gas sparingly",
+    "url": "https://www.newsfirst.lk/2022/06/07/next-three-weeks-are-going-to-be-tough-prime-minister-appeals-to-use-fuel-lp-gas-sparingly/",
+    "file_name": "/tmp/news_lk2/articles/56/5693e005.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654577640,
+    "title": "Ranjan given two-year suspended sentence",
+    "url": "http://www.adaderana.lk/news/82910/ranjan-given-two-year-suspended-sentence-",
+    "file_name": "/tmp/news_lk2/articles/17/17ac7843.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654577640,
     "title": "Ranjan sentenced to 2-year rigorous imprisonment",
@@ -28,11 +70,25 @@
     "file_name": "/tmp/news_lk2/articles/07/0793e66d.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654576560,
+    "title": "Ranjan guilty of second contempt of court charge; Two year prison term suspended for five years",
+    "url": "https://www.newsfirst.lk/2022/06/07/ranjan-guilty-of-second-contempt-of-court-charge-two-year-prison-term-suspended-for-five-years/",
+    "file_name": "/tmp/news_lk2/articles/61/6169e6fb.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654576500,
     "title": "Sri Lanka to seek USD 55 Mn loan from India to purchase urea",
     "url": "http://www.adaderana.lk/news/82907/sri-lanka-to-seek-usd-55-mn-loan-from-india-to-purchase-urea",
     "file_name": "/tmp/news_lk2/articles/6c/6ccef02f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654576080,
+    "title": "Cabinet Ministers decide NOT to obtain salaries for this year",
+    "url": "https://www.newsfirst.lk/2022/06/07/cabinet-ministers-decide-not-to-obtain-salaries-for-this-year/",
+    "file_name": "/tmp/news_lk2/articles/68/68a30538.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -61,6 +117,13 @@
     "title": "2,000 MT of Gas reaches Sri Lanka",
     "url": "https://www.newsfirst.lk/2022/06/07/2000-mt-of-gas-reaches-sri-lanka/",
     "file_name": "/tmp/news_lk2/articles/39/3923d512.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654573200,
+    "title": "No clear Link between recent shooting spree",
+    "url": "https://www.newsfirst.lk/2022/06/07/no-clear-link-between-recent-shooting-spree/",
+    "file_name": "/tmp/news_lk2/articles/5d/5dbde3d9.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -220,6 +283,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654557300,
     "title": "Tourism authorities to approach ADB, WB for financial assistance",
+    "url": "https://www.dailymirror.lk/breaking_news/Tourism-authorities-to-approach-ADB-WB-for-financial-assistance/108-238582",
+    "file_name": "/tmp/news_lk2/articles/bd/bd6c9771.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654557300,
+    "title": "Tourism authorities to approach ADB, WB for financial assistance",
     "url": "https://www.dailymirror.lk/latest_news/Tourism-authorities-to-approach-ADB-WB-for-financial-assistance/342-238582",
     "file_name": "/tmp/news_lk2/articles/ef/effd4348.json"
   },
@@ -283,6 +353,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654541040,
     "title": "Drug shortage: Whose fault is it?",
+    "url": "https://www.dailymirror.lk/recomended-news/Drug-shortage-Whose-fault-is-it/277-238565",
+    "file_name": "/tmp/news_lk2/articles/75/750fa23a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654541040,
+    "title": "Drug shortage: Whose fault is it?",
     "url": "https://www.dailymirror.lk/news-features/Drug-shortage-Whose-fault-is-it/131-238565",
     "file_name": "/tmp/news_lk2/articles/0a/0a338361.json"
   },
@@ -299,6 +376,20 @@
     "title": "PROS AND CONS OF LIFTING  BAN ON OIL PALM CULTIVATION Experts differ over environmental issues",
     "url": "https://www.dailymirror.lk/opinion/PROS-AND-CONS-OF-LIFTING-BAN-ON-OIL-PALM-CULTIVATION-Experts-differ-over-environmental-issues/172-238563",
     "file_name": "/tmp/news_lk2/articles/c0/c0016b0f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654540680,
+    "title": "PROS AND CONS OF LIFTING  BAN ON OIL PALM CULTIVATION Experts differ over environmental issues",
+    "url": "https://www.dailymirror.lk/recomended-news/PROS-AND-CONS-OF-LIFTING-BAN-ON-OIL-PALM-CULTIVATION-Experts-differ-over-environmental-issues/277-238563",
+    "file_name": "/tmp/news_lk2/articles/63/6303fb1a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654540440,
+    "title": "Govt. used Sinhala-Buddhist shield to its maximum benefit Ven. Galkande Dhammananda Thera",
+    "url": "https://www.dailymirror.lk/recomended-news/Govt-used-Sinhala-Buddhist-shield-to-its-maximum-benefit-Ven-Galkande-Dhammananda-Thera/277-238564",
+    "file_name": "/tmp/news_lk2/articles/f7/f74ec76f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -341,6 +432,13 @@
     "title": "Verbal abuse of cop: Fmr UC Chairman Ravindu Wedaarachchi & his wife arrested",
     "url": "https://www.dailymirror.lk/latest_news/Verbal-abuse-of-cop-Fmr-UC-Chairman-Ravindu-Wedaarachchi-his-wife-arrested/342-238538",
     "file_name": "/tmp/news_lk2/articles/49/4977c8ff.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654532820,
+    "title": "Verbal abuse of cop: Fmr UC Chairman Ravindu Wedaarachchi & his wife arrested",
+    "url": "https://www.dailymirror.lk/breaking_news/Verbal-abuse-of-cop-Fmr-UC-Chairman-Ravindu-Wedaarachchi-his-wife-arrested/108-238538",
+    "file_name": "/tmp/news_lk2/articles/7d/7de747f7.json"
   },
   {
     "newspaper_id": "economy-next-com",
