@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654607520,
+    "title": "Public servants seeking overseas jobs asked to register with SLBFE",
+    "url": "https://www.dailymirror.lk/latest_news/Public-servants-seeking-overseas-jobs-asked-to-register-with-SLBFE/342-238619",
+    "file_name": "/tmp/news_lk2/articles/aa/aa77ef24.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654606920,
+    "title": "Sri Lanka shares slump to one-month low; foreigners exit\u00a0after PM\u2019s cautioning",
+    "url": "https://economynext.com/sri-lanka-shares-slump-to-one-month-low-foreigners-exit-after-pms-cautioning-95322/",
+    "file_name": "/tmp/news_lk2/articles/f4/f4374cfa.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654606320,
+    "title": "Additional USD 500 Mn via Indian Credit Line for Fuel",
+    "url": "https://www.newsfirst.lk/2022/06/07/additional-usd-500-mn-via-indian-credit-line-for-fuel/",
+    "file_name": "/tmp/news_lk2/articles/ec/ec5914c1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654606260,
+    "title": "All set for annual Poson week with fewer Dansalas in Anuradhapura",
+    "url": "https://www.dailymirror.lk/latest_news/All-set-for-annual-Poson-week-with-fewer-Dansalas-in-Anuradhapura/342-238618",
+    "file_name": "/tmp/news_lk2/articles/53/53b8a75f.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654605660,
     "title": "Sri Lanka\u2019s Foreign Minister to Singapore for bilateral meeting with leaders",
@@ -12,6 +40,13 @@
     "title": "Colombo Commercial HC\u2019s fiscal officer interdicted over Aeroflot flight fiasco",
     "url": "http://www.adaderana.lk/news/82920/colombo-commercial-hcs-fiscal-officer-interdicted-over-aeroflot-flight-fiasco",
     "file_name": "/tmp/news_lk2/articles/84/84e025c8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654603920,
+    "title": "Commercial HC Fiscal Officer suspended over conduct in enforcing order on Aeroflot Case",
+    "url": "https://www.newsfirst.lk/2022/06/07/commercial-hc-fiscal-officer-suspended-over-conduct-in-enforcing-order-on-aeroflot-case/",
+    "file_name": "/tmp/news_lk2/articles/66/66d2c802.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -663,40 +698,5 @@
     "title": "250,000 hectares cultivated for Yala Season",
     "url": "https://www.newsfirst.lk/2022/06/07/250000-hectares-cultivated-for-yala-season/",
     "file_name": "/tmp/news_lk2/articles/4c/4cb0d6f2.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654571640,
-    "title": "Sri Lanka expects 65000MT of urea given by India after a month: Minister",
-    "url": "https://economynext.com/sri-lanka-expects-65000mt-of-urea-given-by-india-after-a-month-minister-95260/",
-    "file_name": "/tmp/news_lk2/articles/d6/d629693d.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654571580,
-    "title": "Diesel shipment to reach SL on 16th June",
-    "url": "https://www.newsfirst.lk/2022/06/07/diesel-shipment-to-reach-sl-on-16th-june/",
-    "file_name": "/tmp/news_lk2/articles/02/0223b50a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654570740,
-    "title": "Hydro power generation increased due to rainfall",
-    "url": "https://www.newsfirst.lk/2022/06/07/hydro-power-generation-increased-due-to-rainfall/",
-    "file_name": "/tmp/news_lk2/articles/c7/c7876e2f.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654568160,
-    "title": "Sri Lanka may have to import 800,000MT of rice, no immediate shortage: Minister",
-    "url": "https://economynext.com/sri-lanka-may-have-to-import-800000mt-of-rice-no-immediate-shortage-minister-95245/",
-    "file_name": "/tmp/news_lk2/articles/38/38d86204.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654568160,
-    "title": "Sri Lanka plans to import 800,000MT of rice, no immediate shortage: Minister",
-    "url": "https://economynext.com/sri-lanka-plans-to-import-800000mt-of-rice-no-immediate-shortage-minister-95245/",
-    "file_name": "/tmp/news_lk2/articles/56/56093983.json"
   }
 ]
