@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654613220,
+    "title": "Schoolgirl raped by grandfather, uncle, brother",
+    "url": "https://www.dailymirror.lk/latest_news/Schoolgirl-raped-by-grandfather-uncle-brother/342-238621",
+    "file_name": "/tmp/news_lk2/articles/43/43883bf0.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654611120,
     "title": "Foreign Minister to visit Singapore to attend Asia Security Summit",
@@ -9,9 +16,30 @@
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654610160,
+    "title": "Health ministry to pay back-wages for Dr. Shafi before July 10",
+    "url": "https://www.dailymirror.lk/latest_news/Health-ministry-to-pay-back-wages-for-Dr-Shafi-before-July-10/342-238620",
+    "file_name": "/tmp/news_lk2/articles/f2/f26c2de2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654610160,
     "title": "Ministry of Health to pay back-wages for Dr. Shafi Shihabdeen before July 10",
     "url": "https://www.dailymirror.lk/latest_news/Ministry-of-Health-to-pay-back-wages-for-Dr-Shafi-Shihabdeen-before-July-10/342-238620",
     "file_name": "/tmp/news_lk2/articles/95/95bb7933.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654610160,
+    "title": "Over 2,500 arrested for 9th May violence",
+    "url": "https://www.newsfirst.lk/2022/06/07/over-2500-arrested-for-9th-may-violence/",
+    "file_name": "/tmp/news_lk2/articles/c7/c796ffa8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654609260,
+    "title": "Ministers & Salaries: How much are they actually sacrificing?",
+    "url": "https://www.newsfirst.lk/2022/06/07/ministers-salaries-how-much-are-they-actually-sacrificing/",
+    "file_name": "/tmp/news_lk2/articles/ac/acfc5331.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
