@@ -1,6 +1,34 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654577640,
+    "title": "Ranjan sentenced to 2-year rigorous imprisonment",
+    "url": "http://www.adaderana.lk/news/82910/ranjan-sentenced-to-2-year-rigorous-imprisonment-",
+    "file_name": "/tmp/news_lk2/articles/b5/b5254262.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654577460,
+    "title": "Sri Lanka to award 40-year tax concession to Port City investors",
+    "url": "http://www.adaderana.lk/news/82909/sri-lanka-to-award-40-year-tax-concession-to-port-city-investors",
+    "file_name": "/tmp/news_lk2/articles/e3/e3bf0a7d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654576980,
+    "title": "Cabinet ministers decide not to draw salaries for one year",
+    "url": "http://www.adaderana.lk/news/82908/cabinet-ministers-decide-not-to-draw-salaries-for-one-year",
+    "file_name": "/tmp/news_lk2/articles/8e/8e157d87.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654576740,
+    "title": "Ranjan sentenced two years suspended imprisonment over second  contempt of court case",
+    "url": "https://www.dailymirror.lk/breaking_news/Ranjan-sentenced-two-years-suspended-imprisonment-over-second-contempt-of-court-case/108-238595",
+    "file_name": "/tmp/news_lk2/articles/07/0793e66d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654576500,
     "title": "Sri Lanka to seek USD 55 Mn loan from India to purchase urea",
     "url": "http://www.adaderana.lk/news/82907/sri-lanka-to-seek-usd-55-mn-loan-from-india-to-purchase-urea",
@@ -250,6 +278,13 @@
     "title": "Sri Lanka sees rising trend of day-light amid drug-traffic allegations",
     "url": "https://economynext.com/sri-lanka-sees-rising-trend-of-day-light-amid-drug-traffic-allegations-95241/",
     "file_name": "/tmp/news_lk2/articles/2b/2bb5d856.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654541040,
+    "title": "Drug shortage: Whose fault is it?",
+    "url": "https://www.dailymirror.lk/news-features/Drug-shortage-Whose-fault-is-it/131-238565",
+    "file_name": "/tmp/news_lk2/articles/0a/0a338361.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
