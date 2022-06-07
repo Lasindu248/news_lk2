@@ -161,11 +161,39 @@
     "file_name": "/tmp/news_lk2/articles/8a/8a107f8d.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654524540,
+    "title": "Down Under\u2026a happening scene",
+    "url": "http://island.lk/down-undera-happening-scene/",
+    "file_name": "/tmp/news_lk2/articles/55/5511d894.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654524480,
     "title": "Former PM\u2019s coordinating secretary remanded",
     "url": "http://www.adaderana.lk/news/82900/former-pms-coordinating-secretary-remanded",
     "file_name": "/tmp/news_lk2/articles/c8/c85fae68.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654523940,
+    "title": "The current exchange rate arrangement",
+    "url": "http://island.lk/the-current-exchange-rate-arrangement/",
+    "file_name": "/tmp/news_lk2/articles/53/5369fd41.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654523880,
+    "title": "Hemas adds its 60th \u2018Piyawara\u2019 Pre-School to the national network",
+    "url": "http://island.lk/hemas-adds-its-60th-piyawara-pre-school-to-the-national-network/",
+    "file_name": "/tmp/news_lk2/articles/de/de72d560.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654523820,
+    "title": "Promoting cultural cooperation between Korea and Sri Lanka",
+    "url": "http://island.lk/promoting-cultural-cooperation-between-korea-and-sri-lanka/",
+    "file_name": "/tmp/news_lk2/articles/02/02d03040.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -994,6 +1022,13 @@
     "file_name": "/tmp/news_lk2/articles/8c/8cb67a8c.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654449660,
+    "title": "Healthcare in a bankrupt Sri Lanka",
+    "url": "http://island.lk/healthcare-in-a-bankrupt-sri-lanka/",
+    "file_name": "/tmp/news_lk2/articles/48/48217433.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654449000,
     "title": "Rafael Nadal wins record-extending 14th French Open title",
@@ -1006,6 +1041,13 @@
     "title": "\u2018Motorcycle Murderers\u2019 claim 5th life in 5 days, in Sri Lanka.",
     "url": "https://www.newsfirst.lk/2022/06/05/motorcycle-murderers-claim-5th-life-in-5-days-in-sri-lanka-2/",
     "file_name": "/tmp/news_lk2/articles/ec/ec1ebe65.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654447800,
+    "title": "NM\u2019s 117th Birthday: Abolishing Executive Presidency never more topical",
+    "url": "http://island.lk/nms-117th-birthday-abolishing-executive-presidency-never-more-topical/",
+    "file_name": "/tmp/news_lk2/articles/6e/6e2c1993.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1062,6 +1104,13 @@
     "title": "Sri Lank tea prices inflate steeply after currency collapse",
     "url": "https://economynext.com/sri-lank-tea-prices-inflate-steeply-after-currency-collapse-95190/",
     "file_name": "/tmp/news_lk2/articles/d4/d44c58a0.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654437420,
+    "title": "Sunshine Holdings Joins \u2018Manudam Mehewara\u2019 emergency relief initiative driven by corporate Sri Lanka",
+    "url": "http://island.lk/sunshine-holdings-joins-manudam-mehewara-emergency-relief-initiative-driven-by-corporate-sri-lanka/",
+    "file_name": "/tmp/news_lk2/articles/c9/c93ad39b.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -1122,9 +1171,23 @@
   {
     "newspaper_id": "island-lk",
     "time_ut": 1654433760,
+    "title": "IIHS signs MoU supporting UK\u2019s NHS with high quality Sri Lankan nursing care",
+    "url": "http://island.lk/iihs-signs-mou-supporting-uks-nhs-with-high-quality-sri-lankan-nursing-care/",
+    "file_name": "/tmp/news_lk2/articles/88/88568165.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654433760,
     "title": "ZTE Blade A5 2020 midrange smartphone now available at Singer Sri Lanka",
     "url": "http://island.lk/zte-blade-a5-2020-midrange-smartphone-now-available-at-singer-sri-lanka/",
     "file_name": "/tmp/news_lk2/articles/e6/e68e6451.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654433640,
+    "title": "ICBM Campus together with IIC University of Technology holds its graduation ceremony at BMICH",
+    "url": "http://island.lk/icbm-campus-together-with-iic-university-of-technology-holds-its-graduation-ceremony-at-bmich/",
+    "file_name": "/tmp/news_lk2/articles/a6/a64a5a4b.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -1188,6 +1251,13 @@
     "title": "Sri Lanka Navy Marines to take part in RIMPAC 2022, hosted by the US Pacific Fleet",
     "url": "https://www.newsfirst.lk/2022/06/05/sri-lanka-navy-marines-to-take-part-in-rimpac-2022-hosted-by-the-us-pacific-fleet/",
     "file_name": "/tmp/news_lk2/articles/28/28b36ec9.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654427220,
+    "title": "NIMAL WIKRAMANAYAKE QC \u2013 \u201cA LIFE IN THE LAW\u201d",
+    "url": "http://island.lk/nimal-wikramanayake-qc-a-life-in-the-law/",
+    "file_name": "/tmp/news_lk2/articles/c3/c331e06a.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -2140,6 +2210,13 @@
     "title": "Poultry traders justify soaring egg prices",
     "url": "https://www.ft.lk/business/Poultry-traders-justify-soaring-egg-prices/34-735729",
     "file_name": "/tmp/news_lk2/articles/c9/c9dc0d19.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654283880,
+    "title": "Violence and duplicity",
+    "url": "http://island.lk/violence-and-duplicity/",
+    "file_name": "/tmp/news_lk2/articles/20/206c0cc3.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",

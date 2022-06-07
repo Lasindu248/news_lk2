@@ -161,11 +161,39 @@
     "file_name": "/tmp/news_lk2/articles/8a/8a107f8d.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654524540,
+    "title": "Down Under\u2026a happening scene",
+    "url": "http://island.lk/down-undera-happening-scene/",
+    "file_name": "/tmp/news_lk2/articles/55/5511d894.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654524480,
     "title": "Former PM\u2019s coordinating secretary remanded",
     "url": "http://www.adaderana.lk/news/82900/former-pms-coordinating-secretary-remanded",
     "file_name": "/tmp/news_lk2/articles/c8/c85fae68.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654523940,
+    "title": "The current exchange rate arrangement",
+    "url": "http://island.lk/the-current-exchange-rate-arrangement/",
+    "file_name": "/tmp/news_lk2/articles/53/5369fd41.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654523880,
+    "title": "Hemas adds its 60th \u2018Piyawara\u2019 Pre-School to the national network",
+    "url": "http://island.lk/hemas-adds-its-60th-piyawara-pre-school-to-the-national-network/",
+    "file_name": "/tmp/news_lk2/articles/de/de72d560.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654523820,
+    "title": "Promoting cultural cooperation between Korea and Sri Lanka",
+    "url": "http://island.lk/promoting-cultural-cooperation-between-korea-and-sri-lanka/",
+    "file_name": "/tmp/news_lk2/articles/02/02d03040.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -670,33 +698,5 @@
     "title": "Sri Lanka revises down tourist arrivals target for this year; expects US$ 800mn as earnings",
     "url": "https://www.dailymirror.lk/business-news/Sri-Lanka-revises-down-tourist-arrivals-target-for-this-year-expects-US-800mn-as-earnings/273-238489",
     "file_name": "/tmp/news_lk2/articles/31/313c1d5b.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654487820,
-    "title": "NO LP Gas until Wednesday (8); Don\u2019t wait in line",
-    "url": "https://www.newsfirst.lk/2022/06/06/no-lp-gas-until-wednesday-8-dont-wait-in-line/",
-    "file_name": "/tmp/news_lk2/articles/95/952c9b04.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654486980,
-    "title": "Electricity Tariff Hike? Proposal to Cabinet today (6)",
-    "url": "https://www.newsfirst.lk/2022/06/06/electricity-tariff-hike-proposal-to-cabinet-today-6/",
-    "file_name": "/tmp/news_lk2/articles/74/74c6a42d.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654486560,
-    "title": "Sri Lanka state-run CPC to take up supply offers that meet criteria: Minister",
-    "url": "https://economynext.com/sri-lanka-state-run-cpc-to-take-up-supply-offers-that-meet-criteria-minister-95201/",
-    "file_name": "/tmp/news_lk2/articles/8a/8ad1bd46.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654486500,
-    "title": "Election Commission calls meeting with party secretaries",
-    "url": "http://www.adaderana.lk/news/82890/election-commission-calls-meeting-with-party-secretaries",
-    "file_name": "/tmp/news_lk2/articles/d1/d1877542.json"
   }
 ]
