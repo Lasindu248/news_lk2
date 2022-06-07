@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654610160,
+    "title": "Ministry of Health to pay back-wages for Dr. Shafi Shihabdeen before July 10",
+    "url": "https://www.dailymirror.lk/latest_news/Ministry-of-Health-to-pay-back-wages-for-Dr-Shafi-Shihabdeen-before-July-10/342-238620",
+    "file_name": "/tmp/news_lk2/articles/95/95bb7933.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654607520,
     "title": "Public servants seeking overseas jobs asked to register with SLBFE",
     "url": "https://www.dailymirror.lk/latest_news/Public-servants-seeking-overseas-jobs-asked-to-register-with-SLBFE/342-238619",
@@ -691,12 +698,5 @@
     "title": "Cabinet nod for USD 55 Mn loan from India for Urea Fertilizer",
     "url": "https://www.newsfirst.lk/2022/06/07/cabinet-nod-for-usd-55-mn-loan-from-india-for-urea-fertilizer/",
     "file_name": "/tmp/news_lk2/articles/51/5167d46d.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654572060,
-    "title": "250,000 hectares cultivated for Yala Season",
-    "url": "https://www.newsfirst.lk/2022/06/07/250000-hectares-cultivated-for-yala-season/",
-    "file_name": "/tmp/news_lk2/articles/4c/4cb0d6f2.json"
   }
 ]
