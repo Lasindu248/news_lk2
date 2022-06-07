@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654590540,
+    "title": "Sri Lanka grants 40-year tax relief for Chinese Port City investments",
+    "url": "https://economynext.com/sri-lanka-grants-40-year-tax-relief-for-chinese-port-city-investments-95298/",
+    "file_name": "/tmp/news_lk2/articles/aa/aa42e409.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654589340,
+    "title": "40-year tax concessions for Port City investments",
+    "url": "https://www.newsfirst.lk/2022/06/07/40-year-tax-concessions-for-port-city-investments/",
+    "file_name": "/tmp/news_lk2/articles/0b/0b985325.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654589160,
+    "title": "UDA & Agri Ministry at COPE & COPA today (7)",
+    "url": "https://www.newsfirst.lk/2022/06/07/uda-agri-ministry-at-cope-copa-today-7/",
+    "file_name": "/tmp/news_lk2/articles/8c/8ce0cb87.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654588380,
     "title": "Enjoining order against removing Nimal Siripala from SLFP posts",
@@ -7,11 +28,25 @@
     "file_name": "/tmp/news_lk2/articles/7d/7d4e4c5c.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654588200,
+    "title": "Cabraal released on Rs. 10 Mn bail on Criminal Breach of Trust complaint",
+    "url": "https://www.newsfirst.lk/2022/06/07/cabraal-released-on-rs-10-mn-bail-on-criminal-breach-of-trust-complaint/",
+    "file_name": "/tmp/news_lk2/articles/68/68a82ae2.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654587540,
     "title": "Sri Lanka considers incentives for expatriate workers not using undiyal or hawala",
     "url": "https://economynext.com/sri-lanka-considers-incentives-for-expatriate-workers-not-using-undiyal-or-hawala-95286/",
     "file_name": "/tmp/news_lk2/articles/6b/6b51dfec.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654587540,
+    "title": "Two men hacked to death in Eppawala double homicide",
+    "url": "https://www.newsfirst.lk/2022/06/07/two-men-hacked-to-death-in-eppawala-double-homicide/",
+    "file_name": "/tmp/news_lk2/articles/6f/6f30c737.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -47,6 +82,13 @@
     "title": "Sri Lanka relaxing CPC monopoly to end aviation fuel crunch: Minister",
     "url": "https://economynext.com/sri-lanka-relaxing-cpc-monopoly-to-end-aviation-fuel-crunch-minister-95289/",
     "file_name": "/tmp/news_lk2/articles/01/01260416.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654585860,
+    "title": "Sri Lanka finds way around CPC monopoly to end aviation fuel crunch: Minister",
+    "url": "https://economynext.com/sri-lanka-finds-way-around-cpc-monopoly-to-end-aviation-fuel-crunch-minister-95289/",
+    "file_name": "/tmp/news_lk2/articles/6c/6cfc178b.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -656,47 +698,5 @@
     "title": "Russia welcomes Sri Lanka\u2019s decision to release seized Aeroflot aircraft",
     "url": "http://www.adaderana.lk/news/82903/russia-welcomes-sri-lankas-decision-to-release-seized-aeroflot-aircraft",
     "file_name": "/tmp/news_lk2/articles/fc/fca00d6c.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654533960,
-    "title": "Sri Lanka stocks plunge near 4-wk low on political, economic woes",
-    "url": "https://economynext.com/sri-lanka-stocks-plunge-near-4-wk-low-on-political-economic-woes-95233/",
-    "file_name": "/tmp/news_lk2/articles/fa/fa48ff6c.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654533960,
-    "title": "Sri Lanka stocks plunge to near 4-wk low on political, economic woes",
-    "url": "https://economynext.com/sri-lanka-stocks-plunge-to-near-4-wk-low-on-political-economic-woes-95233/",
-    "file_name": "/tmp/news_lk2/articles/a4/a48d45f2.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654532820,
-    "title": "Verbal abuse of cop: Fmr UC Chairman Ravindu Wedaarachchi & his wife arrested",
-    "url": "https://www.dailymirror.lk/latest_news/Verbal-abuse-of-cop-Fmr-UC-Chairman-Ravindu-Wedaarachchi-his-wife-arrested/342-238538",
-    "file_name": "/tmp/news_lk2/articles/49/4977c8ff.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654532820,
-    "title": "Verbal abuse of cop: Fmr UC Chairman Ravindu Wedaarachchi & his wife arrested",
-    "url": "https://www.dailymirror.lk/breaking_news/Verbal-abuse-of-cop-Fmr-UC-Chairman-Ravindu-Wedaarachchi-his-wife-arrested/108-238538",
-    "file_name": "/tmp/news_lk2/articles/7d/7de747f7.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654531620,
-    "title": "Sri Lanka Cricket to donate ticket money from Australian tour to crisis-hit people",
-    "url": "https://economynext.com/sri-lanka-cricket-to-donate-ticket-money-from-australian-tour-to-crisis-hit-people-95229/",
-    "file_name": "/tmp/news_lk2/articles/0d/0d947c70.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654531620,
-    "title": "Australian Cricket team to donate ticket money to crisis-hit Sri Lanka",
-    "url": "https://economynext.com/australian-cricket-team-to-donate-ticket-money-to-crisis-hit-sri-lanka-95229/",
-    "file_name": "/tmp/news_lk2/articles/1f/1f35cb1c.json"
   }
 ]
