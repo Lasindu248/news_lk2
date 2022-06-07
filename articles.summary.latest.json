@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654591500,
+    "title": "New chancellor appointed to Eastern University",
+    "url": "http://www.adaderana.lk/news/82915/new-chancellor-appointed-to-eastern-university",
+    "file_name": "/tmp/news_lk2/articles/f3/f353a9da.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654590540,
     "title": "Sri Lanka grants 40-year tax relief for Chinese Port City investments",
@@ -77,6 +84,13 @@
     "file_name": "/tmp/news_lk2/articles/9e/9e4b2c49.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654586400,
+    "title": "Fuel supply to return to normal from tomorrow: Minister",
+    "url": "https://www.dailymirror.lk/latest_news/Fuel-supply-to-return-to-normal-from-tomorrow-Minister/342-238609",
+    "file_name": "/tmp/news_lk2/articles/3b/3bd02830.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654585860,
     "title": "Sri Lanka relaxing CPC monopoly to end aviation fuel crunch: Minister",
@@ -101,6 +115,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654585200,
     "title": "Supplementary estimate of Rs 695 Bn presented in Parliament",
+    "url": "https://www.dailymirror.lk/latest_news/Supplementary-estimate-of-Rs-695-Bn-presented-in-Parliament/342-238608",
+    "file_name": "/tmp/news_lk2/articles/f6/f60c278e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654585200,
+    "title": "Supplementary estimate of Rs 695 Bn presented in Parliament",
     "url": "https://www.dailymirror.lk/breaking_news/Supplementary-estimate-of-Rs-695-Bn-presented-in-Parliament/108-238608",
     "file_name": "/tmp/news_lk2/articles/be/beb56415.json"
   },
@@ -110,6 +131,13 @@
     "title": "13-hour water cut in Aluthgama, Mathugama, & Agalawatte",
     "url": "https://www.newsfirst.lk/2022/06/07/13-hour-water-cut-in-aluthgama-mathugama-agalawatte/",
     "file_name": "/tmp/news_lk2/articles/6f/6fd7aad7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654584900,
+    "title": "Nimal Siripala de Silva obtains Enjoining Order against SLFP",
+    "url": "https://www.dailymirror.lk/latest_news/Nimal-Siripala-de-Silva-obtains-Enjoining-Order-against-SLFP/342-238605",
+    "file_name": "/tmp/news_lk2/articles/a9/a966fc3c.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -670,33 +698,5 @@
     "title": "PROS AND CONS OF LIFTING  BAN ON OIL PALM CULTIVATION Experts differ over environmental issues",
     "url": "https://www.dailymirror.lk/plus/PROS-AND-CONS-OF-LIFTING-BAN-ON-OIL-PALM-CULTIVATION-Experts-differ-over-environmental-issues/352-238563",
     "file_name": "/tmp/news_lk2/articles/a7/a7a2273e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654540440,
-    "title": "Govt. used Sinhala-Buddhist shield to its maximum benefit Ven. Galkande Dhammananda Thera",
-    "url": "https://www.dailymirror.lk/recomended-news/Govt-used-Sinhala-Buddhist-shield-to-its-maximum-benefit-Ven-Galkande-Dhammananda-Thera/277-238564",
-    "file_name": "/tmp/news_lk2/articles/f7/f74ec76f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654540440,
-    "title": "Govt. used Sinhala-Buddhist shield to its maximum benefit Ven. Galkande Dhammananda Thera",
-    "url": "https://www.dailymirror.lk/hard-talk/Govt-used-Sinhala-Buddhist-shield-to-its-maximum-benefit-Ven-Galkande-Dhammananda-Thera/334-238564",
-    "file_name": "/tmp/news_lk2/articles/d4/d457a68a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654540440,
-    "title": "Govt. used Sinhala-Buddhist shield to its maximum benefit Ven. Galkande Dhammananda Thera",
-    "url": "https://www.dailymirror.lk/opinion/Govt-used-Sinhala-Buddhist-shield-to-its-maximum-benefit-Ven-Galkande-Dhammananda-Thera/172-238564",
-    "file_name": "/tmp/news_lk2/articles/97/97216ad7.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654539360,
-    "title": "Russia welcomes Sri Lanka\u2019s decision to release seized Aeroflot aircraft",
-    "url": "http://www.adaderana.lk/news/82903/russia-welcomes-sri-lankas-decision-to-release-seized-aeroflot-aircraft",
-    "file_name": "/tmp/news_lk2/articles/fc/fca00d6c.json"
   }
 ]
