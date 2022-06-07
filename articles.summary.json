@@ -1,20 +1,6 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654584900,
-    "title": "Nimal Siripala de Silva obtained Enjoining Order against SLFP",
-    "url": "https://www.dailymirror.lk/latest_news/Nimal-Siripala-de-Silva-obtained-Enjoining-Order-against-SLFP/342-238605",
-    "file_name": "/tmp/news_lk2/articles/ee/ee51221d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654584660,
-    "title": "UN to make global humanitarian appeal for SL",
-    "url": "https://www.dailymirror.lk/latest_news/UN-to-make-global-humanitarian-appeal-for-SL/342-238604",
-    "file_name": "/tmp/news_lk2/articles/fa/fa328146.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654583700,
     "title": "CBSL Governor denies reports of dispute with PM",
     "url": "https://www.dailymirror.lk/breaking_news/CBSL-Governor-denies-reports-of-dispute-with-PM/108-238603",
@@ -47,13 +33,6 @@
     "title": "Fuel supply: PM says next three weeks will be tough",
     "url": "https://www.dailymirror.lk/latest_news/Fuel-supply-PM-says-next-three-weeks-will-be-tough/342-238600",
     "file_name": "/tmp/news_lk2/articles/b0/b0f450d9.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654581900,
-    "title": "Fuel supply: PM says next three weeks will be tough",
-    "url": "https://www.dailymirror.lk/top_story/Fuel-supply-PM-says-next-three-weeks-will-be-tough/155-238600",
-    "file_name": "/tmp/news_lk2/articles/cb/cb44a897.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -329,13 +308,6 @@
     "file_name": "/tmp/news_lk2/articles/20/20edc421.json"
   },
   {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654567560,
-    "title": "Pfizer vaccination centres at CMC today",
-    "url": "https://www.dailymirror.lk/breaking_news/Pfizer-vaccination-centres-at-CMC-today/108-238590",
-    "file_name": "/tmp/news_lk2/articles/36/36061f78.json"
-  },
-  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654567320,
     "title": "Rainfall expected in parts of the island today",
@@ -388,13 +360,6 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654563540,
     "title": "Special gas distribution in Colombo, Kalutara, Gampaha today",
-    "url": "https://www.dailymirror.lk/breaking_news/Special-gas-distribution-in-Colombo-Kalutara-Gampaha-today/108-238589",
-    "file_name": "/tmp/news_lk2/articles/b2/b25b6c59.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654563540,
-    "title": "Special gas distribution in Colombo, Kalutara, Gampaha today",
     "url": "https://www.dailymirror.lk/latest_news/Special-gas-distribution-in-Colombo-Kalutara-Gampaha-today/342-238589",
     "file_name": "/tmp/news_lk2/articles/e2/e26adac1.json"
   },
@@ -404,13 +369,6 @@
     "title": "Strong winds & thundershowers likely today (7)",
     "url": "https://www.newsfirst.lk/2022/06/07/strong-winds-thundershowers-likely-today-7/",
     "file_name": "/tmp/news_lk2/articles/83/83139908.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654557480,
-    "title": "Daily guidance on dollar/rupee rate has brought in greater stability to forex market: CB",
-    "url": "https://www.dailymirror.lk/breaking_news/Daily-guidance-on-dollarrupee-rate-has-brought-in-greater-stability-to-forex-market-CB/108-238584",
-    "file_name": "/tmp/news_lk2/articles/d5/d5152037.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -642,13 +600,6 @@
     "title": "I can't go as a failed president, I have been given a mandate for five years. I will not contest again: President",
     "url": "https://www.dailymirror.lk/latest_news/I-can-t-go-as-a-failed-president-I-have-been-given-a-mandate-for-five-years-I-will-not-contest-again-President/342-238537",
     "file_name": "/tmp/news_lk2/articles/0c/0c88ae79.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654528800,
-    "title": "I can't go as a failed president, I have been given a mandate for five years. I will not contest again: President",
-    "url": "https://www.dailymirror.lk/breaking_news/I-can-t-go-as-a-failed-president-I-have-been-given-a-mandate-for-five-years-I-will-not-contest-again-President/108-238537",
-    "file_name": "/tmp/news_lk2/articles/e3/e3636deb.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
