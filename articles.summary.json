@@ -1,10 +1,45 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654594020,
+    "title": "PM meets UN Rep to finalize appeal plan",
+    "url": "https://www.newsfirst.lk/2022/06/07/pm-meets-un-rep-to-finalize-appeal-plan/",
+    "file_name": "/tmp/news_lk2/articles/39/390b755e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654593660,
+    "title": "Purchase fuel from Russia: Vasu urges Govt.",
+    "url": "https://www.dailymirror.lk/breaking_news/Purchase-fuel-from-Russia-Vasu-urges-Govt/108-238610",
+    "file_name": "/tmp/news_lk2/articles/1d/1d63468a.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654592400,
+    "title": "PM calls for unity, reforms, state sector overhaul to bring Sri Lanka out of crisis",
+    "url": "https://economynext.com/pm-calls-for-unity-reforms-state-sector-overhaul-to-bring-sri-lanka-out-of-crisis-95307/",
+    "file_name": "/tmp/news_lk2/articles/35/357f9035.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654591680,
+    "title": "Sri Lanka will experience further deterioration of food security \u2013 UN FAO Report",
+    "url": "https://www.newsfirst.lk/2022/06/07/sri-lanka-will-experience-further-deterioration-of-food-security-un-fao-report/",
+    "file_name": "/tmp/news_lk2/articles/c2/c2a66a33.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654591500,
     "title": "New chancellor appointed to Eastern University",
     "url": "http://www.adaderana.lk/news/82915/new-chancellor-appointed-to-eastern-university",
     "file_name": "/tmp/news_lk2/articles/f3/f353a9da.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654591380,
+    "title": "Parliament to go Paperless; Soft copies of reports & docs to MPs",
+    "url": "https://www.newsfirst.lk/2022/06/07/parliament-to-go-paperless-soft-copies-of-reports-docs-to-mps/",
+    "file_name": "/tmp/news_lk2/articles/93/9369e5f8.json"
   },
   {
     "newspaper_id": "economy-next-com",
