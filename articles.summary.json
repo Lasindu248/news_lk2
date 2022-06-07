@@ -1,5 +1,47 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654568160,
+    "title": "Sri Lanka may have to import 800,000MT of rice, no immediate shortage: Minister",
+    "url": "https://economynext.com/sri-lanka-may-have-to-import-800000mt-of-rice-no-immediate-shortage-minister-95245/",
+    "file_name": "/tmp/news_lk2/articles/38/38d86204.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654567320,
+    "title": "Rainfall expected in parts of the island today",
+    "url": "http://www.adaderana.lk/news/82905/rainfall-expected-in-parts-of-the-island-today",
+    "file_name": "/tmp/news_lk2/articles/8d/8d1ea8c3.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654566960,
+    "title": "Special domestic LP gas distribution in several areas today",
+    "url": "http://www.adaderana.lk/news/82904/special-domestic-lp-gas-distribution-in-several-areas-today",
+    "file_name": "/tmp/news_lk2/articles/b0/b0c8c306.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654566720,
+    "title": "Inquiry over Laugfs price hike",
+    "url": "https://www.newsfirst.lk/2022/06/07/inquiry-over-laugfs-price-hike/",
+    "file_name": "/tmp/news_lk2/articles/fc/fc523c58.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654566660,
+    "title": "Controversy erupts over Sri Lanka unsolicited Adani wind power project pricing",
+    "url": "https://economynext.com/controversy-erupts-over-sri-lanka-unsolicited-adani-wind-power-project-pricing-95244/",
+    "file_name": "/tmp/news_lk2/articles/01/01f058bb.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654565340,
+    "title": "Sri Lanka tax hikes must be complemented by spending rationalization: Eran",
+    "url": "https://economynext.com/sri-lanka-tax-hikes-must-be-complemented-by-spending-rationalization-eran-95243/",
+    "file_name": "/tmp/news_lk2/articles/ea/ea35bfb1.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654563840,
     "title": "Limited LP Gas distribution today (7)",
