@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654642980,
+    "title": "The need for foolproof mechanisms of governance",
+    "url": "https://www.dailymirror.lk/opinion/The-need-for-foolproof-mechanisms-of-governance/231-238651",
+    "file_name": "/tmp/news_lk2/articles/38/38a71344.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654642740,
+    "title": "Grounding of flight and SL-Russia relations - EDITORIAL",
+    "url": "https://www.dailymirror.lk/opinion/Grounding-of-flight-and-SL-Russia-relations-EDITORIAL/231-238650",
+    "file_name": "/tmp/news_lk2/articles/53/53feab27.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654635660,
+    "title": "Cabinet approves move to amend Appropriation Bill for 2022",
+    "url": "https://www.ft.lk/news/Cabinet-approves-move-to-amend-Appropriation-Bill-for-2022/56-735890",
+    "file_name": "/tmp/news_lk2/articles/98/9894ba7e.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1654634820,
     "title": "Govt. presents Rs. 695 b to Parliament",
@@ -80,6 +101,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654613220,
     "title": "Schoolgirl raped by grandfather, uncle, brother",
+    "url": "https://www.dailymirror.lk/breaking_news/Schoolgirl-raped-by-grandfather-uncle-brother/108-238621",
+    "file_name": "/tmp/news_lk2/articles/5d/5d77f4a6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654613220,
+    "title": "Schoolgirl raped by grandfather, uncle, brother",
     "url": "https://www.dailymirror.lk/latest_news/Schoolgirl-raped-by-grandfather-uncle-brother/342-238621",
     "file_name": "/tmp/news_lk2/articles/43/43883bf0.json"
   },
@@ -133,6 +161,13 @@
     "file_name": "/tmp/news_lk2/articles/aa/aa77ef24.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654607520,
+    "title": "Public servants seeking overseas jobs asked to register with SLBFE",
+    "url": "https://www.dailymirror.lk/breaking_news/Public-servants-seeking-overseas-jobs-asked-to-register-with-SLBFE/108-238619",
+    "file_name": "/tmp/news_lk2/articles/af/afa474de.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654606920,
     "title": "Sri Lanka shares slump to one-month low; foreigners exit\u00a0after PM\u2019s cautioning",
@@ -152,6 +187,13 @@
     "title": "All set for annual Poson week with fewer Dansalas in Anuradhapura",
     "url": "https://www.dailymirror.lk/latest_news/All-set-for-annual-Poson-week-with-fewer-Dansalas-in-Anuradhapura/342-238618",
     "file_name": "/tmp/news_lk2/articles/53/53b8a75f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654606260,
+    "title": "All set for annual Poson week with fewer Dansalas in Anuradhapura",
+    "url": "https://www.dailymirror.lk/breaking_news/All-set-for-annual-Poson-week-with-fewer-Dansalas-in-Anuradhapura/108-238618",
+    "file_name": "/tmp/news_lk2/articles/77/77dba6a2.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -656,47 +698,5 @@
     "title": "Sri Lanka to present interim budget cutting capex: PM",
     "url": "https://economynext.com/sri-lanka-to-present-interim-budget-cutting-capex-pm-95275/",
     "file_name": "/tmp/news_lk2/articles/ec/ec229508.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654580340,
-    "title": "Sri Lanka to present interim budget cutting cutting capex: PM",
-    "url": "https://economynext.com/sri-lanka-to-present-interim-budget-cutting-cutting-capex-pm-95275/",
-    "file_name": "/tmp/news_lk2/articles/20/2008182f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654579920,
-    "title": "Cabinet approves to import 231,000 MTs of fertilizer for paddy cultivation",
-    "url": "https://www.dailymirror.lk/breaking_news/Cabinet-approves-to-import-231-000-MTs-of-fertilizer-for-paddy-cultivation/108-238598",
-    "file_name": "/tmp/news_lk2/articles/b4/b40418df.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654579200,
-    "title": "Two men hacked to death in Eppawala",
-    "url": "https://www.dailymirror.lk/breaking_news/Two-men-hacked-to-death-in-Eppawala/108-238596",
-    "file_name": "/tmp/news_lk2/articles/ac/ac620a7b.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654579140,
-    "title": "Two persons found hacked to death at Eppawela",
-    "url": "http://www.adaderana.lk/news/82911/two-persons-found-hacked-to-death-at-eppawela",
-    "file_name": "/tmp/news_lk2/articles/95/95a25a93.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654578780,
-    "title": "Foreign Minister thanks India for assistance",
-    "url": "https://www.newsfirst.lk/2022/06/07/foreign-minister-thanks-india-for-assistance/",
-    "file_name": "/tmp/news_lk2/articles/6a/6a7dcf4e.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654578180,
-    "title": "Private Bus operation limited due to fuel crisis",
-    "url": "https://www.newsfirst.lk/2022/06/07/private-bus-operation-limited-due-to-fuel-crisis/",
-    "file_name": "/tmp/news_lk2/articles/18/18009588.json"
   }
 ]
