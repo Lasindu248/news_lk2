@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654619340,
+    "title": "World Bank warns of recession risk due to Ukraine war",
+    "url": "http://www.adaderana.lk/news/82922/world-bank-warns-of-recession-risk-due-to-ukraine-war",
+    "file_name": "/tmp/news_lk2/articles/57/57e8fa1f.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654613220,
     "title": "Schoolgirl raped by grandfather, uncle, brother",
@@ -691,12 +698,5 @@
     "title": "Russian Govt grateful for Aeroflot settlement",
     "url": "https://www.newsfirst.lk/2022/06/07/russian-govt-grateful-for-aeroflot-settlement/",
     "file_name": "/tmp/news_lk2/articles/cd/cdd28bc5.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654573800,
-    "title": "2,000 MT of Gas reaches Sri Lanka",
-    "url": "https://www.newsfirst.lk/2022/06/07/2000-mt-of-gas-reaches-sri-lanka/",
-    "file_name": "/tmp/news_lk2/articles/39/3923d512.json"
   }
 ]
