@@ -1,10 +1,31 @@
 [
   {
     "newspaper_id": "economy-next-com",
+    "time_ut": 1654571640,
+    "title": "Sri Lanka expects 65000MT of urea given by India after a month: Minister",
+    "url": "https://economynext.com/sri-lanka-expects-65000mt-of-urea-given-by-india-after-a-month-minister-95260/",
+    "file_name": "/tmp/news_lk2/articles/d6/d629693d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "time_ut": 1654568160,
     "title": "Sri Lanka may have to import 800,000MT of rice, no immediate shortage: Minister",
     "url": "https://economynext.com/sri-lanka-may-have-to-import-800000mt-of-rice-no-immediate-shortage-minister-95245/",
     "file_name": "/tmp/news_lk2/articles/38/38d86204.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654568160,
+    "title": "Sri Lanka plans to import 800,000MT of rice, no immediate shortage: Minister",
+    "url": "https://economynext.com/sri-lanka-plans-to-import-800000mt-of-rice-no-immediate-shortage-minister-95245/",
+    "file_name": "/tmp/news_lk2/articles/56/56093983.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654567560,
+    "title": "Pfizer vaccination centres at CMC today",
+    "url": "https://www.dailymirror.lk/latest_news/Pfizer-vaccination-centres-at-CMC-today/342-238590",
+    "file_name": "/tmp/news_lk2/articles/20/20edc421.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -61,6 +82,20 @@
     "title": "Strong winds & thundershowers likely today (7)",
     "url": "https://www.newsfirst.lk/2022/06/07/strong-winds-thundershowers-likely-today-7/",
     "file_name": "/tmp/news_lk2/articles/83/83139908.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654557480,
+    "title": "Daily guidance on dollar/rupee rate has brought in greater stability to forex market: CB",
+    "url": "https://www.dailymirror.lk/business__main/Daily-guidance-on-dollarrupee-rate-has-brought-in-greater-stability-to-forex-market-CB/245-238584",
+    "file_name": "/tmp/news_lk2/articles/34/3409cf29.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654557300,
+    "title": "Tourism authorities to approach ADB, WB for financial assistance",
+    "url": "https://www.dailymirror.lk/business-news/Tourism-authorities-to-approach-ADB-WB-for-financial-assistance/273-238582",
+    "file_name": "/tmp/news_lk2/articles/ea/ea14fac5.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
