@@ -1,5 +1,47 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654721880,
+    "title": "Craighead Estate sets all-time record price",
+    "url": "https://www.ft.lk/business/Craighead-Estate-sets-all-time-record-price/34-735931",
+    "file_name": "/tmp/news_lk2/articles/78/7894a4e4.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654721760,
+    "title": "All-time record price for Ceciliyan Tea Factory",
+    "url": "https://www.ft.lk/business/All-time-record-price-for-Ceciliyan-Tea-Factory/34-735930",
+    "file_name": "/tmp/news_lk2/articles/92/92e9fcda.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654721640,
+    "title": "Italian Ambassador marks World Food Safety Day 2022 with call to action",
+    "url": "https://www.ft.lk/business/Italian-Ambassador-marks-World-Food-Safety-Day-2022-with-call-to-action/34-735929",
+    "file_name": "/tmp/news_lk2/articles/75/7526cf1c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654721340,
+    "title": "Kitchen & Bedroom Group CEO inducted as an Ambassador for Peace",
+    "url": "https://www.ft.lk/business/Kitchen-Bedroom-Group-CEO-inducted-as-an-Ambassador-for-Peace/34-735928",
+    "file_name": "/tmp/news_lk2/articles/e9/e96f00f4.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654720260,
+    "title": "Accreditation for sustainable investments",
+    "url": "https://www.ft.lk/opinion/Accreditation-for-sustainable-investments/14-735923",
+    "file_name": "/tmp/news_lk2/articles/63/6306de70.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654720020,
+    "title": "Championing the wellbeing of women and children as a priority in businesses",
+    "url": "https://www.ft.lk/opinion/Championing-the-wellbeing-of-women-and-children-as-a-priority-in-businesses/14-735922",
+    "file_name": "/tmp/news_lk2/articles/ef/efc328fb.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654714080,
     "title": "Kerosene shortage; people in queues for days",
@@ -656,47 +698,5 @@
     "title": "Fuel distribution to run smoothly, assures CPC",
     "url": "https://www.newsfirst.lk/2022/06/08/fuel-distribution-to-run-smoothly-assures-cpc/",
     "file_name": "/tmp/news_lk2/articles/b3/b35df95d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654658100,
-    "title": "Two nabbed with over 1 kilos of heroin in Modara",
-    "url": "https://www.dailymirror.lk/breaking_news/Two-nabbed-with-over-1-kilos-of-heroin-in-Modara/108-238669",
-    "file_name": "/tmp/news_lk2/articles/f0/f0e611eb.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654658100,
-    "title": "Two nabbed with over 1kg of heroin in Modara",
-    "url": "https://www.dailymirror.lk/breaking_news/Two-nabbed-with-over-1kg-of-heroin-in-Modara/108-238669",
-    "file_name": "/tmp/news_lk2/articles/50/50b88aed.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654657440,
-    "title": "Rain expected in many areas today (8)",
-    "url": "https://www.newsfirst.lk/2022/06/08/rain-expected-in-many-areas-today-8/",
-    "file_name": "/tmp/news_lk2/articles/26/262ba1c0.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654657320,
-    "title": "CEB Engineers to go on strike against bill to amend Sri Lanka Electricity Act",
-    "url": "https://www.newsfirst.lk/2022/06/08/ceb-engineers-to-go-on-strike-against-bill-to-amend-sri-lanka-electricity-act/",
-    "file_name": "/tmp/news_lk2/articles/e6/e62b6830.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654656180,
-    "title": "Another ship with gas sails in; sufficient for six days: LITRO",
-    "url": "https://www.dailymirror.lk/latest_news/Another-ship-with-gas-sails-in-sufficient-for-six-days-LITRO/342-238673",
-    "file_name": "/tmp/news_lk2/articles/cd/cdab7342.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654656180,
-    "title": "Another ship with gas sails in; sufficient for six days: LITRO",
-    "url": "https://www.dailymirror.lk/breaking_news/Another-ship-with-gas-sails-in-sufficient-for-six-days-LITRO/108-238673",
-    "file_name": "/tmp/news_lk2/articles/05/05724105.json"
   }
 ]
