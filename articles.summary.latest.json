@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654727100,
+    "title": "Minister Wijesekara on why electricity tariff will not be hiked",
+    "url": "http://www.adaderana.lk/news/82944/minister-wijesekara-on-why-electricity-tariff-will-not-be-hiked",
+    "file_name": "/tmp/news_lk2/articles/b5/b510c7cc.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654726560,
+    "title": "#aragalayaleft?",
+    "url": "https://www.dailymirror.lk/opinion/aragalayaleft/172-238699",
+    "file_name": "/tmp/news_lk2/articles/4f/4f1003a3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654726500,
+    "title": "Surviving on two meals, when even one meal is uncertain",
+    "url": "https://www.dailymirror.lk/opinion/Surviving-on-two-meals-when-even-one-meal-is-uncertain/172-238698",
+    "file_name": "/tmp/news_lk2/articles/bc/bc25977d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654725480,
+    "title": "Wounded protesters push for justice through blood, sweat and pain",
+    "url": "https://www.dailymirror.lk/plus/Wounded-protesters-push-for-justice-through-blood-sweat-and-pain/352-238697",
+    "file_name": "/tmp/news_lk2/articles/86/860d5eb9.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1654723500,
     "title": "China ready to ease  Sri Lanka\u2019s debt burden",
@@ -670,33 +698,5 @@
     "title": "Ranil holds discussion with IMF Managing Director Kristalina Georgieva",
     "url": "https://www.dailymirror.lk/breaking_news/Ranil-holds-discussion-with-IMF-Managing-Director-Kristalina-Georgieva/108-238672",
     "file_name": "/tmp/news_lk2/articles/76/76644e60.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654666260,
-    "title": "Josh Hazlewood takes four as Australia trounce Sri Lanka",
-    "url": "https://www.newsfirst.lk/2022/06/08/josh-hazlewood-takes-four-as-australia-trounce-sri-lanka/",
-    "file_name": "/tmp/news_lk2/articles/e0/e0eb6d21.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654665720,
-    "title": "New LP gas shipment arrives in Colombo",
-    "url": "http://www.adaderana.lk/news/82927/new-lp-gas-shipment-arrives-in-colombo",
-    "file_name": "/tmp/news_lk2/articles/10/10917946.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654664880,
-    "title": "Veteran Photo Journalist Sena Vidanagama passed away",
-    "url": "https://www.newsfirst.lk/2022/06/08/veteran-photo-journalist-sena-vidanagama-passed-away/",
-    "file_name": "/tmp/news_lk2/articles/8f/8f3a08e3.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654663620,
-    "title": "91 people, including smuggler, detained by Navy in illegal migration attempt",
-    "url": "https://www.newsfirst.lk/2022/06/08/91-people-including-smuggler-detained-by-navy-in-illegal-migration-attempt/",
-    "file_name": "/tmp/news_lk2/articles/91/91ec3a52.json"
   }
 ]
