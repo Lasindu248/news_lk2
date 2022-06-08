@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654642980,
+    "title": "The need for foolproof mechanisms of governance",
+    "url": "https://www.dailymirror.lk/opinion/The-need-for-foolproof-mechanisms-of-governance/231-238651",
+    "file_name": "/tmp/news_lk2/articles/38/38a71344.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654642740,
+    "title": "Grounding of flight and SL-Russia relations - EDITORIAL",
+    "url": "https://www.dailymirror.lk/opinion/Grounding-of-flight-and-SL-Russia-relations-EDITORIAL/231-238650",
+    "file_name": "/tmp/news_lk2/articles/53/53feab27.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654635660,
+    "title": "Cabinet approves move to amend Appropriation Bill for 2022",
+    "url": "https://www.ft.lk/news/Cabinet-approves-move-to-amend-Appropriation-Bill-for-2022/56-735890",
+    "file_name": "/tmp/news_lk2/articles/98/9894ba7e.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1654634820,
     "title": "Govt. presents Rs. 695 b to Parliament",
@@ -80,6 +101,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654613220,
     "title": "Schoolgirl raped by grandfather, uncle, brother",
+    "url": "https://www.dailymirror.lk/breaking_news/Schoolgirl-raped-by-grandfather-uncle-brother/108-238621",
+    "file_name": "/tmp/news_lk2/articles/5d/5d77f4a6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654613220,
+    "title": "Schoolgirl raped by grandfather, uncle, brother",
     "url": "https://www.dailymirror.lk/latest_news/Schoolgirl-raped-by-grandfather-uncle-brother/342-238621",
     "file_name": "/tmp/news_lk2/articles/43/43883bf0.json"
   },
@@ -126,11 +154,39 @@
     "file_name": "/tmp/news_lk2/articles/ac/acfc5331.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654608840,
+    "title": "ComBank to widen Senior Citizen account base with relaunch of \u2018Udara\u2019",
+    "url": "http://island.lk/combank-to-widen-senior-citizen-account-base-with-relaunch-of-udara/",
+    "file_name": "/tmp/news_lk2/articles/54/5419914f.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654608780,
+    "title": "Softlogic GLOMARK launches its latest store in Kandana",
+    "url": "http://island.lk/softlogic-glomark-launches-its-latest-store-in-kandana/",
+    "file_name": "/tmp/news_lk2/articles/90/908ab25f.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654608720,
+    "title": "Sri Lanka needs US$1 billion to return LKR to some semblance of normality: PM",
+    "url": "http://island.lk/sri-lanka-needs-us1-billion-to-return-lkr-to-some-semblance-of-normality-pm/",
+    "file_name": "/tmp/news_lk2/articles/96/96907043.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654607520,
     "title": "Public servants seeking overseas jobs asked to register with SLBFE",
     "url": "https://www.dailymirror.lk/latest_news/Public-servants-seeking-overseas-jobs-asked-to-register-with-SLBFE/342-238619",
     "file_name": "/tmp/news_lk2/articles/aa/aa77ef24.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654607520,
+    "title": "Public servants seeking overseas jobs asked to register with SLBFE",
+    "url": "https://www.dailymirror.lk/breaking_news/Public-servants-seeking-overseas-jobs-asked-to-register-with-SLBFE/108-238619",
+    "file_name": "/tmp/news_lk2/articles/af/afa474de.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -152,6 +208,13 @@
     "title": "All set for annual Poson week with fewer Dansalas in Anuradhapura",
     "url": "https://www.dailymirror.lk/latest_news/All-set-for-annual-Poson-week-with-fewer-Dansalas-in-Anuradhapura/342-238618",
     "file_name": "/tmp/news_lk2/articles/53/53b8a75f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654606260,
+    "title": "All set for annual Poson week with fewer Dansalas in Anuradhapura",
+    "url": "https://www.dailymirror.lk/breaking_news/All-set-for-annual-Poson-week-with-fewer-Dansalas-in-Anuradhapura/108-238618",
+    "file_name": "/tmp/news_lk2/articles/77/77dba6a2.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -1232,11 +1295,25 @@
     "file_name": "/tmp/news_lk2/articles/55/5511d894.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654524480,
+    "title": "Aquarius\u2026another brake!",
+    "url": "http://island.lk/aquariusanother-brake/",
+    "file_name": "/tmp/news_lk2/articles/66/66570149.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654524480,
     "title": "Former PM\u2019s coordinating secretary remanded",
     "url": "http://www.adaderana.lk/news/82900/former-pms-coordinating-secretary-remanded",
     "file_name": "/tmp/news_lk2/articles/c8/c85fae68.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654524060,
+    "title": "The Political Economy of Fiscal Policies and Regulations to Promote Healthy Diets in Sri Lanka",
+    "url": "http://island.lk/the-political-economy-of-fiscal-policies-and-regulations-to-promote-healthy-diets-in-sri-lanka/",
+    "file_name": "/tmp/news_lk2/articles/ae/aeae6ba6.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -1258,6 +1335,20 @@
     "title": "Promoting cultural cooperation between Korea and Sri Lanka",
     "url": "http://island.lk/promoting-cultural-cooperation-between-korea-and-sri-lanka/",
     "file_name": "/tmp/news_lk2/articles/02/02d03040.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654523820,
+    "title": "CSE ops halt half an hour before closing time in the wake of growing economic uncertainties",
+    "url": "http://island.lk/cse-ops-halt-half-an-hour-before-closing-time-in-the-wake-of-growing-economic-uncertainties/",
+    "file_name": "/tmp/news_lk2/articles/7f/7fa87160.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654523820,
+    "title": "SLT-MOBITEL unveils \u2018The Directory\u2019 2022 as refreshed and advanced national business directory",
+    "url": "http://island.lk/slt-mobitel-unveils-the-directory-2022-as-refreshed-and-advanced-national-business-directory/",
+    "file_name": "/tmp/news_lk2/articles/39/39e9cbe5.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -3449,6 +3540,13 @@
     "title": "Dr. N.M. Perera and the IMF",
     "url": "http://island.lk/dr-n-m-perera-and-the-imf/",
     "file_name": "/tmp/news_lk2/articles/fc/fcda3a81.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654273260,
+    "title": "Rajapaksas emerge from the woodwork",
+    "url": "http://island.lk/rajapaksas-emerge-from-the-woodwork/",
+    "file_name": "/tmp/news_lk2/articles/ed/edc4bd54.json"
   },
   {
     "newspaper_id": "island-lk",
