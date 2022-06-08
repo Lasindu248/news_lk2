@@ -1,5 +1,40 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654669740,
+    "title": "CEBEU to withdraw from duties from midnight today",
+    "url": "http://www.adaderana.lk/news/82928/cebeu-to-withdraw-from-duties-from-midnight-today",
+    "file_name": "/tmp/news_lk2/articles/88/88b77541.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654669500,
+    "title": "Sri Lanka stocks gain over 1-pct in mid-day trade",
+    "url": "https://economynext.com/sri-lanka-stocks-gain-over-1-pct-in-mid-day-trade-95376/",
+    "file_name": "/tmp/news_lk2/articles/c9/c9a325c0.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654669080,
+    "title": "Sri Lanka opposition, energy minister clash over ending competitive bidding for renewables",
+    "url": "https://economynext.com/sri-lanka-opposition-energy-minister-clash-over-ending-competitive-bidding-for-renewables-95368/",
+    "file_name": "/tmp/news_lk2/articles/ec/ec68bb22.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654668420,
+    "title": "Man arrested for hiding fuel bowser at private company  premises in Sapugaskanda",
+    "url": "https://www.dailymirror.lk/breaking_news/Man-arrested-for-hiding-fuel-bowser-at-private-company-premises-in-Sapugaskanda/108-238676",
+    "file_name": "/tmp/news_lk2/articles/c8/c8e6593e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654666860,
+    "title": "Sri Lanka : Energy Minister & CEB at loggerheads over tariff hike",
+    "url": "https://www.newsfirst.lk/2022/06/08/sri-lanka-energy-minister-ceb-at-loggerheads-over-tariff-hike/",
+    "file_name": "/tmp/news_lk2/articles/bc/bc130125.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654666620,
     "title": "Sri Lanka\u2019s CEB owes Rs26bn to renewable IPPs",
@@ -12,6 +47,13 @@
     "title": "Ranil holds discussion with IMF Managing Director Kristalina Georgieva",
     "url": "https://www.dailymirror.lk/breaking_news/Ranil-holds-discussion-with-IMF-Managing-Director-Kristalina-Georgieva/108-238672",
     "file_name": "/tmp/news_lk2/articles/76/76644e60.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654666260,
+    "title": "Josh Hazlewood takes four as Australia trounce Sri Lanka",
+    "url": "https://www.newsfirst.lk/2022/06/08/josh-hazlewood-takes-four-as-australia-trounce-sri-lanka/",
+    "file_name": "/tmp/news_lk2/articles/e0/e0eb6d21.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -117,6 +159,13 @@
     "title": "CEB Engineers to go on strike against bill to amend Sri Lanka Electricity Act",
     "url": "https://www.newsfirst.lk/2022/06/08/ceb-engineers-to-go-on-strike-against-bill-to-amend-sri-lanka-electricity-act/",
     "file_name": "/tmp/news_lk2/articles/e6/e62b6830.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654656180,
+    "title": "Another ship with gas sails in; sufficient for six days: LITRO",
+    "url": "https://www.dailymirror.lk/latest_news/Another-ship-with-gas-sails-in-sufficient-for-six-days-LITRO/342-238673",
+    "file_name": "/tmp/news_lk2/articles/cd/cdab7342.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -859,6 +908,13 @@
     "title": "Fuel supply: PM says next three weeks will be tough",
     "url": "https://www.dailymirror.lk/latest_news/Fuel-supply-PM-says-next-three-weeks-will-be-tough/342-238600",
     "file_name": "/tmp/news_lk2/articles/b0/b0f450d9.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654581900,
+    "title": "Fuel supply: PM says next three weeks will be tough",
+    "url": "https://www.dailymirror.lk/breaking_news/Fuel-supply-PM-says-next-three-weeks-will-be-tough/108-238600",
+    "file_name": "/tmp/news_lk2/articles/46/4630eb7d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
