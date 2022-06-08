@@ -1,5 +1,82 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654686000,
+    "title": "Diesel for private buses, school vans",
+    "url": "https://www.dailymirror.lk/latest_news/Diesel-for-private-buses-school-vans/342-238687",
+    "file_name": "/tmp/news_lk2/articles/ba/ba8b3489.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654685940,
+    "title": "Sri Lanka Treasuries yields drop, 3-month down 86bp",
+    "url": "https://economynext.com/sri-lanka-treasuries-yields-drop-3-month-down-86bp-95419/",
+    "file_name": "/tmp/news_lk2/articles/9e/9ea483ae.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654685520,
+    "title": "Can Mr. Clean sit with Mr. Dirty? SJB MP asks PM",
+    "url": "https://www.dailymirror.lk/latest_news/Can-Mr-Clean-sit-with-Mr-Dirty-SJB-MP-asks-PM/342-238686",
+    "file_name": "/tmp/news_lk2/articles/c8/c8a06ea0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654685220,
+    "title": "PM warns CEB TUs not to go for blackout; says it will impact help sought from India",
+    "url": "https://www.dailymirror.lk/latest_news/PM-warns-CEB-TUs-not-to-go-for-blackout-says-it-will-impact-help-sought-from-India/342-238685",
+    "file_name": "/tmp/news_lk2/articles/42/4271c252.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654685160,
+    "title": "Court issues warrant for arrest of Johnston",
+    "url": "http://www.adaderana.lk/news/82935/court-issues-warrant-for-arrest-of-johnston",
+    "file_name": "/tmp/news_lk2/articles/48/48f1d6d5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654684440,
+    "title": "Court issues arrest warrant against Johnston Fernando",
+    "url": "https://www.dailymirror.lk/top_story/Court-issues-arrest-warrant-against-Johnston-Fernando/155-238683",
+    "file_name": "/tmp/news_lk2/articles/69/695343c8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654684440,
+    "title": "Court issues arrest warrant against Johnston Fernando",
+    "url": "https://www.dailymirror.lk/latest_news/Court-issues-arrest-warrant-against-Johnston-Fernando/342-238683",
+    "file_name": "/tmp/news_lk2/articles/25/25565646.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654684440,
+    "title": "Court issues arrest warrant against Johnston Fernando",
+    "url": "https://www.dailymirror.lk/top_story/Court-issues-arrest-warrant-against-Johnston-Fernando/155-238684",
+    "file_name": "/tmp/news_lk2/articles/e6/e65f3b85.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654684440,
+    "title": "Court issues arrest warrant against Johnston Fernando",
+    "url": "https://www.dailymirror.lk/latest_news/Court-issues-arrest-warrant-against-Johnston-Fernando/342-238684",
+    "file_name": "/tmp/news_lk2/articles/85/85283913.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654684260,
+    "title": "Committee appointed comprising UNPers to oversee essential services defunct now: PM",
+    "url": "https://www.dailymirror.lk/latest_news/Committee-appointed-comprising-UNPers-to-oversee-essential-services-defunct-now-PM/342-238682",
+    "file_name": "/tmp/news_lk2/articles/db/dba22775.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654683180,
+    "title": "I will not be responsible if a blackout is caused: Ranil",
+    "url": "https://www.newsfirst.lk/2022/06/08/i-will-not-be-responsible-if-a-blackout-is-caused-ranil/",
+    "file_name": "/tmp/news_lk2/articles/17/17cb8f23.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654682100,
     "title": "Sri Lankan man dies in Japan suspected homicide",
@@ -7,11 +84,46 @@
     "file_name": "/tmp/news_lk2/articles/c4/c41fb10c.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654681680,
+    "title": "Rs. 20 Mn worth Ecstasy pills seized by Customs at Central Mail Exchange",
+    "url": "https://www.newsfirst.lk/2022/06/08/rs-20-mn-worth-ecstasy-pills-seized-by-customs-at-central-mail-exchange/",
+    "file_name": "/tmp/news_lk2/articles/83/83cb325e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654681380,
+    "title": "Fmr UC Chairman Ravindu Wedaarachchi & his wife granted bail",
+    "url": "https://www.dailymirror.lk/latest_news/Fmr-UC-Chairman-Ravindu-Wedaarachchi-his-wife-granted-bail/342-238680",
+    "file_name": "/tmp/news_lk2/articles/ee/eef332ac.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654681380,
+    "title": "Fmr UC Chairman Ravindu Wedaarachchi & his wife granted bail",
+    "url": "https://www.dailymirror.lk/breaking_news/Fmr-UC-Chairman-Ravindu-Wedaarachchi-his-wife-granted-bail/108-238680",
+    "file_name": "/tmp/news_lk2/articles/32/32646771.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654681200,
     "title": "Navy foils illegal migration attempt, apprehends 91 people",
     "url": "http://www.adaderana.lk/news/82932/navy-foils-illegal-migration-attempt-apprehends-91-people",
     "file_name": "/tmp/news_lk2/articles/22/22e581e0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654680840,
+    "title": "CBSL exchange rate for today (8)",
+    "url": "https://www.newsfirst.lk/2022/06/08/cbsl-exchange-rate-for-today-8/",
+    "file_name": "/tmp/news_lk2/articles/90/90511a11.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654680840,
+    "title": "Sri Lanka\u2019s reserves rise after five months",
+    "url": "https://www.newsfirst.lk/2022/06/08/sri-lankas-reserves-rise-after-five-months/",
+    "file_name": "/tmp/news_lk2/articles/93/9315b898.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -26,6 +138,13 @@
     "title": "Sri Lanka minister proposes train ticket price policy at half the bus fare",
     "url": "https://economynext.com/sri-lanka-minister-proposes-train-ticket-price-policy-at-half-the-bus-fare-95412/",
     "file_name": "/tmp/news_lk2/articles/35/358134f5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654678620,
+    "title": "China willing to help Sri Lanka deal with debt burden: Zhao Lijian",
+    "url": "https://www.dailymirror.lk/breaking_news/China-willing-to-help-Sri-Lanka-deal-with-debt-burden-Zhao-Lijian/108-238678",
+    "file_name": "/tmp/news_lk2/articles/2b/2b266e07.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
