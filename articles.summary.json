@@ -7,6 +7,13 @@
     "file_name": "/tmp/news_lk2/articles/26/268fac28.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654663080,
+    "title": "Passenger transport worst affected by fuel crisis",
+    "url": "https://www.newsfirst.lk/2022/06/08/passenger-transport-worst-affected-by-fuel-crisis/",
+    "file_name": "/tmp/news_lk2/articles/cf/cfdbede6.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654662300,
     "title": "Parliament debate on Supplementary Estimate today",
@@ -19,6 +26,13 @@
     "title": "Johnston files writ petition to prevent his arrest over Galle Face incident",
     "url": "https://www.dailymirror.lk/latest_news/Johnston-files-writ-petition-to-prevent-his-arrest-over-Galle-Face-incident/342-238662",
     "file_name": "/tmp/news_lk2/articles/65/65e1a0a1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654661820,
+    "title": "Johnston files writ petition to prevent his arrest over Galle Face incident",
+    "url": "https://www.dailymirror.lk/breaking_news/Johnston-files-writ-petition-to-prevent-his-arrest-over-Galle-Face-incident/108-238662",
+    "file_name": "/tmp/news_lk2/articles/4a/4a465cc8.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -66,6 +80,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654654380,
     "title": "CPC and LIOC deny rumours of another fuel price hike",
+    "url": "https://www.dailymirror.lk/breaking_news/CPC-and-LIOC-deny-rumours-of-another-fuel-price-hike/108-238652",
+    "file_name": "/tmp/news_lk2/articles/a8/a8890c8a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654654380,
+    "title": "CPC and LIOC deny rumours of another fuel price hike",
     "url": "https://www.dailymirror.lk/latest_news/CPC-and-LIOC-deny-rumours-of-another-fuel-price-hike/342-238652",
     "file_name": "/tmp/news_lk2/articles/ae/aee2dc1b.json"
   },
@@ -75,6 +96,13 @@
     "title": "Australia in easy 10 wickets win over Sri Lanka after Hazlewood\u2019s  4/16",
     "url": "https://www.dailymirror.lk/latest_news/Australia-in-easy-10-wickets-win-over-Sri-Lanka-after-Hazlewoods-416/342-238654",
     "file_name": "/tmp/news_lk2/articles/7c/7cab0252.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654653720,
+    "title": "Australia in easy 10 wickets win over Sri Lanka after Hazlewood\u2019s  4/16",
+    "url": "https://www.dailymirror.lk/breaking_news/Australia-in-easy-10-wickets-win-over-Sri-Lanka-after-Hazlewoods-416/108-238654",
+    "file_name": "/tmp/news_lk2/articles/60/605d86ff.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -117,6 +145,13 @@
     "title": "Grounding of flight and SL-Russia relations - EDITORIAL",
     "url": "https://www.dailymirror.lk/opinion/Grounding-of-flight-and-SL-Russia-relations-EDITORIAL/231-238650",
     "file_name": "/tmp/news_lk2/articles/53/53feab27.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654641300,
+    "title": "Financial crisis: Funding for Basil\u2019s projects to be stopped",
+    "url": "https://www.dailymirror.lk/breaking_news/Financial-crisis-Funding-for-Basils-projects-to-be-stopped/108-238653",
+    "file_name": "/tmp/news_lk2/articles/7a/7a55ea12.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
