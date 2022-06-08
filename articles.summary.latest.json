@@ -1,6 +1,27 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654706940,
+    "title": "Special gazette issued declaring electricity supply an essential service",
+    "url": "http://www.adaderana.lk/news/82942/special-gazette-issued-declaring-electricity-supply-an-essential-service",
+    "file_name": "/tmp/news_lk2/articles/b7/b7566c61.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654706520,
+    "title": "Supply of electricity declared as essential service",
+    "url": "https://www.dailymirror.lk/breaking_news/Supply-of-electricity-declared-as-essential-service/108-238694",
+    "file_name": "/tmp/news_lk2/articles/97/9797a5be.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654706460,
+    "title": "MR and several others yet to surrender their passports to court custody - AG",
+    "url": "https://www.dailymirror.lk/breaking_news/MR-and-several-others-yet-to-surrender-their-passports-to-court-custody-AG/108-238693",
+    "file_name": "/tmp/news_lk2/articles/d8/d8c78bc3.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654705740,
     "title": "China willing to help Sri Lanka deal with debt burden",
     "url": "http://www.adaderana.lk/news/82941/china-willing-to-help-sri-lanka-deal-with-debt-burden",
@@ -201,6 +222,13 @@
     "title": "Can Mr. Clean sit with Mr. Dirty? SJB MP asks PM",
     "url": "https://www.dailymirror.lk/latest_news/Can-Mr-Clean-sit-with-Mr-Dirty-SJB-MP-asks-PM/342-238686",
     "file_name": "/tmp/news_lk2/articles/c8/c8a06ea0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654685220,
+    "title": "PM warns CEB TUs not to go for blackout; says it will impact help sought from India",
+    "url": "https://www.dailymirror.lk/breaking_news/PM-warns-CEB-TUs-not-to-go-for-blackout-says-it-will-impact-help-sought-from-India/108-238685",
+    "file_name": "/tmp/news_lk2/articles/9b/9b62f9f0.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -670,33 +698,5 @@
     "title": "Australia in easy 10 wickets win over Sri Lanka after Hazlewood\u2019s  4/16",
     "url": "https://www.dailymirror.lk/latest_news/Australia-in-easy-10-wickets-win-over-Sri-Lanka-after-Hazlewoods-416/342-238654",
     "file_name": "/tmp/news_lk2/articles/7c/7cab0252.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654653720,
-    "title": "Australia in easy 10 wickets win over Sri Lanka after Hazlewood\u2019s  4/16",
-    "url": "https://www.dailymirror.lk/breaking_news/Australia-in-easy-10-wickets-win-over-Sri-Lanka-after-Hazlewoods-416/108-238654",
-    "file_name": "/tmp/news_lk2/articles/60/605d86ff.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654651020,
-    "title": "Sri Lanka forex reserves up in May to US$1912mn",
-    "url": "https://economynext.com/sri-lanka-forex-reserves-up-in-may-to-us1912mn-95331/",
-    "file_name": "/tmp/news_lk2/articles/23/23e36b44.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654649640,
-    "title": "Sri Lanka central bank denies rift between Governor and PM",
-    "url": "https://economynext.com/sri-lanka-central-bank-denies-rift-between-governor-and-pm-95334/",
-    "file_name": "/tmp/news_lk2/articles/fb/fb634889.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654642980,
-    "title": "The need for foolproof mechanisms of governance",
-    "url": "https://www.dailymirror.lk/opinion/The-need-for-foolproof-mechanisms-of-governance/172-238651",
-    "file_name": "/tmp/news_lk2/articles/5a/5a919110.json"
   }
 ]
