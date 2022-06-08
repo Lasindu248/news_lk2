@@ -7,6 +7,13 @@
     "file_name": "/tmp/news_lk2/articles/87/87b00a88.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654692180,
+    "title": "Supplementary estimate approved in Parliament",
+    "url": "https://www.newsfirst.lk/2022/06/08/supplementary-estimate-approved-in-parliament/",
+    "file_name": "/tmp/news_lk2/articles/e6/e628716c.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654691700,
     "title": "Keep your hands off our wages...",
@@ -691,12 +698,5 @@
     "title": "Parliament goes from print to electronic to cut costs",
     "url": "https://www.ft.lk/news/Parliament-goes-from-print-to-electronic-to-cut-costs/56-735887",
     "file_name": "/tmp/news_lk2/articles/5a/5aae62bd.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654634580,
-    "title": "Govt. seek remedies to economic crisis through all Missions abroad",
-    "url": "https://www.ft.lk/news/Govt-seek-remedies-to-economic-crisis-through-all-Missions-abroad/56-735886",
-    "file_name": "/tmp/news_lk2/articles/e8/e8050b66.json"
   }
 ]
