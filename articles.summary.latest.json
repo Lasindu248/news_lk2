@@ -10,8 +10,29 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654691700,
     "title": "Keep your hands off our wages...",
+    "url": "https://www.dailymirror.lk/latest_news/Keep-your-hands-off-our-wages/342-238691",
+    "file_name": "/tmp/news_lk2/articles/c8/c84f8834.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654691700,
+    "title": "Keep your hands off our wages...",
     "url": "https://www.dailymirror.lk/caption_story/Keep-your-hands-off-our-wages/110-238691",
     "file_name": "/tmp/news_lk2/articles/3d/3d0daaa2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654690200,
+    "title": "Becoming an Independent MP is the new fashion: Sumanthiran",
+    "url": "https://www.newsfirst.lk/2022/06/08/becoming-an-independent-mp-is-the-new-fashion-sumanthiran/",
+    "file_name": "/tmp/news_lk2/articles/d9/d9e62a09.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654690140,
+    "title": "China willing to work with financial institutions to ease SL debt crisis",
+    "url": "https://www.newsfirst.lk/2022/06/08/china-willing-to-work-with-financial-institutions-to-ease-sl-debt-crisis/",
+    "file_name": "/tmp/news_lk2/articles/45/458d00c7.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -677,26 +698,5 @@
     "title": "Govt. seek remedies to economic crisis through all Missions abroad",
     "url": "https://www.ft.lk/news/Govt-seek-remedies-to-economic-crisis-through-all-Missions-abroad/56-735886",
     "file_name": "/tmp/news_lk2/articles/e8/e8050b66.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654634520,
-    "title": "GL to visit Singapore for bilateral talks, attend Asia Security Summit",
-    "url": "https://www.ft.lk/news/GL-to-visit-Singapore-for-bilateral-talks-attend-Asia-Security-Summit/56-735885",
-    "file_name": "/tmp/news_lk2/articles/c9/c9dc30a0.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654634280,
-    "title": "Manusha calls on Sri Lankan foreign expatriates to help fellow citizens",
-    "url": "https://www.ft.lk/news/Manusha-calls-on-Sri-Lankan-foreign-expatriates-to-help-fellow-citizens/56-735884",
-    "file_name": "/tmp/news_lk2/articles/a1/a11749a5.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654634160,
-    "title": "Unilever\u2019s Horana factory gets ISO 14001:2015 Environmental Management System Certification",
-    "url": "https://www.ft.lk/business/Unilever-s-Horana-factory-gets-ISO-14001-2015-Environmental-Management-System-Certification/34-735883",
-    "file_name": "/tmp/news_lk2/articles/a9/a91521a9.json"
   }
 ]
