@@ -7,6 +7,13 @@
     "file_name": "/tmp/news_lk2/articles/2f/2fea51e6.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654696440,
+    "title": "NO gas distribution tomorrow (9)",
+    "url": "https://www.newsfirst.lk/2022/06/08/no-gas-distribution-tomorrow-9/",
+    "file_name": "/tmp/news_lk2/articles/b2/b207e5ef.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654692240,
     "title": "Supplementary estimate of Rs 695 billion passed in Parliament",
@@ -96,6 +103,13 @@
     "title": "Basil ready to leave Parliament, concedes defeat to 21A",
     "url": "https://www.dailymirror.lk/latest_news/Basil-ready-to-leave-Parliament-concedes-defeat-to-21A/342-238688",
     "file_name": "/tmp/news_lk2/articles/9b/9b6dd91d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654687440,
+    "title": "Basil out, Dhammika or Renuka in?",
+    "url": "https://www.dailymirror.lk/latest_news/Basil-out-Dhammika-or-Renuka-in/342-238688",
+    "file_name": "/tmp/news_lk2/articles/4f/4f8d08b5.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
