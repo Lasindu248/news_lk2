@@ -1,10 +1,38 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654654680,
+    "title": "Spells of showers likely in several areas today",
+    "url": "http://www.adaderana.lk/news/82924/spells-of-showers-likely-in-several-areas-today",
+    "file_name": "/tmp/news_lk2/articles/a1/a13c02a4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654654380,
+    "title": "CPC and LIOC deny rumours of another fuel price hike",
+    "url": "https://www.dailymirror.lk/latest_news/CPC-and-LIOC-deny-rumours-of-another-fuel-price-hike/342-238652",
+    "file_name": "/tmp/news_lk2/articles/ae/aee2dc1b.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654651020,
     "title": "Sri Lanka forex reserves up in May to US$1912mn",
     "url": "https://economynext.com/sri-lanka-forex-reserves-up-in-may-to-us1912mn-95331/",
     "file_name": "/tmp/news_lk2/articles/23/23e36b44.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654649640,
+    "title": "Sri Lanka central bank denies rift between Governor and PM",
+    "url": "https://economynext.com/sri-lanka-central-bank-denies-rift-between-governor-and-pm-95334/",
+    "file_name": "/tmp/news_lk2/articles/fb/fb634889.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654642980,
+    "title": "The need for foolproof mechanisms of governance",
+    "url": "https://www.dailymirror.lk/opinion/The-need-for-foolproof-mechanisms-of-governance/172-238651",
+    "file_name": "/tmp/news_lk2/articles/5a/5a919110.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -17,8 +45,22 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654642740,
     "title": "Grounding of flight and SL-Russia relations - EDITORIAL",
+    "url": "https://www.dailymirror.lk/opinion/Grounding-of-flight-and-SL-Russia-relations-EDITORIAL/172-238650",
+    "file_name": "/tmp/news_lk2/articles/e5/e5590bec.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654642740,
+    "title": "Grounding of flight and SL-Russia relations - EDITORIAL",
     "url": "https://www.dailymirror.lk/opinion/Grounding-of-flight-and-SL-Russia-relations-EDITORIAL/231-238650",
     "file_name": "/tmp/news_lk2/articles/53/53feab27.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654641300,
+    "title": "Financial crisis: Funding for Basil\u2019s projects to be stopped",
+    "url": "https://www.dailymirror.lk/latest_news/Financial-crisis-Funding-for-Basils-projects-to-be-stopped/342-238653",
+    "file_name": "/tmp/news_lk2/articles/48/48643b7f.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -670,6 +712,13 @@
     "title": "Next three weeks will be tough, use fuel and LP gas sparingly: PM",
     "url": "http://www.adaderana.lk/news/82912/next-three-weeks-will-be-tough-use-fuel-and-lp-gas-sparingly-pm",
     "file_name": "/tmp/news_lk2/articles/38/38d37442.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654581540,
+    "title": "Sri Lanka economy may contract 6.9-pct in 2022 PM says after soft-peg collapse",
+    "url": "https://economynext.com/sri-lanka-economy-may-contract-6-9-pct-in-2022-pm-says-after-soft-peg-collapse-95281/",
+    "file_name": "/tmp/news_lk2/articles/70/7057c25f.json"
   },
   {
     "newspaper_id": "economy-next-com",
