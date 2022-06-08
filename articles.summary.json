@@ -1,5 +1,47 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654663080,
+    "title": "Johnston files writ seeking prevention of arrest",
+    "url": "http://www.adaderana.lk/news/82926/johnston-files-writ-seeking-prevention-of-arrest",
+    "file_name": "/tmp/news_lk2/articles/26/268fac28.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654662300,
+    "title": "Parliament debate on Supplementary Estimate today",
+    "url": "http://www.adaderana.lk/news/82925/parliament-debate-on-supplementary-estimate-today",
+    "file_name": "/tmp/news_lk2/articles/e0/e0cf4cf6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654661820,
+    "title": "Johnston files writ petition to prevent his arrest over Galle Face incident",
+    "url": "https://www.dailymirror.lk/latest_news/Johnston-files-writ-petition-to-prevent-his-arrest-over-Galle-Face-incident/342-238662",
+    "file_name": "/tmp/news_lk2/articles/65/65e1a0a1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654660680,
+    "title": "NO Gas Distribution on Wednesday (8)",
+    "url": "https://www.newsfirst.lk/2022/06/08/no-gas-distribution-on-wednesday-8/",
+    "file_name": "/tmp/news_lk2/articles/c8/c8a60a3c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654660020,
+    "title": "Sri Lankan Premier speaks to IMF Chief; Urges delegation to visit SL soon",
+    "url": "https://www.newsfirst.lk/2022/06/08/sri-lankan-premier-speaks-to-imf-chief-urges-delegation-to-visit-sl-soon/",
+    "file_name": "/tmp/news_lk2/articles/38/38f75848.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654658700,
+    "title": "Fuel distribution to run smoothly, assures CPC",
+    "url": "https://www.newsfirst.lk/2022/06/08/fuel-distribution-to-run-smoothly-assures-cpc/",
+    "file_name": "/tmp/news_lk2/articles/b3/b35df95d.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654657440,
     "title": "Rain expected in many areas today (8)",
