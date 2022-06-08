@@ -1,62 +1,6 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654723500,
-    "title": "China ready to ease  Sri Lanka\u2019s debt burden",
-    "url": "https://www.ft.lk/news/China-ready-to-ease-Sri-Lanka-s-debt-burden/56-735939",
-    "file_name": "/tmp/news_lk2/articles/46/46fa4553.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654723320,
-    "title": "Arrest warrant issued for Johnston Fernando",
-    "url": "https://www.ft.lk/news/Arrest-warrant-issued-for-Johnston-Fernando/56-735938",
-    "file_name": "/tmp/news_lk2/articles/50/503246e1.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654723260,
-    "title": "Govt. to send public sector workers for foreign jobs",
-    "url": "https://www.ft.lk/news/Govt-to-send-public-sector-workers-for-foreign-jobs/56-735937",
-    "file_name": "/tmp/news_lk2/articles/19/19c42ae0.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654723200,
-    "title": "IFRC launches emergency appeal to provide relief  to Sri Lankan people affected by economic crisis",
-    "url": "https://www.ft.lk/news/IFRC-launches-emergency-appeal-to-provide-relief-to-Sri-Lankan-people-affected-by-economic-crisis/56-735936",
-    "file_name": "/tmp/news_lk2/articles/40/401cdcee.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654723140,
-    "title": "Navy prevents illegal migration attempts, detains 91 people",
-    "url": "https://www.ft.lk/news/Navy-prevents-illegal-migration-attempts-detains-91-people/56-735935",
-    "file_name": "/tmp/news_lk2/articles/12/12d4955a.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654723080,
-    "title": "Four suspects including MP Sanath Nishantha remanded again",
-    "url": "https://www.ft.lk/news/Four-suspects-including-MP-Sanath-Nishantha-remanded-again/56-735934",
-    "file_name": "/tmp/news_lk2/articles/d7/d74f0e6e.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654722360,
-    "title": "Balangoda Estate achieves Rs. 8,150 for FBOPFSP grade",
-    "url": "https://www.ft.lk/business/Balangoda-Estate-achieves-Rs-8-150-for-FBOPFSP-grade/34-735933",
-    "file_name": "/tmp/news_lk2/articles/78/78366c97.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654722060,
-    "title": "Senhora Synergies Group excels in tea once again",
-    "url": "https://www.ft.lk/business/Senhora-Synergies-Group-excels-in-tea-once-again/34-735932",
-    "file_name": "/tmp/news_lk2/articles/96/96a281e6.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
     "time_ut": 1654721880,
     "title": "Craighead Estate sets all-time record price",
     "url": "https://www.ft.lk/business/Craighead-Estate-sets-all-time-record-price/34-735931",
