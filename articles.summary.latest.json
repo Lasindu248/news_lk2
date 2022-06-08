@@ -2,6 +2,13 @@
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654727100,
+    "title": "Cannot increase electricity tariffs just to pay CEB salaries - Minister Wijesekara",
+    "url": "http://www.adaderana.lk/news/82944/cannot-increase-electricity-tariffs-just-to-pay-ceb-salaries-minister-wijesekara",
+    "file_name": "/tmp/news_lk2/articles/1f/1f3a99af.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654727100,
     "title": "Minister Wijesekara on why electricity tariff will not be hiked",
     "url": "http://www.adaderana.lk/news/82944/minister-wijesekara-on-why-electricity-tariff-will-not-be-hiked",
     "file_name": "/tmp/news_lk2/articles/b5/b510c7cc.json"
@@ -68,6 +75,13 @@
     "title": "Four suspects including MP Sanath Nishantha remanded again",
     "url": "https://www.ft.lk/news/Four-suspects-including-MP-Sanath-Nishantha-remanded-again/56-735934",
     "file_name": "/tmp/news_lk2/articles/d7/d74f0e6e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654722660,
+    "title": "Boosting capacity building of Southern women entrepreneurs on trade, market access",
+    "url": "https://www.ft.lk/business/Boosting-capacity-building-of-Southern-women-entrepreneurs-on-trade-market-access/34-735950",
+    "file_name": "/tmp/news_lk2/articles/86/86d1c5b0.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -154,6 +168,13 @@
     "file_name": "/tmp/news_lk2/articles/b7/b7566c61.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654706520,
+    "title": "Supply of electricity declared as essential service",
+    "url": "https://www.dailymirror.lk/latest_news/Supply-of-electricity-declared-as-essential-service/342-238694",
+    "file_name": "/tmp/news_lk2/articles/82/8223cbd0.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654706520,
     "title": "Wedarachchi\u2019s son & daughter-in-law, granted bail",
@@ -175,6 +196,13 @@
     "file_name": "/tmp/news_lk2/articles/d8/d8c78bc3.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654706460,
+    "title": "MR and several others yet to surrender their passports to court custody - AG",
+    "url": "https://www.dailymirror.lk/latest_news/MR-and-several-others-yet-to-surrender-their-passports-to-court-custody-AG/342-238693",
+    "file_name": "/tmp/news_lk2/articles/20/20d46e95.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654705740,
     "title": "China willing to help Sri Lanka deal with debt burden",
@@ -194,6 +222,13 @@
     "title": "Countrywide power outage possible",
     "url": "https://www.dailymirror.lk/top_story/Countrywide-power-outage-possible/155-238692",
     "file_name": "/tmp/news_lk2/articles/27/27737407.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654699380,
+    "title": "Countrywide power outage possible",
+    "url": "https://www.dailymirror.lk/latest_news/Countrywide-power-outage-possible/342-238692",
+    "file_name": "/tmp/news_lk2/articles/27/270105bb.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -663,40 +698,5 @@
     "title": "Sri Lanka stocks gain over 1-pct in mid-day trade",
     "url": "https://economynext.com/sri-lanka-stocks-gain-over-1-pct-in-mid-day-trade-95376/",
     "file_name": "/tmp/news_lk2/articles/c9/c9a325c0.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654669080,
-    "title": "Sri Lanka opposition, energy minister clash over ending competitive bidding for renewables",
-    "url": "https://economynext.com/sri-lanka-opposition-energy-minister-clash-over-ending-competitive-bidding-for-renewables-95368/",
-    "file_name": "/tmp/news_lk2/articles/ec/ec68bb22.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654668420,
-    "title": "Man arrested for hiding fuel bowser at private company  premises in Sapugaskanda",
-    "url": "https://www.dailymirror.lk/breaking_news/Man-arrested-for-hiding-fuel-bowser-at-private-company-premises-in-Sapugaskanda/108-238676",
-    "file_name": "/tmp/news_lk2/articles/c8/c8e6593e.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654666860,
-    "title": "Sri Lanka : Energy Minister & CEB at loggerheads over tariff hike",
-    "url": "https://www.newsfirst.lk/2022/06/08/sri-lanka-energy-minister-ceb-at-loggerheads-over-tariff-hike/",
-    "file_name": "/tmp/news_lk2/articles/bc/bc130125.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654666620,
-    "title": "Sri Lanka\u2019s CEB owes Rs26bn to renewable IPPs",
-    "url": "https://economynext.com/sri-lankas-ceb-owes-rs26bn-to-renewable-ipps-95356/",
-    "file_name": "/tmp/news_lk2/articles/31/31b98c71.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654666320,
-    "title": "Ranil holds discussion with IMF Managing Director Kristalina Georgieva",
-    "url": "https://www.dailymirror.lk/breaking_news/Ranil-holds-discussion-with-IMF-Managing-Director-Kristalina-Georgieva/108-238672",
-    "file_name": "/tmp/news_lk2/articles/76/76644e60.json"
   }
 ]
