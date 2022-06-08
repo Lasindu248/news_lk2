@@ -1,10 +1,24 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654696860,
+    "title": "Dhammika Perera to enter parliament?",
+    "url": "http://www.adaderana.lk/news/82940/dhammika-perera-to-enter-parliament",
+    "file_name": "/tmp/news_lk2/articles/2f/2fea51e6.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654692240,
     "title": "Supplementary estimate of Rs 695 billion passed in Parliament",
     "url": "http://www.adaderana.lk/news/82938/supplementary-estimate-of-rs-695-billion-passed-in-parliament",
     "file_name": "/tmp/news_lk2/articles/87/87b00a88.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654692180,
+    "title": "Supplementary estimate approved in Parliament",
+    "url": "https://www.newsfirst.lk/2022/06/08/supplementary-estimate-approved-in-parliament/",
+    "file_name": "/tmp/news_lk2/articles/e6/e628716c.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -684,19 +698,5 @@
     "title": "Govt. presents Rs. 695 b to Parliament",
     "url": "https://www.ft.lk/news/Govt-presents-Rs-695-b-to-Parliament/56-735888",
     "file_name": "/tmp/news_lk2/articles/41/41374c2d.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654634760,
-    "title": "Parliament goes from print to electronic to cut costs",
-    "url": "https://www.ft.lk/news/Parliament-goes-from-print-to-electronic-to-cut-costs/56-735887",
-    "file_name": "/tmp/news_lk2/articles/5a/5aae62bd.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654634580,
-    "title": "Govt. seek remedies to economic crisis through all Missions abroad",
-    "url": "https://www.ft.lk/news/Govt-seek-remedies-to-economic-crisis-through-all-Missions-abroad/56-735886",
-    "file_name": "/tmp/news_lk2/articles/e8/e8050b66.json"
   }
 ]
