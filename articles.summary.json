@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654684440,
+    "title": "Court issues arrest warrant against Johnston Fernando",
+    "url": "https://www.dailymirror.lk/top_story/Court-issues-arrest-warrant-against-Johnston-Fernando/155-238683",
+    "file_name": "/tmp/news_lk2/articles/69/695343c8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654684440,
+    "title": "Court issues arrest warrant against Johnston Fernando",
+    "url": "https://www.dailymirror.lk/top_story/Court-issues-arrest-warrant-against-Johnston-Fernando/155-238684",
+    "file_name": "/tmp/news_lk2/articles/e6/e65f3b85.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654684260,
+    "title": "Committee appointed comprising UNPers to oversee essential services defunct now: PM",
+    "url": "https://www.dailymirror.lk/latest_news/Committee-appointed-comprising-UNPers-to-oversee-essential-services-defunct-now-PM/342-238682",
+    "file_name": "/tmp/news_lk2/articles/db/dba22775.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654683180,
+    "title": "I will not be responsible if a blackout is caused: Ranil",
+    "url": "https://www.newsfirst.lk/2022/06/08/i-will-not-be-responsible-if-a-blackout-is-caused-ranil/",
+    "file_name": "/tmp/news_lk2/articles/17/17cb8f23.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654682100,
     "title": "Sri Lankan man dies in Japan suspected homicide",
@@ -7,11 +35,39 @@
     "file_name": "/tmp/news_lk2/articles/c4/c41fb10c.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654681680,
+    "title": "Rs. 20 Mn worth Ecstasy pills seized by Customs at Central Mail Exchange",
+    "url": "https://www.newsfirst.lk/2022/06/08/rs-20-mn-worth-ecstasy-pills-seized-by-customs-at-central-mail-exchange/",
+    "file_name": "/tmp/news_lk2/articles/83/83cb325e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654681380,
+    "title": "Fmr UC Chairman Ravindu Wedaarachchi & his wife granted bail",
+    "url": "https://www.dailymirror.lk/breaking_news/Fmr-UC-Chairman-Ravindu-Wedaarachchi-his-wife-granted-bail/108-238680",
+    "file_name": "/tmp/news_lk2/articles/32/32646771.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654681200,
     "title": "Navy foils illegal migration attempt, apprehends 91 people",
     "url": "http://www.adaderana.lk/news/82932/navy-foils-illegal-migration-attempt-apprehends-91-people",
     "file_name": "/tmp/news_lk2/articles/22/22e581e0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654680840,
+    "title": "CBSL exchange rate for today (8)",
+    "url": "https://www.newsfirst.lk/2022/06/08/cbsl-exchange-rate-for-today-8/",
+    "file_name": "/tmp/news_lk2/articles/90/90511a11.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654680840,
+    "title": "Sri Lanka\u2019s reserves rise after five months",
+    "url": "https://www.newsfirst.lk/2022/06/08/sri-lankas-reserves-rise-after-five-months/",
+    "file_name": "/tmp/news_lk2/articles/93/9315b898.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -26,6 +82,13 @@
     "title": "Sri Lanka minister proposes train ticket price policy at half the bus fare",
     "url": "https://economynext.com/sri-lanka-minister-proposes-train-ticket-price-policy-at-half-the-bus-fare-95412/",
     "file_name": "/tmp/news_lk2/articles/35/358134f5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654678620,
+    "title": "China willing to help Sri Lanka deal with debt burden: Zhao Lijian",
+    "url": "https://www.dailymirror.lk/breaking_news/China-willing-to-help-Sri-Lanka-deal-with-debt-burden-Zhao-Lijian/108-238678",
+    "file_name": "/tmp/news_lk2/articles/2b/2b266e07.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
