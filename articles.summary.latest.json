@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654657440,
+    "title": "Rain expected in many areas today (8)",
+    "url": "https://www.newsfirst.lk/2022/06/08/rain-expected-in-many-areas-today-8/",
+    "file_name": "/tmp/news_lk2/articles/26/262ba1c0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654657320,
+    "title": "CEB Engineers to go on strike against bill to amend Sri Lanka Electricity Act",
+    "url": "https://www.newsfirst.lk/2022/06/08/ceb-engineers-to-go-on-strike-against-bill-to-amend-sri-lanka-electricity-act/",
+    "file_name": "/tmp/news_lk2/articles/e6/e62b6830.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654654680,
     "title": "Spells of showers likely in several areas today",
@@ -12,6 +26,13 @@
     "title": "CPC and LIOC deny rumours of another fuel price hike",
     "url": "https://www.dailymirror.lk/latest_news/CPC-and-LIOC-deny-rumours-of-another-fuel-price-hike/342-238652",
     "file_name": "/tmp/news_lk2/articles/ae/aee2dc1b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654653720,
+    "title": "Australia in easy 10 wickets win over Sri Lanka after Hazlewood\u2019s  4/16",
+    "url": "https://www.dailymirror.lk/latest_news/Australia-in-easy-10-wickets-win-over-Sri-Lanka-after-Hazlewoods-416/342-238654",
+    "file_name": "/tmp/news_lk2/articles/7c/7cab0252.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -677,26 +698,5 @@
     "title": "Sri Lanka does not rule out fuel rationing: PM",
     "url": "https://economynext.com/sri-lanka-does-not-rule-out-fuel-rationing-pm-95284/",
     "file_name": "/tmp/news_lk2/articles/b5/b5a4994a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654583220,
-    "title": "SL to re-sign MoU to get education, employment opportunities in Canada",
-    "url": "https://www.dailymirror.lk/breaking_news/SL-to-re-sign-MoU-to-get-education-employment-opportunities-in-Canada/108-238601",
-    "file_name": "/tmp/news_lk2/articles/d3/d352fad9.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654583160,
-    "title": "Sri Lanka must rebuild agriculture sector immediately to prevent food shortages: PM",
-    "url": "https://economynext.com/sri-lanka-must-rebuild-agriculture-sector-immediately-to-prevent-food-shortages-pm-95285/",
-    "file_name": "/tmp/news_lk2/articles/a0/a02975b3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654581900,
-    "title": "Fuel supply: PM says next three weeks will be tough",
-    "url": "https://www.dailymirror.lk/latest_news/Fuel-supply-PM-says-next-three-weeks-will-be-tough/342-238600",
-    "file_name": "/tmp/news_lk2/articles/b0/b0f450d9.json"
   }
 ]

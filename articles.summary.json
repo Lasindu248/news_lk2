@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654657440,
+    "title": "Rain expected in many areas today (8)",
+    "url": "https://www.newsfirst.lk/2022/06/08/rain-expected-in-many-areas-today-8/",
+    "file_name": "/tmp/news_lk2/articles/26/262ba1c0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654657320,
+    "title": "CEB Engineers to go on strike against bill to amend Sri Lanka Electricity Act",
+    "url": "https://www.newsfirst.lk/2022/06/08/ceb-engineers-to-go-on-strike-against-bill-to-amend-sri-lanka-electricity-act/",
+    "file_name": "/tmp/news_lk2/articles/e6/e62b6830.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654654680,
     "title": "Spells of showers likely in several areas today",
@@ -12,6 +26,13 @@
     "title": "CPC and LIOC deny rumours of another fuel price hike",
     "url": "https://www.dailymirror.lk/latest_news/CPC-and-LIOC-deny-rumours-of-another-fuel-price-hike/342-238652",
     "file_name": "/tmp/news_lk2/articles/ae/aee2dc1b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654653720,
+    "title": "Australia in easy 10 wickets win over Sri Lanka after Hazlewood\u2019s  4/16",
+    "url": "https://www.dailymirror.lk/latest_news/Australia-in-easy-10-wickets-win-over-Sri-Lanka-after-Hazlewoods-416/342-238654",
+    "file_name": "/tmp/news_lk2/articles/7c/7cab0252.json"
   },
   {
     "newspaper_id": "economy-next-com",
