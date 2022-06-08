@@ -1,5 +1,40 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654687860,
+    "title": "Sri Lanka shares recover from 4-week low on bargain hunting",
+    "url": "https://economynext.com/sri-lanka-shares-recover-from-4-week-low-on-bargain-hunting-95421/",
+    "file_name": "/tmp/news_lk2/articles/ce/ceb0056b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654687740,
+    "title": "Upgrade SL Passport, enable people to travel to 190 countries without VISA",
+    "url": "https://www.dailymirror.lk/latest_news/Upgrade-SL-Passport-enable-people-to-travel-to-190-countries-without-VISA/342-238689",
+    "file_name": "/tmp/news_lk2/articles/ae/ae174d37.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654687440,
+    "title": "Basil ready to leave Parliament, concedes defeat to 21A",
+    "url": "https://www.dailymirror.lk/latest_news/Basil-ready-to-leave-Parliament-concedes-defeat-to-21A/342-238688",
+    "file_name": "/tmp/news_lk2/articles/9b/9b6dd91d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654687380,
+    "title": "Basil considering Exit from Parliament, says Senior SLPP official",
+    "url": "https://www.newsfirst.lk/2022/06/08/basil-considering-exit-from-parliament-says-senior-slpp-official/",
+    "file_name": "/tmp/news_lk2/articles/70/70b88734.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654686600,
+    "title": "SLFP extends full support for an all-party Govt: Sirisena",
+    "url": "https://www.newsfirst.lk/2022/06/08/slfp-extends-full-support-for-an-all-party-govt-sirisena/",
+    "file_name": "/tmp/news_lk2/articles/c9/c92b0f8e.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654686000,
     "title": "Diesel for private buses, school vans",
@@ -35,6 +70,13 @@
     "file_name": "/tmp/news_lk2/articles/48/48f1d6d5.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654684980,
+    "title": "Court orders the arrest of Johnston Fernando",
+    "url": "https://www.newsfirst.lk/2022/06/08/court-orders-the-arrest-of-johnston-fernando/",
+    "file_name": "/tmp/news_lk2/articles/79/79d692a8.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654684440,
     "title": "Court issues arrest warrant against Johnston Fernando",
@@ -61,6 +103,13 @@
     "title": "Court issues arrest warrant against Johnston Fernando",
     "url": "https://www.dailymirror.lk/latest_news/Court-issues-arrest-warrant-against-Johnston-Fernando/342-238684",
     "file_name": "/tmp/news_lk2/articles/85/85283913.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654684320,
+    "title": "Parliament approved to increase credit limit by Rs. 1 Trillion",
+    "url": "https://www.newsfirst.lk/2022/06/08/parliament-approved-to-increase-credit-limit-by-rs-1-trillion/",
+    "file_name": "/tmp/news_lk2/articles/bf/bfca3fc2.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
