@@ -1,96 +1,5 @@
 [
   {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654672620,
-    "title": "Patali Champika decides to go independent; Dismisses claims that he was expecting a ministry",
-    "url": "https://www.newsfirst.lk/2022/06/08/patali-champika-decides-to-go-independent-dismisses-claims-that-he-was-expecting-a-ministry/",
-    "file_name": "/tmp/news_lk2/articles/24/24affe00.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654671840,
-    "title": "Sri Lanka Prime Minister holds talks with IMF chief on economy",
-    "url": "https://economynext.com/sri-lanka-prime-minister-holds-talks-with-imf-chief-on-economy-95358/",
-    "file_name": "/tmp/news_lk2/articles/d7/d73098ef.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654671720,
-    "title": "Patali to function as independent MP in Opposition",
-    "url": "http://www.adaderana.lk/news/82929/patali-to-function-as-independent-mp-in-opposition",
-    "file_name": "/tmp/news_lk2/articles/ad/ad66df63.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654671120,
-    "title": "Champika to function as independent MP in Parliament",
-    "url": "https://www.dailymirror.lk/latest_news/Champika-to-function-as-independent-MP-in-Parliament/342-238677",
-    "file_name": "/tmp/news_lk2/articles/19/19085318.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654671000,
-    "title": "Bill to amend to Electricity Act to Parliament on Thursday (9); It will not abolish competition process, assures Minister",
-    "url": "https://www.newsfirst.lk/2022/06/08/bill-to-amend-to-electricity-act-to-parliament-on-thursday-9-it-will-not-abolish-competition-process-assures-minister/",
-    "file_name": "/tmp/news_lk2/articles/25/25eb41e2.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654670520,
-    "title": "Champika Ranawaka breaks away from Sri Lanka\u2019s main opposition",
-    "url": "https://economynext.com/champika-ranawaka-breaks-away-from-sri-lankas-main-opposition-95383/",
-    "file_name": "/tmp/news_lk2/articles/35/3561fff9.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654670340,
-    "title": "Sri Lanka former minister accused of instigating violence files petition to prevent arrest",
-    "url": "https://economynext.com/sri-lanka-former-minister-accused-of-instigating-violence-files-petition-to-prevent-arrest-95384/",
-    "file_name": "/tmp/news_lk2/articles/3d/3d882074.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654669740,
-    "title": "CEBEU to launch trade union action midnight today",
-    "url": "http://www.adaderana.lk/news/82928/cebeu-to-launch-trade-union-action-midnight-today",
-    "file_name": "/tmp/news_lk2/articles/30/308110df.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654669740,
-    "title": "CEBEU to withdraw from duties from midnight today",
-    "url": "http://www.adaderana.lk/news/82928/cebeu-to-withdraw-from-duties-from-midnight-today",
-    "file_name": "/tmp/news_lk2/articles/88/88b77541.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654669500,
-    "title": "Sri Lanka stocks gain over 1-pct in mid-day trade",
-    "url": "https://economynext.com/sri-lanka-stocks-gain-over-1-pct-in-mid-day-trade-95376/",
-    "file_name": "/tmp/news_lk2/articles/c9/c9a325c0.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654669080,
-    "title": "Sri Lanka opposition, energy minister clash over ending competitive bidding for renewables",
-    "url": "https://economynext.com/sri-lanka-opposition-energy-minister-clash-over-ending-competitive-bidding-for-renewables-95368/",
-    "file_name": "/tmp/news_lk2/articles/ec/ec68bb22.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654668420,
-    "title": "Man arrested for hiding fuel bowser at private company  premises in Sapugaskanda",
-    "url": "https://www.dailymirror.lk/breaking_news/Man-arrested-for-hiding-fuel-bowser-at-private-company-premises-in-Sapugaskanda/108-238676",
-    "file_name": "/tmp/news_lk2/articles/c8/c8e6593e.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654666860,
-    "title": "Sri Lanka : Energy Minister & CEB at loggerheads over tariff hike",
-    "url": "https://www.newsfirst.lk/2022/06/08/sri-lanka-energy-minister-ceb-at-loggerheads-over-tariff-hike/",
-    "file_name": "/tmp/news_lk2/articles/bc/bc130125.json"
-  },
-  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654666620,
     "title": "Sri Lanka\u2019s CEB owes Rs26bn to renewable IPPs",
@@ -103,13 +12,6 @@
     "title": "Ranil holds discussion with IMF Managing Director Kristalina Georgieva",
     "url": "https://www.dailymirror.lk/breaking_news/Ranil-holds-discussion-with-IMF-Managing-Director-Kristalina-Georgieva/108-238672",
     "file_name": "/tmp/news_lk2/articles/76/76644e60.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654666260,
-    "title": "Josh Hazlewood takes four as Australia trounce Sri Lanka",
-    "url": "https://www.newsfirst.lk/2022/06/08/josh-hazlewood-takes-four-as-australia-trounce-sri-lanka/",
-    "file_name": "/tmp/news_lk2/articles/e0/e0eb6d21.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -215,13 +117,6 @@
     "title": "CEB Engineers to go on strike against bill to amend Sri Lanka Electricity Act",
     "url": "https://www.newsfirst.lk/2022/06/08/ceb-engineers-to-go-on-strike-against-bill-to-amend-sri-lanka-electricity-act/",
     "file_name": "/tmp/news_lk2/articles/e6/e62b6830.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654656180,
-    "title": "Another ship with gas sails in; sufficient for six days: LITRO",
-    "url": "https://www.dailymirror.lk/latest_news/Another-ship-with-gas-sails-in-sufficient-for-six-days-LITRO/342-238673",
-    "file_name": "/tmp/news_lk2/articles/cd/cdab7342.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -698,5 +593,110 @@
     "title": "Govt will not act on Cabinet Paper to import vehicles for MPs",
     "url": "https://www.newsfirst.lk/2022/06/07/govt-will-not-act-on-cabinet-paper-to-import-vehicles-for-mps/",
     "file_name": "/tmp/news_lk2/articles/28/28bedbf5.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654596600,
+    "title": "Dilip Wedaarachchi\u2019s son & daughter-in-law remanded",
+    "url": "http://www.adaderana.lk/news/82917/dilip-wedaarachchis-son-daughter-in-law-remanded",
+    "file_name": "/tmp/news_lk2/articles/8b/8bfc3446.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654595100,
+    "title": "Sri Lanka PM laments unilateral termination of Japan, India-funded projects",
+    "url": "https://economynext.com/sri-lanka-pm-laments-unilateral-termination-of-japan-india-funded-projects-95309/",
+    "file_name": "/tmp/news_lk2/articles/9c/9c59f0fe.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654595100,
+    "title": "Uvais Mohamed assumes duties as CPC Chairman",
+    "url": "http://www.adaderana.lk/news/82916/uvais-mohamed-assumes-duties-as-cpc-chairman",
+    "file_name": "/tmp/news_lk2/articles/d6/d6fd9c73.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654595100,
+    "title": "Sri Lana PM laments unilateral termination of Japan, India-funded projects",
+    "url": "https://economynext.com/sri-lana-pm-laments-unilateral-termination-of-japan-india-funded-projects-95309/",
+    "file_name": "/tmp/news_lk2/articles/15/15442ca6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654594020,
+    "title": "PM meets UN Rep to finalize appeal plan",
+    "url": "https://www.newsfirst.lk/2022/06/07/pm-meets-un-rep-to-finalize-appeal-plan/",
+    "file_name": "/tmp/news_lk2/articles/39/390b755e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654593660,
+    "title": "Purchase fuel from Russia: Vasu urges Govt.",
+    "url": "https://www.dailymirror.lk/breaking_news/Purchase-fuel-from-Russia-Vasu-urges-Govt/108-238610",
+    "file_name": "/tmp/news_lk2/articles/1d/1d63468a.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654592400,
+    "title": "PM calls for unity, reforms, state sector overhaul to bring Sri Lanka out of crisis",
+    "url": "https://economynext.com/pm-calls-for-unity-reforms-state-sector-overhaul-to-bring-sri-lanka-out-of-crisis-95307/",
+    "file_name": "/tmp/news_lk2/articles/35/357f9035.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654591680,
+    "title": "Sri Lanka will experience further deterioration of food security \u2013 UN FAO Report",
+    "url": "https://www.newsfirst.lk/2022/06/07/sri-lanka-will-experience-further-deterioration-of-food-security-un-fao-report/",
+    "file_name": "/tmp/news_lk2/articles/c2/c2a66a33.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654591500,
+    "title": "New chancellor appointed to Eastern University",
+    "url": "http://www.adaderana.lk/news/82915/new-chancellor-appointed-to-eastern-university",
+    "file_name": "/tmp/news_lk2/articles/f3/f353a9da.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654591380,
+    "title": "Parliament to go Paperless; Soft copies of reports & docs to MPs",
+    "url": "https://www.newsfirst.lk/2022/06/07/parliament-to-go-paperless-soft-copies-of-reports-docs-to-mps/",
+    "file_name": "/tmp/news_lk2/articles/93/9369e5f8.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654590540,
+    "title": "Sri Lanka grants 40-year tax relief for Chinese Port City investments",
+    "url": "https://economynext.com/sri-lanka-grants-40-year-tax-relief-for-chinese-port-city-investments-95298/",
+    "file_name": "/tmp/news_lk2/articles/aa/aa42e409.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654589340,
+    "title": "40-year tax concessions for Port City investments",
+    "url": "https://www.newsfirst.lk/2022/06/07/40-year-tax-concessions-for-port-city-investments/",
+    "file_name": "/tmp/news_lk2/articles/0b/0b985325.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654589160,
+    "title": "UDA & Agri Ministry at COPE & COPA today (7)",
+    "url": "https://www.newsfirst.lk/2022/06/07/uda-agri-ministry-at-cope-copa-today-7/",
+    "file_name": "/tmp/news_lk2/articles/8c/8ce0cb87.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654588380,
+    "title": "Enjoining order against removing Nimal Siripala from SLFP posts",
+    "url": "http://www.adaderana.lk/news/82914/enjoining-order-against-removing-nimal-siripala-from-slfp-posts",
+    "file_name": "/tmp/news_lk2/articles/7d/7d4e4c5c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654588200,
+    "title": "Cabraal released on Rs. 10 Mn bail on Criminal Breach of Trust complaint",
+    "url": "https://www.newsfirst.lk/2022/06/07/cabraal-released-on-rs-10-mn-bail-on-criminal-breach-of-trust-complaint/",
+    "file_name": "/tmp/news_lk2/articles/68/68a82ae2.json"
   }
 ]
