@@ -1,10 +1,38 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654714080,
+    "title": "Kerosene shortage; people in queues for days",
+    "url": "https://www.newsfirst.lk/2022/06/09/kerosene-shortage-people-in-queues-for-days/",
+    "file_name": "/tmp/news_lk2/articles/13/135dc904.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654713420,
+    "title": "COPF summons Cabraal, P.B. Jayasundera to discuss economic crisis",
+    "url": "https://www.newsfirst.lk/2022/06/09/copf-summons-cabraal-p-b-jayasundera-to-discuss-economic-crisis/",
+    "file_name": "/tmp/news_lk2/articles/59/5978c660.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654713300,
+    "title": "Electricity Supply & Hospital Operations declared essential services",
+    "url": "https://www.newsfirst.lk/2022/06/09/electricity-supply-hospital-operations-declared-essential-services/",
+    "file_name": "/tmp/news_lk2/articles/93/93eb13d4.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654706940,
     "title": "Special gazette issued declaring electricity supply an essential service",
     "url": "http://www.adaderana.lk/news/82942/special-gazette-issued-declaring-electricity-supply-an-essential-service",
     "file_name": "/tmp/news_lk2/articles/b7/b7566c61.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654706520,
+    "title": "Wedarachchi\u2019s son & daughter-in-law, granted bail",
+    "url": "https://www.newsfirst.lk/2022/06/08/wedarachchis-son-daughter-in-law-granted-bail/",
+    "file_name": "/tmp/news_lk2/articles/63/63946faa.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -670,33 +698,5 @@
     "title": "Another ship with gas sails in; sufficient for six days: LITRO",
     "url": "https://www.dailymirror.lk/breaking_news/Another-ship-with-gas-sails-in-sufficient-for-six-days-LITRO/108-238673",
     "file_name": "/tmp/news_lk2/articles/05/05724105.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654654680,
-    "title": "Spells of showers likely in several areas today",
-    "url": "http://www.adaderana.lk/news/82924/spells-of-showers-likely-in-several-areas-today",
-    "file_name": "/tmp/news_lk2/articles/a1/a13c02a4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654654380,
-    "title": "CPC and LIOC deny rumours of another fuel price hike",
-    "url": "https://www.dailymirror.lk/breaking_news/CPC-and-LIOC-deny-rumours-of-another-fuel-price-hike/108-238652",
-    "file_name": "/tmp/news_lk2/articles/a8/a8890c8a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654654380,
-    "title": "CPC and LIOC deny rumours of another fuel price hike",
-    "url": "https://www.dailymirror.lk/latest_news/CPC-and-LIOC-deny-rumours-of-another-fuel-price-hike/342-238652",
-    "file_name": "/tmp/news_lk2/articles/ae/aee2dc1b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654653720,
-    "title": "Australia in easy 10 wickets win over Sri Lanka after Hazlewood\u2019s  4/16",
-    "url": "https://www.dailymirror.lk/latest_news/Australia-in-easy-10-wickets-win-over-Sri-Lanka-after-Hazlewoods-416/342-238654",
-    "file_name": "/tmp/news_lk2/articles/7c/7cab0252.json"
   }
 ]
