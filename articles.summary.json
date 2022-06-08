@@ -1,10 +1,38 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654665720,
+    "title": "New LP gas shipment arrives in Colombo",
+    "url": "http://www.adaderana.lk/news/82927/new-lp-gas-shipment-arrives-in-colombo",
+    "file_name": "/tmp/news_lk2/articles/10/10917946.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654664880,
+    "title": "Veteran Photo Journalist Sena Vidanagama passed away",
+    "url": "https://www.newsfirst.lk/2022/06/08/veteran-photo-journalist-sena-vidanagama-passed-away/",
+    "file_name": "/tmp/news_lk2/articles/8f/8f3a08e3.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654663620,
+    "title": "91 people, including smuggler, detained by Navy in illegal migration attempt",
+    "url": "https://www.newsfirst.lk/2022/06/08/91-people-including-smuggler-detained-by-navy-in-illegal-migration-attempt/",
+    "file_name": "/tmp/news_lk2/articles/91/91ec3a52.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654663080,
     "title": "Johnston files writ seeking prevention of arrest",
     "url": "http://www.adaderana.lk/news/82926/johnston-files-writ-seeking-prevention-of-arrest",
     "file_name": "/tmp/news_lk2/articles/26/268fac28.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654663080,
+    "title": "Passenger transport worst affected by fuel crisis",
+    "url": "https://www.newsfirst.lk/2022/06/08/passenger-transport-worst-affected-by-fuel-crisis/",
+    "file_name": "/tmp/news_lk2/articles/cf/cfdbede6.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -19,6 +47,13 @@
     "title": "Johnston files writ petition to prevent his arrest over Galle Face incident",
     "url": "https://www.dailymirror.lk/latest_news/Johnston-files-writ-petition-to-prevent-his-arrest-over-Galle-Face-incident/342-238662",
     "file_name": "/tmp/news_lk2/articles/65/65e1a0a1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654661820,
+    "title": "Johnston files writ petition to prevent his arrest over Galle Face incident",
+    "url": "https://www.dailymirror.lk/breaking_news/Johnston-files-writ-petition-to-prevent-his-arrest-over-Galle-Face-incident/108-238662",
+    "file_name": "/tmp/news_lk2/articles/4a/4a465cc8.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -40,6 +75,13 @@
     "title": "Fuel distribution to run smoothly, assures CPC",
     "url": "https://www.newsfirst.lk/2022/06/08/fuel-distribution-to-run-smoothly-assures-cpc/",
     "file_name": "/tmp/news_lk2/articles/b3/b35df95d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654658100,
+    "title": "Two nabbed with over 1 kilos of heroin in Modara",
+    "url": "https://www.dailymirror.lk/breaking_news/Two-nabbed-with-over-1-kilos-of-heroin-in-Modara/108-238669",
+    "file_name": "/tmp/news_lk2/articles/f0/f0e611eb.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -66,6 +108,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654654380,
     "title": "CPC and LIOC deny rumours of another fuel price hike",
+    "url": "https://www.dailymirror.lk/breaking_news/CPC-and-LIOC-deny-rumours-of-another-fuel-price-hike/108-238652",
+    "file_name": "/tmp/news_lk2/articles/a8/a8890c8a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654654380,
+    "title": "CPC and LIOC deny rumours of another fuel price hike",
     "url": "https://www.dailymirror.lk/latest_news/CPC-and-LIOC-deny-rumours-of-another-fuel-price-hike/342-238652",
     "file_name": "/tmp/news_lk2/articles/ae/aee2dc1b.json"
   },
@@ -75,6 +124,13 @@
     "title": "Australia in easy 10 wickets win over Sri Lanka after Hazlewood\u2019s  4/16",
     "url": "https://www.dailymirror.lk/latest_news/Australia-in-easy-10-wickets-win-over-Sri-Lanka-after-Hazlewoods-416/342-238654",
     "file_name": "/tmp/news_lk2/articles/7c/7cab0252.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654653720,
+    "title": "Australia in easy 10 wickets win over Sri Lanka after Hazlewood\u2019s  4/16",
+    "url": "https://www.dailymirror.lk/breaking_news/Australia-in-easy-10-wickets-win-over-Sri-Lanka-after-Hazlewoods-416/108-238654",
+    "file_name": "/tmp/news_lk2/articles/60/605d86ff.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -117,6 +173,20 @@
     "title": "Grounding of flight and SL-Russia relations - EDITORIAL",
     "url": "https://www.dailymirror.lk/opinion/Grounding-of-flight-and-SL-Russia-relations-EDITORIAL/231-238650",
     "file_name": "/tmp/news_lk2/articles/53/53feab27.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654641300,
+    "title": "Financial crisis: Funding for Basil\u2019s projects to be stopped",
+    "url": "https://www.dailymirror.lk/breaking_news/Financial-crisis-Funding-for-Basils-projects-to-be-stopped/108-238653",
+    "file_name": "/tmp/news_lk2/articles/7a/7a55ea12.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654641300,
+    "title": "Financial crisis: Funding for Basil\u2019s projects to be stopped",
+    "url": "https://www.dailymirror.lk/top_story/Financial-crisis-Funding-for-Basils-projects-to-be-stopped/155-238653",
+    "file_name": "/tmp/news_lk2/articles/83/838f6baa.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
