@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654651020,
+    "title": "Sri Lanka forex reserves up in May to US$1912mn",
+    "url": "https://economynext.com/sri-lanka-forex-reserves-up-in-may-to-us1912mn-95331/",
+    "file_name": "/tmp/news_lk2/articles/23/23e36b44.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654642980,
     "title": "The need for foolproof mechanisms of governance",
@@ -691,12 +698,5 @@
     "title": "Sri Lanka to write off small-time farmers\u2019 debt 100 percent",
     "url": "https://economynext.com/sri-lanka-to-write-off-small-time-farmers-debt-100-percent-95282/",
     "file_name": "/tmp/news_lk2/articles/3a/3a8e62e9.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654581060,
-    "title": "\u2018Economy started to decline when 2019 Tax system was abolished\u2019 \u2013 PMs Full Speech",
-    "url": "https://www.newsfirst.lk/2022/06/07/economy-started-to-decline-when-2019-tax-system-was-abolished-pms-full-speech/",
-    "file_name": "/tmp/news_lk2/articles/00/00f6d2b0.json"
   }
 ]
