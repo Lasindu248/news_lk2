@@ -1,26 +1,5 @@
 [
   {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654755780,
-    "title": "Sri Lanka stock trades 1-pct stronger in mid-day trade",
-    "url": "https://economynext.com/sri-lanka-stock-trades-1-pct-stronger-in-mid-day-trade-95501/",
-    "file_name": "/tmp/news_lk2/articles/28/285cf946.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654755600,
-    "title": "Basil Rajapaksa resigns as MP",
-    "url": "https://www.ft.lk/news/Basil-Rajapaksa-resigns-as-MP/56-735951",
-    "file_name": "/tmp/news_lk2/articles/31/31325a43.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654755420,
-    "title": "Basil resigns",
-    "url": "https://www.dailymirror.lk/latest_news/Basil-resigns/342-238747",
-    "file_name": "/tmp/news_lk2/articles/f5/f50fb809.json"
-  },
-  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654754520,
     "title": "Former Minister Basil delivers special statement",
@@ -29,31 +8,10 @@
   },
   {
     "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654754520,
-    "title": "Basil vacates MP seat, tenders resignation",
-    "url": "http://www.adaderana.lk/news/82951/basil-vacates-mp-seat-tenders-resignation",
-    "file_name": "/tmp/news_lk2/articles/b7/b7f95ce9.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654754340,
     "title": "Sri Lankan Muslims allowed to perform Hajj if they pay in foreign currency",
     "url": "http://www.adaderana.lk/news/82950/sri-lankan-muslims-allowed-to-perform-hajj-if-they-pay-in-foreign-currency",
     "file_name": "/tmp/news_lk2/articles/87/87be812f.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654754340,
-    "title": "Sri Lankan Muslims allowed to perform Hajj if paying in foreign currency",
-    "url": "http://www.adaderana.lk/news/82950/sri-lankan-muslims-allowed-to-perform-hajj-if-paying-in-foreign-currency",
-    "file_name": "/tmp/news_lk2/articles/0e/0ea5d956.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654754220,
-    "title": "China lauds India for helping SL amid economic crisis",
-    "url": "https://www.dailymirror.lk/latest_news/China-lauds-India-for-helping-SL-amid-economic-crisis/342-238746",
-    "file_name": "/tmp/news_lk2/articles/41/41d59743.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -73,13 +31,6 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654753200,
     "title": "Lankan dies in Japan in suspected homicide",
-    "url": "https://www.dailymirror.lk/latest_news/Lankan-dies-in-Japan-in-suspected-homicide/342-238745",
-    "file_name": "/tmp/news_lk2/articles/01/01804238.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654753200,
-    "title": "Lankan dies in Japan in suspected homicide",
     "url": "https://www.dailymirror.lk/breaking_news/Lankan-dies-in-Japan-in-suspected-homicide/108-238745",
     "file_name": "/tmp/news_lk2/articles/e0/e0dfb57a.json"
   },
@@ -89,13 +40,6 @@
     "title": "80% of Sri Lankan families eating less or cheap food",
     "url": "https://www.newsfirst.lk/2022/06/09/80-of-sri-lankan-families-eating-less-or-cheap-food/",
     "file_name": "/tmp/news_lk2/articles/87/877812c7.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654751460,
-    "title": "Demand for passports up by 250%: Immigration Dept.",
-    "url": "https://www.dailymirror.lk/latest_news/Demand-for-passports-up-by-250-Immigration-Dept/342-238744",
-    "file_name": "/tmp/news_lk2/articles/bb/bb0a8f66.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -698,5 +642,61 @@
     "title": "China willing to work with financial institutions to ease SL debt crisis",
     "url": "https://www.newsfirst.lk/2022/06/08/china-willing-to-work-with-financial-institutions-to-ease-sl-debt-crisis/",
     "file_name": "/tmp/news_lk2/articles/45/458d00c7.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654689180,
+    "title": "Basil to step down from parliamentary seat?",
+    "url": "http://www.adaderana.lk/news/82937/basil-to-step-down-from-parliamentary-seat",
+    "file_name": "/tmp/news_lk2/articles/ee/eeb73f95.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654689180,
+    "title": "Basil Rajapaksa to vacate parliamentary seat?",
+    "url": "http://www.adaderana.lk/news/82937/basil-rajapaksa-to-vacate-parliamentary-seat",
+    "file_name": "/tmp/news_lk2/articles/07/0753ddc8.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654688880,
+    "title": "Milan Jayatilleke granted bail; Sanath Nishantha further remanded",
+    "url": "http://www.adaderana.lk/news/82936/milan-jayatilleke-granted-bail-sanath-nishantha-further-remanded",
+    "file_name": "/tmp/news_lk2/articles/2a/2ad43dbd.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654688820,
+    "title": "South Asia\u2019s smaller countries have a principled stand on Ukraine war",
+    "url": "https://economynext.com/south-asias-smaller-countries-have-a-principled-stand-on-ukraine-war-95422/",
+    "file_name": "/tmp/news_lk2/articles/4c/4ca94c14.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654687860,
+    "title": "Sri Lanka shares recover from 4-week low on bargain hunting",
+    "url": "https://economynext.com/sri-lanka-shares-recover-from-4-week-low-on-bargain-hunting-95421/",
+    "file_name": "/tmp/news_lk2/articles/ce/ceb0056b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654687740,
+    "title": "Upgrade SL Passport, enable people to travel to 190 countries without VISA",
+    "url": "https://www.dailymirror.lk/breaking_news/Upgrade-SL-Passport-enable-people-to-travel-to-190-countries-without-VISA/108-238689",
+    "file_name": "/tmp/news_lk2/articles/02/02bcace2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654687740,
+    "title": "Upgrade SL Passport, enable people to travel to 190 countries without VISA",
+    "url": "https://www.dailymirror.lk/latest_news/Upgrade-SL-Passport-enable-people-to-travel-to-190-countries-without-VISA/342-238689",
+    "file_name": "/tmp/news_lk2/articles/ae/ae174d37.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654687440,
+    "title": "Basil ready to leave Parliament, concedes defeat to 21A",
+    "url": "https://www.dailymirror.lk/latest_news/Basil-ready-to-leave-Parliament-concedes-defeat-to-21A/342-238688",
+    "file_name": "/tmp/news_lk2/articles/9b/9b6dd91d.json"
   }
 ]
