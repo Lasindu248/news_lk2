@@ -1,5 +1,47 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654774020,
+    "title": "Sri Lankans allowed to attend Hajj pilgrimage this year",
+    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lankans-allowed-to-attend-Hajj-pilgrimage-this-year/108-238757",
+    "file_name": "/tmp/news_lk2/articles/31/314f756d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654773600,
+    "title": "Crisis-hit Sri Lanka\u2019s president requests help from Indian, Chinese, Middle East envoys \u2013 PMD",
+    "url": "https://economynext.com/crisis-hit-sri-lankas-president-requests-help-from-indian-chinese-middle-east-envoys-pmd-95517/",
+    "file_name": "/tmp/news_lk2/articles/9b/9bd79a0b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654773600,
+    "title": "Basil leaves: Sri Lanka\u2019s former finance minister quits parliament ahead of 21st amendment",
+    "url": "https://economynext.com/basil-leaves-sri-lankas-former-finance-minister-quits-parliament-ahead-of-21st-amendment-95511/",
+    "file_name": "/tmp/news_lk2/articles/3b/3ba92a9e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654773180,
+    "title": "Wearing face masks in public places no longer mandatory: Health Ministry",
+    "url": "https://www.dailymirror.lk/latest_news/Wearing-face-masks-in-public-places-no-longer-mandatory-Health-Ministry/342-238756",
+    "file_name": "/tmp/news_lk2/articles/9e/9e2d4a09.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654772760,
+    "title": "Police fire tear gas on protesters near Police HQ",
+    "url": "https://www.dailymirror.lk/breaking_news/Police-fire-tear-gas-on-protesters-near-Police-HQ/108-238754",
+    "file_name": "/tmp/news_lk2/articles/10/10967a04.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654772760,
+    "title": "Initiate bilateral talks with Russia: Nine political parties tell Prez",
+    "url": "https://www.dailymirror.lk/latest_news/Initiate-bilateral-talks-with-Russia-Nine-political-parties-tell-Prez/342-238755",
+    "file_name": "/tmp/news_lk2/articles/08/080d9d6a.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654772520,
     "title": "President briefs foreign envoys on Sri Lanka\u2019s situation",
@@ -19,6 +61,13 @@
     "title": "Road blocked in Pettah due to protest march",
     "url": "http://www.adaderana.lk/news/82956/road-blocked-in-pettah-due-to-protest-march",
     "file_name": "/tmp/news_lk2/articles/06/06dee519.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654771200,
+    "title": "Protesters marching towards Police HQ tear-gassed",
+    "url": "http://www.adaderana.lk/news/82956/protesters-marching-towards-police-hq-tear-gassed",
+    "file_name": "/tmp/news_lk2/articles/97/97bef319.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -159,6 +208,13 @@
     "title": "Sri Lanka\u2019s CEB incurs Rs. 65 billion loss in first quarter",
     "url": "https://economynext.com/sri-lankas-ceb-incurs-rs-65-billion-loss-in-first-quarter-95498/",
     "file_name": "/tmp/news_lk2/articles/b7/b7a2776f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654757460,
+    "title": "UN calls for over US$47 million for life-saving assistance",
+    "url": "https://www.dailymirror.lk/mirror_business/UN-calls-for-over-US-47-million-for-life-saving-assistance/241-238749",
+    "file_name": "/tmp/news_lk2/articles/09/09a73178.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -642,61 +698,5 @@
     "title": "Govt. to send public sector workers for foreign jobs",
     "url": "https://www.ft.lk/news/Govt-to-send-public-sector-workers-for-foreign-jobs/56-735937",
     "file_name": "/tmp/news_lk2/articles/19/19c42ae0.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654723200,
-    "title": "IFRC launches emergency appeal to provide relief  to Sri Lankan people affected by economic crisis",
-    "url": "https://www.ft.lk/news/IFRC-launches-emergency-appeal-to-provide-relief-to-Sri-Lankan-people-affected-by-economic-crisis/56-735936",
-    "file_name": "/tmp/news_lk2/articles/40/401cdcee.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654723140,
-    "title": "Navy prevents illegal migration attempts, detains 91 people",
-    "url": "https://www.ft.lk/news/Navy-prevents-illegal-migration-attempts-detains-91-people/56-735935",
-    "file_name": "/tmp/news_lk2/articles/12/12d4955a.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654723080,
-    "title": "Four suspects including MP Sanath Nishantha remanded again",
-    "url": "https://www.ft.lk/news/Four-suspects-including-MP-Sanath-Nishantha-remanded-again/56-735934",
-    "file_name": "/tmp/news_lk2/articles/d7/d74f0e6e.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654722660,
-    "title": "Boosting capacity building of Southern women entrepreneurs on trade, market access",
-    "url": "https://www.ft.lk/business/Boosting-capacity-building-of-Southern-women-entrepreneurs-on-trade-market-access/34-735950",
-    "file_name": "/tmp/news_lk2/articles/86/86d1c5b0.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654722360,
-    "title": "Balangoda Estate achieves Rs. 8,150 for FBOPFSP grade",
-    "url": "https://www.ft.lk/business/Balangoda-Estate-achieves-Rs-8-150-for-FBOPFSP-grade/34-735933",
-    "file_name": "/tmp/news_lk2/articles/78/78366c97.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654722060,
-    "title": "Senhora Synergies Group excels in tea once again",
-    "url": "https://www.ft.lk/business/Senhora-Synergies-Group-excels-in-tea-once-again/34-735932",
-    "file_name": "/tmp/news_lk2/articles/96/96a281e6.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654721880,
-    "title": "Craighead Estate sets all-time record price",
-    "url": "https://www.ft.lk/business/Craighead-Estate-sets-all-time-record-price/34-735931",
-    "file_name": "/tmp/news_lk2/articles/78/7894a4e4.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654721760,
-    "title": "All-time record price for Ceciliyan Tea Factory",
-    "url": "https://www.ft.lk/business/All-time-record-price-for-Ceciliyan-Tea-Factory/34-735930",
-    "file_name": "/tmp/news_lk2/articles/92/92e9fcda.json"
   }
 ]
