@@ -14,6 +14,13 @@
     "file_name": "/tmp/news_lk2/articles/24/24a2a4f6.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654749240,
+    "title": "Pushpa Rajapaksa left for US",
+    "url": "https://www.dailymirror.lk/latest_news/Pushpa-Rajapaksa-left-for-US/342-238740",
+    "file_name": "/tmp/news_lk2/articles/23/2371c756.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654749120,
     "title": "Sri Lanka\u2019s electricity engineers strike continues at lower intensity: sources",
@@ -203,6 +210,13 @@
     "file_name": "/tmp/news_lk2/articles/45/454ae208.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654734900,
+    "title": "AUS defeat SL by 3 wickets, seal series",
+    "url": "https://www.dailymirror.lk/breaking_news/AUS-defeat-SL-by-3-wickets-seal-series/108-238719",
+    "file_name": "/tmp/news_lk2/articles/13/13fdd87e.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654734540,
     "title": "CEB Engineers Union decides to call off strike following talks with the President",
@@ -215,6 +229,13 @@
     "title": "Foreign reserves marginally up to US $ 1.92bn but usable reserves remain next to nothing",
     "url": "https://www.dailymirror.lk/business-news/Foreign-reserves-marginally-up-to-US-1-92bn-but-usable-reserves-remain-next-to-nothing/273-238714",
     "file_name": "/tmp/news_lk2/articles/d8/d83c9b77.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654728480,
+    "title": "Foreign reserves marginally up to US $ 1.92bn but usable reserves remain next to nothing",
+    "url": "https://www.dailymirror.lk/breaking_news/Foreign-reserves-marginally-up-to-US-1-92bn-but-usable-reserves-remain-next-to-nothing/108-238714",
+    "file_name": "/tmp/news_lk2/articles/c2/c2b2ee65.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -446,6 +467,13 @@
     "title": "EXPLAINER \u2013 Sri Lanka people\u2019s hopes fade as monetary stability eludes new PM",
     "url": "https://economynext.com/explainer-sri-lanka-peoples-hopes-fade-as-monetary-stability-eludes-new-pm-95389/",
     "file_name": "/tmp/news_lk2/articles/cb/cb4e5171.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654699380,
+    "title": "Countrywide power outage possible",
+    "url": "https://www.dailymirror.lk/breaking_news/Countrywide-power-outage-possible/108-238692",
+    "file_name": "/tmp/news_lk2/articles/4e/4ebc366a.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
