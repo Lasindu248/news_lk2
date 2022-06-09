@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654798320,
+    "title": "Australian players back UN appeal for crisis-hit Sri Lanka",
+    "url": "http://www.adaderana.lk/news/82966/australian-players-back-un-appeal-for-crisis-hit-sri-lanka",
+    "file_name": "/tmp/news_lk2/articles/7a/7af50dbf.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654793400,
     "title": "President highlights corruption during auction of imported goods confiscated at port",
     "url": "http://www.adaderana.lk/news/82965/president-highlights-corruption-during-auction-of-imported-goods-confiscated-at-port",
@@ -691,12 +698,5 @@
     "title": "Demand for passports up by 250%: Immigration Dept.",
     "url": "https://www.dailymirror.lk/breaking_news/Demand-for-passports-up-by-250-Immigration-Dept/108-238744",
     "file_name": "/tmp/news_lk2/articles/c7/c7163846.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654751280,
-    "title": "CAA hunt for traders selling rice for high prices",
-    "url": "https://www.newsfirst.lk/2022/06/09/caa-hunt-for-traders-selling-rice-for-high-prices/",
-    "file_name": "/tmp/news_lk2/articles/de/de21d6f0.json"
   }
 ]
