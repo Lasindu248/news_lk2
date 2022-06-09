@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654751460,
+    "title": "Demand for passports up by 250%: Immigration Dept.",
+    "url": "https://www.dailymirror.lk/breaking_news/Demand-for-passports-up-by-250-Immigration-Dept/108-238744",
+    "file_name": "/tmp/news_lk2/articles/c7/c7163846.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654749420,
     "title": "Sri Lanka and Qatar review bilateral relations",
@@ -12,6 +19,13 @@
     "title": "China ready to work with India to help Sri Lanka & Chinese financial institutions reached out on debt payments",
     "url": "https://www.newsfirst.lk/2022/06/09/china-ready-to-work-with-india-to-help-sri-lanka-chinese-financial-institutions-reached-out-on-debt-payments/",
     "file_name": "/tmp/news_lk2/articles/24/24a2a4f6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654749240,
+    "title": "Pushpa Rajapaksa left for US",
+    "url": "https://www.dailymirror.lk/breaking_news/Pushpa-Rajapaksa-left-for-US/108-238740",
+    "file_name": "/tmp/news_lk2/articles/f9/f9ee6918.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -145,6 +159,13 @@
     "title": "Island-wide strike called off after president\u2019s assureance: CEB Workers\u2019 Union",
     "url": "https://www.dailymirror.lk/breaking_news/Island-wide-strike-called-off-after-presidents-assureance-CEB-Workers-Union/108-238721",
     "file_name": "/tmp/news_lk2/articles/67/67635043.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654737900,
+    "title": "Island-wide strike called off after president\u2019s assurance: CEB Workers\u2019 Union",
+    "url": "https://www.dailymirror.lk/latest_news/Island-wide-strike-called-off-after-presidents-assurance-CEB-Workers-Union/342-238721",
+    "file_name": "/tmp/news_lk2/articles/e2/e25798f0.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -677,26 +698,5 @@
     "title": "Can Mr. Clean sit with Mr. Dirty? SJB MP asks PM",
     "url": "https://www.dailymirror.lk/breaking_news/Can-Mr-Clean-sit-with-Mr-Dirty-SJB-MP-asks-PM/108-238686",
     "file_name": "/tmp/news_lk2/articles/ec/ecbac191.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654685520,
-    "title": "Can Mr. Clean sit with Mr. Dirty? SJB MP asks PM",
-    "url": "https://www.dailymirror.lk/latest_news/Can-Mr-Clean-sit-with-Mr-Dirty-SJB-MP-asks-PM/342-238686",
-    "file_name": "/tmp/news_lk2/articles/c8/c8a06ea0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654685220,
-    "title": "PM warns CEB TUs not to go for blackout; says it will impact help sought from India",
-    "url": "https://www.dailymirror.lk/breaking_news/PM-warns-CEB-TUs-not-to-go-for-blackout-says-it-will-impact-help-sought-from-India/108-238685",
-    "file_name": "/tmp/news_lk2/articles/9b/9b62f9f0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654685220,
-    "title": "PM warns CEB TUs not to go for blackout; says it will impact help sought from India",
-    "url": "https://www.dailymirror.lk/latest_news/PM-warns-CEB-TUs-not-to-go-for-blackout-says-it-will-impact-help-sought-from-India/342-238685",
-    "file_name": "/tmp/news_lk2/articles/42/4271c252.json"
   }
 ]
