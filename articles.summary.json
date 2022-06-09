@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654735080,
+    "title": "Sri Lanka President declares electricity an essential service",
+    "url": "https://economynext.com/sri-lanka-president-declares-electricity-an-essential-service-95451/",
+    "file_name": "/tmp/news_lk2/articles/ee/ee2db5f2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654734900,
+    "title": "AUS defeat SL by 3 wickets, seal series",
+    "url": "https://www.dailymirror.lk/latest_news/AUS-defeat-SL-by-3-wickets-seal-series/342-238719",
+    "file_name": "/tmp/news_lk2/articles/45/454ae208.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654727100,
     "title": "Cannot increase electricity tariffs just to pay CEB salaries - Minister Wijesekara",
