@@ -1,6 +1,62 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654754520,
+    "title": "Former Minister Basil delivers special statement",
+    "url": "http://www.adaderana.lk/news/82951/former-minister-basil-delivers-special-statement",
+    "file_name": "/tmp/news_lk2/articles/d2/d27934b4.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654754340,
+    "title": "Sri Lankan Muslims allowed to perform Hajj if they pay in foreign currency",
+    "url": "http://www.adaderana.lk/news/82950/sri-lankan-muslims-allowed-to-perform-hajj-if-they-pay-in-foreign-currency",
+    "file_name": "/tmp/news_lk2/articles/87/87be812f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654754220,
+    "title": "China lauds India for helping SL amid economic crisis",
+    "url": "https://www.dailymirror.lk/breaking_news/China-lauds-India-for-helping-SL-amid-economic-crisis/108-238746",
+    "file_name": "/tmp/news_lk2/articles/66/66cf31fe.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654753860,
+    "title": "CEB probing non-operational hydro power plants",
+    "url": "https://www.newsfirst.lk/2022/06/09/ceb-probing-non-operational-hydro-power-plants/",
+    "file_name": "/tmp/news_lk2/articles/35/3580117f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654753200,
+    "title": "Lankan dies in Japan in suspected homicide",
+    "url": "https://www.dailymirror.lk/breaking_news/Lankan-dies-in-Japan-in-suspected-homicide/108-238745",
+    "file_name": "/tmp/news_lk2/articles/e0/e0dfb57a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654752180,
+    "title": "80% of Sri Lankan families eating less or cheap food",
+    "url": "https://www.newsfirst.lk/2022/06/09/80-of-sri-lankan-families-eating-less-or-cheap-food/",
+    "file_name": "/tmp/news_lk2/articles/87/877812c7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654751460,
+    "title": "Demand for passports up by 250%: Immigration Dept.",
+    "url": "https://www.dailymirror.lk/breaking_news/Demand-for-passports-up-by-250-Immigration-Dept/108-238744",
+    "file_name": "/tmp/news_lk2/articles/c7/c7163846.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654751280,
+    "title": "CAA hunt for traders selling rice for high prices",
+    "url": "https://www.newsfirst.lk/2022/06/09/caa-hunt-for-traders-selling-rice-for-high-prices/",
+    "file_name": "/tmp/news_lk2/articles/de/de21d6f0.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654749420,
     "title": "Sri Lanka and Qatar review bilateral relations",
     "url": "http://www.adaderana.lk/news/82949/sri-lanka-and-qatar-review-bilateral-relations",
@@ -12,6 +68,13 @@
     "title": "China ready to work with India to help Sri Lanka & Chinese financial institutions reached out on debt payments",
     "url": "https://www.newsfirst.lk/2022/06/09/china-ready-to-work-with-india-to-help-sri-lanka-chinese-financial-institutions-reached-out-on-debt-payments/",
     "file_name": "/tmp/news_lk2/articles/24/24a2a4f6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654749240,
+    "title": "Pushpa Rajapaksa left for US",
+    "url": "https://www.dailymirror.lk/breaking_news/Pushpa-Rajapaksa-left-for-US/108-238740",
+    "file_name": "/tmp/news_lk2/articles/f9/f9ee6918.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -145,6 +208,20 @@
     "title": "Island-wide strike called off after president\u2019s assureance: CEB Workers\u2019 Union",
     "url": "https://www.dailymirror.lk/breaking_news/Island-wide-strike-called-off-after-presidents-assureance-CEB-Workers-Union/108-238721",
     "file_name": "/tmp/news_lk2/articles/67/67635043.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654737900,
+    "title": "Island-wide strike called off after president\u2019s assurance: CEB Workers\u2019 Union",
+    "url": "https://www.dailymirror.lk/breaking_news/Island-wide-strike-called-off-after-presidents-assurance-CEB-Workers-Union/108-238721",
+    "file_name": "/tmp/news_lk2/articles/98/98db4ba6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654737900,
+    "title": "Island-wide strike called off after president\u2019s assurance: CEB Workers\u2019 Union",
+    "url": "https://www.dailymirror.lk/latest_news/Island-wide-strike-called-off-after-presidents-assurance-CEB-Workers-Union/342-238721",
+    "file_name": "/tmp/news_lk2/articles/e2/e25798f0.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -575,6 +652,13 @@
   },
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654689180,
+    "title": "Basil Rajapaksa to vacate parliamentary seat?",
+    "url": "http://www.adaderana.lk/news/82937/basil-rajapaksa-to-vacate-parliamentary-seat",
+    "file_name": "/tmp/news_lk2/articles/07/0753ddc8.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654688880,
     "title": "Milan Jayatilleke granted bail; Sanath Nishantha further remanded",
     "url": "http://www.adaderana.lk/news/82936/milan-jayatilleke-granted-bail-sanath-nishantha-further-remanded",
@@ -614,89 +698,5 @@
     "title": "Basil ready to leave Parliament, concedes defeat to 21A",
     "url": "https://www.dailymirror.lk/latest_news/Basil-ready-to-leave-Parliament-concedes-defeat-to-21A/342-238688",
     "file_name": "/tmp/news_lk2/articles/9b/9b6dd91d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654687440,
-    "title": "Basil out, Dhammika or Renuka in?",
-    "url": "https://www.dailymirror.lk/latest_news/Basil-out-Dhammika-or-Renuka-in/342-238688",
-    "file_name": "/tmp/news_lk2/articles/4f/4f8d08b5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654687440,
-    "title": "Basil out, Dhammika or Renuka in?",
-    "url": "https://www.dailymirror.lk/breaking_news/Basil-out-Dhammika-or-Renuka-in/108-238688",
-    "file_name": "/tmp/news_lk2/articles/97/97b51891.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654687440,
-    "title": "Basil ready to leave Parliament, concedes defeat to 21A",
-    "url": "https://www.dailymirror.lk/top_story/Basil-ready-to-leave-Parliament-concedes-defeat-to-21A/155-238688",
-    "file_name": "/tmp/news_lk2/articles/a1/a1b6d882.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654687380,
-    "title": "Basil considering Exit from Parliament, says Senior SLPP official",
-    "url": "https://www.newsfirst.lk/2022/06/08/basil-considering-exit-from-parliament-says-senior-slpp-official/",
-    "file_name": "/tmp/news_lk2/articles/70/70b88734.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654686600,
-    "title": "SLFP extends full support for an all-party Govt: Sirisena",
-    "url": "https://www.newsfirst.lk/2022/06/08/slfp-extends-full-support-for-an-all-party-govt-sirisena/",
-    "file_name": "/tmp/news_lk2/articles/c9/c92b0f8e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654686000,
-    "title": "Diesel for private buses, school vans",
-    "url": "https://www.dailymirror.lk/latest_news/Diesel-for-private-buses-school-vans/342-238687",
-    "file_name": "/tmp/news_lk2/articles/ba/ba8b3489.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654686000,
-    "title": "Diesel for private buses, school vans",
-    "url": "https://www.dailymirror.lk/caption_story/Diesel-for-private-buses-school-vans/110-238687",
-    "file_name": "/tmp/news_lk2/articles/f5/f512d70b.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654685940,
-    "title": "Sri Lanka Treasuries yields drop, 3-month down 86bp",
-    "url": "https://economynext.com/sri-lanka-treasuries-yields-drop-3-month-down-86bp-95419/",
-    "file_name": "/tmp/news_lk2/articles/9e/9ea483ae.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654685520,
-    "title": "Can Mr. Clean sit with Mr. Dirty? SJB MP asks PM",
-    "url": "https://www.dailymirror.lk/breaking_news/Can-Mr-Clean-sit-with-Mr-Dirty-SJB-MP-asks-PM/108-238686",
-    "file_name": "/tmp/news_lk2/articles/ec/ecbac191.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654685520,
-    "title": "Can Mr. Clean sit with Mr. Dirty? SJB MP asks PM",
-    "url": "https://www.dailymirror.lk/latest_news/Can-Mr-Clean-sit-with-Mr-Dirty-SJB-MP-asks-PM/342-238686",
-    "file_name": "/tmp/news_lk2/articles/c8/c8a06ea0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654685220,
-    "title": "PM warns CEB TUs not to go for blackout; says it will impact help sought from India",
-    "url": "https://www.dailymirror.lk/breaking_news/PM-warns-CEB-TUs-not-to-go-for-blackout-says-it-will-impact-help-sought-from-India/108-238685",
-    "file_name": "/tmp/news_lk2/articles/9b/9b62f9f0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654685220,
-    "title": "PM warns CEB TUs not to go for blackout; says it will impact help sought from India",
-    "url": "https://www.dailymirror.lk/latest_news/PM-warns-CEB-TUs-not-to-go-for-blackout-says-it-will-impact-help-sought-from-India/342-238685",
-    "file_name": "/tmp/news_lk2/articles/42/4271c252.json"
   }
 ]
