@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654786140,
+    "title": "Cannot go for an election until economic crisis is addressed: ECSL Chairman",
+    "url": "https://www.newsfirst.lk/2022/06/09/cannot-go-for-an-election-until-economic-crisis-is-addressed-ecsl-chairman/",
+    "file_name": "/tmp/news_lk2/articles/eb/ebfcf8f7.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654785780,
     "title": "Police fire tear gas on protesters",
@@ -691,12 +698,5 @@
     "title": "Pushpa Rajapaksa left for US",
     "url": "https://www.dailymirror.lk/breaking_news/Pushpa-Rajapaksa-left-for-US/108-238740",
     "file_name": "/tmp/news_lk2/articles/f9/f9ee6918.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654749240,
-    "title": "Pushpa Rajapaksa left for US",
-    "url": "https://www.dailymirror.lk/latest_news/Pushpa-Rajapaksa-left-for-US/342-238740",
-    "file_name": "/tmp/news_lk2/articles/23/2371c756.json"
   }
 ]
