@@ -1,6 +1,41 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654772520,
+    "title": "President briefs foreign envoys on Sri Lanka\u2019s situation",
+    "url": "http://www.adaderana.lk/news/82957/president-briefs-foreign-envoys-on-sri-lankas-situation",
+    "file_name": "/tmp/news_lk2/articles/a2/a24266ad.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654772160,
+    "title": "Protest in front of Police HQ tear gassed",
+    "url": "https://www.newsfirst.lk/2022/06/09/protest-in-front-of-police-hq-tear-gassed/",
+    "file_name": "/tmp/news_lk2/articles/3e/3ea421c4.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654771200,
+    "title": "Road blocked in Pettah due to protest march",
+    "url": "http://www.adaderana.lk/news/82956/road-blocked-in-pettah-due-to-protest-march",
+    "file_name": "/tmp/news_lk2/articles/06/06dee519.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654770960,
+    "title": "Johnston given deadline to surrender",
+    "url": "https://www.newsfirst.lk/2022/06/09/johnston-given-deadline-to-surrender/",
+    "file_name": "/tmp/news_lk2/articles/a6/a63bbb59.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654770360,
+    "title": "Basil talks balls",
+    "url": "https://www.newsfirst.lk/2022/06/09/basil-talks-balls/",
+    "file_name": "/tmp/news_lk2/articles/b5/b5bbca25.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654770120,
     "title": "UN calls for over US$47 million for life-saving assistance to 1.7 million people in Sri Lanka",
     "url": "http://www.adaderana.lk/news/82955/un-calls-for-over-us47-million-for-life-saving-assistance-to-17-million-people-in-sri-lanka",
@@ -663,40 +698,5 @@
     "title": "All-time record price for Ceciliyan Tea Factory",
     "url": "https://www.ft.lk/business/All-time-record-price-for-Ceciliyan-Tea-Factory/34-735930",
     "file_name": "/tmp/news_lk2/articles/92/92e9fcda.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654721640,
-    "title": "Italian Ambassador marks World Food Safety Day 2022 with call to action",
-    "url": "https://www.ft.lk/business/Italian-Ambassador-marks-World-Food-Safety-Day-2022-with-call-to-action/34-735929",
-    "file_name": "/tmp/news_lk2/articles/75/7526cf1c.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654721340,
-    "title": "Kitchen & Bedroom Group CEO inducted as an Ambassador for Peace",
-    "url": "https://www.ft.lk/business/Kitchen-Bedroom-Group-CEO-inducted-as-an-Ambassador-for-Peace/34-735928",
-    "file_name": "/tmp/news_lk2/articles/e9/e96f00f4.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654720260,
-    "title": "Accreditation for sustainable investments",
-    "url": "https://www.ft.lk/opinion/Accreditation-for-sustainable-investments/14-735923",
-    "file_name": "/tmp/news_lk2/articles/63/6306de70.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654720020,
-    "title": "Championing the wellbeing of women and children as a priority in businesses",
-    "url": "https://www.ft.lk/opinion/Championing-the-wellbeing-of-women-and-children-as-a-priority-in-businesses/14-735922",
-    "file_name": "/tmp/news_lk2/articles/ef/efc328fb.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654714080,
-    "title": "Kerosene shortage; people in queues for days",
-    "url": "https://www.newsfirst.lk/2022/06/09/kerosene-shortage-people-in-queues-for-days/",
-    "file_name": "/tmp/news_lk2/articles/13/135dc904.json"
   }
 ]

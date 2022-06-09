@@ -1,6 +1,41 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654772520,
+    "title": "President briefs foreign envoys on Sri Lanka\u2019s situation",
+    "url": "http://www.adaderana.lk/news/82957/president-briefs-foreign-envoys-on-sri-lankas-situation",
+    "file_name": "/tmp/news_lk2/articles/a2/a24266ad.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654772160,
+    "title": "Protest in front of Police HQ tear gassed",
+    "url": "https://www.newsfirst.lk/2022/06/09/protest-in-front-of-police-hq-tear-gassed/",
+    "file_name": "/tmp/news_lk2/articles/3e/3ea421c4.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654771200,
+    "title": "Road blocked in Pettah due to protest march",
+    "url": "http://www.adaderana.lk/news/82956/road-blocked-in-pettah-due-to-protest-march",
+    "file_name": "/tmp/news_lk2/articles/06/06dee519.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654770960,
+    "title": "Johnston given deadline to surrender",
+    "url": "https://www.newsfirst.lk/2022/06/09/johnston-given-deadline-to-surrender/",
+    "file_name": "/tmp/news_lk2/articles/a6/a63bbb59.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654770360,
+    "title": "Basil talks balls",
+    "url": "https://www.newsfirst.lk/2022/06/09/basil-talks-balls/",
+    "file_name": "/tmp/news_lk2/articles/b5/b5bbca25.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654770120,
     "title": "UN calls for over US$47 million for life-saving assistance to 1.7 million people in Sri Lanka",
     "url": "http://www.adaderana.lk/news/82955/un-calls-for-over-us47-million-for-life-saving-assistance-to-17-million-people-in-sri-lanka",
