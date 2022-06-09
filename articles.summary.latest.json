@@ -1,5 +1,40 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654768680,
+    "title": "Wind Power project already awarded to Adani Group: Minister",
+    "url": "https://www.dailymirror.lk/latest_news/Wind-Power-project-already-awarded-to-Adani-Group-Minister/342-238753",
+    "file_name": "/tmp/news_lk2/articles/f2/f2eb3605.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654768620,
+    "title": "Sri Lanka Agriculture Minister allays fears over rice shortage",
+    "url": "https://economynext.com/sri-lanka-agriculture-minister-allays-fears-over-rice-shortage-95512/",
+    "file_name": "/tmp/news_lk2/articles/8e/8e29ff84.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654767360,
+    "title": "Release imported items without delay: President",
+    "url": "https://www.newsfirst.lk/2022/06/09/release-imported-items-without-delay-president/",
+    "file_name": "/tmp/news_lk2/articles/1d/1dd42750.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654766940,
+    "title": "Passports in high demand; Immigration Dept extends services",
+    "url": "https://www.newsfirst.lk/2022/06/09/passports-in-high-demand-immigration-dept-extends-services/",
+    "file_name": "/tmp/news_lk2/articles/05/05897d17.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654766700,
+    "title": "Court orders Johnston to surrender before 8pm today",
+    "url": "http://www.adaderana.lk/news/82954/court-orders-johnston-to-surrender-before-8pm-today",
+    "file_name": "/tmp/news_lk2/articles/f5/f50fa703.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654764900,
     "title": "Sri Lankans permitted to fly for Hajj; Must transfer US $ 1,500/- from overseas to SL Dollar Account",
@@ -45,6 +80,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654759560,
     "title": "Act of sabotage: Minister requests security for reservoirs",
+    "url": "https://www.dailymirror.lk/latest_news/Act-of-sabotage-Minister-requests-security-for-reservoirs/342-238751",
+    "file_name": "/tmp/news_lk2/articles/2f/2f272761.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654759560,
+    "title": "Act of sabotage: Minister requests security for reservoirs",
     "url": "https://www.dailymirror.lk/breaking_news/Act-of-sabotage-Minister-requests-security-for-reservoirs/108-238751",
     "file_name": "/tmp/news_lk2/articles/c1/c1c596b6.json"
   },
@@ -63,6 +105,13 @@
     "file_name": "/tmp/news_lk2/articles/7d/7db68beb.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654758960,
+    "title": "Court issues Enjoining Order preventing CEB Engineers\u2019 Trade Union action",
+    "url": "https://www.dailymirror.lk/latest_news/Court-issues-Enjoining-Order-preventing-CEB-Engineers-Trade-Union-action/342-238750",
+    "file_name": "/tmp/news_lk2/articles/b6/b606413f.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654758780,
     "title": "Sri Lanka\u2019s CEB incurs Rs. 65 billion loss in first quarter",
@@ -75,6 +124,20 @@
     "title": "UN calls for over US$47 million for life-saving assistance",
     "url": "https://www.dailymirror.lk/business_247/UN-calls-for-over-US-47-million-for-life-saving-assistance/395-238749",
     "file_name": "/tmp/news_lk2/articles/6f/6fcf76e6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654757460,
+    "title": "UN calls for over US$47 million for life-saving assistance",
+    "url": "https://www.dailymirror.lk/business/UN-calls-for-over-US-47-million-for-life-saving-assistance/215-238749",
+    "file_name": "/tmp/news_lk2/articles/df/df9787b7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654756680,
+    "title": "Russia never offered to supply fuel at 35% discounted price: Minister",
+    "url": "https://www.dailymirror.lk/latest_news/Russia-never-offered-to-supply-fuel-at-35-discounted-price-Minister/342-238748",
+    "file_name": "/tmp/news_lk2/articles/16/166fd585.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -635,68 +698,5 @@
     "title": "COPF summons Cabraal, P.B. Jayasundera to discuss economic crisis",
     "url": "https://www.newsfirst.lk/2022/06/09/copf-summons-cabraal-p-b-jayasundera-to-discuss-economic-crisis/",
     "file_name": "/tmp/news_lk2/articles/59/5978c660.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654713300,
-    "title": "Electricity Supply & Hospital Operations declared essential services",
-    "url": "https://www.newsfirst.lk/2022/06/09/electricity-supply-hospital-operations-declared-essential-services/",
-    "file_name": "/tmp/news_lk2/articles/93/93eb13d4.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654706940,
-    "title": "Special gazette issued declaring electricity supply an essential service",
-    "url": "http://www.adaderana.lk/news/82942/special-gazette-issued-declaring-electricity-supply-an-essential-service",
-    "file_name": "/tmp/news_lk2/articles/b7/b7566c61.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654706520,
-    "title": "Supply of electricity declared as essential service",
-    "url": "https://www.dailymirror.lk/latest_news/Supply-of-electricity-declared-as-essential-service/342-238694",
-    "file_name": "/tmp/news_lk2/articles/82/8223cbd0.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654706520,
-    "title": "Wedarachchi\u2019s son & daughter-in-law, granted bail",
-    "url": "https://www.newsfirst.lk/2022/06/08/wedarachchis-son-daughter-in-law-granted-bail/",
-    "file_name": "/tmp/news_lk2/articles/63/63946faa.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654706520,
-    "title": "Supply of electricity declared as essential service",
-    "url": "https://www.dailymirror.lk/breaking_news/Supply-of-electricity-declared-as-essential-service/108-238694",
-    "file_name": "/tmp/news_lk2/articles/97/9797a5be.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654706460,
-    "title": "MR and several others yet to surrender their passports to court custody - AG",
-    "url": "https://www.dailymirror.lk/breaking_news/MR-and-several-others-yet-to-surrender-their-passports-to-court-custody-AG/108-238693",
-    "file_name": "/tmp/news_lk2/articles/d8/d8c78bc3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654706460,
-    "title": "MR and several others yet to surrender their passports to court custody - AG",
-    "url": "https://www.dailymirror.lk/latest_news/MR-and-several-others-yet-to-surrender-their-passports-to-court-custody-AG/342-238693",
-    "file_name": "/tmp/news_lk2/articles/20/20d46e95.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654705740,
-    "title": "China willing to help Sri Lanka deal with debt burden",
-    "url": "http://www.adaderana.lk/news/82941/china-willing-to-help-sri-lanka-deal-with-debt-burden",
-    "file_name": "/tmp/news_lk2/articles/b4/b4559250.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654702980,
-    "title": "EXPLAINER \u2013 Sri Lanka people\u2019s hopes fade as monetary stability eludes new PM",
-    "url": "https://economynext.com/explainer-sri-lanka-peoples-hopes-fade-as-monetary-stability-eludes-new-pm-95389/",
-    "file_name": "/tmp/news_lk2/articles/cb/cb4e5171.json"
   }
 ]
