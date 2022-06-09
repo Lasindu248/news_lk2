@@ -1,19 +1,5 @@
 [
   {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654735080,
-    "title": "Sri Lanka President declares electricity an essential service",
-    "url": "https://economynext.com/sri-lanka-president-declares-electricity-an-essential-service-95451/",
-    "file_name": "/tmp/news_lk2/articles/ee/ee2db5f2.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654734900,
-    "title": "AUS defeat SL by 3 wickets, seal series",
-    "url": "https://www.dailymirror.lk/latest_news/AUS-defeat-SL-by-3-wickets-seal-series/342-238719",
-    "file_name": "/tmp/news_lk2/articles/45/454ae208.json"
-  },
-  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654727100,
     "title": "Cannot increase electricity tariffs just to pay CEB salaries - Minister Wijesekara",
@@ -698,5 +684,19 @@
     "title": "Champika Ranawaka breaks away from Sri Lanka\u2019s main opposition",
     "url": "https://economynext.com/champika-ranawaka-breaks-away-from-sri-lankas-main-opposition-95383/",
     "file_name": "/tmp/news_lk2/articles/35/3561fff9.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654670340,
+    "title": "Sri Lanka former minister accused of instigating violence files petition to prevent arrest",
+    "url": "https://economynext.com/sri-lanka-former-minister-accused-of-instigating-violence-files-petition-to-prevent-arrest-95384/",
+    "file_name": "/tmp/news_lk2/articles/3d/3d882074.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654669740,
+    "title": "CEBEU to launch trade union action midnight today",
+    "url": "http://www.adaderana.lk/news/82928/cebeu-to-launch-trade-union-action-midnight-today",
+    "file_name": "/tmp/news_lk2/articles/30/308110df.json"
   }
 ]
