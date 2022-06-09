@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654761360,
+    "title": "IFRC launches Emergency appeal for 28 Mn Swiss Francs for Sri Lanka",
+    "url": "https://www.newsfirst.lk/2022/06/09/ifrc-launches-emergency-appeal-for-28-mn-swiss-francs-for-sri-lanka/",
+    "file_name": "/tmp/news_lk2/articles/88/88551bd3.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654760700,
+    "title": "Court issues order on CEB Engineers Union",
+    "url": "https://www.newsfirst.lk/2022/06/09/court-issues-order-on-ceb-engineers-union/",
+    "file_name": "/tmp/news_lk2/articles/c9/c9d28d97.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654759560,
     "title": "Act of sabotage: Minister requests security for reservoirs",
@@ -684,19 +698,5 @@
     "title": "Island-wide blackout likely in Sri Lanka on June 09 after union-ministry talks fail",
     "url": "https://economynext.com/island-wide-blackout-likely-in-sri-lanka-on-june-09-after-union-ministry-talks-fail-95425/",
     "file_name": "/tmp/news_lk2/articles/62/62878dfa.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654696860,
-    "title": "Dhammika Perera to enter parliament?",
-    "url": "http://www.adaderana.lk/news/82940/dhammika-perera-to-enter-parliament",
-    "file_name": "/tmp/news_lk2/articles/2f/2fea51e6.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654696440,
-    "title": "NO gas distribution tomorrow (9)",
-    "url": "https://www.newsfirst.lk/2022/06/08/no-gas-distribution-tomorrow-9/",
-    "file_name": "/tmp/news_lk2/articles/b2/b207e5ef.json"
   }
 ]

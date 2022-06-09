@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654761360,
+    "title": "IFRC launches Emergency appeal for 28 Mn Swiss Francs for Sri Lanka",
+    "url": "https://www.newsfirst.lk/2022/06/09/ifrc-launches-emergency-appeal-for-28-mn-swiss-francs-for-sri-lanka/",
+    "file_name": "/tmp/news_lk2/articles/88/88551bd3.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654760700,
+    "title": "Court issues order on CEB Engineers Union",
+    "url": "https://www.newsfirst.lk/2022/06/09/court-issues-order-on-ceb-engineers-union/",
+    "file_name": "/tmp/news_lk2/articles/c9/c9d28d97.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654759560,
     "title": "Act of sabotage: Minister requests security for reservoirs",
