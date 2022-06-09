@@ -1,10 +1,24 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654741200,
+    "title": "Thefts, robberies & house breaking on the rise amidst economic crisis",
+    "url": "https://www.dailymirror.lk/latest_news/Thefts-robberies-house-breaking-on-the-rise-amidst-economic-crisis/342-238722",
+    "file_name": "/tmp/news_lk2/articles/19/193836ba.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654737900,
     "title": "Island-wide strike called off after president\u2019s assureance: CEB Workers\u2019 Union",
     "url": "https://www.dailymirror.lk/latest_news/Island-wide-strike-called-off-after-presidents-assureance-CEB-Workers-Union/342-238721",
     "file_name": "/tmp/news_lk2/articles/60/60e1a807.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654736220,
+    "title": "Sri Lanka electricity strike called off over promised assurances on private procurement",
+    "url": "https://economynext.com/sri-lanka-electricity-strike-called-off-over-promised-assurances-on-private-procurement-95453/",
+    "file_name": "/tmp/news_lk2/articles/98/982f2028.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -40,6 +54,20 @@
     "title": "CEB Engineers Union decides to call off strike following talks with the President",
     "url": "https://www.newsfirst.lk/2022/06/09/ceb-engineers-union-decides-to-call-off-strike-following-talks-with-the-president/",
     "file_name": "/tmp/news_lk2/articles/f6/f6481868.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654728480,
+    "title": "Foreign reserves marginally up to US $ 1.92bn but usable reserves remain next to nothing",
+    "url": "https://www.dailymirror.lk/business-news/Foreign-reserves-marginally-up-to-US-1-92bn-but-usable-reserves-remain-next-to-nothing/273-238714",
+    "file_name": "/tmp/news_lk2/articles/d8/d83c9b77.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654728300,
+    "title": "Government says will complete SriLankan Airlines restructuring this year",
+    "url": "https://www.dailymirror.lk/breaking_news/Government-says-will-complete-SriLankan-Airlines-restructuring-this-year/108-238712",
+    "file_name": "/tmp/news_lk2/articles/59/59f4c158.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -761,6 +789,13 @@
     "title": "Sri Lanka opposition, energy minister clash over ending competitive bidding for renewables",
     "url": "https://economynext.com/sri-lanka-opposition-energy-minister-clash-over-ending-competitive-bidding-for-renewables-95368/",
     "file_name": "/tmp/news_lk2/articles/ec/ec68bb22.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654669080,
+    "title": "Sri Lanka opposition, energy minister clash over ending competitive bidding for private plants",
+    "url": "https://economynext.com/sri-lanka-opposition-energy-minister-clash-over-ending-competitive-bidding-for-private-plants-95368/",
+    "file_name": "/tmp/news_lk2/articles/e6/e69d8a20.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",

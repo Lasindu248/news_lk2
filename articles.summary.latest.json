@@ -1,10 +1,24 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654741200,
+    "title": "Thefts, robberies & house breaking on the rise amidst economic crisis",
+    "url": "https://www.dailymirror.lk/latest_news/Thefts-robberies-house-breaking-on-the-rise-amidst-economic-crisis/342-238722",
+    "file_name": "/tmp/news_lk2/articles/19/193836ba.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654737900,
     "title": "Island-wide strike called off after president\u2019s assureance: CEB Workers\u2019 Union",
     "url": "https://www.dailymirror.lk/latest_news/Island-wide-strike-called-off-after-presidents-assureance-CEB-Workers-Union/342-238721",
     "file_name": "/tmp/news_lk2/articles/60/60e1a807.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654736220,
+    "title": "Sri Lanka electricity strike called off over promised assurances on private procurement",
+    "url": "https://economynext.com/sri-lanka-electricity-strike-called-off-over-promised-assurances-on-private-procurement-95453/",
+    "file_name": "/tmp/news_lk2/articles/98/982f2028.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -40,6 +54,20 @@
     "title": "CEB Engineers Union decides to call off strike following talks with the President",
     "url": "https://www.newsfirst.lk/2022/06/09/ceb-engineers-union-decides-to-call-off-strike-following-talks-with-the-president/",
     "file_name": "/tmp/news_lk2/articles/f6/f6481868.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654728480,
+    "title": "Foreign reserves marginally up to US $ 1.92bn but usable reserves remain next to nothing",
+    "url": "https://www.dailymirror.lk/business-news/Foreign-reserves-marginally-up-to-US-1-92bn-but-usable-reserves-remain-next-to-nothing/273-238714",
+    "file_name": "/tmp/news_lk2/articles/d8/d83c9b77.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654728300,
+    "title": "Government says will complete SriLankan Airlines restructuring this year",
+    "url": "https://www.dailymirror.lk/breaking_news/Government-says-will-complete-SriLankan-Airlines-restructuring-this-year/108-238712",
+    "file_name": "/tmp/news_lk2/articles/59/59f4c158.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -670,33 +698,5 @@
     "title": "Sri Lanka faces blackout after midnight walkout over ending competitive bidding",
     "url": "https://economynext.com/sri-lanka-faces-blackout-after-midnight-walkout-over-ending-competitive-bidding-95390/",
     "file_name": "/tmp/news_lk2/articles/a2/a250ee9d.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654672620,
-    "title": "Patali Champika decides to go independent; Dismisses claims that he was expecting a ministry",
-    "url": "https://www.newsfirst.lk/2022/06/08/patali-champika-decides-to-go-independent-dismisses-claims-that-he-was-expecting-a-ministry/",
-    "file_name": "/tmp/news_lk2/articles/24/24affe00.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654671840,
-    "title": "Sri Lanka Prime Minister holds talks with IMF chief on economic crisis",
-    "url": "https://economynext.com/sri-lanka-prime-minister-holds-talks-with-imf-chief-on-economic-crisis-95358/",
-    "file_name": "/tmp/news_lk2/articles/bd/bddf599a.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654671840,
-    "title": "Sri Lanka Prime Minister holds talks with IMF chief on economy",
-    "url": "https://economynext.com/sri-lanka-prime-minister-holds-talks-with-imf-chief-on-economy-95358/",
-    "file_name": "/tmp/news_lk2/articles/d7/d73098ef.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654671720,
-    "title": "Patali to function as independent MP in Opposition",
-    "url": "http://www.adaderana.lk/news/82929/patali-to-function-as-independent-mp-in-opposition",
-    "file_name": "/tmp/news_lk2/articles/ad/ad66df63.json"
   }
 ]
