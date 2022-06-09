@@ -1,5 +1,82 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654759560,
+    "title": "Act of sabotage: Minister requests security for reservoirs",
+    "url": "https://www.dailymirror.lk/breaking_news/Act-of-sabotage-Minister-requests-security-for-reservoirs/108-238751",
+    "file_name": "/tmp/news_lk2/articles/c1/c1c596b6.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654759320,
+    "title": "Court issues enjoining order against CEBEU",
+    "url": "http://www.adaderana.lk/news/82952/court-issues-enjoining-order-against-cebeu-",
+    "file_name": "/tmp/news_lk2/articles/bb/bb7f94cb.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654758960,
+    "title": "Court issues Enjoining Order preventing CEB Engineers\u2019 Trade Union action",
+    "url": "https://www.dailymirror.lk/breaking_news/Court-issues-Enjoining-Order-preventing-CEB-Engineers-Trade-Union-action/108-238750",
+    "file_name": "/tmp/news_lk2/articles/7d/7db68beb.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654758780,
+    "title": "Sri Lanka\u2019s CEB incurs Rs. 65 billion loss in first quarter",
+    "url": "https://economynext.com/sri-lankas-ceb-incurs-rs-65-billion-loss-in-first-quarter-95498/",
+    "file_name": "/tmp/news_lk2/articles/b7/b7a2776f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654757460,
+    "title": "UN calls for over US$47 million for life-saving assistance",
+    "url": "https://www.dailymirror.lk/business_247/UN-calls-for-over-US-47-million-for-life-saving-assistance/395-238749",
+    "file_name": "/tmp/news_lk2/articles/6f/6fcf76e6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654756680,
+    "title": "Russia never offered to supply fuel at 35% discounted price: Minister",
+    "url": "https://www.dailymirror.lk/breaking_news/Russia-never-offered-to-supply-fuel-at-35-discounted-price-Minister/108-238748",
+    "file_name": "/tmp/news_lk2/articles/f8/f8fbedef.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654755780,
+    "title": "Sri Lanka stock trades 1-pct stronger in mid-day trade",
+    "url": "https://economynext.com/sri-lanka-stock-trades-1-pct-stronger-in-mid-day-trade-95501/",
+    "file_name": "/tmp/news_lk2/articles/28/285cf946.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654755600,
+    "title": "Basil Rajapaksa resigns as MP",
+    "url": "https://www.ft.lk/news/Basil-Rajapaksa-resigns-as-MP/56-735951",
+    "file_name": "/tmp/news_lk2/articles/31/31325a43.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654755420,
+    "title": "Basil resigns",
+    "url": "https://www.dailymirror.lk/latest_news/Basil-resigns/342-238747",
+    "file_name": "/tmp/news_lk2/articles/f5/f50fb809.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654755420,
+    "title": "Basil resigns",
+    "url": "https://www.dailymirror.lk/top_story/Basil-resigns/155-238747",
+    "file_name": "/tmp/news_lk2/articles/a5/a591927f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654754580,
+    "title": "Basil Rajapaksa quits Parliament; Moves out of SLPP National List",
+    "url": "https://www.newsfirst.lk/2022/06/09/basil-rajapaksa-quits-parliament-moves-out-of-slpp-national-list/",
+    "file_name": "/tmp/news_lk2/articles/f3/f3e36ff6.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654754520,
     "title": "Former Minister Basil delivers special statement",
@@ -8,10 +85,31 @@
   },
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654754520,
+    "title": "Basil vacates MP seat, tenders resignation",
+    "url": "http://www.adaderana.lk/news/82951/basil-vacates-mp-seat-tenders-resignation",
+    "file_name": "/tmp/news_lk2/articles/b7/b7f95ce9.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654754340,
     "title": "Sri Lankan Muslims allowed to perform Hajj if they pay in foreign currency",
     "url": "http://www.adaderana.lk/news/82950/sri-lankan-muslims-allowed-to-perform-hajj-if-they-pay-in-foreign-currency",
     "file_name": "/tmp/news_lk2/articles/87/87be812f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654754340,
+    "title": "Sri Lankan Muslims allowed to perform Hajj if paying in foreign currency",
+    "url": "http://www.adaderana.lk/news/82950/sri-lankan-muslims-allowed-to-perform-hajj-if-paying-in-foreign-currency",
+    "file_name": "/tmp/news_lk2/articles/0e/0ea5d956.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654754220,
+    "title": "China lauds India for helping SL amid economic crisis",
+    "url": "https://www.dailymirror.lk/latest_news/China-lauds-India-for-helping-SL-amid-economic-crisis/342-238746",
+    "file_name": "/tmp/news_lk2/articles/41/41d59743.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -31,6 +129,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654753200,
     "title": "Lankan dies in Japan in suspected homicide",
+    "url": "https://www.dailymirror.lk/latest_news/Lankan-dies-in-Japan-in-suspected-homicide/342-238745",
+    "file_name": "/tmp/news_lk2/articles/01/01804238.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654753200,
+    "title": "Lankan dies in Japan in suspected homicide",
     "url": "https://www.dailymirror.lk/breaking_news/Lankan-dies-in-Japan-in-suspected-homicide/108-238745",
     "file_name": "/tmp/news_lk2/articles/e0/e0dfb57a.json"
   },
@@ -40,6 +145,13 @@
     "title": "80% of Sri Lankan families eating less or cheap food",
     "url": "https://www.newsfirst.lk/2022/06/09/80-of-sri-lankan-families-eating-less-or-cheap-food/",
     "file_name": "/tmp/news_lk2/articles/87/877812c7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654751460,
+    "title": "Demand for passports up by 250%: Immigration Dept.",
+    "url": "https://www.dailymirror.lk/latest_news/Demand-for-passports-up-by-250-Immigration-Dept/342-238744",
+    "file_name": "/tmp/news_lk2/articles/bb/bb0a8f66.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
