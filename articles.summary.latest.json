@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654779660,
+    "title": "Basil says he does not have balls",
+    "url": "https://www.dailymirror.lk/breaking_news/Basil-says-he-does-not-have-balls/108-238766",
+    "file_name": "/tmp/news_lk2/articles/76/76de6fda.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654779480,
+    "title": "No gas distribution tomorrow: LITRO",
+    "url": "https://www.dailymirror.lk/breaking_news/No-gas-distribution-tomorrow-LITRO/108-238765",
+    "file_name": "/tmp/news_lk2/articles/0d/0d7e29b7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654778760,
+    "title": "IMF team to arrive in SL on June 20",
+    "url": "https://www.dailymirror.lk/breaking_news/IMF-team-to-arrive-in-SL-on-June-20/108-238764",
+    "file_name": "/tmp/news_lk2/articles/d2/d2a8ebe6.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654778460,
     "title": "Do not stockpile rice unnecessarily: CAA",
@@ -19,6 +40,20 @@
     "title": "Johnston Fernando surrenders",
     "url": "https://www.dailymirror.lk/top_story/Johnston-Fernando-surrenders/155-238761",
     "file_name": "/tmp/news_lk2/articles/76/76746d16.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654777860,
+    "title": "Plea to US embassy urging to investigate Rajapaksa\u2019s assets",
+    "url": "https://www.dailymirror.lk/breaking_news/Plea-to-US-embassy-urging-to-investigate-Rajapaksas-assets/108-238767",
+    "file_name": "/tmp/news_lk2/articles/71/71c4f506.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654777740,
+    "title": "MP Johnston Fernando leaves",
+    "url": "http://www.adaderana.lk/news/82960/mp-johnston-fernando-leaves-",
+    "file_name": "/tmp/news_lk2/articles/89/8975295c.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -45,8 +80,22 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654776960,
     "title": "Electricity Amendment Bill passed in Parliament",
+    "url": "https://www.dailymirror.lk/latest_news/Electricity-Amendment-Bill-passed-in-Parliament/342-238759",
+    "file_name": "/tmp/news_lk2/articles/8f/8ffc5cd5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654776960,
+    "title": "Electricity Amendment Bill passed in Parliament",
     "url": "https://www.dailymirror.lk/breaking_news/Electricity-Amendment-Bill-passed-in-Parliament/108-238759",
     "file_name": "/tmp/news_lk2/articles/fe/fe68118b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654776900,
+    "title": "PM exaggerates economic crisis: AKD",
+    "url": "https://www.dailymirror.lk/latest_news/PM-exaggerates-economic-crisis-AKD/342-238758",
+    "file_name": "/tmp/news_lk2/articles/4f/4f5ebc08.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -222,6 +271,13 @@
     "title": "Sri Lanka Agriculture Minister allays fears over rice shortage",
     "url": "https://economynext.com/sri-lanka-agriculture-minister-allays-fears-over-rice-shortage-95512/",
     "file_name": "/tmp/news_lk2/articles/8e/8e29ff84.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654767420,
+    "title": "PUCSL poised to take final decision on issuing licences",
+    "url": "https://www.dailymirror.lk/latest_news/PUCSL-poised-to-take-final-decision-on-issuing-licences/342-238763",
+    "file_name": "/tmp/news_lk2/articles/44/44dd622e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -448,6 +504,13 @@
     "file_name": "/tmp/news_lk2/articles/66/66cf31fe.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654754220,
+    "title": "China lauds India for helping SL amid economic crisis",
+    "url": "https://www.dailymirror.lk/world/China-lauds-India-for-helping-SL-amid-economic-crisis/213-238746",
+    "file_name": "/tmp/news_lk2/articles/ce/ce9b0f2c.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654753860,
     "title": "CEB probing non-operational hydro power plants",
@@ -635,68 +698,5 @@
     "title": "Thefts, robberies & house breaking on the rise amidst economic crisis",
     "url": "https://www.dailymirror.lk/latest_news/Thefts-robberies-house-breaking-on-the-rise-amidst-economic-crisis/342-238722",
     "file_name": "/tmp/news_lk2/articles/19/193836ba.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654741200,
-    "title": "Thefts, robberies & house breaking on the rise amidst economic crisis",
-    "url": "https://www.dailymirror.lk/breaking_news/Thefts-robberies-house-breaking-on-the-rise-amidst-economic-crisis/108-238722",
-    "file_name": "/tmp/news_lk2/articles/9d/9db2953e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654737900,
-    "title": "Island-wide strike called off after president\u2019s assureance: CEB Workers\u2019 Union",
-    "url": "https://www.dailymirror.lk/breaking_news/Island-wide-strike-called-off-after-presidents-assureance-CEB-Workers-Union/108-238721",
-    "file_name": "/tmp/news_lk2/articles/67/67635043.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654737900,
-    "title": "Island-wide strike called off after president\u2019s assurance: CEB Workers\u2019 Union",
-    "url": "https://www.dailymirror.lk/breaking_news/Island-wide-strike-called-off-after-presidents-assurance-CEB-Workers-Union/108-238721",
-    "file_name": "/tmp/news_lk2/articles/98/98db4ba6.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654737900,
-    "title": "Island-wide strike called off after president\u2019s assurance: CEB Workers\u2019 Union",
-    "url": "https://www.dailymirror.lk/latest_news/Island-wide-strike-called-off-after-presidents-assurance-CEB-Workers-Union/342-238721",
-    "file_name": "/tmp/news_lk2/articles/e2/e25798f0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654737900,
-    "title": "Island-wide strike called off after president\u2019s assureance: CEB Workers\u2019 Union",
-    "url": "https://www.dailymirror.lk/latest_news/Island-wide-strike-called-off-after-presidents-assureance-CEB-Workers-Union/342-238721",
-    "file_name": "/tmp/news_lk2/articles/60/60e1a807.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654736220,
-    "title": "Sri Lanka electricity strike called off over promised assurances on private procurement",
-    "url": "https://economynext.com/sri-lanka-electricity-strike-called-off-over-promised-assurances-on-private-procurement-95453/",
-    "file_name": "/tmp/news_lk2/articles/98/982f2028.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654736220,
-    "title": "Sri Lanka electricity strike toned down over Presidential promises: Update",
-    "url": "https://economynext.com/sri-lanka-electricity-strike-toned-down-over-presidential-promises-update-95453/",
-    "file_name": "/tmp/news_lk2/articles/c0/c0ee7800.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654736220,
-    "title": "Sri Lanka power strike called off over promised assurances",
-    "url": "https://economynext.com/sri-lanka-power-strike-called-off-over-promised-assurances-95453/",
-    "file_name": "/tmp/news_lk2/articles/0c/0c1f5433.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654736220,
-    "title": "Sri Lanka electricity strike called off over Presidential promises on private procurement",
-    "url": "https://economynext.com/sri-lanka-electricity-strike-called-off-over-presidential-promises-on-private-procurement-95453/",
-    "file_name": "/tmp/news_lk2/articles/56/56cf02ec.json"
   }
 ]
