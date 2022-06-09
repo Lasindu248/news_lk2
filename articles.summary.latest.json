@@ -1,10 +1,24 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654785780,
+    "title": "Police fire tear gas on protesters",
+    "url": "https://www.dailymirror.lk/caption_story/Police-fire-tear-gas-on-protesters/110-238768",
+    "file_name": "/tmp/news_lk2/articles/c7/c788c048.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654784220,
     "title": "Sri Lanka lifts mask wearing mandatory rule as Covid-19 pandemic eases",
     "url": "https://economynext.com/sri-lanka-lifts-mask-wearing-mandatory-rule-as-covid-19-pandemic-eases-95539/",
     "file_name": "/tmp/news_lk2/articles/1d/1daa58f8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654783980,
+    "title": "Sri Lanka Electricity (Amendment) Bill passed in Parliament without amendments.",
+    "url": "https://www.newsfirst.lk/2022/06/09/sri-lanka-electricity-amendment-bill-passed-in-parliament-without-amendments/",
+    "file_name": "/tmp/news_lk2/articles/72/72ccb1ba.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -684,19 +698,5 @@
     "title": "Pushpa Rajapaksa left for US",
     "url": "https://www.dailymirror.lk/latest_news/Pushpa-Rajapaksa-left-for-US/342-238740",
     "file_name": "/tmp/news_lk2/articles/23/2371c756.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654749120,
-    "title": "Sri Lanka\u2019s electricity engineers strike continues at lower intensity: sources",
-    "url": "https://economynext.com/sri-lankas-electricity-engineers-strike-continues-at-lower-intensity-sources-95493/",
-    "file_name": "/tmp/news_lk2/articles/e0/e0c3f609.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654748100,
-    "title": "Litro says no domestic LP gas distribution today",
-    "url": "http://www.adaderana.lk/news/82948/litro-says-no-domestic-lp-gas-distribution-today",
-    "file_name": "/tmp/news_lk2/articles/ed/edf81757.json"
   }
 ]
