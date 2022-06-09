@@ -1,10 +1,24 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654792560,
+    "title": "China COVID jitters flare up as parts of Shanghai resume lockdown",
+    "url": "http://www.adaderana.lk/news/82964/china-covid-jitters-flare-up-as-parts-of-shanghai-resume-lockdown",
+    "file_name": "/tmp/news_lk2/articles/4b/4b6774ce.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654786140,
     "title": "Cannot go for an election until economic crisis is addressed: ECSL Chairman",
     "url": "https://www.newsfirst.lk/2022/06/09/cannot-go-for-an-election-until-economic-crisis-is-addressed-ecsl-chairman/",
     "file_name": "/tmp/news_lk2/articles/eb/ebfcf8f7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654785780,
+    "title": "Police fire tear gas on protesters",
+    "url": "https://www.dailymirror.lk/latest_news/Police-fire-tear-gas-on-protesters/342-238768",
+    "file_name": "/tmp/news_lk2/articles/8e/8ee54d6d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
