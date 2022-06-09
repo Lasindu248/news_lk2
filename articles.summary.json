@@ -1,10 +1,31 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654774500,
+    "title": "Face mask rule in Sri Lanka lifted",
+    "url": "http://www.adaderana.lk/news/82958/face-mask-rule-in-sri-lanka-lifted",
+    "file_name": "/tmp/news_lk2/articles/1a/1a226f56.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654774020,
     "title": "Sri Lankans allowed to attend Hajj pilgrimage this year",
     "url": "https://www.dailymirror.lk/breaking_news/Sri-Lankans-allowed-to-attend-Hajj-pilgrimage-this-year/108-238757",
     "file_name": "/tmp/news_lk2/articles/31/314f756d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654773900,
+    "title": "Electricity (Amendment) Bill Second Reading passed",
+    "url": "https://www.newsfirst.lk/2022/06/09/electricity-amendment-bill-second-reading-passed/",
+    "file_name": "/tmp/news_lk2/articles/36/360f2563.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654773780,
+    "title": "Reservoir gates opened during CEBEU strike",
+    "url": "https://www.newsfirst.lk/2022/06/09/reservoir-gates-opened-during-cebeu-strike/",
+    "file_name": "/tmp/news_lk2/articles/bc/bc47b9f3.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -28,11 +49,25 @@
     "file_name": "/tmp/news_lk2/articles/9e/9e2d4a09.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654773000,
+    "title": "Planned 24-hour blackout completely illegal: PUCSL",
+    "url": "https://www.newsfirst.lk/2022/06/09/planned-24-hour-blackout-completely-illegal-pucsl/",
+    "file_name": "/tmp/news_lk2/articles/f0/f0eab320.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654772760,
     "title": "Police fire tear gas on protesters near Police HQ",
     "url": "https://www.dailymirror.lk/breaking_news/Police-fire-tear-gas-on-protesters-near-Police-HQ/108-238754",
     "file_name": "/tmp/news_lk2/articles/10/10967a04.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654772760,
+    "title": "Indian fertilizer to arrive next month, distribution within days",
+    "url": "https://www.newsfirst.lk/2022/06/09/indian-fertilizer-to-arrive-next-month-distribution-within-days/",
+    "file_name": "/tmp/news_lk2/articles/6f/6f292550.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -47,6 +82,13 @@
     "title": "President briefs foreign envoys on Sri Lanka\u2019s situation",
     "url": "http://www.adaderana.lk/news/82957/president-briefs-foreign-envoys-on-sri-lankas-situation",
     "file_name": "/tmp/news_lk2/articles/a2/a24266ad.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654772340,
+    "title": "No longer mandatory to wear face masks \u2013 Health Minister",
+    "url": "https://www.newsfirst.lk/2022/06/09/no-longer-mandatory-to-wear-face-masks-health-minister/",
+    "file_name": "/tmp/news_lk2/articles/c1/c12e1727.json"
   },
   {
     "newspaper_id": "news-first-lk",

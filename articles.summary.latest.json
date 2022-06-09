@@ -1,10 +1,31 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654774500,
+    "title": "Face mask rule in Sri Lanka lifted",
+    "url": "http://www.adaderana.lk/news/82958/face-mask-rule-in-sri-lanka-lifted",
+    "file_name": "/tmp/news_lk2/articles/1a/1a226f56.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654774020,
     "title": "Sri Lankans allowed to attend Hajj pilgrimage this year",
     "url": "https://www.dailymirror.lk/breaking_news/Sri-Lankans-allowed-to-attend-Hajj-pilgrimage-this-year/108-238757",
     "file_name": "/tmp/news_lk2/articles/31/314f756d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654773900,
+    "title": "Electricity (Amendment) Bill Second Reading passed",
+    "url": "https://www.newsfirst.lk/2022/06/09/electricity-amendment-bill-second-reading-passed/",
+    "file_name": "/tmp/news_lk2/articles/36/360f2563.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654773780,
+    "title": "Reservoir gates opened during CEBEU strike",
+    "url": "https://www.newsfirst.lk/2022/06/09/reservoir-gates-opened-during-cebeu-strike/",
+    "file_name": "/tmp/news_lk2/articles/bc/bc47b9f3.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -28,11 +49,25 @@
     "file_name": "/tmp/news_lk2/articles/9e/9e2d4a09.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654773000,
+    "title": "Planned 24-hour blackout completely illegal: PUCSL",
+    "url": "https://www.newsfirst.lk/2022/06/09/planned-24-hour-blackout-completely-illegal-pucsl/",
+    "file_name": "/tmp/news_lk2/articles/f0/f0eab320.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654772760,
     "title": "Police fire tear gas on protesters near Police HQ",
     "url": "https://www.dailymirror.lk/breaking_news/Police-fire-tear-gas-on-protesters-near-Police-HQ/108-238754",
     "file_name": "/tmp/news_lk2/articles/10/10967a04.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654772760,
+    "title": "Indian fertilizer to arrive next month, distribution within days",
+    "url": "https://www.newsfirst.lk/2022/06/09/indian-fertilizer-to-arrive-next-month-distribution-within-days/",
+    "file_name": "/tmp/news_lk2/articles/6f/6f292550.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -47,6 +82,13 @@
     "title": "President briefs foreign envoys on Sri Lanka\u2019s situation",
     "url": "http://www.adaderana.lk/news/82957/president-briefs-foreign-envoys-on-sri-lankas-situation",
     "file_name": "/tmp/news_lk2/articles/a2/a24266ad.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654772340,
+    "title": "No longer mandatory to wear face masks \u2013 Health Minister",
+    "url": "https://www.newsfirst.lk/2022/06/09/no-longer-mandatory-to-wear-face-masks-health-minister/",
+    "file_name": "/tmp/news_lk2/articles/c1/c12e1727.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -656,47 +698,5 @@
     "title": "Minister Wijesekara on why electricity tariff will not be hiked",
     "url": "http://www.adaderana.lk/news/82944/minister-wijesekara-on-why-electricity-tariff-will-not-be-hiked",
     "file_name": "/tmp/news_lk2/articles/b5/b510c7cc.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654726560,
-    "title": "#aragalayaleft?",
-    "url": "https://www.dailymirror.lk/opinion/aragalayaleft/172-238699",
-    "file_name": "/tmp/news_lk2/articles/4f/4f1003a3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654726500,
-    "title": "Surviving on two meals, when even one meal is uncertain",
-    "url": "https://www.dailymirror.lk/opinion/Surviving-on-two-meals-when-even-one-meal-is-uncertain/172-238698",
-    "file_name": "/tmp/news_lk2/articles/bc/bc25977d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654725480,
-    "title": "Wounded protesters push for justice through blood, sweat and pain",
-    "url": "https://www.dailymirror.lk/plus/Wounded-protesters-push-for-justice-through-blood-sweat-and-pain/352-238697",
-    "file_name": "/tmp/news_lk2/articles/86/860d5eb9.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654723500,
-    "title": "China ready to ease  Sri Lanka\u2019s debt burden",
-    "url": "https://www.ft.lk/news/China-ready-to-ease-Sri-Lanka-s-debt-burden/56-735939",
-    "file_name": "/tmp/news_lk2/articles/46/46fa4553.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654723320,
-    "title": "Arrest warrant issued for Johnston Fernando",
-    "url": "https://www.ft.lk/news/Arrest-warrant-issued-for-Johnston-Fernando/56-735938",
-    "file_name": "/tmp/news_lk2/articles/50/503246e1.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654723260,
-    "title": "Govt. to send public sector workers for foreign jobs",
-    "url": "https://www.ft.lk/news/Govt-to-send-public-sector-workers-for-foreign-jobs/56-735937",
-    "file_name": "/tmp/news_lk2/articles/19/19c42ae0.json"
   }
 ]
