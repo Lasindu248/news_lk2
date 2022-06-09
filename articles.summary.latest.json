@@ -252,6 +252,20 @@
     "file_name": "/tmp/news_lk2/articles/b2/b207e5ef.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654695000,
+    "title": "Colombo Stock Exchange named Great Place to Work\u00ae Certified\u2122",
+    "url": "http://island.lk/colombo-stock-exchange-named-great-place-to-work-certified/",
+    "file_name": "/tmp/news_lk2/articles/a9/a9f37089.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654695000,
+    "title": "CSE gains over I per cent as a semblance of political stability emerges",
+    "url": "http://island.lk/cse-gains-over-i-per-cent-as-a-semblance-of-political-stability-emerges/",
+    "file_name": "/tmp/news_lk2/articles/37/37b452fc.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654692240,
     "title": "Supplementary estimate of Rs 695 billion passed in Parliament",
@@ -684,19 +698,5 @@
     "title": "CEBEU to launch trade union action midnight today",
     "url": "http://www.adaderana.lk/news/82928/cebeu-to-launch-trade-union-action-midnight-today",
     "file_name": "/tmp/news_lk2/articles/30/308110df.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654669740,
-    "title": "CEBEU to withdraw from duties from midnight today",
-    "url": "http://www.adaderana.lk/news/82928/cebeu-to-withdraw-from-duties-from-midnight-today",
-    "file_name": "/tmp/news_lk2/articles/88/88b77541.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654669500,
-    "title": "Sri Lanka stocks gain over 1-pct in mid-day trade",
-    "url": "https://economynext.com/sri-lanka-stocks-gain-over-1-pct-in-mid-day-trade-95376/",
-    "file_name": "/tmp/news_lk2/articles/c9/c9a325c0.json"
   }
 ]

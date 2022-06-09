@@ -252,6 +252,20 @@
     "file_name": "/tmp/news_lk2/articles/b2/b207e5ef.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654695000,
+    "title": "Colombo Stock Exchange named Great Place to Work\u00ae Certified\u2122",
+    "url": "http://island.lk/colombo-stock-exchange-named-great-place-to-work-certified/",
+    "file_name": "/tmp/news_lk2/articles/a9/a9f37089.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654695000,
+    "title": "CSE gains over I per cent as a semblance of political stability emerges",
+    "url": "http://island.lk/cse-gains-over-i-per-cent-as-a-semblance-of-political-stability-emerges/",
+    "file_name": "/tmp/news_lk2/articles/37/37b452fc.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654692240,
     "title": "Supplementary estimate of Rs 695 billion passed in Parliament",
@@ -1101,6 +1115,13 @@
   {
     "newspaper_id": "island-lk",
     "time_ut": 1654608840,
+    "title": "Brandix breathes life to World Environment Day with reforestation",
+    "url": "http://island.lk/brandix-breathes-life-to-world-environment-day-with-reforestation/",
+    "file_name": "/tmp/news_lk2/articles/fb/fb8aadd0.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654608840,
     "title": "ComBank to widen Senior Citizen account base with relaunch of \u2018Udara\u2019",
     "url": "http://island.lk/combank-to-widen-senior-citizen-account-base-with-relaunch-of-udara/",
     "file_name": "/tmp/news_lk2/articles/54/5419914f.json"
@@ -1118,6 +1139,20 @@
     "title": "Sri Lanka needs US$1 billion to return LKR to some semblance of normality: PM",
     "url": "http://island.lk/sri-lanka-needs-us1-billion-to-return-lkr-to-some-semblance-of-normality-pm/",
     "file_name": "/tmp/news_lk2/articles/96/96907043.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654608660,
+    "title": "Tea production plummets; prices remain high",
+    "url": "http://island.lk/tea-production-plummets-prices-remain-high/",
+    "file_name": "/tmp/news_lk2/articles/8d/8d7ee8cb.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654608660,
+    "title": "CSE investor sentiment plunges to negative territory over macro-economic worries",
+    "url": "http://island.lk/cse-investor-sentiment-plunges-to-negative-territory-over-macro-economic-worries/",
+    "file_name": "/tmp/news_lk2/articles/c2/c208de21.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -2240,6 +2275,20 @@
     "file_name": "/tmp/news_lk2/articles/b1/b1ab0fe6.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654525740,
+    "title": "Education at a time of economic crisis",
+    "url": "http://island.lk/education-at-a-time-of-economic-crisis/",
+    "file_name": "/tmp/news_lk2/articles/bf/bf92fea0.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654524900,
+    "title": "Demand for system change also calls for early elections",
+    "url": "http://island.lk/demand-for-system-change-also-calls-for-early-elections/",
+    "file_name": "/tmp/news_lk2/articles/2e/2eea39f7.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654524600,
     "title": "\u201cI can\u2019t go as a failed president,\u201d \u2013 Sri Lankan President Rajapaksa Vows to Finish Term, Won\u2019t Run for Re-Election",
@@ -3148,6 +3197,13 @@
     "title": "Healthcare in a bankrupt Sri Lanka",
     "url": "http://island.lk/healthcare-in-a-bankrupt-sri-lanka/",
     "file_name": "/tmp/news_lk2/articles/48/48217433.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654449360,
+    "title": "Blues of the Blues",
+    "url": "http://island.lk/blues-of-the-blues/",
+    "file_name": "/tmp/news_lk2/articles/61/618c37b8.json"
   },
   {
     "newspaper_id": "news-first-lk",
