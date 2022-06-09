@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654793400,
+    "title": "President highlights corruption during auction of imported goods confiscated at port",
+    "url": "http://www.adaderana.lk/news/82965/president-highlights-corruption-during-auction-of-imported-goods-confiscated-at-port",
+    "file_name": "/tmp/news_lk2/articles/b4/b484ecbb.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654792560,
     "title": "China COVID jitters flare up as parts of Shanghai resume lockdown",
     "url": "http://www.adaderana.lk/news/82964/china-covid-jitters-flare-up-as-parts-of-shanghai-resume-lockdown",
@@ -691,12 +698,5 @@
     "title": "CAA hunt for traders selling rice for high prices",
     "url": "https://www.newsfirst.lk/2022/06/09/caa-hunt-for-traders-selling-rice-for-high-prices/",
     "file_name": "/tmp/news_lk2/articles/de/de21d6f0.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654749420,
-    "title": "Sri Lanka and Qatar review bilateral relations",
-    "url": "http://www.adaderana.lk/news/82949/sri-lanka-and-qatar-review-bilateral-relations",
-    "file_name": "/tmp/news_lk2/articles/31/31b496c4.json"
   }
 ]
