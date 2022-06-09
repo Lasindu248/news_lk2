@@ -1,19 +1,5 @@
 [
   {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654781400,
-    "title": "Johnston Fernando granted bail",
-    "url": "http://www.adaderana.lk/news/82963/johnston-fernando-granted-bail-",
-    "file_name": "/tmp/news_lk2/articles/18/18cfe069.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654781040,
-    "title": "Ex-finance secretary on what led to Sri Lanka\u2019s economic collapse",
-    "url": "http://www.adaderana.lk/news/82962/ex-finance-secretary-on-what-led-to-sri-lankas-economic-collapse",
-    "file_name": "/tmp/news_lk2/articles/58/58efbaa8.json"
-  },
-  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654779660,
     "title": "Basil says he does not have balls",
@@ -29,20 +15,6 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654779480,
-    "title": "No gas distribution tomorrow: LITRO",
-    "url": "https://www.dailymirror.lk/latest_news/No-gas-distribution-tomorrow-LITRO/342-238765",
-    "file_name": "/tmp/news_lk2/articles/91/912f8f81.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654778760,
-    "title": "IMF team to arrive in SL on June 20",
-    "url": "https://www.dailymirror.lk/latest_news/IMF-team-to-arrive-in-SL-on-June-20/342-238764",
-    "file_name": "/tmp/news_lk2/articles/fa/faafa6e0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654778760,
     "title": "IMF team to arrive in SL on June 20",
     "url": "https://www.dailymirror.lk/breaking_news/IMF-team-to-arrive-in-SL-on-June-20/108-238764",
@@ -54,13 +26,6 @@
     "title": "Do not stockpile rice unnecessarily: CAA",
     "url": "https://www.newsfirst.lk/2022/06/09/do-not-stockpile-rice-unnecessarily-caa/",
     "file_name": "/tmp/news_lk2/articles/20/207bf3c9.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654777980,
-    "title": "Power shut down illegal when not scheduled: PUCSL",
-    "url": "https://www.dailymirror.lk/latest_news/Power-shut-down-illegal-when-not-scheduled-PUCSL/342-238762",
-    "file_name": "/tmp/news_lk2/articles/18/18e28b58.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -437,13 +402,6 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654757460,
     "title": "UN calls for over US$47 million for life-saving assistance",
-    "url": "https://www.dailymirror.lk/breaking_news/UN-calls-for-over-US-47-million-for-life-saving-assistance/108-238749",
-    "file_name": "/tmp/news_lk2/articles/1e/1e022bd2.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654757460,
-    "title": "UN calls for over US$47 million for life-saving assistance",
     "url": "https://www.dailymirror.lk/business_247/UN-calls-for-over-US-47-million-for-life-saving-assistance/395-238749",
     "file_name": "/tmp/news_lk2/articles/6f/6fcf76e6.json"
   },
@@ -698,5 +656,47 @@
     "title": "Recent power outage activity a sabotage: PUCSL Chairman",
     "url": "https://www.dailymirror.lk/breaking_news/Recent-power-outage-activity-a-sabotage-PUCSL-Chairman/108-238723",
     "file_name": "/tmp/news_lk2/articles/0f/0f7b883c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654744080,
+    "title": "Recent power outage activity a sabotage: PUCSL Chairman",
+    "url": "https://www.dailymirror.lk/latest_news/Recent-power-outage-activity-a-sabotage-PUCSL-Chairman/342-238723",
+    "file_name": "/tmp/news_lk2/articles/ac/acebcafd.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654743960,
+    "title": "CEB engineers call off strike after talks with President",
+    "url": "http://www.adaderana.lk/news/82946/ceb-engineers-call-off-strike-after-talks-with-president",
+    "file_name": "/tmp/news_lk2/articles/e1/e17aea75.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654743600,
+    "title": "Showers expected in several provinces and districts",
+    "url": "http://www.adaderana.lk/news/82945/showers-expected-in-several-provinces-and-districts",
+    "file_name": "/tmp/news_lk2/articles/fe/fea2653f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654742520,
+    "title": "Electricity supply restored to several areas after early morning blackout",
+    "url": "https://www.newsfirst.lk/2022/06/09/electricity-supply-restored-to-several-areas-after-early-morning-blackout/",
+    "file_name": "/tmp/news_lk2/articles/df/df14f71b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654741920,
+    "title": "Rainfall expected in several provinces on Thursday (9)",
+    "url": "https://www.newsfirst.lk/2022/06/09/rainfall-expected-in-several-provinces-on-thursday-9/",
+    "file_name": "/tmp/news_lk2/articles/28/28d04627.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654741200,
+    "title": "Thefts, robberies & house breaking on the rise amidst economic crisis",
+    "url": "https://www.dailymirror.lk/latest_news/Thefts-robberies-house-breaking-on-the-rise-amidst-economic-crisis/342-238722",
+    "file_name": "/tmp/news_lk2/articles/19/193836ba.json"
   }
 ]
