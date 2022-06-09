@@ -119,6 +119,13 @@
     "file_name": "/tmp/news_lk2/articles/0c/0c1f5433.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654736220,
+    "title": "Sri Lanka electricity strike called off over Presidential promises on private procurement",
+    "url": "https://economynext.com/sri-lanka-electricity-strike-called-off-over-presidential-promises-on-private-procurement-95453/",
+    "file_name": "/tmp/news_lk2/articles/56/56cf02ec.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654735860,
     "title": "AUS defeat SL by 3 wickets",
@@ -691,12 +698,5 @@
     "title": "Committee appointed comprising UNPers to oversee essential services defunct now: PM",
     "url": "https://www.dailymirror.lk/latest_news/Committee-appointed-comprising-UNPers-to-oversee-essential-services-defunct-now-PM/342-238682",
     "file_name": "/tmp/news_lk2/articles/db/dba22775.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654683180,
-    "title": "I will not be responsible if a blackout is caused: Ranil",
-    "url": "https://www.newsfirst.lk/2022/06/08/i-will-not-be-responsible-if-a-blackout-is-caused-ranil/",
-    "file_name": "/tmp/news_lk2/articles/17/17cb8f23.json"
   }
 ]
