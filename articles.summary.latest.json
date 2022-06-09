@@ -1,5 +1,54 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654745160,
+    "title": "PUCSL on why some hydro powered plants are non-operational",
+    "url": "http://www.adaderana.lk/news/82947/pucsl-on-why-some-hydro-powered-plants-are-non-operational",
+    "file_name": "/tmp/news_lk2/articles/15/15858c72.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654744740,
+    "title": "Basil says he will tender resignation today",
+    "url": "https://www.dailymirror.lk/latest_news/Basil-says-he-will-tender-resignation-today/342-238724",
+    "file_name": "/tmp/news_lk2/articles/16/161f2205.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654744080,
+    "title": "Recent power outage activity a sabotage: PUCSL Chairman",
+    "url": "https://www.dailymirror.lk/latest_news/Recent-power-outage-activity-a-sabotage-PUCSL-Chairman/342-238723",
+    "file_name": "/tmp/news_lk2/articles/ac/acebcafd.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654743960,
+    "title": "CEB engineers call off strike after talks with President",
+    "url": "http://www.adaderana.lk/news/82946/ceb-engineers-call-off-strike-after-talks-with-president",
+    "file_name": "/tmp/news_lk2/articles/e1/e17aea75.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654743600,
+    "title": "Showers expected in several provinces and districts",
+    "url": "http://www.adaderana.lk/news/82945/showers-expected-in-several-provinces-and-districts",
+    "file_name": "/tmp/news_lk2/articles/fe/fea2653f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654742520,
+    "title": "Electricity supply restored to several areas after early morning blackout",
+    "url": "https://www.newsfirst.lk/2022/06/09/electricity-supply-restored-to-several-areas-after-early-morning-blackout/",
+    "file_name": "/tmp/news_lk2/articles/df/df14f71b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654741920,
+    "title": "Rainfall expected in several provinces on Thursday (9)",
+    "url": "https://www.newsfirst.lk/2022/06/09/rainfall-expected-in-several-provinces-on-thursday-9/",
+    "file_name": "/tmp/news_lk2/articles/28/28d04627.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654741200,
     "title": "Thefts, robberies & house breaking on the rise amidst economic crisis",
@@ -68,6 +117,13 @@
     "title": "Government says will complete SriLankan Airlines restructuring this year",
     "url": "https://www.dailymirror.lk/breaking_news/Government-says-will-complete-SriLankan-Airlines-restructuring-this-year/108-238712",
     "file_name": "/tmp/news_lk2/articles/59/59f4c158.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654728300,
+    "title": "Government says will complete SriLankan Airlines restructuring this year",
+    "url": "https://www.dailymirror.lk/business-news/Government-says-will-complete-SriLankan-Airlines-restructuring-this-year/273-238712",
+    "file_name": "/tmp/news_lk2/articles/c4/c43a0a83.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -642,61 +698,5 @@
     "title": "Sri Lanka\u2019s reserves rise after five months",
     "url": "https://www.newsfirst.lk/2022/06/08/sri-lankas-reserves-rise-after-five-months/",
     "file_name": "/tmp/news_lk2/articles/93/9315b898.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654680000,
-    "title": "Dilip Wedaarachchi\u2019s son & daughter-in-law granted bail",
-    "url": "http://www.adaderana.lk/news/82931/dilip-wedaarachchis-son-daughter-in-law-granted-bail",
-    "file_name": "/tmp/news_lk2/articles/56/56c639e9.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654679400,
-    "title": "Sri Lanka minister proposes train ticket price policy at half the bus fare",
-    "url": "https://economynext.com/sri-lanka-minister-proposes-train-ticket-price-policy-at-half-the-bus-fare-95412/",
-    "file_name": "/tmp/news_lk2/articles/35/358134f5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654678620,
-    "title": "China willing to help Sri Lanka deal with debt burden: Zhao Lijian",
-    "url": "https://www.dailymirror.lk/breaking_news/China-willing-to-help-Sri-Lanka-deal-with-debt-burden-Zhao-Lijian/108-238678",
-    "file_name": "/tmp/news_lk2/articles/2b/2b266e07.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654676760,
-    "title": "Sri Lanka to receive IMF assistance by September?",
-    "url": "http://www.adaderana.lk/news/82930/sri-lanka-to-receive-imf-assistance-by-september",
-    "file_name": "/tmp/news_lk2/articles/e5/e501e5fa.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654676340,
-    "title": "Sri Lanka power minister says no tariff hike as union opposes unsolicited deals without tender",
-    "url": "https://economynext.com/sri-lanka-power-minister-says-no-tariff-hike-as-union-opposes-unsolicited-deals-without-tender-95400/",
-    "file_name": "/tmp/news_lk2/articles/ca/cafb0c6a.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654676340,
-    "title": "Sri Lanka power minister says no tariff hike as unions oppose unsolicited deals without tender",
-    "url": "https://economynext.com/sri-lanka-power-minister-says-no-tariff-hike-as-unions-oppose-unsolicited-deals-without-tender-95400/",
-    "file_name": "/tmp/news_lk2/articles/89/896fde33.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654673760,
-    "title": "Sri Lanka faces blackout after midnight walkout over unsolicited deals",
-    "url": "https://economynext.com/sri-lanka-faces-blackout-after-midnight-walkout-over-unsolicited-deals-95390/",
-    "file_name": "/tmp/news_lk2/articles/fc/fcf62971.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654673760,
-    "title": "Sri Lanka faces blackout after midnight walkout over ending competitive bidding",
-    "url": "https://economynext.com/sri-lanka-faces-blackout-after-midnight-walkout-over-ending-competitive-bidding-95390/",
-    "file_name": "/tmp/news_lk2/articles/a2/a250ee9d.json"
   }
 ]
