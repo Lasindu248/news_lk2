@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654781400,
+    "title": "Johnston Fernando granted bail",
+    "url": "http://www.adaderana.lk/news/82963/johnston-fernando-granted-bail-",
+    "file_name": "/tmp/news_lk2/articles/18/18cfe069.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654781040,
+    "title": "Ex-finance secretary on what led to Sri Lanka\u2019s economic collapse",
+    "url": "http://www.adaderana.lk/news/82962/ex-finance-secretary-on-what-led-to-sri-lankas-economic-collapse",
+    "file_name": "/tmp/news_lk2/articles/58/58efbaa8.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654779660,
     "title": "Basil says he does not have balls",
@@ -15,6 +29,20 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654779480,
+    "title": "No gas distribution tomorrow: LITRO",
+    "url": "https://www.dailymirror.lk/latest_news/No-gas-distribution-tomorrow-LITRO/342-238765",
+    "file_name": "/tmp/news_lk2/articles/91/912f8f81.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654778760,
+    "title": "IMF team to arrive in SL on June 20",
+    "url": "https://www.dailymirror.lk/latest_news/IMF-team-to-arrive-in-SL-on-June-20/342-238764",
+    "file_name": "/tmp/news_lk2/articles/fa/faafa6e0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654778760,
     "title": "IMF team to arrive in SL on June 20",
     "url": "https://www.dailymirror.lk/breaking_news/IMF-team-to-arrive-in-SL-on-June-20/108-238764",
@@ -26,6 +54,13 @@
     "title": "Do not stockpile rice unnecessarily: CAA",
     "url": "https://www.newsfirst.lk/2022/06/09/do-not-stockpile-rice-unnecessarily-caa/",
     "file_name": "/tmp/news_lk2/articles/20/207bf3c9.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654777980,
+    "title": "Power shut down illegal when not scheduled: PUCSL",
+    "url": "https://www.dailymirror.lk/latest_news/Power-shut-down-illegal-when-not-scheduled-PUCSL/342-238762",
+    "file_name": "/tmp/news_lk2/articles/18/18e28b58.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -397,6 +432,13 @@
     "title": "UN calls for over US$47 million for life-saving assistance",
     "url": "https://www.dailymirror.lk/mirror_business/UN-calls-for-over-US-47-million-for-life-saving-assistance/241-238749",
     "file_name": "/tmp/news_lk2/articles/09/09a73178.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654757460,
+    "title": "UN calls for over US$47 million for life-saving assistance",
+    "url": "https://www.dailymirror.lk/breaking_news/UN-calls-for-over-US-47-million-for-life-saving-assistance/108-238749",
+    "file_name": "/tmp/news_lk2/articles/1e/1e022bd2.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
