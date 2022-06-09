@@ -1,5 +1,47 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654737900,
+    "title": "Island-wide strike called off after president\u2019s assureance: CEB Workers\u2019 Union",
+    "url": "https://www.dailymirror.lk/latest_news/Island-wide-strike-called-off-after-presidents-assureance-CEB-Workers-Union/342-238721",
+    "file_name": "/tmp/news_lk2/articles/60/60e1a807.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654736220,
+    "title": "Sri Lanka power strike called off over promised assurances",
+    "url": "https://economynext.com/sri-lanka-power-strike-called-off-over-promised-assurances-95453/",
+    "file_name": "/tmp/news_lk2/articles/0c/0c1f5433.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654735860,
+    "title": "AUS defeat SL by 3 wickets",
+    "url": "https://www.dailymirror.lk/latest_news/AUS-defeat-SL-by-3-wickets/342-238720",
+    "file_name": "/tmp/news_lk2/articles/42/426fccef.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654735080,
+    "title": "Sri Lanka President declares electricity an essential service",
+    "url": "https://economynext.com/sri-lanka-president-declares-electricity-an-essential-service-95451/",
+    "file_name": "/tmp/news_lk2/articles/ee/ee2db5f2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654734900,
+    "title": "AUS defeat SL by 3 wickets, seal series",
+    "url": "https://www.dailymirror.lk/latest_news/AUS-defeat-SL-by-3-wickets-seal-series/342-238719",
+    "file_name": "/tmp/news_lk2/articles/45/454ae208.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654734540,
+    "title": "CEB Engineers Union decides to call off strike following talks with the President",
+    "url": "https://www.newsfirst.lk/2022/06/09/ceb-engineers-union-decides-to-call-off-strike-following-talks-with-the-president/",
+    "file_name": "/tmp/news_lk2/articles/f6/f6481868.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654727100,
     "title": "Cannot increase electricity tariffs just to pay CEB salaries - Minister Wijesekara",
@@ -656,47 +698,5 @@
     "title": "Patali to function as independent MP in Opposition",
     "url": "http://www.adaderana.lk/news/82929/patali-to-function-as-independent-mp-in-opposition",
     "file_name": "/tmp/news_lk2/articles/ad/ad66df63.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654671120,
-    "title": "Champika to function as independent MP in Parliament",
-    "url": "https://www.dailymirror.lk/latest_news/Champika-to-function-as-independent-MP-in-Parliament/342-238677",
-    "file_name": "/tmp/news_lk2/articles/19/19085318.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654671120,
-    "title": "Champika to function as independent MP in Parliament",
-    "url": "https://www.dailymirror.lk/breaking_news/Champika-to-function-as-independent-MP-in-Parliament/108-238677",
-    "file_name": "/tmp/news_lk2/articles/b5/b5ab8c3d.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654671000,
-    "title": "Bill to amend to Electricity Act to Parliament on Thursday (9); It will not abolish competition process, assures Minister",
-    "url": "https://www.newsfirst.lk/2022/06/08/bill-to-amend-to-electricity-act-to-parliament-on-thursday-9-it-will-not-abolish-competition-process-assures-minister/",
-    "file_name": "/tmp/news_lk2/articles/25/25eb41e2.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654670520,
-    "title": "Champika Ranawaka breaks away from Sri Lanka\u2019s main opposition",
-    "url": "https://economynext.com/champika-ranawaka-breaks-away-from-sri-lankas-main-opposition-95383/",
-    "file_name": "/tmp/news_lk2/articles/35/3561fff9.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654670340,
-    "title": "Sri Lanka former minister accused of instigating violence files petition to prevent arrest",
-    "url": "https://economynext.com/sri-lanka-former-minister-accused-of-instigating-violence-files-petition-to-prevent-arrest-95384/",
-    "file_name": "/tmp/news_lk2/articles/3d/3d882074.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654669740,
-    "title": "CEBEU to launch trade union action midnight today",
-    "url": "http://www.adaderana.lk/news/82928/cebeu-to-launch-trade-union-action-midnight-today",
-    "file_name": "/tmp/news_lk2/articles/30/308110df.json"
   }
 ]
