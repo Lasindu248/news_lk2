@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "economy-next-com",
+    "time_ut": 1654867980,
+    "title": "Sri Lanka\u2019s sate-run Litro Gas chairman Vijitha Herath resigns",
+    "url": "https://economynext.com/sri-lankas-sate-run-litro-gas-chairman-vijitha-herath-resigns-95592/",
+    "file_name": "/tmp/news_lk2/articles/aa/aae02c75.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "time_ut": 1654866900,
     "title": "Sri Lanka business tycoon Dhammika Perera appointed ruling party MP",
     "url": "https://economynext.com/sri-lanka-business-tycoon-dhammika-perera-appointed-ruling-party-mp-95591/",
@@ -691,12 +698,5 @@
     "title": "Sri Lankans must heed the calls to grow at home - EDITORIAL",
     "url": "https://www.dailymirror.lk/opinion/Sri-Lankans-must-heed-the-calls-to-grow-at-home-EDITORIAL/231-238773",
     "file_name": "/tmp/news_lk2/articles/35/356bd9ea.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654808700,
-    "title": "Sri Lankans must heed the calls to grow at home - EDITORIAL",
-    "url": "https://www.dailymirror.lk/opinion/Sri-Lankans-must-heed-the-calls-to-grow-at-home-EDITORIAL/172-238773",
-    "file_name": "/tmp/news_lk2/articles/cb/cbe22c03.json"
   }
 ]
