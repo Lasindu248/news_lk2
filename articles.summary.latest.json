@@ -1,10 +1,87 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654850160,
+    "title": "Tear gas fired at IUSF protesters near Education Ministry",
+    "url": "http://www.adaderana.lk/news/82974/tear-gas-fired-at-iusf-protesters-near-education-ministry",
+    "file_name": "/tmp/news_lk2/articles/99/994cc3fd.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654850160,
+    "title": "Tear gas fired at IUSF protesters near Education Ministry",
+    "url": "http://www.adaderana.lk/news/82975/tear-gas-fired-at-iusf-protesters-near-education-ministry",
+    "file_name": "/tmp/news_lk2/articles/54/5419c133.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654849500,
+    "title": "Dhammika to replace Basil",
+    "url": "https://www.dailymirror.lk/breaking_news/Dhammika-to-replace-Basil/108-238838",
+    "file_name": "/tmp/news_lk2/articles/46/46499632.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654848600,
+    "title": "Vaccination drive at Viharamahadevi Park",
+    "url": "https://www.dailymirror.lk/caption_story/Vaccination-drive-at-Viharamahadevi-Park/110-238837",
+    "file_name": "/tmp/news_lk2/articles/1b/1bfe29ef.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654847760,
+    "title": "Dhammika Perera officially submits consent to accept MP seat",
+    "url": "http://www.adaderana.lk/news/82973/dhammika-perera-officially-submits-consent-to-accept-mp-seat",
+    "file_name": "/tmp/news_lk2/articles/de/de8fc651.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654847760,
+    "title": "Dhammika Perera decides to accept SLPP National List MP seat",
+    "url": "http://www.adaderana.lk/news/82973/dhammika-perera-decides-to-accept-slpp-national-list-mp-seat",
+    "file_name": "/tmp/news_lk2/articles/cf/cf80cb10.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654847460,
+    "title": "Sri Lanka\u2019s utility regulator to serve enforcement order on CEB over TU action",
+    "url": "https://economynext.com/sri-lankas-utility-regulator-to-serve-enforcement-order-on-ceb-over-tu-action-95577/",
+    "file_name": "/tmp/news_lk2/articles/cc/cca75d4c.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654846140,
+    "title": "Japan eases foreign tourism ban, allows guided package tours",
+    "url": "http://www.adaderana.lk/news/82972/japan-eases-foreign-tourism-ban-allows-guided-package-tours",
+    "file_name": "/tmp/news_lk2/articles/d8/d8be75b8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654844760,
+    "title": "Sri Lanka: PM wants Commonwealth Parliament Chief to probe violence against MPs",
+    "url": "https://www.newsfirst.lk/2022/06/10/sri-lanka-pm-wants-commonwealth-parliament-chief-to-probe-violence-against-mps/",
+    "file_name": "/tmp/news_lk2/articles/9e/9ed0741d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654844460,
+    "title": "Utilize prevailing Acts to compensate for lost lives, property during recent commotions: Dinesh",
+    "url": "https://www.dailymirror.lk/latest_news/Utilize-prevailing-Acts-to-compensate-for-lost-lives-property-during-recent-commotions-Dinesh/342-238835",
+    "file_name": "/tmp/news_lk2/articles/20/200b7b0b.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654844460,
     "title": "Utilize prevailing Acts to compensate for lost lives, property during recent commotions: Dinesh",
     "url": "https://www.dailymirror.lk/breaking_news/Utilize-prevailing-Acts-to-compensate-for-lost-lives-property-during-recent-commotions-Dinesh/108-238835",
     "file_name": "/tmp/news_lk2/articles/34/34197259.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654843740,
+    "title": "CPU assistance sought to conduct impartial probe: PM",
+    "url": "https://www.dailymirror.lk/latest_news/CPU-assistance-sought-to-conduct-impartial-probe-PM/342-238834",
+    "file_name": "/tmp/news_lk2/articles/67/67752a25.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -295,6 +372,13 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654816800,
+    "title": "Dry rations for school children in Colombo",
+    "url": "https://www.dailymirror.lk/caption_story/Dry-rations-for-school-children-in-Colombo/110-238830",
+    "file_name": "/tmp/news_lk2/articles/83/83e3f91c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654813800,
     "title": "New housing scheme for MPs in Madiwela",
     "url": "https://www.dailymirror.lk/latest_news/New-housing-scheme-for-MPs-in-Madiwela/342-238775",
@@ -439,6 +523,20 @@
     "title": "China COVID jitters flare up as parts of Shanghai resume lockdown",
     "url": "http://www.adaderana.lk/news/82964/china-covid-jitters-flare-up-as-parts-of-shanghai-resume-lockdown",
     "file_name": "/tmp/news_lk2/articles/4b/4b6774ce.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654788300,
+    "title": "Gifts for children at LRH",
+    "url": "https://www.dailymirror.lk/latest_news/Gifts-for-children-at-LRH/342-238836",
+    "file_name": "/tmp/news_lk2/articles/ee/ee58945c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654788300,
+    "title": "Gifts for children at LRH",
+    "url": "https://www.dailymirror.lk/caption_story/Gifts-for-children-at-LRH/110-238836",
+    "file_name": "/tmp/news_lk2/articles/1d/1d3ec362.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -600,103 +698,5 @@
     "title": "Power shut down illegal when not scheduled: PUCSL",
     "url": "https://www.dailymirror.lk/breaking_news/Power-shut-down-illegal-when-not-scheduled-PUCSL/108-238762",
     "file_name": "/tmp/news_lk2/articles/40/40e54bf1.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654777920,
-    "title": "Johnston Fernando surrenders",
-    "url": "https://www.dailymirror.lk/top_story/Johnston-Fernando-surrenders/155-238761",
-    "file_name": "/tmp/news_lk2/articles/76/76746d16.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654777860,
-    "title": "Plea to US embassy urging to investigate Rajapaksa\u2019s assets",
-    "url": "https://www.dailymirror.lk/breaking_news/Plea-to-US-embassy-urging-to-investigate-Rajapaksas-assets/108-238767",
-    "file_name": "/tmp/news_lk2/articles/71/71c4f506.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654777740,
-    "title": "MP Johnston Fernando leaves",
-    "url": "http://www.adaderana.lk/news/82960/mp-johnston-fernando-leaves-",
-    "file_name": "/tmp/news_lk2/articles/89/8975295c.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654777740,
-    "title": "Johnston surrenders before Fort Magistrate",
-    "url": "http://www.adaderana.lk/news/82960/johnston-surrenders-before-fort-magistrate",
-    "file_name": "/tmp/news_lk2/articles/d0/d07c6a0d.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654777080,
-    "title": "UN calls for US$ 47 Mn for Sri Lanka assistance",
-    "url": "https://www.newsfirst.lk/2022/06/09/un-calls-for-us-47-mn-for-sri-lanka-assistance/",
-    "file_name": "/tmp/news_lk2/articles/7f/7f2759fc.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654777080,
-    "title": "Sri Lanka Electricity Amendment Bill passed in parliament",
-    "url": "http://www.adaderana.lk/news/82959/sri-lanka-electricity-amendment-bill-passed-in-parliament",
-    "file_name": "/tmp/news_lk2/articles/5a/5a6bd6eb.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654776960,
-    "title": "Electricity Amendment Bill passed in Parliament",
-    "url": "https://www.dailymirror.lk/latest_news/Electricity-Amendment-Bill-passed-in-Parliament/342-238759",
-    "file_name": "/tmp/news_lk2/articles/8f/8ffc5cd5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654776960,
-    "title": "Electricity Amendment Bill passed in Parliament",
-    "url": "https://www.dailymirror.lk/breaking_news/Electricity-Amendment-Bill-passed-in-Parliament/108-238759",
-    "file_name": "/tmp/news_lk2/articles/fe/fe68118b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654776900,
-    "title": "PM exaggerates economic crisis: AKD",
-    "url": "https://www.dailymirror.lk/latest_news/PM-exaggerates-economic-crisis-AKD/342-238758",
-    "file_name": "/tmp/news_lk2/articles/4f/4f5ebc08.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654776900,
-    "title": "PM exaggerates economic crisis: AKD",
-    "url": "https://www.dailymirror.lk/breaking_news/PM-exaggerates-economic-crisis-AKD/108-238758",
-    "file_name": "/tmp/news_lk2/articles/1d/1d0337ba.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654774500,
-    "title": "Face mask rule in Sri Lanka lifted",
-    "url": "http://www.adaderana.lk/news/82958/face-mask-rule-in-sri-lanka-lifted",
-    "file_name": "/tmp/news_lk2/articles/1a/1a226f56.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654774020,
-    "title": "Sri Lankans allowed to attend Hajj pilgrimage this year",
-    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lankans-allowed-to-attend-Hajj-pilgrimage-this-year/108-238757",
-    "file_name": "/tmp/news_lk2/articles/31/314f756d.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654773900,
-    "title": "Electricity (Amendment) Bill Second Reading passed",
-    "url": "https://www.newsfirst.lk/2022/06/09/electricity-amendment-bill-second-reading-passed/",
-    "file_name": "/tmp/news_lk2/articles/36/360f2563.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654773780,
-    "title": "Reservoir gates opened during CEBEU strike",
-    "url": "https://www.newsfirst.lk/2022/06/09/reservoir-gates-opened-during-cebeu-strike/",
-    "file_name": "/tmp/news_lk2/articles/bc/bc47b9f3.json"
   }
 ]
