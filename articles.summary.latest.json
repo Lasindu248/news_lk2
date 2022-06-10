@@ -1,6 +1,20 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654821240,
+    "title": "22% of SL population in need of food assistance- UN Resident Coordinator",
+    "url": "https://www.dailymirror.lk/latest_news/22-of-SL-population-in-need-of-food-assistance-UN-Resident-Coordinator/342-238776",
+    "file_name": "/tmp/news_lk2/articles/15/15948cac.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654813800,
+    "title": "New housing scheme for MPs in Madiwela",
+    "url": "https://www.dailymirror.lk/latest_news/New-housing-scheme-for-MPs-in-Madiwela/342-238775",
+    "file_name": "/tmp/news_lk2/articles/33/33fcbfe4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654808760,
     "title": "Food Security: 4.9 mn currently in need of food assistance - UN Official",
     "url": "https://www.dailymirror.lk/opinion/Food-Security-4-9-mn-currently-in-need-of-food-assistance-UN-Official/231-238774",
@@ -10,8 +24,22 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654808700,
     "title": "Sri Lankans must heed the calls to grow at home - EDITORIAL",
+    "url": "https://www.dailymirror.lk/opinion/Sri-Lankans-must-heed-the-calls-to-grow-at-home-EDITORIAL/231-238773",
+    "file_name": "/tmp/news_lk2/articles/35/356bd9ea.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654808700,
+    "title": "Sri Lankans must heed the calls to grow at home - EDITORIAL",
     "url": "https://www.dailymirror.lk/opinion/Sri-Lankans-must-heed-the-calls-to-grow-at-home-EDITORIAL/172-238773",
     "file_name": "/tmp/news_lk2/articles/cb/cbe22c03.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654808280,
+    "title": "Foreign policy-making: Lessons for Lanka from India\u2019s diplomatic crisis with Islamic states",
+    "url": "https://www.dailymirror.lk/opinion/Foreign-policy-making-Lessons-for-Lanka-from-Indias-diplomatic-crisis-with-Islamic-states/231-238772",
+    "file_name": "/tmp/news_lk2/articles/f9/f970e33f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -670,33 +698,5 @@
     "title": "Basil resigns",
     "url": "https://www.dailymirror.lk/top_story/Basil-resigns/155-238747",
     "file_name": "/tmp/news_lk2/articles/a5/a591927f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654755420,
-    "title": "Basil resigns",
-    "url": "https://www.dailymirror.lk/breaking_news/Basil-resigns/108-238747",
-    "file_name": "/tmp/news_lk2/articles/a2/a259d2a8.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654754580,
-    "title": "Basil Rajapaksa quits Parliament; Moves out of SLPP National List",
-    "url": "https://www.newsfirst.lk/2022/06/09/basil-rajapaksa-quits-parliament-moves-out-of-slpp-national-list/",
-    "file_name": "/tmp/news_lk2/articles/f3/f3e36ff6.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654754520,
-    "title": "Former Minister Basil delivers special statement",
-    "url": "http://www.adaderana.lk/news/82951/former-minister-basil-delivers-special-statement",
-    "file_name": "/tmp/news_lk2/articles/d2/d27934b4.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654754520,
-    "title": "Basil vacates MP seat, tenders resignation",
-    "url": "http://www.adaderana.lk/news/82951/basil-vacates-mp-seat-tenders-resignation",
-    "file_name": "/tmp/news_lk2/articles/b7/b7f95ce9.json"
   }
 ]
