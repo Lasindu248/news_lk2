@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654891620,
+    "title": "Re-visiting the \u201cSniper\u201d killing of Robert 19 years ago",
+    "url": "https://www.dailymirror.lk/recomended-news/Re-visiting-the-Sniper-killing-of-Robert-19-years-ago/277-238914",
+    "file_name": "/tmp/news_lk2/articles/41/414c1e5e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654891200,
     "title": "Their name is \u2018tomorrow\u2019",
     "url": "https://www.dailymirror.lk/opinion/Their-name-is-tomorrow/172-238913",
@@ -691,12 +698,5 @@
     "title": "Sri Lanka opens floodgates for corruption in power sector: Harsha",
     "url": "https://economynext.com/sri-lanka-opens-floodgates-for-corruption-in-power-sector-harsha-95565/",
     "file_name": "/tmp/news_lk2/articles/0b/0bf16b59.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654835100,
-    "title": "No domestic LP gas distribution today as well",
-    "url": "http://www.adaderana.lk/news/82969/no-domestic-lp-gas-distribution-today-as-well",
-    "file_name": "/tmp/news_lk2/articles/86/86f724e6.json"
   }
 ]
