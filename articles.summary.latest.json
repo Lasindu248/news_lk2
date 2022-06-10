@@ -1,10 +1,38 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654881780,
+    "title": "Sri Lanka shares rise for third day over business mogul\u2019s MP appointment",
+    "url": "https://economynext.com/sri-lanka-shares-rise-for-third-day-over-business-moguls-mp-appointment-95594/",
+    "file_name": "/tmp/news_lk2/articles/98/987178f2.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654881540,
+    "title": "Need to look for new avenues to attract tourists - President",
+    "url": "http://www.adaderana.lk/news/82985/need-to-look-for-new-avenues-to-attract-tourists-president",
+    "file_name": "/tmp/news_lk2/articles/62/62fb178e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654880940,
+    "title": "Exim bank extends $55 mln credit line to Sri Lanka",
+    "url": "https://www.dailymirror.lk/breaking_news/Exim-bank-extends-55-mln-credit-line-to-Sri-Lanka/108-238866",
+    "file_name": "/tmp/news_lk2/articles/a2/a2d1fb37.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654879980,
     "title": "IMF delegation to visit Sri Lanka on June 20 for talks",
     "url": "http://www.adaderana.lk/news/82984/imf-delegation-to-visit-sri-lanka-on-june-20-for-talks",
     "file_name": "/tmp/news_lk2/articles/85/859034b9.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654877700,
+    "title": "Gazette nominating Dhammika Perera as national list MP issued",
+    "url": "https://www.dailymirror.lk/breaking_news/Gazette-nominating-Dhammika-Perera-as-national-list-MP-issued/108-238859",
+    "file_name": "/tmp/news_lk2/articles/52/52c88f89.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -26,6 +54,13 @@
     "title": "\u201cAragalaya\u2019\u2019 is no longer peaceful: MR",
     "url": "https://www.dailymirror.lk/latest_news/Aragalaya-is-no-longer-peaceful-MR/342-238858",
     "file_name": "/tmp/news_lk2/articles/01/014a2874.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654876260,
+    "title": "\u201cAragalaya\u2019\u2019 is no longer peaceful: MR",
+    "url": "https://www.dailymirror.lk/top_story/Aragalaya-is-no-longer-peaceful-MR/155-238858",
+    "file_name": "/tmp/news_lk2/articles/41/41def61c.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -663,40 +698,5 @@
     "title": "Sri Lanka IMF staff level deal date not certain, team visit shortly: official",
     "url": "https://economynext.com/sri-lanka-imf-staff-level-deal-date-not-certain-team-visit-shortly-official-95543/",
     "file_name": "/tmp/news_lk2/articles/c7/c7783256.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654824780,
-    "title": "Showers or thundershowers possible in several districts today",
-    "url": "http://www.adaderana.lk/news/82967/showers-or-thundershowers-possible-in-several-districts-today",
-    "file_name": "/tmp/news_lk2/articles/07/07baa3f4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654823400,
-    "title": "25 injured after bridge collapses during re-opening in Mexico",
-    "url": "https://www.dailymirror.lk/breaking_news/25-injured-after-bridge-collapses-during-re-opening-in-Mexico/108-238778",
-    "file_name": "/tmp/news_lk2/articles/bd/bd3b7716.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654823400,
-    "title": "25 injured after bridge collapses during re-opening in Mexico",
-    "url": "https://www.dailymirror.lk/latest_news/25-injured-after-bridge-collapses-during-re-opening-in-Mexico/342-238778",
-    "file_name": "/tmp/news_lk2/articles/5e/5efaa437.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654822920,
-    "title": "Mysterious radio signals from deep space detected",
-    "url": "https://www.dailymirror.lk/latest_news/Mysterious-radio-signals-from-deep-space-detected/342-238777",
-    "file_name": "/tmp/news_lk2/articles/55/55460029.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654822920,
-    "title": "Mysterious radio signals from deep space detected",
-    "url": "https://www.dailymirror.lk/breaking_news/Mysterious-radio-signals-from-deep-space-detected/108-238777",
-    "file_name": "/tmp/news_lk2/articles/d4/d4a010b0.json"
   }
 ]
