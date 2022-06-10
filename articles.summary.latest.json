@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654860180,
+    "title": "Find out new avenues to attract tourists: President tells officials",
+    "url": "https://www.dailymirror.lk/breaking_news/Find-out-new-avenues-to-attract-tourists-President-tells-officials/108-238845",
+    "file_name": "/tmp/news_lk2/articles/bb/bb8fa07e.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654858620,
+    "title": "Sri Lanka signs MoU with India\u2019s EXIM bank for USD 55mn credit line for urea imports",
+    "url": "https://economynext.com/sri-lanka-signs-mou-with-indias-exim-bank-for-usd-55mn-credit-line-for-urea-imports-95586/",
+    "file_name": "/tmp/news_lk2/articles/7f/7f28af84.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654858560,
     "title": "Sri Lanka inks US $ 55 Mn loan with Indian Exim Bank for Urea procurement",
@@ -684,19 +698,5 @@
     "title": "Cannot go for an election until economic crisis is addressed: ECSL Chairman",
     "url": "https://www.newsfirst.lk/2022/06/09/cannot-go-for-an-election-until-economic-crisis-is-addressed-ecsl-chairman/",
     "file_name": "/tmp/news_lk2/articles/eb/ebfcf8f7.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654785780,
-    "title": "Police fire tear gas on protesters",
-    "url": "https://www.dailymirror.lk/latest_news/Police-fire-tear-gas-on-protesters/342-238768",
-    "file_name": "/tmp/news_lk2/articles/8e/8ee54d6d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654785780,
-    "title": "Police fire tear gas on protesters",
-    "url": "https://www.dailymirror.lk/caption_story/Police-fire-tear-gas-on-protesters/110-238768",
-    "file_name": "/tmp/news_lk2/articles/c7/c788c048.json"
   }
 ]
