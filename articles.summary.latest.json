@@ -1,10 +1,24 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654866900,
+    "title": "Sri Lanka business tycoon Dhammika Perera appointed ruling party MP",
+    "url": "https://economynext.com/sri-lanka-business-tycoon-dhammika-perera-appointed-ruling-party-mp-95591/",
+    "file_name": "/tmp/news_lk2/articles/9e/9ed543c7.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654866840,
     "title": "Dhammika Perera\u2019s name gazetted as SLPP MP",
     "url": "http://www.adaderana.lk/news/82982/dhammika-pereras-name-gazetted-as-slpp-mp",
     "file_name": "/tmp/news_lk2/articles/75/75ecd008.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654866360,
+    "title": "Election Commission declares Dhammika Perera as a Member of Parliament",
+    "url": "https://www.newsfirst.lk/2022/06/10/election-commission-declares-dhammika-perera-as-a-member-of-parliament/",
+    "file_name": "/tmp/news_lk2/articles/52/52a4b17d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -684,19 +698,5 @@
     "title": "Sri Lankans must heed the calls to grow at home - EDITORIAL",
     "url": "https://www.dailymirror.lk/opinion/Sri-Lankans-must-heed-the-calls-to-grow-at-home-EDITORIAL/172-238773",
     "file_name": "/tmp/news_lk2/articles/cb/cbe22c03.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654808280,
-    "title": "Foreign policy-making: Lessons for Lanka from India\u2019s diplomatic crisis with Islamic states",
-    "url": "https://www.dailymirror.lk/recomended-news/Foreign-policy-making-Lessons-for-Lanka-from-Indias-diplomatic-crisis-with-Islamic-states/277-238772",
-    "file_name": "/tmp/news_lk2/articles/87/872ce3eb.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654808280,
-    "title": "Foreign policy-making: Lessons for Lanka from India\u2019s diplomatic crisis with Islamic states",
-    "url": "https://www.dailymirror.lk/plus/Foreign-policy-making-Lessons-for-Lanka-from-Indias-diplomatic-crisis-with-Islamic-states/352-238772",
-    "file_name": "/tmp/news_lk2/articles/ea/eaf8e19b.json"
   }
 ]
