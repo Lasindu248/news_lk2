@@ -1,6 +1,20 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654837380,
+    "title": "IMF plans in-person Sri Lanka mission in coming weeks for policy talks",
+    "url": "http://www.adaderana.lk/news/82970/imf-plans-in-person-sri-lanka-mission-in-coming-weeks-for-policy-talks",
+    "file_name": "/tmp/news_lk2/articles/7e/7e803499.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654836480,
+    "title": "Sri Lanka opens floodgates for corruption in power sector: Harsha",
+    "url": "https://economynext.com/sri-lanka-opens-floodgates-for-corruption-in-power-sector-harsha-95565/",
+    "file_name": "/tmp/news_lk2/articles/0b/0bf16b59.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654835100,
     "title": "No domestic LP gas distribution today as well",
     "url": "http://www.adaderana.lk/news/82969/no-domestic-lp-gas-distribution-today-as-well",
@@ -10,8 +24,22 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654834320,
     "title": "CB removes all caps related to foreign currency deposits, swaps",
+    "url": "https://www.dailymirror.lk/latest_news/CB-removes-all-caps-related-to-foreign-currency-deposits-swaps/342-238821",
+    "file_name": "/tmp/news_lk2/articles/57/579cbfeb.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654834320,
+    "title": "CB removes all caps related to foreign currency deposits, swaps",
     "url": "https://www.dailymirror.lk/breaking_news/CB-removes-all-caps-related-to-foreign-currency-deposits-swaps/108-238821",
     "file_name": "/tmp/news_lk2/articles/63/633cfe8e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654833180,
+    "title": "Sri Lanka seeks Singapore support to increase FDI",
+    "url": "https://www.newsfirst.lk/2022/06/10/sri-lanka-seeks-singapore-support-to-increase-fdi/",
+    "file_name": "/tmp/news_lk2/articles/00/0017c878.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -40,6 +68,13 @@
     "title": "UN launch appeal for 1.7 million in Sri Lanka hardest hit by soft-peg collapse",
     "url": "https://economynext.com/un-launch-appeal-for-1-7-million-in-sri-lanka-hardest-hit-by-soft-peg-collapse-95553/",
     "file_name": "/tmp/news_lk2/articles/95/95b96b0f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654829880,
+    "title": "Loan rejections to rise sharply with banks turning extra cautious",
+    "url": "https://www.dailymirror.lk/latest_news/Loan-rejections-to-rise-sharply-with-banks-turning-extra-cautious/342-238807",
+    "file_name": "/tmp/news_lk2/articles/2a/2a3b5828.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -663,40 +698,5 @@
     "title": "Release imported items without delay: President",
     "url": "https://www.newsfirst.lk/2022/06/09/release-imported-items-without-delay-president/",
     "file_name": "/tmp/news_lk2/articles/1d/1dd42750.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654766940,
-    "title": "Passports in high demand; Immigration Dept extends services",
-    "url": "https://www.newsfirst.lk/2022/06/09/passports-in-high-demand-immigration-dept-extends-services/",
-    "file_name": "/tmp/news_lk2/articles/05/05897d17.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654766700,
-    "title": "Court orders Johnston to surrender before 8pm today",
-    "url": "http://www.adaderana.lk/news/82954/court-orders-johnston-to-surrender-before-8pm-today",
-    "file_name": "/tmp/news_lk2/articles/f5/f50fa703.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654764900,
-    "title": "Sri Lankans permitted to fly for Hajj; Must transfer US $ 1,500/- from overseas to SL Dollar Account",
-    "url": "https://www.newsfirst.lk/2022/06/09/sri-lankans-permitted-to-fly-for-hajj-must-transfer-us-1500-from-overseas-to-sl-dollar-account/",
-    "file_name": "/tmp/news_lk2/articles/9d/9dbf59ee.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654762980,
-    "title": "Sri Lanka power minister accuses CEB trade unions of sabotage",
-    "url": "https://economynext.com/sri-lanka-power-minister-accuses-ceb-trade-unions-of-sabotage-95507/",
-    "file_name": "/tmp/news_lk2/articles/b5/b502c35b.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654762620,
-    "title": "Family of Sri Lankan who died in detention demands apology from Japanese govt",
-    "url": "http://www.adaderana.lk/news/82953/family-of-sri-lankan-who-died-in-detention-demands-apology-from-japanese-govt",
-    "file_name": "/tmp/news_lk2/articles/b8/b871f8eb.json"
   }
 ]
