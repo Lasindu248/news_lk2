@@ -1,10 +1,31 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654835100,
+    "title": "No domestic LP gas distribution today as well",
+    "url": "http://www.adaderana.lk/news/82969/no-domestic-lp-gas-distribution-today-as-well",
+    "file_name": "/tmp/news_lk2/articles/86/86f724e6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654834320,
+    "title": "CB removes all caps related to foreign currency deposits, swaps",
+    "url": "https://www.dailymirror.lk/breaking_news/CB-removes-all-caps-related-to-foreign-currency-deposits-swaps/108-238821",
+    "file_name": "/tmp/news_lk2/articles/63/633cfe8e.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654833000,
     "title": "Sri Lanka creates ministry of technology and investment promotion",
     "url": "https://economynext.com/sri-lanka-creates-ministry-of-technology-and-investment-promotion-95561/",
     "file_name": "/tmp/news_lk2/articles/02/028ba518.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654832520,
+    "title": "Sri Lanka schedules power cuts of over two hours for June 10",
+    "url": "https://economynext.com/sri-lanka-schedules-power-cuts-of-over-two-hours-for-june-10-95550/",
+    "file_name": "/tmp/news_lk2/articles/15/15a8438e.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -22,10 +43,24 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654829880,
+    "title": "Loan rejections to rise sharply with banks turning extra cautious",
+    "url": "https://www.dailymirror.lk/breaking_news/Loan-rejections-to-rise-sharply-with-banks-turning-extra-cautious/108-238807",
+    "file_name": "/tmp/news_lk2/articles/a7/a7ee9675.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654828680,
     "title": "Two new Ministerial portfolios gazetted",
     "url": "https://www.dailymirror.lk/latest_news/Two-new-Ministerial-portfolios-gazetted/342-238779",
     "file_name": "/tmp/news_lk2/articles/f3/f3833838.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654828680,
+    "title": "Two new Ministerial portfolios gazetted",
+    "url": "https://www.dailymirror.lk/breaking_news/Two-new-Ministerial-portfolios-gazetted/108-238779",
+    "file_name": "/tmp/news_lk2/articles/13/139b0898.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -59,6 +94,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654823400,
     "title": "25 injured after bridge collapses during re-opening in Mexico",
+    "url": "https://www.dailymirror.lk/breaking_news/25-injured-after-bridge-collapses-during-re-opening-in-Mexico/108-238778",
+    "file_name": "/tmp/news_lk2/articles/bd/bd3b7716.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654823400,
+    "title": "25 injured after bridge collapses during re-opening in Mexico",
     "url": "https://www.dailymirror.lk/latest_news/25-injured-after-bridge-collapses-during-re-opening-in-Mexico/342-238778",
     "file_name": "/tmp/news_lk2/articles/5e/5efaa437.json"
   },
@@ -68,6 +110,20 @@
     "title": "Mysterious radio signals from deep space detected",
     "url": "https://www.dailymirror.lk/latest_news/Mysterious-radio-signals-from-deep-space-detected/342-238777",
     "file_name": "/tmp/news_lk2/articles/55/55460029.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654822920,
+    "title": "Mysterious radio signals from deep space detected",
+    "url": "https://www.dailymirror.lk/breaking_news/Mysterious-radio-signals-from-deep-space-detected/108-238777",
+    "file_name": "/tmp/news_lk2/articles/d4/d4a010b0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654821240,
+    "title": "22% of SL population in need of food assistance- UN Resident Coordinator",
+    "url": "https://www.dailymirror.lk/breaking_news/22-of-SL-population-in-need-of-food-assistance-UN-Resident-Coordinator/108-238776",
+    "file_name": "/tmp/news_lk2/articles/17/17a19348.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -642,61 +698,5 @@
     "title": "Family of Sri Lankan who died in detention demands apology from Japanese govt",
     "url": "http://www.adaderana.lk/news/82953/family-of-sri-lankan-who-died-in-detention-demands-apology-from-japanese-govt",
     "file_name": "/tmp/news_lk2/articles/b8/b871f8eb.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654762380,
-    "title": "President meets diplomats from Middle-East, China, and India",
-    "url": "https://www.newsfirst.lk/2022/06/09/president-meets-diplomats-from-middle-east-china-and-india/",
-    "file_name": "/tmp/news_lk2/articles/a7/a7cceec4.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654761360,
-    "title": "IFRC launches Emergency appeal for 28 Mn Swiss Francs for Sri Lanka",
-    "url": "https://www.newsfirst.lk/2022/06/09/ifrc-launches-emergency-appeal-for-28-mn-swiss-francs-for-sri-lanka/",
-    "file_name": "/tmp/news_lk2/articles/88/88551bd3.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654760700,
-    "title": "Court issues order on CEB Engineers Union",
-    "url": "https://www.newsfirst.lk/2022/06/09/court-issues-order-on-ceb-engineers-union/",
-    "file_name": "/tmp/news_lk2/articles/c9/c9d28d97.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654759560,
-    "title": "Act of sabotage: Minister requests security for reservoirs",
-    "url": "https://www.dailymirror.lk/latest_news/Act-of-sabotage-Minister-requests-security-for-reservoirs/342-238751",
-    "file_name": "/tmp/news_lk2/articles/2f/2f272761.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654759560,
-    "title": "Act of sabotage: Minister requests security for reservoirs",
-    "url": "https://www.dailymirror.lk/breaking_news/Act-of-sabotage-Minister-requests-security-for-reservoirs/108-238751",
-    "file_name": "/tmp/news_lk2/articles/c1/c1c596b6.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654759320,
-    "title": "Court issues enjoining order against CEBEU",
-    "url": "http://www.adaderana.lk/news/82952/court-issues-enjoining-order-against-cebeu-",
-    "file_name": "/tmp/news_lk2/articles/bb/bb7f94cb.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654758960,
-    "title": "Court issues Enjoining Order preventing CEB Engineers\u2019 Trade Union action",
-    "url": "https://www.dailymirror.lk/breaking_news/Court-issues-Enjoining-Order-preventing-CEB-Engineers-Trade-Union-action/108-238750",
-    "file_name": "/tmp/news_lk2/articles/7d/7db68beb.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654758960,
-    "title": "Court issues Enjoining Order preventing CEB Engineers\u2019 Trade Union action",
-    "url": "https://www.dailymirror.lk/latest_news/Court-issues-Enjoining-Order-preventing-CEB-Engineers-Trade-Union-action/342-238750",
-    "file_name": "/tmp/news_lk2/articles/b6/b606413f.json"
   }
 ]
