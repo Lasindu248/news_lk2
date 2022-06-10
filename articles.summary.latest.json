@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654870440,
+    "title": "\u201cI will speak of the Batalanda Report\u201d \u2013 Shanakiyan hits back at PM",
+    "url": "https://www.newsfirst.lk/2022/06/10/i-will-speak-of-the-batalanda-report-shanakiyan-hits-back-at-pm/",
+    "file_name": "/tmp/news_lk2/articles/7c/7cd92ede.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654870200,
     "title": "Schools closed on June 13",
@@ -691,12 +698,5 @@
     "title": "Dry rations for school children in Colombo",
     "url": "https://www.dailymirror.lk/caption_story/Dry-rations-for-school-children-in-Colombo/110-238830",
     "file_name": "/tmp/news_lk2/articles/83/83e3f91c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654813800,
-    "title": "New housing scheme for MPs in Madiwela",
-    "url": "https://www.dailymirror.lk/latest_news/New-housing-scheme-for-MPs-in-Madiwela/342-238775",
-    "file_name": "/tmp/news_lk2/articles/33/33fcbfe4.json"
   }
 ]
