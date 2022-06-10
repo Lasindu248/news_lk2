@@ -178,13 +178,6 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654808760,
     "title": "Food Security: 4.9 mn currently in need of food assistance - UN Official",
-    "url": "https://www.dailymirror.lk/hard-talk/Food-Security-4-9-mn-currently-in-need-of-food-assistance-UN-Official/334-238774",
-    "file_name": "/tmp/news_lk2/articles/61/618067aa.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654808760,
-    "title": "Food Security: 4.9 mn currently in need of food assistance - UN Official",
     "url": "https://www.dailymirror.lk/opinion/Food-Security-4-9-mn-currently-in-need-of-food-assistance-UN-Official/231-238774",
     "file_name": "/tmp/news_lk2/articles/37/3798c7cb.json"
   },
@@ -208,13 +201,6 @@
     "title": "Sri Lankans must heed the calls to grow at home - EDITORIAL",
     "url": "https://www.dailymirror.lk/opinion/Sri-Lankans-must-heed-the-calls-to-grow-at-home-EDITORIAL/172-238773",
     "file_name": "/tmp/news_lk2/articles/cb/cbe22c03.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654808280,
-    "title": "Foreign policy-making: Lessons for Lanka from India\u2019s diplomatic crisis with Islamic states",
-    "url": "https://www.dailymirror.lk/plus/Foreign-policy-making-Lessons-for-Lanka-from-Indias-diplomatic-crisis-with-Islamic-states/352-238772",
-    "file_name": "/tmp/news_lk2/articles/ea/eaf8e19b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -355,13 +341,6 @@
     "title": "Sri Lanka parliament nods to remove tender process in power projects amid protests",
     "url": "https://economynext.com/sri-lanka-parliament-nods-to-remove-tender-process-in-power-projects-amid-protests-95536/",
     "file_name": "/tmp/news_lk2/articles/b5/b548c8e5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654782300,
-    "title": "Update: Johnston Fernando granted bail",
-    "url": "https://www.dailymirror.lk/breaking_news/Update-Johnston-Fernando-granted-bail/108-238761",
-    "file_name": "/tmp/news_lk2/articles/d9/d9620822.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -698,5 +677,26 @@
     "title": "Sri Lanka Agriculture Minister allays fears over rice shortage",
     "url": "https://economynext.com/sri-lanka-agriculture-minister-allays-fears-over-rice-shortage-95512/",
     "file_name": "/tmp/news_lk2/articles/8e/8e29ff84.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654767420,
+    "title": "PUCSL poised to take final decision on issuing licences",
+    "url": "https://www.dailymirror.lk/latest_news/PUCSL-poised-to-take-final-decision-on-issuing-licences/342-238763",
+    "file_name": "/tmp/news_lk2/articles/44/44dd622e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654767420,
+    "title": "PUCSL poised to take final decision on issuing licences",
+    "url": "https://www.dailymirror.lk/breaking_news/PUCSL-poised-to-take-final-decision-on-issuing-licences/108-238763",
+    "file_name": "/tmp/news_lk2/articles/11/11168546.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654767360,
+    "title": "Release imported items without delay: President",
+    "url": "https://www.newsfirst.lk/2022/06/09/release-imported-items-without-delay-president/",
+    "file_name": "/tmp/news_lk2/articles/1d/1dd42750.json"
   }
 ]
