@@ -1,6 +1,20 @@
 [
   {
     "newspaper_id": "economy-next-com",
+    "time_ut": 1654833000,
+    "title": "Sri Lanka creates ministry of technology and investment promotion",
+    "url": "https://economynext.com/sri-lanka-creates-ministry-of-technology-and-investment-promotion-95561/",
+    "file_name": "/tmp/news_lk2/articles/02/028ba518.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654832040,
+    "title": "Sri Lanka: Two Ministries for Technology, Investment, Women, Child Affairs",
+    "url": "https://www.newsfirst.lk/2022/06/10/sri-lanka-two-ministries-for-technology-investment-women-child-affairs/",
+    "file_name": "/tmp/news_lk2/articles/e7/e71f7d0c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "time_ut": 1654830000,
     "title": "UN launch appeal for 1.7 million in Sri Lanka hardest hit by soft-peg collapse",
     "url": "https://economynext.com/un-launch-appeal-for-1-7-million-in-sri-lanka-hardest-hit-by-soft-peg-collapse-95553/",
@@ -684,19 +698,5 @@
     "title": "Court issues Enjoining Order preventing CEB Engineers\u2019 Trade Union action",
     "url": "https://www.dailymirror.lk/latest_news/Court-issues-Enjoining-Order-preventing-CEB-Engineers-Trade-Union-action/342-238750",
     "file_name": "/tmp/news_lk2/articles/b6/b606413f.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654758780,
-    "title": "Sri Lanka\u2019s CEB incurs Rs. 65 billion loss in first quarter",
-    "url": "https://economynext.com/sri-lankas-ceb-incurs-rs-65-billion-loss-in-first-quarter-95498/",
-    "file_name": "/tmp/news_lk2/articles/b7/b7a2776f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654757460,
-    "title": "UN calls for over US$47 million for life-saving assistance",
-    "url": "https://www.dailymirror.lk/mirror_business/UN-calls-for-over-US-47-million-for-life-saving-assistance/241-238749",
-    "file_name": "/tmp/news_lk2/articles/09/09a73178.json"
   }
 ]
