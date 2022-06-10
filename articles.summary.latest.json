@@ -1,19 +1,5 @@
 [
   {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654840200,
-    "title": "Growing risk of malnutrition among Sri Lankan kids and adults",
-    "url": "https://www.newsfirst.lk/2022/06/10/growing-risk-of-malnutrition-among-sri-lankan-kids-and-adults/",
-    "file_name": "/tmp/news_lk2/articles/89/89f16955.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654837740,
-    "title": "Deshabandu Thennakoon : Public Services Commission calls for transfer recommendation",
-    "url": "https://www.newsfirst.lk/2022/06/10/deshabandu-thennakoon-public-services-commission-calls-for-transfer-recommendation/",
-    "file_name": "/tmp/news_lk2/articles/57/57f8c08e.json"
-  },
-  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654837380,
     "title": "IMF plans in-person Sri Lanka mission in coming weeks for policy talks",
@@ -96,13 +82,6 @@
     "title": "Loan rejections to rise sharply with banks turning extra cautious",
     "url": "https://www.dailymirror.lk/breaking_news/Loan-rejections-to-rise-sharply-with-banks-turning-extra-cautious/108-238807",
     "file_name": "/tmp/news_lk2/articles/a7/a7ee9675.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654828680,
-    "title": "Two new Ministerial portfolios gazetted",
-    "url": "https://www.dailymirror.lk/top_story/Two-new-Ministerial-portfolios-gazetted/155-238779",
-    "file_name": "/tmp/news_lk2/articles/41/4134e3b2.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -199,20 +178,6 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654808760,
     "title": "Food Security: 4.9 mn currently in need of food assistance - UN Official",
-    "url": "https://www.dailymirror.lk/hard-talk/Food-Security-4-9-mn-currently-in-need-of-food-assistance-UN-Official/334-238774",
-    "file_name": "/tmp/news_lk2/articles/61/618067aa.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654808760,
-    "title": "Food Security: 4.9 mn currently in need of food assistance - UN Official",
-    "url": "https://www.dailymirror.lk/recomended-news/Food-Security-4-9-mn-currently-in-need-of-food-assistance-UN-Official/277-238774",
-    "file_name": "/tmp/news_lk2/articles/0b/0b15ffa3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654808760,
-    "title": "Food Security: 4.9 mn currently in need of food assistance - UN Official",
     "url": "https://www.dailymirror.lk/opinion/Food-Security-4-9-mn-currently-in-need-of-food-assistance-UN-Official/231-238774",
     "file_name": "/tmp/news_lk2/articles/37/3798c7cb.json"
   },
@@ -236,20 +201,6 @@
     "title": "Sri Lankans must heed the calls to grow at home - EDITORIAL",
     "url": "https://www.dailymirror.lk/opinion/Sri-Lankans-must-heed-the-calls-to-grow-at-home-EDITORIAL/172-238773",
     "file_name": "/tmp/news_lk2/articles/cb/cbe22c03.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654808280,
-    "title": "Foreign policy-making: Lessons for Lanka from India\u2019s diplomatic crisis with Islamic states",
-    "url": "https://www.dailymirror.lk/recomended-news/Foreign-policy-making-Lessons-for-Lanka-from-Indias-diplomatic-crisis-with-Islamic-states/277-238772",
-    "file_name": "/tmp/news_lk2/articles/87/872ce3eb.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654808280,
-    "title": "Foreign policy-making: Lessons for Lanka from India\u2019s diplomatic crisis with Islamic states",
-    "url": "https://www.dailymirror.lk/plus/Foreign-policy-making-Lessons-for-Lanka-from-Indias-diplomatic-crisis-with-Islamic-states/352-238772",
-    "file_name": "/tmp/news_lk2/articles/ea/eaf8e19b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -390,13 +341,6 @@
     "title": "Sri Lanka parliament nods to remove tender process in power projects amid protests",
     "url": "https://economynext.com/sri-lanka-parliament-nods-to-remove-tender-process-in-power-projects-amid-protests-95536/",
     "file_name": "/tmp/news_lk2/articles/b5/b548c8e5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654782300,
-    "title": "Update: Johnston Fernando granted bail",
-    "url": "https://www.dailymirror.lk/breaking_news/Update-Johnston-Fernando-granted-bail/108-238761",
-    "file_name": "/tmp/news_lk2/articles/d9/d9620822.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -698,5 +642,61 @@
     "title": "Johnston given deadline to surrender",
     "url": "https://www.newsfirst.lk/2022/06/09/johnston-given-deadline-to-surrender/",
     "file_name": "/tmp/news_lk2/articles/a6/a63bbb59.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654770360,
+    "title": "Basil talks balls",
+    "url": "https://www.newsfirst.lk/2022/06/09/basil-talks-balls/",
+    "file_name": "/tmp/news_lk2/articles/b5/b5bbca25.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654770120,
+    "title": "UN calls for over US$47 million for life-saving assistance to 1.7 million people in Sri Lanka",
+    "url": "http://www.adaderana.lk/news/82955/un-calls-for-over-us47-million-for-life-saving-assistance-to-17-million-people-in-sri-lanka",
+    "file_name": "/tmp/news_lk2/articles/68/68d21eef.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654768680,
+    "title": "Wind Power project already awarded to Adani Group: Minister",
+    "url": "https://www.dailymirror.lk/latest_news/Wind-Power-project-already-awarded-to-Adani-Group-Minister/342-238753",
+    "file_name": "/tmp/news_lk2/articles/f2/f2eb3605.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654768680,
+    "title": "Wind Power project already awarded to Adani Group: Minister",
+    "url": "https://www.dailymirror.lk/breaking_news/Wind-Power-project-already-awarded-to-Adani-Group-Minister/108-238753",
+    "file_name": "/tmp/news_lk2/articles/e7/e76d3b3d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654768620,
+    "title": "Sri Lanka Agriculture Minister allays fears over rice shortage",
+    "url": "https://economynext.com/sri-lanka-agriculture-minister-allays-fears-over-rice-shortage-95512/",
+    "file_name": "/tmp/news_lk2/articles/8e/8e29ff84.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654767420,
+    "title": "PUCSL poised to take final decision on issuing licences",
+    "url": "https://www.dailymirror.lk/latest_news/PUCSL-poised-to-take-final-decision-on-issuing-licences/342-238763",
+    "file_name": "/tmp/news_lk2/articles/44/44dd622e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654767420,
+    "title": "PUCSL poised to take final decision on issuing licences",
+    "url": "https://www.dailymirror.lk/breaking_news/PUCSL-poised-to-take-final-decision-on-issuing-licences/108-238763",
+    "file_name": "/tmp/news_lk2/articles/11/11168546.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654767360,
+    "title": "Release imported items without delay: President",
+    "url": "https://www.newsfirst.lk/2022/06/09/release-imported-items-without-delay-president/",
+    "file_name": "/tmp/news_lk2/articles/1d/1dd42750.json"
   }
 ]
