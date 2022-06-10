@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654856460,
+    "title": "Govt. is fully responsible for collapse of rule of law: Ex-Minister",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-is-fully-responsible-for-collapse-of-rule-of-law-Ex-Minister/108-238844",
+    "file_name": "/tmp/news_lk2/articles/fc/fcb6416a.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654856460,
+    "title": "PM writes to Commonwealth Parliamentary Association on attacks on MPs",
+    "url": "http://www.adaderana.lk/news/82976/pm-writes-to-commonwealth-parliamentary-association-on-attacks-on-mps",
+    "file_name": "/tmp/news_lk2/articles/a7/a78bdc04.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654852560,
     "title": "Sri Lanka PM wants TNA MP\u2019s speech probed; \u2018aragalaya\u2019 has blood on its hands, says ex-PM",
@@ -26,6 +40,13 @@
     "title": "Sri Lanka business magnate Dhammika Perera leaves director boards; speculation rife",
     "url": "https://economynext.com/sri-lanka-business-magnate-dhammika-perera-leaves-director-boards-speculation-rife-95578/",
     "file_name": "/tmp/news_lk2/articles/20/20cfe567.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654850400,
+    "title": "PM\u2019s speech referring BASL inaccurate: BASL",
+    "url": "https://www.dailymirror.lk/breaking_news/PMs-speech-referring-BASL-inaccurate-BASL/108-238839",
+    "file_name": "/tmp/news_lk2/articles/29/29069a35.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -677,26 +698,5 @@
     "title": "New Army Commander meets Air Force Commander",
     "url": "https://www.newsfirst.lk/2022/06/09/new-army-commander-meets-air-force-commander/",
     "file_name": "/tmp/news_lk2/articles/ae/ae58af95.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654781400,
-    "title": "Johnston Fernando granted bail",
-    "url": "http://www.adaderana.lk/news/82963/johnston-fernando-granted-bail-",
-    "file_name": "/tmp/news_lk2/articles/18/18cfe069.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654781040,
-    "title": "Ex-finance secretary on what led to Sri Lanka\u2019s economic collapse",
-    "url": "http://www.adaderana.lk/news/82962/ex-finance-secretary-on-what-led-to-sri-lankas-economic-collapse",
-    "file_name": "/tmp/news_lk2/articles/58/58efbaa8.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654780980,
-    "title": "To go or not to go: Basil speaks on IMF",
-    "url": "https://www.newsfirst.lk/2022/06/09/to-go-or-not-to-go-basil-speaks-on-imf/",
-    "file_name": "/tmp/news_lk2/articles/b9/b93c1272.json"
   }
 ]
