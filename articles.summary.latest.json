@@ -1,10 +1,38 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654870200,
+    "title": "Schools closed on June 13",
+    "url": "http://www.adaderana.lk/news/82983/schools-closed-on-june-13",
+    "file_name": "/tmp/news_lk2/articles/e3/e31e4cea.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654870020,
+    "title": "Customs hand over 24,000 kg of apples to Dehiwala zoo",
+    "url": "https://www.dailymirror.lk/breaking_news/Customs-hand-over-24-000-kg-of-apples-to-Dehiwala-zoo/108-238855",
+    "file_name": "/tmp/news_lk2/articles/6e/6e984410.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654868160,
+    "title": "13th June \u2013 A holiday for Government & Govt-approved private schools",
+    "url": "https://www.newsfirst.lk/2022/06/10/13th-june-a-holiday-for-government-govt-approved-private-schools/",
+    "file_name": "/tmp/news_lk2/articles/a2/a29957c4.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654867980,
     "title": "Sri Lanka\u2019s sate-run Litro Gas chairman Vijitha Herath resigns",
     "url": "https://economynext.com/sri-lankas-sate-run-litro-gas-chairman-vijitha-herath-resigns-95592/",
     "file_name": "/tmp/news_lk2/articles/aa/aae02c75.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654867320,
+    "title": "New approaches required to attract tourists \u2013 President",
+    "url": "https://www.newsfirst.lk/2022/06/10/new-approaches-required-to-attract-tourists-president/",
+    "file_name": "/tmp/news_lk2/articles/d7/d74c7b53.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -670,33 +698,5 @@
     "title": "Food Security: 4.9 mn currently in need of food assistance - UN Official",
     "url": "https://www.dailymirror.lk/hard-talk/Food-Security-4-9-mn-currently-in-need-of-food-assistance-UN-Official/334-238774",
     "file_name": "/tmp/news_lk2/articles/61/618067aa.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654808760,
-    "title": "Food Security: 4.9 mn currently in need of food assistance - UN Official",
-    "url": "https://www.dailymirror.lk/recomended-news/Food-Security-4-9-mn-currently-in-need-of-food-assistance-UN-Official/277-238774",
-    "file_name": "/tmp/news_lk2/articles/0b/0b15ffa3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654808760,
-    "title": "Food Security: 4.9 mn currently in need of food assistance - UN Official",
-    "url": "https://www.dailymirror.lk/opinion/Food-Security-4-9-mn-currently-in-need-of-food-assistance-UN-Official/231-238774",
-    "file_name": "/tmp/news_lk2/articles/37/3798c7cb.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654808760,
-    "title": "Food Security: 4.9 mn currently in need of food assistance - UN Official",
-    "url": "https://www.dailymirror.lk/opinion/Food-Security-4-9-mn-currently-in-need-of-food-assistance-UN-Official/172-238774",
-    "file_name": "/tmp/news_lk2/articles/ed/edcdf294.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654808700,
-    "title": "Sri Lankans must heed the calls to grow at home - EDITORIAL",
-    "url": "https://www.dailymirror.lk/opinion/Sri-Lankans-must-heed-the-calls-to-grow-at-home-EDITORIAL/231-238773",
-    "file_name": "/tmp/news_lk2/articles/35/356bd9ea.json"
   }
 ]
