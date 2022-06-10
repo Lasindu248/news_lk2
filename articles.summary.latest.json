@@ -3,22 +3,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654844460,
     "title": "Utilize prevailing Acts to compensate for lost lives, property during recent commotions: Dinesh",
-    "url": "https://www.dailymirror.lk/latest_news/Utilize-prevailing-Acts-to-compensate-for-lost-lives-property-during-recent-commotions-Dinesh/342-238835",
-    "file_name": "/tmp/news_lk2/articles/20/200b7b0b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654844460,
-    "title": "Utilize prevailing Acts to compensate for lost lives, property during recent commotions: Dinesh",
     "url": "https://www.dailymirror.lk/breaking_news/Utilize-prevailing-Acts-to-compensate-for-lost-lives-property-during-recent-commotions-Dinesh/108-238835",
     "file_name": "/tmp/news_lk2/articles/34/34197259.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654843740,
-    "title": "CPU assistance sought to conduct impartial probe: PM",
-    "url": "https://www.dailymirror.lk/latest_news/CPU-assistance-sought-to-conduct-impartial-probe-PM/342-238834",
-    "file_name": "/tmp/news_lk2/articles/67/67752a25.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -455,13 +441,6 @@
     "file_name": "/tmp/news_lk2/articles/4b/4b6774ce.json"
   },
   {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654788300,
-    "title": "Gifts for children at LRH",
-    "url": "https://www.dailymirror.lk/latest_news/Gifts-for-children-at-LRH/342-238836",
-    "file_name": "/tmp/news_lk2/articles/ee/ee58945c.json"
-  },
-  {
     "newspaper_id": "island-lk",
     "time_ut": 1654786500,
     "title": "Port City announces Sri Lanka\u2019s most comprehensive urban development rules",
@@ -698,5 +677,26 @@
     "title": "Face mask rule in Sri Lanka lifted",
     "url": "http://www.adaderana.lk/news/82958/face-mask-rule-in-sri-lanka-lifted",
     "file_name": "/tmp/news_lk2/articles/1a/1a226f56.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654774020,
+    "title": "Sri Lankans allowed to attend Hajj pilgrimage this year",
+    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lankans-allowed-to-attend-Hajj-pilgrimage-this-year/108-238757",
+    "file_name": "/tmp/news_lk2/articles/31/314f756d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654773900,
+    "title": "Electricity (Amendment) Bill Second Reading passed",
+    "url": "https://www.newsfirst.lk/2022/06/09/electricity-amendment-bill-second-reading-passed/",
+    "file_name": "/tmp/news_lk2/articles/36/360f2563.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654773780,
+    "title": "Reservoir gates opened during CEBEU strike",
+    "url": "https://www.newsfirst.lk/2022/06/09/reservoir-gates-opened-during-cebeu-strike/",
+    "file_name": "/tmp/news_lk2/articles/bc/bc47b9f3.json"
   }
 ]
