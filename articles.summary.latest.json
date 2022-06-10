@@ -91,6 +91,13 @@
     "file_name": "/tmp/news_lk2/articles/4b/4b6774ce.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654786500,
+    "title": "Port City announces Sri Lanka\u2019s most comprehensive urban development rules",
+    "url": "http://island.lk/port-city-announces-sri-lankas-most-comprehensive-urban-development-rules/",
+    "file_name": "/tmp/news_lk2/articles/4b/4bd95c56.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654786140,
     "title": "Cannot go for an election until economic crisis is addressed: ECSL Chairman",
@@ -691,12 +698,5 @@
     "title": "Basil vacates MP seat, tenders resignation",
     "url": "http://www.adaderana.lk/news/82951/basil-vacates-mp-seat-tenders-resignation",
     "file_name": "/tmp/news_lk2/articles/b7/b7f95ce9.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654754340,
-    "title": "Sri Lankan Muslims allowed to perform Hajj if they pay in foreign currency",
-    "url": "http://www.adaderana.lk/news/82950/sri-lankan-muslims-allowed-to-perform-hajj-if-they-pay-in-foreign-currency",
-    "file_name": "/tmp/news_lk2/articles/87/87be812f.json"
   }
 ]
