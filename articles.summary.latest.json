@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654879980,
+    "title": "IMF delegation to visit Sri Lanka on June 20 for talks",
+    "url": "http://www.adaderana.lk/news/82984/imf-delegation-to-visit-sri-lanka-on-june-20-for-talks",
+    "file_name": "/tmp/news_lk2/articles/85/859034b9.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654877700,
     "title": "Gazette nominating Dhammika Perera as national list MP issued",
@@ -691,12 +698,5 @@
     "title": "Mysterious radio signals from deep space detected",
     "url": "https://www.dailymirror.lk/breaking_news/Mysterious-radio-signals-from-deep-space-detected/108-238777",
     "file_name": "/tmp/news_lk2/articles/d4/d4a010b0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654821240,
-    "title": "22% of SL population in need of food assistance- UN Resident Coordinator",
-    "url": "https://www.dailymirror.lk/breaking_news/22-of-SL-population-in-need-of-food-assistance-UN-Resident-Coordinator/108-238776",
-    "file_name": "/tmp/news_lk2/articles/17/17a19348.json"
   }
 ]
