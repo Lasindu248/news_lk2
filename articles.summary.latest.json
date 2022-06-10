@@ -1,5 +1,68 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654891200,
+    "title": "Their name is \u2018tomorrow\u2019",
+    "url": "https://www.dailymirror.lk/opinion/Their-name-is-tomorrow/172-238913",
+    "file_name": "/tmp/news_lk2/articles/af/af6ab85b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654891020,
+    "title": "Food crisis and home gardening",
+    "url": "https://www.dailymirror.lk/opinion/Food-crisis-and-home-gardening/172-238912",
+    "file_name": "/tmp/news_lk2/articles/f9/f9eae1e0.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654890840,
+    "title": "SDJF promotes investigative journalism among university students",
+    "url": "https://www.ft.lk/news/SDJF-promotes-investigative-journalism-among-university-students/56-736054",
+    "file_name": "/tmp/news_lk2/articles/a5/a5018087.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654890780,
+    "title": "Foreign Minister Peiris seeks support from Singapore",
+    "url": "https://www.ft.lk/news/Foreign-Minister-Peiris-seeks-support-from-Singapore/56-736053",
+    "file_name": "/tmp/news_lk2/articles/19/19220994.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654890720,
+    "title": "Japan hopes Sri Lanka PM would bring lasting solution to improve economic situation",
+    "url": "https://www.ft.lk/news/Japan-hopes-Sri-Lanka-PM-would-bring-lasting-solution-to-improve-economic-situation/56-736052",
+    "file_name": "/tmp/news_lk2/articles/52/522314a4.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654890660,
+    "title": "MPs come together to express condolence on slain MP Amarakeerthi Atukorala",
+    "url": "https://www.ft.lk/news/MPs-come-together-to-express-condolence-on-slain-MP-Amarakeerthi-Atukorala/56-736051",
+    "file_name": "/tmp/news_lk2/articles/d3/d3991429.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654890600,
+    "title": "President directs measures to regularise public transport service.",
+    "url": "https://www.ft.lk/news/President-directs-measures-to-regularise-public-transport-service/56-736050",
+    "file_name": "/tmp/news_lk2/articles/b9/b99aed1e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654890540,
+    "title": "PM calls for inquiry against TNA MP Rasamanickam",
+    "url": "https://www.ft.lk/news/PM-calls-for-inquiry-against-TNA-MP-Rasamanickam/56-736049",
+    "file_name": "/tmp/news_lk2/articles/13/130f62a3.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654890420,
+    "title": "Vijjtha Herath resigns as Litro Gas Chairman",
+    "url": "https://www.ft.lk/news/Vijjtha-Herath-resigns-as-Litro-Gas-Chairman/56-736048",
+    "file_name": "/tmp/news_lk2/articles/3a/3a57a0bd.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1654885800,
     "title": "Emirates wins Best Wi-Fi and Best Food and Beverage at 2022 APEX Regional Passenger Choice Awards",
@@ -635,68 +698,5 @@
     "title": "No domestic LP gas distribution today as well",
     "url": "http://www.adaderana.lk/news/82969/no-domestic-lp-gas-distribution-today-as-well",
     "file_name": "/tmp/news_lk2/articles/86/86f724e6.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654834320,
-    "title": "CB removes all caps related to foreign currency deposits, swaps",
-    "url": "https://www.dailymirror.lk/latest_news/CB-removes-all-caps-related-to-foreign-currency-deposits-swaps/342-238821",
-    "file_name": "/tmp/news_lk2/articles/57/579cbfeb.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654834320,
-    "title": "CB removes all caps related to foreign currency deposits, swaps",
-    "url": "https://www.dailymirror.lk/breaking_news/CB-removes-all-caps-related-to-foreign-currency-deposits-swaps/108-238821",
-    "file_name": "/tmp/news_lk2/articles/63/633cfe8e.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654833180,
-    "title": "Sri Lanka seeks Singapore support to increase FDI",
-    "url": "https://www.newsfirst.lk/2022/06/10/sri-lanka-seeks-singapore-support-to-increase-fdi/",
-    "file_name": "/tmp/news_lk2/articles/00/0017c878.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654833000,
-    "title": "Sri Lanka creates ministry of technology and investment promotion",
-    "url": "https://economynext.com/sri-lanka-creates-ministry-of-technology-and-investment-promotion-95561/",
-    "file_name": "/tmp/news_lk2/articles/02/028ba518.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654832520,
-    "title": "Sri Lanka schedules power cuts of over two hours for June 10",
-    "url": "https://economynext.com/sri-lanka-schedules-power-cuts-of-over-two-hours-for-june-10-95550/",
-    "file_name": "/tmp/news_lk2/articles/15/15a8438e.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654832040,
-    "title": "Sri Lanka: Two Ministries for Technology, Investment, Women, Child Affairs",
-    "url": "https://www.newsfirst.lk/2022/06/10/sri-lanka-two-ministries-for-technology-investment-women-child-affairs/",
-    "file_name": "/tmp/news_lk2/articles/e7/e71f7d0c.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654830000,
-    "title": "UN launch appeal for 1.7 million in Sri Lanka hardest hit by soft-peg collapse",
-    "url": "https://economynext.com/un-launch-appeal-for-1-7-million-in-sri-lanka-hardest-hit-by-soft-peg-collapse-95553/",
-    "file_name": "/tmp/news_lk2/articles/95/95b96b0f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654829880,
-    "title": "Loan rejections to rise sharply with banks turning extra cautious",
-    "url": "https://www.dailymirror.lk/latest_news/Loan-rejections-to-rise-sharply-with-banks-turning-extra-cautious/342-238807",
-    "file_name": "/tmp/news_lk2/articles/2a/2a3b5828.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654829880,
-    "title": "Loan rejections to rise sharply with banks turning extra cautious",
-    "url": "https://www.dailymirror.lk/breaking_news/Loan-rejections-to-rise-sharply-with-banks-turning-extra-cautious/108-238807",
-    "file_name": "/tmp/news_lk2/articles/a7/a7ee9675.json"
   }
 ]
