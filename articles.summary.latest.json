@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654885800,
+    "title": "Emirates wins Best Wi-Fi and Best Food and Beverage at 2022 APEX Regional Passenger Choice Awards",
+    "url": "https://www.ft.lk/business/Emirates-wins-Best-Wi-Fi-and-Best-Food-and-Beverage-at-2022-APEX-Regional-Passenger-Choice-Awards/34-736026",
+    "file_name": "/tmp/news_lk2/articles/d5/d528b3f6.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654885800,
+    "title": "Abans promotes premium quality Tefal kitchenware",
+    "url": "https://www.ft.lk/business/Abans-promotes-premium-quality-Tefal-kitchenware/34-736024",
+    "file_name": "/tmp/news_lk2/articles/77/77155451.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1654885800,
+    "title": "HNB expands \u2018Walk the Talk\u2019 initiative to World Bicycle Day",
+    "url": "https://www.ft.lk/business/HNB-expands-Walk-the-Talk-initiative-to-World-Bicycle-Day/34-736025",
+    "file_name": "/tmp/news_lk2/articles/56/5674f6b5.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654883340,
     "title": "UN World Food Program chief to visit Sri Lanka soon",
@@ -677,26 +698,5 @@
     "title": "Loan rejections to rise sharply with banks turning extra cautious",
     "url": "https://www.dailymirror.lk/breaking_news/Loan-rejections-to-rise-sharply-with-banks-turning-extra-cautious/108-238807",
     "file_name": "/tmp/news_lk2/articles/a7/a7ee9675.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654828680,
-    "title": "Two new Ministerial portfolios gazetted",
-    "url": "https://www.dailymirror.lk/top_story/Two-new-Ministerial-portfolios-gazetted/155-238779",
-    "file_name": "/tmp/news_lk2/articles/41/4134e3b2.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654828680,
-    "title": "Two new Ministerial portfolios gazetted",
-    "url": "https://www.dailymirror.lk/latest_news/Two-new-Ministerial-portfolios-gazetted/342-238779",
-    "file_name": "/tmp/news_lk2/articles/f3/f3833838.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654828680,
-    "title": "Two new Ministerial portfolios gazetted",
-    "url": "https://www.dailymirror.lk/breaking_news/Two-new-Ministerial-portfolios-gazetted/108-238779",
-    "file_name": "/tmp/news_lk2/articles/13/139b0898.json"
   }
 ]
