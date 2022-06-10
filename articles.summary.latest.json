@@ -1,10 +1,45 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654862640,
+    "title": "100,000 uncleared Chinese apples given to Dehiwala Zoo",
+    "url": "https://www.newsfirst.lk/2022/06/10/100000-uncleared-chinese-apples-given-to-dehiwala-zoo/",
+    "file_name": "/tmp/news_lk2/articles/5b/5b4016a0.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654862460,
+    "title": "Litro chairman tenders resignation",
+    "url": "http://www.adaderana.lk/news/82980/litro-chairman-tenders-resignation",
+    "file_name": "/tmp/news_lk2/articles/f0/f063ebc0.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654862160,
+    "title": "June 13 declared a special govt holiday",
+    "url": "http://www.adaderana.lk/news/82979/june-13-declared-a-special-govt-holiday",
+    "file_name": "/tmp/news_lk2/articles/fd/fd948815.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654860540,
+    "title": "IMF reaches agreement with Argentina, frees up $4.03 bln",
+    "url": "https://www.newsfirst.lk/2022/06/10/imf-reaches-agreement-with-argentina-frees-up-4-03-bln/",
+    "file_name": "/tmp/news_lk2/articles/be/be5788c6.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654860180,
     "title": "Find out new avenues to attract tourists: President tells officials",
     "url": "https://www.dailymirror.lk/breaking_news/Find-out-new-avenues-to-attract-tourists-President-tells-officials/108-238845",
     "file_name": "/tmp/news_lk2/articles/bb/bb8fa07e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654859940,
+    "title": "Monday (13) Special Government Holiday",
+    "url": "https://www.newsfirst.lk/2022/06/10/monday-13-special-government-holiday/",
+    "file_name": "/tmp/news_lk2/articles/8e/8e8ac587.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -663,40 +698,5 @@
     "title": "President highlights corruption during auction of imported goods confiscated at port",
     "url": "http://www.adaderana.lk/news/82965/president-highlights-corruption-during-auction-of-imported-goods-confiscated-at-port",
     "file_name": "/tmp/news_lk2/articles/b4/b484ecbb.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654792560,
-    "title": "China COVID jitters flare up as parts of Shanghai resume lockdown",
-    "url": "http://www.adaderana.lk/news/82964/china-covid-jitters-flare-up-as-parts-of-shanghai-resume-lockdown",
-    "file_name": "/tmp/news_lk2/articles/4b/4b6774ce.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654788300,
-    "title": "Gifts for children at LRH",
-    "url": "https://www.dailymirror.lk/latest_news/Gifts-for-children-at-LRH/342-238836",
-    "file_name": "/tmp/news_lk2/articles/ee/ee58945c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654788300,
-    "title": "Gifts for children at LRH",
-    "url": "https://www.dailymirror.lk/caption_story/Gifts-for-children-at-LRH/110-238836",
-    "file_name": "/tmp/news_lk2/articles/1d/1d3ec362.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1654786500,
-    "title": "Port City announces Sri Lanka\u2019s most comprehensive urban development rules",
-    "url": "http://island.lk/port-city-announces-sri-lankas-most-comprehensive-urban-development-rules/",
-    "file_name": "/tmp/news_lk2/articles/4b/4bd95c56.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654786140,
-    "title": "Cannot go for an election until economic crisis is addressed: ECSL Chairman",
-    "url": "https://www.newsfirst.lk/2022/06/09/cannot-go-for-an-election-until-economic-crisis-is-addressed-ecsl-chairman/",
-    "file_name": "/tmp/news_lk2/articles/eb/ebfcf8f7.json"
   }
 ]
