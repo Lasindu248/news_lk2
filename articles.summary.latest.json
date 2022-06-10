@@ -1,6 +1,20 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654825620,
+    "title": "Special gazette issued forming a new ministerial portfolio",
+    "url": "http://www.adaderana.lk/news/82968/special-gazette-issued-forming-a-new-ministerial-portfolio",
+    "file_name": "/tmp/news_lk2/articles/6b/6b183ac4.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654825500,
+    "title": "Sri Lanka IMF staff level deal date not certain, team visit shortly: official",
+    "url": "https://economynext.com/sri-lanka-imf-staff-level-deal-date-not-certain-team-visit-shortly-official-95543/",
+    "file_name": "/tmp/news_lk2/articles/c7/c7783256.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654824780,
     "title": "Showers or thundershowers possible in several districts today",
     "url": "http://www.adaderana.lk/news/82967/showers-or-thundershowers-possible-in-several-districts-today",
@@ -684,19 +698,5 @@
     "title": "Russia never offered to supply fuel at 35% discounted price: Minister",
     "url": "https://www.dailymirror.lk/latest_news/Russia-never-offered-to-supply-fuel-at-35-discounted-price-Minister/342-238748",
     "file_name": "/tmp/news_lk2/articles/16/166fd585.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654756680,
-    "title": "Russia never offered to supply fuel at 35% discounted price: Minister",
-    "url": "https://www.dailymirror.lk/breaking_news/Russia-never-offered-to-supply-fuel-at-35-discounted-price-Minister/108-238748",
-    "file_name": "/tmp/news_lk2/articles/f8/f8fbedef.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654755780,
-    "title": "Sri Lanka stock trades 1-pct stronger in mid-day trade",
-    "url": "https://economynext.com/sri-lanka-stock-trades-1-pct-stronger-in-mid-day-trade-95501/",
-    "file_name": "/tmp/news_lk2/articles/28/285cf946.json"
   }
 ]
