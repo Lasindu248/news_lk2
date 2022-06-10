@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654852560,
+    "title": "Sri Lanka PM wants TNA MP\u2019s speech probed; \u2018aragalaya\u2019 has blood on its hands, says ex-PM",
+    "url": "https://economynext.com/sri-lanka-pm-wants-tna-mps-speech-probed-aragalaya-has-blood-on-its-hands-says-ex-pm-95579/",
+    "file_name": "/tmp/news_lk2/articles/bf/bf3b2b2a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654852140,
+    "title": "\u201cThe struggle of those who killed an innocent man is no longer a peaceful one,\u201d \u2013 Mahinda Rajapaksa",
+    "url": "https://www.newsfirst.lk/2022/06/10/the-struggle-of-those-who-killed-an-innocent-man-is-no-longer-a-peaceful-one-mahinda-rajapaksa/",
+    "file_name": "/tmp/news_lk2/articles/7b/7b4011cb.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654850640,
     "title": "Sri Lanka name 21-man squad for ODIs against Australia",
@@ -684,19 +698,5 @@
     "title": "To go or not to go: Basil speaks on IMF",
     "url": "https://www.newsfirst.lk/2022/06/09/to-go-or-not-to-go-basil-speaks-on-imf/",
     "file_name": "/tmp/news_lk2/articles/b9/b93c1272.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654780440,
-    "title": "Johnny appears before Magistrate, and leaves",
-    "url": "https://www.newsfirst.lk/2022/06/09/johnny-appears-before-magistrate-and-leaves/",
-    "file_name": "/tmp/news_lk2/articles/5c/5cf84059.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654779660,
-    "title": "Basil says he does not have balls",
-    "url": "https://www.dailymirror.lk/breaking_news/Basil-says-he-does-not-have-balls/108-238766",
-    "file_name": "/tmp/news_lk2/articles/76/76de6fda.json"
   }
 ]
