@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654955340,
+    "title": "President denies CEB chief\u2019s remarks on Mannar wind power project",
+    "url": "http://www.adaderana.lk/news/82998/president-denies-ceb-chiefs-remarks-on-mannar-wind-power-project",
+    "file_name": "/tmp/news_lk2/articles/b2/b2c739c3.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654952580,
     "title": "Troops ready for Agri Revolution : Army Chief",
@@ -691,12 +698,5 @@
     "title": "Sri Lanka, India\u2019s EXIM Bank ink deal for USD 55 Mn loan to procure urea",
     "url": "http://www.adaderana.lk/news/82981/sri-lanka-indias-exim-bank-ink-deal-for-usd-55-mn-loan-to-procure-urea",
     "file_name": "/tmp/news_lk2/articles/64/6479e404.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654863960,
-    "title": "Sri Lanka, EXIM Bank of India inks deal for USD 55 million loan to purchase urea",
-    "url": "http://www.adaderana.lk/news/82981/sri-lanka-exim-bank-of-india-inks-deal-for-usd-55-million-loan-to-purchase-urea",
-    "file_name": "/tmp/news_lk2/articles/57/57c08844.json"
   }
 ]
