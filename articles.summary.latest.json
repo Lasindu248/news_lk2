@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654946700,
+    "title": "Dhammika Perera apologizes to Sanath",
+    "url": "https://www.dailymirror.lk/breaking_news/Dhammika-Perera-apologizes-to-Sanath/108-238925",
+    "file_name": "/tmp/news_lk2/articles/8f/8f274bbe.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654945920,
+    "title": "Rolling power cuts scheduled from June 13-19",
+    "url": "http://www.adaderana.lk/news/82996/rolling-power-cuts-scheduled-from-june-13-19-",
+    "file_name": "/tmp/news_lk2/articles/6e/6e5c403d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654945560,
+    "title": "Sri Lanka rupee commercial banks\u2019 weekly quote against USD steady",
+    "url": "https://economynext.com/sri-lanka-rupee-commercial-banks-weekly-quote-against-usd-steady-95603/",
+    "file_name": "/tmp/news_lk2/articles/82/82095782.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654945260,
+    "title": "Sri Lanka sells Rs50bn of Treasury bonds",
+    "url": "https://economynext.com/sri-lanka-sells-rs50bn-of-treasury-bonds-95601/",
+    "file_name": "/tmp/news_lk2/articles/7f/7fa19192.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654944540,
     "title": "China announces medicine donation to Polonnaruwa Nephrology Hospital",
@@ -12,6 +40,13 @@
     "title": "Power cut schedule for next week announced: One hour power cut on Poson Poya day",
     "url": "https://www.dailymirror.lk/breaking_news/Power-cut-schedule-for-next-week-announced-One-hour-power-cut-on-Poson-Poya-day/108-238924",
     "file_name": "/tmp/news_lk2/articles/de/de12673d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654942920,
+    "title": "PUCSL approves power cuts for 13th-19th June",
+    "url": "https://www.newsfirst.lk/2022/06/11/pucsl-approves-power-cuts-for-13th-19th-june/",
+    "file_name": "/tmp/news_lk2/articles/6c/6ca9447e.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -663,40 +698,5 @@
     "title": "June 13 declared a special govt holiday",
     "url": "http://www.adaderana.lk/news/82979/june-13-declared-a-special-govt-holiday",
     "file_name": "/tmp/news_lk2/articles/fd/fd948815.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654860540,
-    "title": "IMF reaches agreement with Argentina, frees up $4.03 bln",
-    "url": "https://www.newsfirst.lk/2022/06/10/imf-reaches-agreement-with-argentina-frees-up-4-03-bln/",
-    "file_name": "/tmp/news_lk2/articles/be/be5788c6.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654860180,
-    "title": "Find out new avenues to attract tourists: President tells officials",
-    "url": "https://www.dailymirror.lk/breaking_news/Find-out-new-avenues-to-attract-tourists-President-tells-officials/108-238845",
-    "file_name": "/tmp/news_lk2/articles/bb/bb8fa07e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654860180,
-    "title": "Find out new avenues to attract tourists: President tells officials",
-    "url": "https://www.dailymirror.lk/latest_news/Find-out-new-avenues-to-attract-tourists-President-tells-officials/342-238845",
-    "file_name": "/tmp/news_lk2/articles/15/15829653.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654859940,
-    "title": "Monday (13) Special Government Holiday",
-    "url": "https://www.newsfirst.lk/2022/06/10/monday-13-special-government-holiday/",
-    "file_name": "/tmp/news_lk2/articles/8e/8e8ac587.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654858620,
-    "title": "Sri Lanka signs MoU with India\u2019s EXIM bank for USD 55mn credit line for urea imports",
-    "url": "https://economynext.com/sri-lanka-signs-mou-with-indias-exim-bank-for-usd-55mn-credit-line-for-urea-imports-95586/",
-    "file_name": "/tmp/news_lk2/articles/7f/7f28af84.json"
   }
 ]
