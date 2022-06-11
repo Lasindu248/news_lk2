@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654928460,
+    "title": "Covid: US to drop test requirement for air travellers",
+    "url": "https://www.dailymirror.lk/breaking_news/Covid-US-to-drop-test-requirement-for-air-travellers/108-238922",
+    "file_name": "/tmp/news_lk2/articles/b4/b4ec7e76.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654925820,
     "title": "US to drop Covid-19 test requirement for air travellers",
@@ -52,6 +59,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654921800,
     "title": "Investigations against Dilip Wedaarachchi\u2019s son, daughter in law  Weeraketiya OIC under death threat, Magistrate orders probe",
+    "url": "https://www.dailymirror.lk/breaking_news/Investigations-against-Dilip-Wedaarachchis-son-daughter-in-law-Weeraketiya-OIC-under-death-threat-Magistrate-orders-probe/108-238872",
+    "file_name": "/tmp/news_lk2/articles/4e/4ef005c5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654921800,
+    "title": "Investigations against Dilip Wedaarachchi\u2019s son, daughter in law  Weeraketiya OIC under death threat, Magistrate orders probe",
     "url": "https://www.dailymirror.lk/front_page/Investigations-against-Dilip-Wedaarachchis-son-daughter-in-law-Weeraketiya-OIC-under-death-threat-Magistrate-orders-probe/238-238872",
     "file_name": "/tmp/news_lk2/articles/08/08d439a1.json"
   },
@@ -82,6 +96,13 @@
     "title": "Get update on fuel availability",
     "url": "https://www.dailymirror.lk/breaking_news/Get-update-on-fuel-availability/108-238920",
     "file_name": "/tmp/news_lk2/articles/88/88e1b27a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654920300,
+    "title": "Get update on fuel availability",
+    "url": "https://www.dailymirror.lk/latest_news/Get-update-on-fuel-availability/342-238920",
+    "file_name": "/tmp/news_lk2/articles/3d/3d2d36e3.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -677,26 +698,5 @@
     "title": "Tear gas fired at IUSF protesters near Education Ministry",
     "url": "http://www.adaderana.lk/news/82974/tear-gas-fired-at-iusf-protesters-near-education-ministry",
     "file_name": "/tmp/news_lk2/articles/99/994cc3fd.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654850160,
-    "title": "Tear gas fired at IUSF protesters near Education Ministry",
-    "url": "http://www.adaderana.lk/news/82975/tear-gas-fired-at-iusf-protesters-near-education-ministry",
-    "file_name": "/tmp/news_lk2/articles/54/5419c133.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654849500,
-    "title": "Dhammika to replace Basil",
-    "url": "https://www.dailymirror.lk/breaking_news/Dhammika-to-replace-Basil/108-238838",
-    "file_name": "/tmp/news_lk2/articles/46/46499632.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654849500,
-    "title": "Dhammika to replace Basil",
-    "url": "https://www.dailymirror.lk/latest_news/Dhammika-to-replace-Basil/342-238838",
-    "file_name": "/tmp/news_lk2/articles/fe/fe07324d.json"
   }
 ]
