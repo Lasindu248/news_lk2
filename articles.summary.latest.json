@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654947660,
+    "title": "UK relaxes travel advisory on Sri Lanka",
+    "url": "http://www.adaderana.lk/news/82997/uk-relaxes-travel-advisory-on-sri-lanka-",
+    "file_name": "/tmp/news_lk2/articles/34/34cca469.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654946700,
     "title": "Dhammika Perera apologizes to Sanath",
@@ -691,12 +698,5 @@
     "title": "Litro chairman tenders resignation",
     "url": "http://www.adaderana.lk/news/82980/litro-chairman-tenders-resignation",
     "file_name": "/tmp/news_lk2/articles/f0/f063ebc0.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654862160,
-    "title": "June 13 declared a special govt holiday",
-    "url": "http://www.adaderana.lk/news/82979/june-13-declared-a-special-govt-holiday",
-    "file_name": "/tmp/news_lk2/articles/fd/fd948815.json"
   }
 ]
