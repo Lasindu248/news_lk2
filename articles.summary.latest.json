@@ -1,10 +1,24 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654923180,
+    "title": "President directs to conduct formal study of public service",
+    "url": "http://www.adaderana.lk/news/82989/president-directs-to-conduct-formal-study-of-public-service",
+    "file_name": "/tmp/news_lk2/articles/70/7044c883.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654921800,
     "title": "Investigations against Dilip Wedaarachchi\u2019s son, daughter in law  Weeraketiya OIC under death threat, Magistrate orders probe",
     "url": "https://www.dailymirror.lk/front_page/Investigations-against-Dilip-Wedaarachchis-son-daughter-in-law-Weeraketiya-OIC-under-death-threat-Magistrate-orders-probe/238-238872",
     "file_name": "/tmp/news_lk2/articles/08/08d439a1.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654921080,
+    "title": "MRP announced for local raw rice",
+    "url": "http://www.adaderana.lk/news/82988/mrp-announced-for-local-raw-rice",
+    "file_name": "/tmp/news_lk2/articles/a5/a560ba88.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -684,19 +698,5 @@
     "title": "Japan eases foreign tourism ban, allows guided package tours",
     "url": "http://www.adaderana.lk/news/82972/japan-eases-foreign-tourism-ban-allows-guided-package-tours",
     "file_name": "/tmp/news_lk2/articles/d8/d8be75b8.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654844760,
-    "title": "Sri Lanka: PM wants Commonwealth Parliament Chief to probe violence against MPs",
-    "url": "https://www.newsfirst.lk/2022/06/10/sri-lanka-pm-wants-commonwealth-parliament-chief-to-probe-violence-against-mps/",
-    "file_name": "/tmp/news_lk2/articles/9e/9ed0741d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654844460,
-    "title": "Utilize prevailing Acts to compensate for lost lives, property during recent commotions: Dinesh",
-    "url": "https://www.dailymirror.lk/latest_news/Utilize-prevailing-Acts-to-compensate-for-lost-lives-property-during-recent-commotions-Dinesh/342-238835",
-    "file_name": "/tmp/news_lk2/articles/20/200b7b0b.json"
   }
 ]
