@@ -14,6 +14,13 @@
     "file_name": "/tmp/news_lk2/articles/ba/ba62a20f.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654967940,
+    "title": "ADANI FIASCO: CEB Chairman admits he lied; says he got \u2019emotional\u2019",
+    "url": "https://www.newsfirst.lk/2022/06/11/adani-fiasco-ceb-chairman-admits-he-lied-says-he-got-emotional/",
+    "file_name": "/tmp/news_lk2/articles/da/daac85ab.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654965660,
     "title": "COPE rebukes CEB for purchasing power at higher prices",
@@ -691,12 +698,5 @@
     "title": "Watch the Australia tour of Sri Lanka 2022 live on Dialog Television",
     "url": "http://island.lk/watch-the-australia-tour-of-sri-lanka-2022-live-on-dialog-television/",
     "file_name": "/tmp/news_lk2/articles/11/11cacfb3.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1654867980,
-    "title": "Alpha Fire Services debuts trading on CSE",
-    "url": "http://island.lk/alpha-fire-services-debuts-trading-on-cse/",
-    "file_name": "/tmp/news_lk2/articles/68/687cd148.json"
   }
 ]
