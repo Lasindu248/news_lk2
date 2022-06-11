@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654964880,
+    "title": "Sri Lanka Railway lands to be leased for cultivation amid looming food shortage",
+    "url": "https://economynext.com/sri-lanka-railway-lands-to-be-leased-for-cultivation-amid-looming-food-shortage-95608/",
+    "file_name": "/tmp/news_lk2/articles/8b/8bdb16ab.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654962840,
+    "title": "Sri Lanka President considers decentralizing public service, youth-led cultivation after crisis",
+    "url": "https://economynext.com/sri-lanka-president-considers-decentralizing-public-service-youth-led-cultivation-after-crisis-95606/",
+    "file_name": "/tmp/news_lk2/articles/14/14c8ecc8.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654960080,
     "title": "Two dead in Lunuwewa drowning",
@@ -40,6 +54,13 @@
     "title": "China will not hesitate in providing relief to Sri Lankans: Ambassador",
     "url": "https://www.newsfirst.lk/2022/06/11/china-will-not-hesitate-in-providing-relief-to-sri-lankans-ambassador/",
     "file_name": "/tmp/news_lk2/articles/06/063db138.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654951800,
+    "title": "Sri Lanka announces up to 2 hours 15 mins power cuts  from June 13-19",
+    "url": "https://economynext.com/sri-lanka-announces-up-to-2-hours-15-mins-power-cuts-from-june-13-19-95604/",
+    "file_name": "/tmp/news_lk2/articles/c9/c96fecd7.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -677,26 +698,5 @@
     "title": "Dhammika Perera\u2019s name gazetted as SLPP MP",
     "url": "http://www.adaderana.lk/news/82982/dhammika-pereras-name-gazetted-as-slpp-mp",
     "file_name": "/tmp/news_lk2/articles/75/75ecd008.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654866360,
-    "title": "Election Commission declares Dhammika Perera as a Member of Parliament",
-    "url": "https://www.newsfirst.lk/2022/06/10/election-commission-declares-dhammika-perera-as-a-member-of-parliament/",
-    "file_name": "/tmp/news_lk2/articles/52/52a4b17d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654864920,
-    "title": "School holiday on Monday: Ministry",
-    "url": "https://www.dailymirror.lk/breaking_news/School-holiday-on-Monday-Ministry/108-238853",
-    "file_name": "/tmp/news_lk2/articles/14/14f776e3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654864920,
-    "title": "School holiday on Monday: Ministry",
-    "url": "https://www.dailymirror.lk/latest_news/School-holiday-on-Monday-Ministry/342-238853",
-    "file_name": "/tmp/news_lk2/articles/62/62657567.json"
   }
 ]
