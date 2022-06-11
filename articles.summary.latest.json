@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654912980,
+    "title": "Sri Lanka shares fall for 2nd week; political, economic woes dent sentiment despite Perera\u2019s boost",
+    "url": "https://economynext.com/sri-lanka-shares-fall-for-2nd-week-political-economic-woes-dent-sentiment-despite-pereras-boost-95596/",
+    "file_name": "/tmp/news_lk2/articles/e2/e2ad2e53.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654912080,
+    "title": "Spells of showers expected in parts of the island",
+    "url": "http://www.adaderana.lk/news/82987/spells-of-showers-expected-in-parts-of-the-island",
+    "file_name": "/tmp/news_lk2/articles/11/113ae79a.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654911480,
+    "title": "Sri Lanka Central Bank executive warn PM over Governor appointment",
+    "url": "https://economynext.com/sri-lanka-central-bank-executive-warn-pm-over-governor-appointment-95595/",
+    "file_name": "/tmp/news_lk2/articles/d2/d277e4d0.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654891620,
     "title": "Re-visiting the \u201cSniper\u201d killing of Robert 19 years ago",
@@ -677,26 +698,5 @@
     "title": "Paddy to Rice : 40,000 MT of paddy to be converted to rice",
     "url": "https://www.newsfirst.lk/2022/06/10/paddy-to-rice-40000-mt-of-paddy-to-be-converted-to-rice/",
     "file_name": "/tmp/news_lk2/articles/a1/a175f04e.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654841400,
-    "title": "Black Monday violence: Sri Lanka PM writes to Commonwealth Parliamentary Association",
-    "url": "https://economynext.com/black-monday-violence-sri-lanka-pm-writes-to-commonwealth-parliamentary-association-95574/",
-    "file_name": "/tmp/news_lk2/articles/75/75938276.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654840200,
-    "title": "Growing risk of malnutrition among Sri Lankan kids and adults",
-    "url": "https://www.newsfirst.lk/2022/06/10/growing-risk-of-malnutrition-among-sri-lankan-kids-and-adults/",
-    "file_name": "/tmp/news_lk2/articles/89/89f16955.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654838400,
-    "title": "Maintain more efficient, quality public transport services to attract passengers: Prez",
-    "url": "https://www.dailymirror.lk/breaking_news/Maintain-more-efficient-quality-public-transport-services-to-attract-passengers-Prez/108-238832",
-    "file_name": "/tmp/news_lk2/articles/4b/4b1acf5c.json"
   }
 ]
