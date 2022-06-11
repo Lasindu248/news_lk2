@@ -56,6 +56,13 @@
     "file_name": "/tmp/news_lk2/articles/b2/b2c739c3.json"
   },
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654955340,
+    "title": "President denies CEB chief\u2019s remarks on undue authorization for wind power project",
+    "url": "http://www.adaderana.lk/news/82998/president-denies-ceb-chiefs-remarks-on-undue-authorization-for-wind-power-project",
+    "file_name": "/tmp/news_lk2/articles/4f/4f40d0bb.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654953300,
     "title": "President denies CEB Chairman\u2019s claims on Wind Power Project to Adani",
@@ -691,12 +698,5 @@
     "title": "Sri Lanka\u2019s state-run Litro Gas chairman Vijitha Herath resigns",
     "url": "https://economynext.com/sri-lankas-state-run-litro-gas-chairman-vijitha-herath-resigns-95592/",
     "file_name": "/tmp/news_lk2/articles/42/42827441.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1654867980,
-    "title": "Watch the Australia tour of Sri Lanka 2022 live on Dialog Television",
-    "url": "http://island.lk/watch-the-australia-tour-of-sri-lanka-2022-live-on-dialog-television/",
-    "file_name": "/tmp/news_lk2/articles/11/11cacfb3.json"
   }
 ]
