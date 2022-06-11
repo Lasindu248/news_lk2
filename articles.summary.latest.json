@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654934220,
+    "title": "Moratuwa University lecturers breach nearly Rs. 52 Mn in contracts, bonds - COPE",
+    "url": "http://www.adaderana.lk/news/82992/moratuwa-university-lecturers-breach-nearly-rs-52-mn-in-contracts-bonds-cope",
+    "file_name": "/tmp/news_lk2/articles/8c/8c8bdce0.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654931340,
     "title": "WFP assistance to resume Thriposha production",
@@ -691,12 +698,5 @@
     "title": "President points out need for efficient and quality public transport",
     "url": "https://www.newsfirst.lk/2022/06/10/president-points-out-need-for-efficient-and-quality-public-transport/",
     "file_name": "/tmp/news_lk2/articles/b7/b7e388f1.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654852560,
-    "title": "Sri Lanka PM wants TNA MP\u2019s speech probed; \u2018aragalaya\u2019 has blood on its hands, says ex-PM",
-    "url": "https://economynext.com/sri-lanka-pm-wants-tna-mps-speech-probed-aragalaya-has-blood-on-its-hands-says-ex-pm-95579/",
-    "file_name": "/tmp/news_lk2/articles/bf/bf3b2b2a.json"
   }
 ]
