@@ -224,11 +224,32 @@
     "file_name": "/tmp/news_lk2/articles/a2/a29957c4.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654868040,
+    "title": "Sunshine Holdings appoints S. Renganathan to its Board of Directors",
+    "url": "http://island.lk/sunshine-holdings-appoints-s-renganathan-to-its-board-of-directors/",
+    "file_name": "/tmp/news_lk2/articles/98/98e3e91a.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654867980,
     "title": "Sri Lanka\u2019s sate-run Litro Gas chairman Vijitha Herath resigns",
     "url": "https://economynext.com/sri-lankas-sate-run-litro-gas-chairman-vijitha-herath-resigns-95592/",
     "file_name": "/tmp/news_lk2/articles/aa/aae02c75.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654867980,
+    "title": "Watch the Australia tour of Sri Lanka 2022 live on Dialog Television",
+    "url": "http://island.lk/watch-the-australia-tour-of-sri-lanka-2022-live-on-dialog-television/",
+    "file_name": "/tmp/news_lk2/articles/11/11cacfb3.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654867980,
+    "title": "Alpha Fire Services debuts trading on CSE",
+    "url": "http://island.lk/alpha-fire-services-debuts-trading-on-cse/",
+    "file_name": "/tmp/news_lk2/articles/68/687cd148.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -677,26 +698,5 @@
     "title": "Maintain more efficient, quality public transport services to attract passengers: Prez",
     "url": "https://www.dailymirror.lk/latest_news/Maintain-more-efficient-quality-public-transport-services-to-attract-passengers-Prez/342-238832",
     "file_name": "/tmp/news_lk2/articles/b6/b60ce877.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654837740,
-    "title": "Deshabandu Thennakoon : Public Services Commission calls for transfer recommendation",
-    "url": "https://www.newsfirst.lk/2022/06/10/deshabandu-thennakoon-public-services-commission-calls-for-transfer-recommendation/",
-    "file_name": "/tmp/news_lk2/articles/57/57f8c08e.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654837380,
-    "title": "IMF plans in-person Sri Lanka mission in coming weeks for policy talks",
-    "url": "http://www.adaderana.lk/news/82970/imf-plans-in-person-sri-lanka-mission-in-coming-weeks-for-policy-talks",
-    "file_name": "/tmp/news_lk2/articles/7e/7e803499.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654836840,
-    "title": "Two die in train-car crash in Jaffna",
-    "url": "https://www.dailymirror.lk/latest_news/Two-die-in-train-car-crash-in-Jaffna/342-238831",
-    "file_name": "/tmp/news_lk2/articles/a6/a6b505de.json"
   }
 ]
