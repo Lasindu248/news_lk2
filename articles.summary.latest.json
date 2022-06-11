@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654949460,
+    "title": "Decline in fuel orders and fuel distribution",
+    "url": "https://www.newsfirst.lk/2022/06/11/decline-in-fuel-orders-and-fuel-distribution/",
+    "file_name": "/tmp/news_lk2/articles/4d/4d50067d.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654947660,
     "title": "UK relaxes travel advisory on Sri Lanka",
@@ -89,6 +96,13 @@
     "title": "Indian PM insisted power project be awarded to Adani : CEB Chief reveals to COPE",
     "url": "https://www.newsfirst.lk/2022/06/11/indian-pm-insisted-power-project-be-awarded-to-adani-ceb-chief-reveals-to-cope/",
     "file_name": "/tmp/news_lk2/articles/a4/a429665f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654937400,
+    "title": "Modi insisted Sri Lanka Power Project awarded to Adani: CEB Chief reveals to COPE",
+    "url": "https://www.newsfirst.lk/2022/06/11/modi-insisted-sri-lanka-power-project-awarded-to-adani-ceb-chief-reveals-to-cope/",
+    "file_name": "/tmp/news_lk2/articles/07/0799ff05.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -684,19 +698,5 @@
     "title": "Monday declared a special government holiday",
     "url": "https://www.dailymirror.lk/breaking_news/Monday-declared-a-special-government-holiday/108-238848",
     "file_name": "/tmp/news_lk2/articles/5e/5eb36deb.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654862640,
-    "title": "100,000 uncleared Chinese apples given to Dehiwala Zoo",
-    "url": "https://www.newsfirst.lk/2022/06/10/100000-uncleared-chinese-apples-given-to-dehiwala-zoo/",
-    "file_name": "/tmp/news_lk2/articles/5b/5b4016a0.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654862460,
-    "title": "Litro chairman tenders resignation",
-    "url": "http://www.adaderana.lk/news/82980/litro-chairman-tenders-resignation",
-    "file_name": "/tmp/news_lk2/articles/f0/f063ebc0.json"
   }
 ]
