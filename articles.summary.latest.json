@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654951800,
+    "title": "Sri Lanka announces 1 hour to 2 hours 15 mins power cuts  from June 13-19",
+    "url": "https://economynext.com/sri-lanka-announces-1-hour-to-2-hours-15-mins-power-cuts-from-june-13-19-95604/",
+    "file_name": "/tmp/news_lk2/articles/05/05aefdbd.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654949460,
     "title": "Decline in fuel orders and fuel distribution",
@@ -691,12 +698,5 @@
     "title": "Litro Chairman resigns",
     "url": "https://www.dailymirror.lk/breaking_news/Litro-Chairman-resigns/108-238850",
     "file_name": "/tmp/news_lk2/articles/0a/0ae30859.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654862640,
-    "title": "Monday declared a special government holiday",
-    "url": "https://www.dailymirror.lk/breaking_news/Monday-declared-a-special-government-holiday/108-238848",
-    "file_name": "/tmp/news_lk2/articles/5e/5eb36deb.json"
   }
 ]
