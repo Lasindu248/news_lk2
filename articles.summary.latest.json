@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654930500,
+    "title": "New website launched in Sri Lanka to check fuel availability",
+    "url": "http://www.adaderana.lk/news/82991/new-website-launched-in-sri-lanka-to-check-fuel-availability",
+    "file_name": "/tmp/news_lk2/articles/24/246b06ac.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654928460,
     "title": "Covid: US to drop test requirement for air travellers",
@@ -691,12 +698,5 @@
     "title": "PM\u2019s speech referring BASL inaccurate: BASL",
     "url": "https://www.dailymirror.lk/latest_news/PMs-speech-referring-BASL-inaccurate-BASL/342-238839",
     "file_name": "/tmp/news_lk2/articles/12/12e49e00.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654850160,
-    "title": "Tear gas fired at IUSF protesters near Education Ministry",
-    "url": "http://www.adaderana.lk/news/82974/tear-gas-fired-at-iusf-protesters-near-education-ministry",
-    "file_name": "/tmp/news_lk2/articles/99/994cc3fd.json"
   }
 ]
