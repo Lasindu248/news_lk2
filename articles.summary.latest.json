@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654965660,
+    "title": "COPE rebukes CEB for purchasing power at higher prices",
+    "url": "http://www.adaderana.lk/news/82999/cope-rebukes-ceb-for-purchasing-power-at-higher-prices",
+    "file_name": "/tmp/news_lk2/articles/51/51614f8c.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1654964880,
     "title": "Sri Lanka Railway lands to be leased for cultivation amid looming food shortage",
@@ -691,12 +698,5 @@
     "title": "Sri Lanka business tycoon Dhammika Perera appointed ruling party MP",
     "url": "https://economynext.com/sri-lanka-business-tycoon-dhammika-perera-appointed-ruling-party-mp-95591/",
     "file_name": "/tmp/news_lk2/articles/9e/9ed543c7.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654866840,
-    "title": "Dhammika Perera\u2019s name gazetted as SLPP MP",
-    "url": "http://www.adaderana.lk/news/82982/dhammika-pereras-name-gazetted-as-slpp-mp",
-    "file_name": "/tmp/news_lk2/articles/75/75ecd008.json"
   }
 ]
