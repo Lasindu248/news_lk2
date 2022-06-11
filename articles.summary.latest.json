@@ -1,6 +1,27 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654921800,
+    "title": "Investigations against Dilip Wedaarachchi\u2019s son, daughter in law  Weeraketiya OIC under death threat, Magistrate orders probe",
+    "url": "https://www.dailymirror.lk/front_page/Investigations-against-Dilip-Wedaarachchis-son-daughter-in-law-Weeraketiya-OIC-under-death-threat-Magistrate-orders-probe/238-238872",
+    "file_name": "/tmp/news_lk2/articles/08/08d439a1.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654921080,
+    "title": "MPR announced for local white and red rice",
+    "url": "http://www.adaderana.lk/news/82988/mpr-announced-for-local-white-and-red-rice",
+    "file_name": "/tmp/news_lk2/articles/d4/d4d5203d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654920300,
+    "title": "Get update on fuel availability",
+    "url": "https://www.dailymirror.lk/breaking_news/Get-update-on-fuel-availability/108-238920",
+    "file_name": "/tmp/news_lk2/articles/88/88e1b27a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654919580,
     "title": "Pavithra, Dhammika Perera to be Cabinet Ministers soon",
     "url": "https://www.dailymirror.lk/breaking_news/Pavithra-Dhammika-Perera-to-be-Cabinet-Ministers-soon/108-238918",
@@ -12,6 +33,13 @@
     "title": "LG Polls to be held after September 20",
     "url": "https://www.dailymirror.lk/latest_news/LG-Polls-to-be-held-after-September-20/342-238917",
     "file_name": "/tmp/news_lk2/articles/aa/aaf578f2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654918980,
+    "title": "LG Polls to be held after September 20",
+    "url": "https://www.dailymirror.lk/breaking_news/LG-Polls-to-be-held-after-September-20/108-238917",
+    "file_name": "/tmp/news_lk2/articles/57/5772e591.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -33,6 +61,13 @@
     "title": "Sri Lanka Central Bank executive warn PM over Governor appointment",
     "url": "https://economynext.com/sri-lanka-central-bank-executive-warn-pm-over-governor-appointment-95595/",
     "file_name": "/tmp/news_lk2/articles/d2/d277e4d0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654906560,
+    "title": "TUI further extends cancellation of holidays and flights to SL",
+    "url": "https://www.dailymirror.lk/breaking_news/TUI-further-extends-cancellation-of-holidays-and-flights-to-SL/108-238896",
+    "file_name": "/tmp/news_lk2/articles/ab/abc42ee4.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -124,6 +159,13 @@
     "title": "Vijjtha Herath resigns as Litro Gas Chairman",
     "url": "https://www.ft.lk/news/Vijjtha-Herath-resigns-as-Litro-Gas-Chairman/56-736048",
     "file_name": "/tmp/news_lk2/articles/3a/3a57a0bd.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654888860,
+    "title": "IMF says can\u2019t affirm magnitude of financing for Sri Lanka",
+    "url": "https://www.dailymirror.lk/breaking_news/IMF-says-cant-affirm-magnitude-of-financing-for-Sri-Lanka/108-238900",
+    "file_name": "/tmp/news_lk2/articles/7d/7d98438e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -656,47 +698,5 @@
     "title": "Utilize prevailing Acts to compensate for lost lives, property during recent commotions: Dinesh",
     "url": "https://www.dailymirror.lk/latest_news/Utilize-prevailing-Acts-to-compensate-for-lost-lives-property-during-recent-commotions-Dinesh/342-238835",
     "file_name": "/tmp/news_lk2/articles/20/200b7b0b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654844460,
-    "title": "Utilize prevailing Acts to compensate for lost lives, property during recent commotions: Dinesh",
-    "url": "https://www.dailymirror.lk/breaking_news/Utilize-prevailing-Acts-to-compensate-for-lost-lives-property-during-recent-commotions-Dinesh/108-238835",
-    "file_name": "/tmp/news_lk2/articles/34/34197259.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654843740,
-    "title": "CPU assistance sought to conduct impartial probe: PM",
-    "url": "https://www.dailymirror.lk/latest_news/CPU-assistance-sought-to-conduct-impartial-probe-PM/342-238834",
-    "file_name": "/tmp/news_lk2/articles/67/67752a25.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654843740,
-    "title": "CPU assistance sought to conduct impartial probe: PM",
-    "url": "https://www.dailymirror.lk/breaking_news/CPU-assistance-sought-to-conduct-impartial-probe-PM/108-238834",
-    "file_name": "/tmp/news_lk2/articles/d1/d1280a73.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654842720,
-    "title": "Sri Lanka: Education authorities to discuss limiting school days",
-    "url": "https://www.newsfirst.lk/2022/06/10/sri-lanka-education-authorities-to-discuss-limiting-school-days/",
-    "file_name": "/tmp/news_lk2/articles/71/71bc1ddb.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654842480,
-    "title": "Risk of dengue spreading again, cases in WP rise: Dr. Samaraweera",
-    "url": "https://www.dailymirror.lk/breaking_news/Risk-of-dengue-spreading-again-cases-in-WP-rise-Dr-Samaraweera/108-238833",
-    "file_name": "/tmp/news_lk2/articles/bb/bb47fe57.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654842480,
-    "title": "Risk of dengue spreading again, cases in WP rise: Dr. Samaraweera",
-    "url": "https://www.dailymirror.lk/latest_news/Risk-of-dengue-spreading-again-cases-in-WP-rise-Dr-Samaraweera/342-238833",
-    "file_name": "/tmp/news_lk2/articles/98/98e30459.json"
   }
 ]
