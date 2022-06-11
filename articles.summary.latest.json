@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654925820,
+    "title": "US to drop Covid-19 test requirement for air travellers",
+    "url": "http://www.adaderana.lk/news/82990/us-to-drop-covid-19-test-requirement-for-air-travellers",
+    "file_name": "/tmp/news_lk2/articles/7c/7c26556b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654923180,
     "title": "President gives directives to conduct formal study of public service",
     "url": "http://www.adaderana.lk/news/82989/president-gives-directives-to-conduct-formal-study-of-public-service",
@@ -385,6 +392,13 @@
     "file_name": "/tmp/news_lk2/articles/aa/aae02c75.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654867980,
+    "title": "Sri Lanka\u2019s state-run Litro Gas chairman Vijitha Herath resigns",
+    "url": "https://economynext.com/sri-lankas-state-run-litro-gas-chairman-vijitha-herath-resigns-95592/",
+    "file_name": "/tmp/news_lk2/articles/42/42827441.json"
+  },
+  {
     "newspaper_id": "island-lk",
     "time_ut": 1654867980,
     "title": "Watch the Australia tour of Sri Lanka 2022 live on Dialog Television",
@@ -684,19 +698,5 @@
     "title": "Dhammika to replace Basil",
     "url": "https://www.dailymirror.lk/latest_news/Dhammika-to-replace-Basil/342-238838",
     "file_name": "/tmp/news_lk2/articles/fe/fe07324d.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654849440,
-    "title": "IUSF Protest tear gassed near Education Ministry",
-    "url": "https://www.newsfirst.lk/2022/06/10/iusf-protest-tear-gassed-near-education-ministry/",
-    "file_name": "/tmp/news_lk2/articles/89/89f81b8f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654848660,
-    "title": "SLPP wants Dhammika Perera in Parliament through National List; Submission made to Election Commission",
-    "url": "https://www.newsfirst.lk/2022/06/10/slpp-wants-dhammika-perera-in-parliament-through-national-list-submission-made-to-election-commission/",
-    "file_name": "/tmp/news_lk2/articles/3d/3dbdb56a.json"
   }
 ]
