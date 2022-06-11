@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654981980,
+    "title": "China assures support to jointly tackle Sri Lanka\u2019s crisis situation",
+    "url": "http://www.adaderana.lk/news/83000/china-assures-support-to-jointly-tackle-sri-lankas-crisis-situation",
+    "file_name": "/tmp/news_lk2/articles/26/26f9d68e.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654969680,
     "title": "Shanaka blinder denies Australia a clean sweep",
@@ -691,12 +698,5 @@
     "title": "Sri Lanka\u2019s sate-run Litro Gas chairman Vijitha Herath resigns",
     "url": "https://economynext.com/sri-lankas-sate-run-litro-gas-chairman-vijitha-herath-resigns-95592/",
     "file_name": "/tmp/news_lk2/articles/aa/aae02c75.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654867980,
-    "title": "Sri Lanka\u2019s state-run Litro Gas chairman Vijitha Herath resigns",
-    "url": "https://economynext.com/sri-lankas-state-run-litro-gas-chairman-vijitha-herath-resigns-95592/",
-    "file_name": "/tmp/news_lk2/articles/42/42827441.json"
   }
 ]
