@@ -2,9 +2,44 @@
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654923180,
+    "title": "President gives directives to conduct formal study of public service",
+    "url": "http://www.adaderana.lk/news/82989/president-gives-directives-to-conduct-formal-study-of-public-service",
+    "file_name": "/tmp/news_lk2/articles/6d/6d0f2e36.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654923180,
     "title": "President directs to conduct formal study of public service",
     "url": "http://www.adaderana.lk/news/82989/president-directs-to-conduct-formal-study-of-public-service",
     "file_name": "/tmp/news_lk2/articles/70/7044c883.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654922100,
+    "title": "CID arrests another suspect for murder of former Parliamentarian",
+    "url": "https://www.newsfirst.lk/2022/06/11/cid-arrests-another-suspect-for-murder-of-former-parliamentarian/",
+    "file_name": "/tmp/news_lk2/articles/e8/e82923e9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654921920,
+    "title": "Control price to be imposed for sugar",
+    "url": "https://www.newsfirst.lk/2022/06/11/control-price-to-be-imposed-for-sugar/",
+    "file_name": "/tmp/news_lk2/articles/7c/7c9aaa02.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654921920,
+    "title": "COPE probes CEB importation of substandard generators",
+    "url": "https://www.newsfirst.lk/2022/06/11/cope-probes-ceb-importation-of-substandard-generators/",
+    "file_name": "/tmp/news_lk2/articles/56/565e5bd4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654921860,
+    "title": "Maximum services to public despite fuel crisis: NTC",
+    "url": "https://www.newsfirst.lk/2022/06/11/maximum-services-to-public-despite-fuel-crisis-ntc/",
+    "file_name": "/tmp/news_lk2/articles/52/52a3f028.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -12,6 +47,13 @@
     "title": "Investigations against Dilip Wedaarachchi\u2019s son, daughter in law  Weeraketiya OIC under death threat, Magistrate orders probe",
     "url": "https://www.dailymirror.lk/front_page/Investigations-against-Dilip-Wedaarachchis-son-daughter-in-law-Weeraketiya-OIC-under-death-threat-Magistrate-orders-probe/238-238872",
     "file_name": "/tmp/news_lk2/articles/08/08d439a1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654921620,
+    "title": "Consumers required to register at nearest filling station",
+    "url": "https://www.newsfirst.lk/2022/06/11/consumers-required-to-register-at-nearest-filling-station/",
+    "file_name": "/tmp/news_lk2/articles/f7/f79dc79b.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -656,47 +698,5 @@
     "title": "SLPP wants Dhammika Perera in Parliament through National List; Submission made to Election Commission",
     "url": "https://www.newsfirst.lk/2022/06/10/slpp-wants-dhammika-perera-in-parliament-through-national-list-submission-made-to-election-commission/",
     "file_name": "/tmp/news_lk2/articles/3d/3dbdb56a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654848600,
-    "title": "Vaccination drive at Viharamahadevi Park",
-    "url": "https://www.dailymirror.lk/latest_news/Vaccination-drive-at-Viharamahadevi-Park/342-238837",
-    "file_name": "/tmp/news_lk2/articles/d8/d80fc2d5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654848600,
-    "title": "Vaccination drive at Viharamahadevi Park",
-    "url": "https://www.dailymirror.lk/caption_story/Vaccination-drive-at-Viharamahadevi-Park/110-238837",
-    "file_name": "/tmp/news_lk2/articles/1b/1bfe29ef.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654847760,
-    "title": "Dhammika Perera officially submits consent to accept MP seat",
-    "url": "http://www.adaderana.lk/news/82973/dhammika-perera-officially-submits-consent-to-accept-mp-seat",
-    "file_name": "/tmp/news_lk2/articles/de/de8fc651.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654847760,
-    "title": "Dhammika Perera decides to accept SLPP National List MP seat",
-    "url": "http://www.adaderana.lk/news/82973/dhammika-perera-decides-to-accept-slpp-national-list-mp-seat",
-    "file_name": "/tmp/news_lk2/articles/cf/cf80cb10.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654847460,
-    "title": "Sri Lanka\u2019s utility regulator to serve enforcement order on CEB over TU action",
-    "url": "https://economynext.com/sri-lankas-utility-regulator-to-serve-enforcement-order-on-ceb-over-tu-action-95577/",
-    "file_name": "/tmp/news_lk2/articles/cc/cca75d4c.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654846140,
-    "title": "Japan eases foreign tourism ban, allows guided package tours",
-    "url": "http://www.adaderana.lk/news/82972/japan-eases-foreign-tourism-ban-allows-guided-package-tours",
-    "file_name": "/tmp/news_lk2/articles/d8/d8be75b8.json"
   }
 ]
