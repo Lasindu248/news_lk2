@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654969680,
+    "title": "Shanaka blinder denies Australia a clean sweep",
+    "url": "https://www.dailymirror.lk/breaking_news/Shanaka-blinder-denies-Australia-a-clean-sweep/108-238927",
+    "file_name": "/tmp/news_lk2/articles/82/82dd69b2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654969080,
+    "title": "Prez denies undue authorisation for wind power project",
+    "url": "https://www.dailymirror.lk/breaking_news/Prez-denies-undue-authorisation-for-wind-power-project/108-238926",
+    "file_name": "/tmp/news_lk2/articles/ba/ba62a20f.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654965660,
     "title": "COPE rebukes CEB for purchasing power at higher prices",
@@ -684,19 +698,5 @@
     "title": "Alpha Fire Services debuts trading on CSE",
     "url": "http://island.lk/alpha-fire-services-debuts-trading-on-cse/",
     "file_name": "/tmp/news_lk2/articles/68/687cd148.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654867320,
-    "title": "New approaches required to attract tourists \u2013 President",
-    "url": "https://www.newsfirst.lk/2022/06/10/new-approaches-required-to-attract-tourists-president/",
-    "file_name": "/tmp/news_lk2/articles/d7/d74c7b53.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654866900,
-    "title": "Sri Lanka business tycoon Dhammika Perera appointed ruling party MP",
-    "url": "https://economynext.com/sri-lanka-business-tycoon-dhammika-perera-appointed-ruling-party-mp-95591/",
-    "file_name": "/tmp/news_lk2/articles/9e/9ed543c7.json"
   }
 ]
