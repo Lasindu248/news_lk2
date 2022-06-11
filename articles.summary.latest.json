@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654944540,
+    "title": "China announces medicine donation to Polonnaruwa Nephrology Hospital",
+    "url": "http://www.adaderana.lk/news/82995/china-announces-medicine-donation-to-polonnaruwa-nephrology-hospital",
+    "file_name": "/tmp/news_lk2/articles/8e/8e00561e.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1654943040,
     "title": "Power cut schedule for next week announced: One hour power cut on Poson Poya day",
@@ -691,12 +698,5 @@
     "title": "Sri Lanka signs MoU with India\u2019s EXIM bank for USD 55mn credit line for urea imports",
     "url": "https://economynext.com/sri-lanka-signs-mou-with-indias-exim-bank-for-usd-55mn-credit-line-for-urea-imports-95586/",
     "file_name": "/tmp/news_lk2/articles/7f/7f28af84.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654858560,
-    "title": "Sri Lanka inks US $ 55 Mn loan with Indian Exim Bank for Urea procurement",
-    "url": "https://www.newsfirst.lk/2022/06/10/sri-lanka-inks-us-55-mn-loan-with-indian-exim-bank-for-urea-procurement/",
-    "file_name": "/tmp/news_lk2/articles/fc/fcb4c913.json"
   }
 ]
