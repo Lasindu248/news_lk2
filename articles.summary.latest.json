@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1654960080,
+    "title": "Two dead in Lunuwewa drowning",
+    "url": "https://www.newsfirst.lk/2022/06/11/two-dead-in-lunuwewa-drowning/",
+    "file_name": "/tmp/news_lk2/articles/02/02a9aad8.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1654955340,
     "title": "President denies CEB chief\u2019s remarks on Mannar wind power project",
@@ -691,12 +698,5 @@
     "title": "School holiday on Monday: Ministry",
     "url": "https://www.dailymirror.lk/latest_news/School-holiday-on-Monday-Ministry/342-238853",
     "file_name": "/tmp/news_lk2/articles/62/62657567.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654864680,
-    "title": "Litro Chairman resigns after less than two months on the job",
-    "url": "https://www.newsfirst.lk/2022/06/10/litro-chairman-resigns-after-less-than-two-months-on-the-job/",
-    "file_name": "/tmp/news_lk2/articles/41/41b29242.json"
   }
 ]
