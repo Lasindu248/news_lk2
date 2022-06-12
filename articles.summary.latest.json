@@ -651,6 +651,20 @@
     "file_name": "/tmp/news_lk2/articles/41/41def61c.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654871580,
+    "title": "CRUELTY",
+    "url": "http://island.lk/cruelty/",
+    "file_name": "/tmp/news_lk2/articles/60/6089a44a.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1654870620,
+    "title": "ITC One Colombo development achieves key milestones towards 2023 completion",
+    "url": "http://island.lk/itc-one-colombo-development-achieves-key-milestones-towards-2023-completion/",
+    "file_name": "/tmp/news_lk2/articles/a1/a15f9e58.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654870440,
     "title": "\u201cI will speak of the Batalanda Report\u201d \u2013 Shanakiyan hits back at PM",
@@ -679,24 +693,10 @@
     "file_name": "/tmp/news_lk2/articles/5e/5ef9425b.json"
   },
   {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654868160,
-    "title": "13th June \u2013 A holiday for Government & Govt-approved private schools",
-    "url": "https://www.newsfirst.lk/2022/06/10/13th-june-a-holiday-for-government-govt-approved-private-schools/",
-    "file_name": "/tmp/news_lk2/articles/a2/a29957c4.json"
-  },
-  {
     "newspaper_id": "island-lk",
-    "time_ut": 1654868040,
-    "title": "Sunshine Holdings appoints S. Renganathan to its Board of Directors",
-    "url": "http://island.lk/sunshine-holdings-appoints-s-renganathan-to-its-board-of-directors/",
-    "file_name": "/tmp/news_lk2/articles/98/98e3e91a.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654867980,
-    "title": "Sri Lanka\u2019s sate-run Litro Gas chairman Vijitha Herath resigns",
-    "url": "https://economynext.com/sri-lankas-sate-run-litro-gas-chairman-vijitha-herath-resigns-95592/",
-    "file_name": "/tmp/news_lk2/articles/aa/aae02c75.json"
+    "time_ut": 1654868160,
+    "title": "ZTE Blade V30 out",
+    "url": "http://island.lk/zte-blade-v30-out/",
+    "file_name": "/tmp/news_lk2/articles/dd/ddd9dee6.json"
   }
 ]
