@@ -8,6 +8,13 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655025540,
+    "title": "Protest erupts outside Dhammika Perera\u2019s house",
+    "url": "https://www.dailymirror.lk/latest_news/Protest-erupts-outside-Dhammika-Pereras-house/342-238941",
+    "file_name": "/tmp/news_lk2/articles/6c/6cde8328.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655024100,
     "title": "Nearly 32,000 passports issued within 10 days in June:  Immigration Dept.",
     "url": "https://www.dailymirror.lk/breaking_news/Nearly-32-000-passports-issued-within-10-days-in-June-Immigration-Dept/108-238939",
@@ -19,6 +26,13 @@
     "title": "Sri Lanka to introduce weekly fuel quota by July as costs shoot up",
     "url": "https://economynext.com/sri-lanka-to-introduce-weekly-fuel-quota-by-july-as-costs-shoot-up-95615/",
     "file_name": "/tmp/news_lk2/articles/7d/7d9f1fe6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655023620,
+    "title": "Protest opposite Dhammika Perera\u2019s residence",
+    "url": "https://www.newsfirst.lk/2022/06/12/protest-opposite-dhammika-pereras-residence/",
+    "file_name": "/tmp/news_lk2/articles/1b/1b12d3b5.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -54,6 +68,13 @@
     "title": "Sri Lanka\u2019s Low Grown tea prices shoots up to 5-week high in May 07 sale",
     "url": "https://economynext.com/sri-lankas-low-grown-tea-prices-shoots-up-to-5-week-high-in-may-07-sale-95614/",
     "file_name": "/tmp/news_lk2/articles/7e/7effb5ed.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655019000,
+    "title": "Sri Lanka\u2019s Low Grown tea prices shoot up to 5-week high in May 07 sale",
+    "url": "https://economynext.com/sri-lankas-low-grown-tea-prices-shoot-up-to-5-week-high-in-may-07-sale-95614/",
+    "file_name": "/tmp/news_lk2/articles/a8/a8e665f8.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -677,26 +698,5 @@
     "title": "Spells of showers expected in parts of the island",
     "url": "http://www.adaderana.lk/news/82987/spells-of-showers-expected-in-parts-of-the-island",
     "file_name": "/tmp/news_lk2/articles/11/113ae79a.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654911480,
-    "title": "Sri Lanka Central Bank executive warn PM over Governor appointment",
-    "url": "https://economynext.com/sri-lanka-central-bank-executive-warn-pm-over-governor-appointment-95595/",
-    "file_name": "/tmp/news_lk2/articles/d2/d277e4d0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654906560,
-    "title": "TUI further extends cancellation of holidays and flights to SL",
-    "url": "https://www.dailymirror.lk/breaking_news/TUI-further-extends-cancellation-of-holidays-and-flights-to-SL/108-238896",
-    "file_name": "/tmp/news_lk2/articles/ab/abc42ee4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654906560,
-    "title": "TUI further extends cancellation of holidays and flights to SL",
-    "url": "https://www.dailymirror.lk/business-news/TUI-further-extends-cancellation-of-holidays-and-flights-to-SL/273-238896",
-    "file_name": "/tmp/news_lk2/articles/5f/5f08ac65.json"
   }
 ]
