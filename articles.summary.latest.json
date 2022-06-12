@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655026200,
+    "title": "Foreign Minister meets Australia\u2019s Deputy PM in Singapore",
+    "url": "http://www.adaderana.lk/news/83008/foreign-minister-meets-australias-deputy-pm-in-singapore",
+    "file_name": "/tmp/news_lk2/articles/89/892829ac.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655024100,
     "title": "Nearly 32,000 passports issued within 10 days in June:  Immigration Dept.",
@@ -691,12 +698,5 @@
     "title": "TUI further extends cancellation of holidays and flights to SL",
     "url": "https://www.dailymirror.lk/business-news/TUI-further-extends-cancellation-of-holidays-and-flights-to-SL/273-238896",
     "file_name": "/tmp/news_lk2/articles/5f/5f08ac65.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654891620,
-    "title": "Re-visiting the \u201cSniper\u201d killing of Robert 19 years ago",
-    "url": "https://www.dailymirror.lk/plus/Re-visiting-the-Sniper-killing-of-Robert-19-years-ago/352-238914",
-    "file_name": "/tmp/news_lk2/articles/87/87aec959.json"
   }
 ]
