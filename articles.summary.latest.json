@@ -1,6 +1,20 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655033880,
+    "title": "SL v AUS Test in Galle to be dedicated to Shane Warne",
+    "url": "http://www.adaderana.lk/news/83010/sl-v-aus-test-in-galle-to-be-dedicated-to-shane-warne",
+    "file_name": "/tmp/news_lk2/articles/1f/1f3d0b17.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655031780,
+    "title": "Gas crisis worsening while ship with stocks remains anchored",
+    "url": "https://www.newsfirst.lk/2022/06/12/gas-crisis-worsening-while-ship-with-stocks-remains-anchored/",
+    "file_name": "/tmp/news_lk2/articles/6b/6b464411.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655029260,
     "title": "Protest opposite Dhammika Perera\u2019s residence",
     "url": "http://www.adaderana.lk/news/83009/protest-opposite-dhammika-pereras-residence",
@@ -684,19 +698,5 @@
     "title": "Investigations against Dilip Wedaarachchi\u2019s son, daughter in law  Weeraketiya OIC under death threat, Magistrate orders probe",
     "url": "https://www.dailymirror.lk/front_page/Investigations-against-Dilip-Wedaarachchis-son-daughter-in-law-Weeraketiya-OIC-under-death-threat-Magistrate-orders-probe/238-238872",
     "file_name": "/tmp/news_lk2/articles/08/08d439a1.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654921620,
-    "title": "Consumers required to register at nearest filling station",
-    "url": "https://www.newsfirst.lk/2022/06/11/consumers-required-to-register-at-nearest-filling-station/",
-    "file_name": "/tmp/news_lk2/articles/f7/f79dc79b.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654921080,
-    "title": "MRP announced for local raw rice",
-    "url": "http://www.adaderana.lk/news/82988/mrp-announced-for-local-raw-rice",
-    "file_name": "/tmp/news_lk2/articles/a5/a560ba88.json"
   }
 ]
