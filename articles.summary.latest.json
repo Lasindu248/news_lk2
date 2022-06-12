@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655009820,
+    "title": "Shanaka plays captain\u2019s knock",
+    "url": "https://www.dailymirror.lk/caption_story/Shanaka-plays-captains-knock/110-238929",
+    "file_name": "/tmp/news_lk2/articles/07/07c25407.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655007900,
     "title": "IGP report reveals lack of procedure for appointing OICs",
@@ -691,12 +698,5 @@
     "title": "Exim bank extends $55 mln credit line to Sri Lanka",
     "url": "https://www.dailymirror.lk/breaking_news/Exim-bank-extends-55-mln-credit-line-to-Sri-Lanka/108-238866",
     "file_name": "/tmp/news_lk2/articles/a2/a2d1fb37.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654879980,
-    "title": "IMF delegation to visit Sri Lanka on June 20 for talks",
-    "url": "http://www.adaderana.lk/news/82984/imf-delegation-to-visit-sri-lanka-on-june-20-for-talks",
-    "file_name": "/tmp/news_lk2/articles/85/859034b9.json"
   }
 ]
