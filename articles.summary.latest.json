@@ -135,6 +135,13 @@
   {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655054100,
+    "title": "Sri Lanka investment goods, non-foods import fall faster than oil bill in April 2022",
+    "url": "https://economynext.com/sri-lanka-investment-goods-non-foods-import-fall-faster-than-oil-bill-in-april-2022-95634/",
+    "file_name": "/tmp/news_lk2/articles/ed/edd6f472.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655054100,
     "title": "Sri Lanka investment goods, non-foods import fall overtakes oil cost in April 2022",
     "url": "https://economynext.com/sri-lanka-investment-goods-non-foods-import-fall-overtakes-oil-cost-in-april-2022-95634/",
     "file_name": "/tmp/news_lk2/articles/68/68c183d3.json"
@@ -691,12 +698,5 @@
     "title": "President denies CEB Chairman\u2019s claims on Wind Power Project to Adani",
     "url": "https://www.newsfirst.lk/2022/06/11/president-denies-ceb-chairmans-claims-on-wind-power-project-to-adani/",
     "file_name": "/tmp/news_lk2/articles/a4/a474dde1.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654952580,
-    "title": "Troops ready for Agri Revolution : Army Chief",
-    "url": "https://www.newsfirst.lk/2022/06/11/troops-ready-for-agri-revolution-army-chief/",
-    "file_name": "/tmp/news_lk2/articles/b9/b90d771b.json"
   }
 ]
