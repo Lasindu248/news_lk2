@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655049660,
+    "title": "PM fails to present solution to economic crisis even after a month: Gammanpila",
+    "url": "https://www.dailymirror.lk/breaking_news/PM-fails-to-present-solution-to-economic-crisis-even-after-a-month-Gammanpila/108-238944",
+    "file_name": "/tmp/news_lk2/articles/93/938e1bb0.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655048100,
     "title": "Over 500 LP gas cylinders found hidden inside warehouse in A\u2019pura",
@@ -691,12 +698,5 @@
     "title": "Police hunt for jewellery thief",
     "url": "https://www.newsfirst.lk/2022/06/11/police-hunt-for-jewellery-thief/",
     "file_name": "/tmp/news_lk2/articles/92/9293c297.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654930740,
-    "title": "WFP top official to visit Sri Lanka, says PM",
-    "url": "https://economynext.com/wfp-top-official-to-visit-sri-lanka-says-pm-95599/",
-    "file_name": "/tmp/news_lk2/articles/c7/c78a891f.json"
   }
 ]
