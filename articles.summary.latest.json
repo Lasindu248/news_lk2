@@ -196,6 +196,13 @@
     "file_name": "/tmp/news_lk2/articles/66/66fc350a.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655037720,
+    "title": "Sri Lanka to relax open account imports for 10 foods: Minister",
+    "url": "https://economynext.com/sri-lanka-to-relax-open-account-imports-for-10-foods-minister-95616/",
+    "file_name": "/tmp/news_lk2/articles/72/725fb058.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655035860,
     "title": "Uncultivated paddy lands to be acquired by govt for 5 years",
@@ -691,12 +698,5 @@
     "title": "Rolling power cuts scheduled from June 13-19",
     "url": "http://www.adaderana.lk/news/82996/rolling-power-cuts-scheduled-from-june-13-19-",
     "file_name": "/tmp/news_lk2/articles/6e/6e5c403d.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654945560,
-    "title": "Sri Lanka rupee commercial banks\u2019 weekly quote against USD steady",
-    "url": "https://economynext.com/sri-lanka-rupee-commercial-banks-weekly-quote-against-usd-steady-95603/",
-    "file_name": "/tmp/news_lk2/articles/82/82095782.json"
   }
 ]
