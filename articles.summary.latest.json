@@ -1,6 +1,20 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655022540,
+    "title": "SL vs AUS test in Galle  to be dedicated to legendary Shane Warne",
+    "url": "https://www.dailymirror.lk/breaking_news/SL-vs-AUS-test-in-Galle-to-be-dedicated-to-legendary-Shane-Warne/108-238938",
+    "file_name": "/tmp/news_lk2/articles/ee/ee07b37e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655021400,
+    "title": "No need to stockpile rice: Minister Amaraweera",
+    "url": "https://www.newsfirst.lk/2022/06/12/no-need-to-stockpile-rice-minister-amaraweera/",
+    "file_name": "/tmp/news_lk2/articles/2d/2dae9acf.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655019360,
     "title": "Man arrested for sexual abuse on Russian woman in Kalutara",
     "url": "https://www.dailymirror.lk/breaking_news/Man-arrested-for-sexual-abuse-on-Russian-woman-in-Kalutara/108-238936",
@@ -684,19 +698,5 @@
     "title": "Their name is \u2018tomorrow\u2019",
     "url": "https://www.dailymirror.lk/opinion/Their-name-is-tomorrow/172-238913",
     "file_name": "/tmp/news_lk2/articles/af/af6ab85b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654891020,
-    "title": "Food crisis and home gardening",
-    "url": "https://www.dailymirror.lk/opinion/Food-crisis-and-home-gardening/172-238912",
-    "file_name": "/tmp/news_lk2/articles/f9/f9eae1e0.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654890840,
-    "title": "SDJF promotes investigative journalism among university students",
-    "url": "https://www.ft.lk/news/SDJF-promotes-investigative-journalism-among-university-students/56-736054",
-    "file_name": "/tmp/news_lk2/articles/a5/a5018087.json"
   }
 ]
