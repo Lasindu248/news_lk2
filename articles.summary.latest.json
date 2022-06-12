@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655040300,
+    "title": "Remittances drop by 33% since last May",
+    "url": "https://www.newsfirst.lk/2022/06/12/remittances-drop-by-33-since-last-may/",
+    "file_name": "/tmp/news_lk2/articles/ff/ffa419e6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655038320,
+    "title": "CBSL receives over 50,000 USD to import essentials",
+    "url": "https://www.newsfirst.lk/2022/06/12/cbsl-receives-over-50000-usd-to-import-essentials/",
+    "file_name": "/tmp/news_lk2/articles/3b/3ba8254b.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655037720,
     "title": "Sri Lanka to relax open account imports for 8 foods: Minister",
@@ -684,19 +698,5 @@
     "title": "CID arrests another suspect for murder of former Parliamentarian",
     "url": "https://www.newsfirst.lk/2022/06/11/cid-arrests-another-suspect-for-murder-of-former-parliamentarian/",
     "file_name": "/tmp/news_lk2/articles/e8/e82923e9.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654921920,
-    "title": "Control price to be imposed for sugar",
-    "url": "https://www.newsfirst.lk/2022/06/11/control-price-to-be-imposed-for-sugar/",
-    "file_name": "/tmp/news_lk2/articles/7c/7c9aaa02.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654921920,
-    "title": "COPE probes CEB importation of substandard generators",
-    "url": "https://www.newsfirst.lk/2022/06/11/cope-probes-ceb-importation-of-substandard-generators/",
-    "file_name": "/tmp/news_lk2/articles/56/565e5bd4.json"
   }
 ]
