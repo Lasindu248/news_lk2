@@ -3,6 +3,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655049660,
     "title": "PM fails to present solution to economic crisis even after a month: Gammanpila",
+    "url": "https://www.dailymirror.lk/latest_news/PM-fails-to-present-solution-to-economic-crisis-even-after-a-month-Gammanpila/342-238944",
+    "file_name": "/tmp/news_lk2/articles/0e/0e86f597.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655049660,
+    "title": "PM fails to present solution to economic crisis even after a month: Gammanpila",
     "url": "https://www.dailymirror.lk/breaking_news/PM-fails-to-present-solution-to-economic-crisis-even-after-a-month-Gammanpila/108-238944",
     "file_name": "/tmp/news_lk2/articles/93/938e1bb0.json"
   },
@@ -19,6 +26,13 @@
     "title": "Mattala Airport running at monthly loss of Rs. 10 Mn : Minister",
     "url": "https://www.dailymirror.lk/breaking_news/Mattala-Airport-running-at-monthly-loss-of-Rs-10-Mn-Minister/108-238943",
     "file_name": "/tmp/news_lk2/articles/25/25e38c30.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655047560,
+    "title": "Mattala Airport running at monthly loss of Rs. 10 Mn : Minister",
+    "url": "https://www.dailymirror.lk/latest_news/Mattala-Airport-running-at-monthly-loss-of-Rs-10-Mn-Minister/342-238943",
+    "file_name": "/tmp/news_lk2/articles/da/da0f2e32.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -236,6 +250,13 @@
     "title": "Sri Lanka\u2019s Low Grown tea prices shoot up to 5-week high in May 07 sale",
     "url": "https://economynext.com/sri-lankas-low-grown-tea-prices-shoot-up-to-5-week-high-in-may-07-sale-95614/",
     "file_name": "/tmp/news_lk2/articles/a8/a8e665f8.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655019000,
+    "title": "Sri Lanka tea prices hit record in May amid currency collapse",
+    "url": "https://economynext.com/sri-lanka-tea-prices-hit-record-in-may-amid-currency-collapse-95614/",
+    "file_name": "/tmp/news_lk2/articles/62/62f0c631.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -677,26 +698,5 @@
     "title": "UK lifts \u2018all but essential\u2019 travel restriction",
     "url": "https://www.newsfirst.lk/2022/06/11/uk-lifts-all-but-essential-travel-restriction/",
     "file_name": "/tmp/news_lk2/articles/34/34215632.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654932600,
-    "title": "SLvAUS: Sri Lanka call replacements to cover injuries",
-    "url": "https://www.newsfirst.lk/2022/06/11/slvaus-sri-lanka-call-replacements-to-cover-injuries/",
-    "file_name": "/tmp/news_lk2/articles/36/36b802ea.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654931340,
-    "title": "WFP assistance to resume Thriposha production",
-    "url": "https://www.newsfirst.lk/2022/06/11/wfp-assistance-to-resume-thriposha-production/",
-    "file_name": "/tmp/news_lk2/articles/6e/6e70bf92.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654930980,
-    "title": "Police hunt for jewellery thief",
-    "url": "https://www.newsfirst.lk/2022/06/11/police-hunt-for-jewellery-thief/",
-    "file_name": "/tmp/news_lk2/articles/92/9293c297.json"
   }
 ]
