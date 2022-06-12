@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655019360,
+    "title": "Man arrested for sexual abuse on Russian woman in Kalutara",
+    "url": "https://www.dailymirror.lk/breaking_news/Man-arrested-for-sexual-abuse-on-Russian-woman-in-Kalutara/108-238936",
+    "file_name": "/tmp/news_lk2/articles/b0/b0ca2011.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655019000,
     "title": "Sri Lanka\u2019s Low Grown tea prices shoots up to 5-week high in May 07 sale",
@@ -691,12 +698,5 @@
     "title": "SDJF promotes investigative journalism among university students",
     "url": "https://www.ft.lk/news/SDJF-promotes-investigative-journalism-among-university-students/56-736054",
     "file_name": "/tmp/news_lk2/articles/a5/a5018087.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654890780,
-    "title": "Foreign Minister Peiris seeks support from Singapore",
-    "url": "https://www.ft.lk/news/Foreign-Minister-Peiris-seeks-support-from-Singapore/56-736053",
-    "file_name": "/tmp/news_lk2/articles/19/19220994.json"
   }
 ]
