@@ -1,6 +1,20 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655000820,
+    "title": "CEB chairman issues apology, withdraws controversial statement at COPE",
+    "url": "http://www.adaderana.lk/news/83002/ceb-chairman-issues-apology-withdraws-controversial-statement-at-cope",
+    "file_name": "/tmp/news_lk2/articles/7f/7fcf3acc.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1654999440,
+    "title": "Showers to occur at times in several provinces and districts",
+    "url": "http://www.adaderana.lk/news/83001/showers-to-occur-at-times-in-several-provinces-and-districts",
+    "file_name": "/tmp/news_lk2/articles/10/1070d8dd.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1654981980,
     "title": "China assures support to jointly tackle Sri Lanka\u2019s crisis situation",
     "url": "http://www.adaderana.lk/news/83000/china-assures-support-to-jointly-tackle-sri-lankas-crisis-situation",
@@ -21,6 +35,13 @@
     "file_name": "/tmp/news_lk2/articles/ba/ba62a20f.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1654969080,
+    "title": "Prez denies undue authorisation for wind power project",
+    "url": "https://www.dailymirror.lk/top_story/Prez-denies-undue-authorisation-for-wind-power-project/155-238926",
+    "file_name": "/tmp/news_lk2/articles/20/20c45122.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1654967940,
     "title": "ADANI FIASCO: CEB Chairman admits he lied; says he got \u2019emotional\u2019",
@@ -33,6 +54,13 @@
     "title": "COPE rebukes CEB for purchasing power at higher prices",
     "url": "http://www.adaderana.lk/news/82999/cope-rebukes-ceb-for-purchasing-power-at-higher-prices",
     "file_name": "/tmp/news_lk2/articles/51/51614f8c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654964880,
+    "title": "Sri Lanka Railway lands to be leased for cultivation amid food scare",
+    "url": "https://economynext.com/sri-lanka-railway-lands-to-be-leased-for-cultivation-amid-food-scare-95608/",
+    "file_name": "/tmp/news_lk2/articles/89/89fb3af1.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -145,6 +173,13 @@
     "title": "Sri Lanka rupee commercial banks\u2019 weekly quote against USD steady",
     "url": "https://economynext.com/sri-lanka-rupee-commercial-banks-weekly-quote-against-usd-steady-95603/",
     "file_name": "/tmp/news_lk2/articles/82/82095782.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1654945560,
+    "title": "Sri Lanka rupee quoted 367 to TT dollar",
+    "url": "https://economynext.com/sri-lanka-rupee-quoted-367-to-tt-dollar-95603/",
+    "file_name": "/tmp/news_lk2/articles/22/2264cc39.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -663,40 +698,5 @@
     "title": "ITC One Colombo development achieves key milestones towards 2023 completion",
     "url": "http://island.lk/itc-one-colombo-development-achieves-key-milestones-towards-2023-completion/",
     "file_name": "/tmp/news_lk2/articles/a1/a15f9e58.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654870440,
-    "title": "\u201cI will speak of the Batalanda Report\u201d \u2013 Shanakiyan hits back at PM",
-    "url": "https://www.newsfirst.lk/2022/06/10/i-will-speak-of-the-batalanda-report-shanakiyan-hits-back-at-pm/",
-    "file_name": "/tmp/news_lk2/articles/7c/7cd92ede.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654870200,
-    "title": "Schools closed on June 13",
-    "url": "http://www.adaderana.lk/news/82983/schools-closed-on-june-13",
-    "file_name": "/tmp/news_lk2/articles/e3/e31e4cea.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654870020,
-    "title": "Customs hand over 24,000 kg of apples to Dehiwala zoo",
-    "url": "https://www.dailymirror.lk/breaking_news/Customs-hand-over-24-000-kg-of-apples-to-Dehiwala-zoo/108-238855",
-    "file_name": "/tmp/news_lk2/articles/6e/6e984410.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654870020,
-    "title": "Customs hand over 24,000 kg of apples to Dehiwala zoo",
-    "url": "https://www.dailymirror.lk/latest_news/Customs-hand-over-24-000-kg-of-apples-to-Dehiwala-zoo/342-238855",
-    "file_name": "/tmp/news_lk2/articles/5e/5ef9425b.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1654868160,
-    "title": "ZTE Blade V30 out",
-    "url": "http://island.lk/zte-blade-v30-out/",
-    "file_name": "/tmp/news_lk2/articles/dd/ddd9dee6.json"
   }
 ]
