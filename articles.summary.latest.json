@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655013780,
+    "title": "38 arrested as navy intercepts Australia-bound fishing trawler",
+    "url": "http://www.adaderana.lk/news/83005/38-arrested-as-navy-intercepts-australia-bound-fishing-trawler",
+    "file_name": "/tmp/news_lk2/articles/a5/a53166da.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655012400,
+    "title": "Sri Lanka open to buying Russian oil, accepting China\u2019s financial help - PM",
+    "url": "http://www.adaderana.lk/news/83004/sri-lanka-open-to-buying-russian-oil-accepting-chinas-financial-help-pm",
+    "file_name": "/tmp/news_lk2/articles/53/5334c77d.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655010360,
     "title": "38 persons attempting to illegally migrate to Australia arrested",
@@ -684,19 +698,5 @@
     "title": "UN World Food Program chief to visit Sri Lanka soon",
     "url": "http://www.adaderana.lk/news/82986/un-world-food-program-chief-to-visit-sri-lanka-soon",
     "file_name": "/tmp/news_lk2/articles/a7/a734cd42.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654883220,
-    "title": "UNICEF appeals for US$ 25 Mn for Sri Lankan kids",
-    "url": "https://www.newsfirst.lk/2022/06/10/unicef-appeals-for-us-25-mn-for-sri-lankan-kids/",
-    "file_name": "/tmp/news_lk2/articles/08/08bb692c.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654882500,
-    "title": "MRP fixed for White/ Red Raw Rice at Rs. 210/- per kg",
-    "url": "https://www.newsfirst.lk/2022/06/10/mrp-fixed-for-white-red-raw-rice-at-rs-210-per-kg/",
-    "file_name": "/tmp/news_lk2/articles/f8/f8dbc99b.json"
   }
 ]
