@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655060280,
+    "title": "\u2018BJP\u2019s cronyism has crossed Palk Strait\u2019: Rahul Gandhi slams Modi govt over Sri Lanka power project",
+    "url": "http://www.adaderana.lk/news/83016/bjps-cronyism-has-crossed-palk-strait-rahul-gandhi-slams-modi-govt-over-sri-lanka-power-project",
+    "file_name": "/tmp/news_lk2/articles/b2/b21a9428.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655059380,
+    "title": "Foreign Ministry\u2019s Consular Affairs Division open for limited services on Monday",
+    "url": "http://www.adaderana.lk/news/83015/foreign-ministrys-consular-affairs-division-open-for-limited-services-on-monday",
+    "file_name": "/tmp/news_lk2/articles/db/dbcb757d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655058600,
+    "title": "JAT Holdings posts best ever FY on record, delivers IPO promise",
+    "url": "https://www.ft.lk/business/JAT-Holdings-posts-best-ever-FY-on-record-delivers-IPO-promise/34-736077",
+    "file_name": "/tmp/news_lk2/articles/f4/f43a8ca7.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655054100,
     "title": "Sri Lanka investment goods, non-foods import fall overtakes oil cost in April 2022",
@@ -677,26 +698,5 @@
     "title": "Indian PM insisted power project be awarded to Adani : CEB Chief reveals to COPE",
     "url": "https://www.newsfirst.lk/2022/06/11/indian-pm-insisted-power-project-be-awarded-to-adani-ceb-chief-reveals-to-cope/",
     "file_name": "/tmp/news_lk2/articles/a4/a429665f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654937400,
-    "title": "Modi insisted Sri Lanka Power Project awarded to Adani: CEB Chief reveals to COPE",
-    "url": "https://www.newsfirst.lk/2022/06/11/modi-insisted-sri-lanka-power-project-awarded-to-adani-ceb-chief-reveals-to-cope/",
-    "file_name": "/tmp/news_lk2/articles/07/0799ff05.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654934700,
-    "title": "All liquor stores to remain closed on Poson Poya",
-    "url": "https://www.newsfirst.lk/2022/06/11/all-liquor-stores-to-remain-closed-on-poson-poya/",
-    "file_name": "/tmp/news_lk2/articles/b2/b2e57e5e.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654934220,
-    "title": "Moratuwa University lecturers breach nearly Rs. 52 Mn in contracts, bonds - COPE",
-    "url": "http://www.adaderana.lk/news/82992/moratuwa-university-lecturers-breach-nearly-rs-52-mn-in-contracts-bonds-cope",
-    "file_name": "/tmp/news_lk2/articles/8c/8c8bdce0.json"
   }
 ]
