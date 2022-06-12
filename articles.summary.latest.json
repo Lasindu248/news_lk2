@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655019000,
+    "title": "Sri Lanka\u2019s Low Grown tea prices shoots up to 5-week high in May 07 sale",
+    "url": "https://economynext.com/sri-lankas-low-grown-tea-prices-shoots-up-to-5-week-high-in-may-07-sale-95614/",
+    "file_name": "/tmp/news_lk2/articles/7e/7effb5ed.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655017860,
+    "title": "No choice but to register consumers at filling stations and give weekly fuel quota \u2013 Minister",
+    "url": "http://www.adaderana.lk/news/83007/no-choice-but-to-register-consumers-at-filling-stations-and-give-weekly-fuel-quota-minister",
+    "file_name": "/tmp/news_lk2/articles/2f/2fb02373.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655017440,
+    "title": "May 9th violence: Arrests climb over 2,700",
+    "url": "https://www.newsfirst.lk/2022/06/12/may-9th-violence-arrests-climb-over-2700/",
+    "file_name": "/tmp/news_lk2/articles/de/deaafea5.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655015940,
     "title": "Minister says no choice left; motorists to register at filling stations",
@@ -19,6 +40,13 @@
     "title": "Fuel Crisis: Sri Lanka to register consumers for weekly fuel quota",
     "url": "https://www.newsfirst.lk/2022/06/12/fuel-crisis-sri-lanka-to-register-consumers-for-weekly-fuel-quota/",
     "file_name": "/tmp/news_lk2/articles/e9/e943ee01.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655014680,
+    "title": "North & East school attendance at a high",
+    "url": "https://www.newsfirst.lk/2022/06/12/north-east-school-attendance-at-a-high/",
+    "file_name": "/tmp/news_lk2/articles/b2/b2163d6f.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -670,33 +698,5 @@
     "title": "Foreign Minister Peiris seeks support from Singapore",
     "url": "https://www.ft.lk/news/Foreign-Minister-Peiris-seeks-support-from-Singapore/56-736053",
     "file_name": "/tmp/news_lk2/articles/19/19220994.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654890720,
-    "title": "Japan hopes Sri Lanka PM would bring lasting solution to improve economic situation",
-    "url": "https://www.ft.lk/news/Japan-hopes-Sri-Lanka-PM-would-bring-lasting-solution-to-improve-economic-situation/56-736052",
-    "file_name": "/tmp/news_lk2/articles/52/522314a4.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654890660,
-    "title": "MPs come together to express condolence on slain MP Amarakeerthi Atukorala",
-    "url": "https://www.ft.lk/news/MPs-come-together-to-express-condolence-on-slain-MP-Amarakeerthi-Atukorala/56-736051",
-    "file_name": "/tmp/news_lk2/articles/d3/d3991429.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654890600,
-    "title": "President directs measures to regularise public transport service.",
-    "url": "https://www.ft.lk/news/President-directs-measures-to-regularise-public-transport-service/56-736050",
-    "file_name": "/tmp/news_lk2/articles/b9/b99aed1e.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654890540,
-    "title": "PM calls for inquiry against TNA MP Rasamanickam",
-    "url": "https://www.ft.lk/news/PM-calls-for-inquiry-against-TNA-MP-Rasamanickam/56-736049",
-    "file_name": "/tmp/news_lk2/articles/13/130f62a3.json"
   }
 ]
