@@ -1,6 +1,27 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655024100,
+    "title": "Nearly 32,000 passports issued within 10 days in June:  Immigration Dept.",
+    "url": "https://www.dailymirror.lk/breaking_news/Nearly-32-000-passports-issued-within-10-days-in-June-Immigration-Dept/108-238939",
+    "file_name": "/tmp/news_lk2/articles/a2/a2244ad4.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655023920,
+    "title": "Sri Lanka to introduce weekly fuel quota by July as costs shoot up",
+    "url": "https://economynext.com/sri-lanka-to-introduce-weekly-fuel-quota-by-july-as-costs-shoot-up-95615/",
+    "file_name": "/tmp/news_lk2/articles/7d/7d9f1fe6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655023440,
+    "title": "Long queues for kerosene",
+    "url": "https://www.dailymirror.lk/caption_story/Long-queues-for-kerosene/110-238937",
+    "file_name": "/tmp/news_lk2/articles/40/40260c98.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655022540,
     "title": "SL vs AUS test in Galle  to be dedicated to legendary Shane Warne",
     "url": "https://www.dailymirror.lk/breaking_news/SL-vs-AUS-test-in-Galle-to-be-dedicated-to-legendary-Shane-Warne/108-238938",
@@ -677,26 +698,5 @@
     "title": "Re-visiting the \u201cSniper\u201d killing of Robert 19 years ago",
     "url": "https://www.dailymirror.lk/plus/Re-visiting-the-Sniper-killing-of-Robert-19-years-ago/352-238914",
     "file_name": "/tmp/news_lk2/articles/87/87aec959.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654891620,
-    "title": "Re-visiting the \u201cSniper\u201d killing of Robert 19 years ago",
-    "url": "https://www.dailymirror.lk/recomended-news/Re-visiting-the-Sniper-killing-of-Robert-19-years-ago/277-238914",
-    "file_name": "/tmp/news_lk2/articles/41/414c1e5e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654891620,
-    "title": "Re-visiting the \u201cSniper\u201d killing of Robert 19 years ago",
-    "url": "https://www.dailymirror.lk/dbs-jeyaraj-column/Re-visiting-the-Sniper-killing-of-Robert-19-years-ago/192-238914",
-    "file_name": "/tmp/news_lk2/articles/4f/4fc1501e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654891200,
-    "title": "Their name is \u2018tomorrow\u2019",
-    "url": "https://www.dailymirror.lk/opinion/Their-name-is-tomorrow/172-238913",
-    "file_name": "/tmp/news_lk2/articles/af/af6ab85b.json"
   }
 ]
