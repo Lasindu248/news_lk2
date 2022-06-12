@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655037720,
+    "title": "Sri Lanka to relax open account imports for 8 foods: Minister",
+    "url": "https://economynext.com/sri-lanka-to-relax-open-account-imports-for-8-foods-minister-95616/",
+    "file_name": "/tmp/news_lk2/articles/66/66fc350a.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655035860,
     "title": "Uncultivated paddy lands to be acquired by govt for 5 years",
@@ -691,12 +698,5 @@
     "title": "COPE probes CEB importation of substandard generators",
     "url": "https://www.newsfirst.lk/2022/06/11/cope-probes-ceb-importation-of-substandard-generators/",
     "file_name": "/tmp/news_lk2/articles/56/565e5bd4.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654921860,
-    "title": "Maximum services to public despite fuel crisis: NTC",
-    "url": "https://www.newsfirst.lk/2022/06/11/maximum-services-to-public-despite-fuel-crisis-ntc/",
-    "file_name": "/tmp/news_lk2/articles/52/52a3f028.json"
   }
 ]
