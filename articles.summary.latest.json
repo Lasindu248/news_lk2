@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655015940,
+    "title": "Minister says no choice left; motorists to register at filling stations",
+    "url": "https://www.dailymirror.lk/breaking_news/Minister-says-no-choice-left-motorists-to-register-at-filling-stations/108-238935",
+    "file_name": "/tmp/news_lk2/articles/38/38944f7f.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655015460,
     "title": "173 prisoners to be released on Poson Poya",
@@ -691,12 +698,5 @@
     "title": "PM calls for inquiry against TNA MP Rasamanickam",
     "url": "https://www.ft.lk/news/PM-calls-for-inquiry-against-TNA-MP-Rasamanickam/56-736049",
     "file_name": "/tmp/news_lk2/articles/13/130f62a3.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1654890420,
-    "title": "Vijjtha Herath resigns as Litro Gas Chairman",
-    "url": "https://www.ft.lk/news/Vijjtha-Herath-resigns-as-Litro-Gas-Chairman/56-736048",
-    "file_name": "/tmp/news_lk2/articles/3a/3a57a0bd.json"
   }
 ]
