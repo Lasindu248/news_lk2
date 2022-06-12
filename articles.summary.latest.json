@@ -1,10 +1,31 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655010360,
+    "title": "38 persons attempting to illegally migrate to Australia arrested",
+    "url": "https://www.dailymirror.lk/breaking_news/38-persons-attempting-to-illegally-migrate-to-Australia-arrested/108-238930",
+    "file_name": "/tmp/news_lk2/articles/d8/d8c110b9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655010000,
+    "title": "Navy foils another illegal migration attempt",
+    "url": "https://www.newsfirst.lk/2022/06/12/navy-foils-another-illegal-migration-attempt/",
+    "file_name": "/tmp/news_lk2/articles/7f/7f554a89.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655009820,
     "title": "Shanaka plays captain\u2019s knock",
     "url": "https://www.dailymirror.lk/caption_story/Shanaka-plays-captains-knock/110-238929",
     "file_name": "/tmp/news_lk2/articles/07/07c25407.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655009580,
+    "title": "China to donate 50% of school uniforms for next year: Education Minister",
+    "url": "https://www.newsfirst.lk/2022/06/12/china-to-donate-50-of-school-uniforms-for-next-year-education-minister/",
+    "file_name": "/tmp/news_lk2/articles/f5/f51433e3.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -677,26 +698,5 @@
     "title": "MRP fixed for White/ Red Raw Rice at Rs. 210/- per kg",
     "url": "https://www.newsfirst.lk/2022/06/10/mrp-fixed-for-white-red-raw-rice-at-rs-210-per-kg/",
     "file_name": "/tmp/news_lk2/articles/f8/f8dbc99b.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654881780,
-    "title": "Sri Lanka shares rise for third day over business mogul\u2019s MP appointment",
-    "url": "https://economynext.com/sri-lanka-shares-rise-for-third-day-over-business-moguls-mp-appointment-95594/",
-    "file_name": "/tmp/news_lk2/articles/98/987178f2.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654881540,
-    "title": "Need to look for new avenues to attract tourists - President",
-    "url": "http://www.adaderana.lk/news/82985/need-to-look-for-new-avenues-to-attract-tourists-president",
-    "file_name": "/tmp/news_lk2/articles/62/62fb178e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654880940,
-    "title": "Exim bank extends $55 mln credit line to Sri Lanka",
-    "url": "https://www.dailymirror.lk/breaking_news/Exim-bank-extends-55-mln-credit-line-to-Sri-Lanka/108-238866",
-    "file_name": "/tmp/news_lk2/articles/a2/a2d1fb37.json"
   }
 ]
