@@ -1,6 +1,34 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655073960,
+    "title": "Stop the repression of democracy-Artistes",
+    "url": "https://www.dailymirror.lk/opinion/Stop-the-repression-of-democracy-Artistes/231-238976",
+    "file_name": "/tmp/news_lk2/articles/0b/0b059462.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655073780,
+    "title": "A failed Govt  destroying our children",
+    "url": "https://www.dailymirror.lk/opinion/A-failed-Govt-destroying-our-children/231-238975",
+    "file_name": "/tmp/news_lk2/articles/63/638dc25b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655073300,
+    "title": "Alliance Fran\u00e7aise de Colombo returns to its historical premises at Barnes Place",
+    "url": "https://www.dailymirror.lk/opinion/Alliance-Fran\u00e7aise-de-Colombo-returns-to-its-historical-premises-at-Barnes-Place/231-238974",
+    "file_name": "/tmp/news_lk2/articles/b1/b11cacc7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655072700,
+    "title": "Common Minimum Programme for Economic Recovery",
+    "url": "https://www.dailymirror.lk/opinion/Common-Minimum-Programme-for-Economic-Recovery/231-238973",
+    "file_name": "/tmp/news_lk2/articles/4a/4a58b915.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655072400,
     "title": "Relevance of Dhamma in Today\u2019s Politics",
     "url": "https://www.dailymirror.lk/opinion/Relevance-of-Dhamma-in-Todays-Politics/231-238972",
@@ -187,6 +215,13 @@
     "title": "Sri Lanka\u2019s power cuts to last up to 4-years without renewable sources : PUCSL",
     "url": "https://economynext.com/sri-lankas-power-cuts-to-last-up-to-4-years-without-renewable-sources-pucsl-95619/",
     "file_name": "/tmp/news_lk2/articles/71/71577341.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655040840,
+    "title": "Sri Lanka\u2019s power cuts to last up to 5-years without renewable sources : PUCSL",
+    "url": "https://economynext.com/sri-lankas-power-cuts-to-last-up-to-5-years-without-renewable-sources-pucsl-95619/",
+    "file_name": "/tmp/news_lk2/articles/86/86276bbd.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -663,40 +698,5 @@
     "title": "Troops ready for Agri Revolution : Army Chief",
     "url": "https://www.newsfirst.lk/2022/06/11/troops-ready-for-agri-revolution-army-chief/",
     "file_name": "/tmp/news_lk2/articles/b9/b90d771b.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654952400,
-    "title": "Clean drinking water project, a relief for the people in Mannar",
-    "url": "https://www.newsfirst.lk/2022/06/11/gammadda-launches-water-purification-project/",
-    "file_name": "/tmp/news_lk2/articles/3d/3dbaf754.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654952040,
-    "title": "China will not hesitate in providing relief to Sri Lankans: Ambassador",
-    "url": "https://www.newsfirst.lk/2022/06/11/china-will-not-hesitate-in-providing-relief-to-sri-lankans-ambassador/",
-    "file_name": "/tmp/news_lk2/articles/06/063db138.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654951800,
-    "title": "Sri Lanka announces up to 2 hours 15 mins power cuts  from June 13-19",
-    "url": "https://economynext.com/sri-lanka-announces-up-to-2-hours-15-mins-power-cuts-from-june-13-19-95604/",
-    "file_name": "/tmp/news_lk2/articles/c9/c96fecd7.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654951800,
-    "title": "Sri Lanka announces 1 hour to 2 hours 15 mins power cuts  from June 13-19",
-    "url": "https://economynext.com/sri-lanka-announces-1-hour-to-2-hours-15-mins-power-cuts-from-june-13-19-95604/",
-    "file_name": "/tmp/news_lk2/articles/05/05aefdbd.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654949460,
-    "title": "Decline in fuel orders and fuel distribution",
-    "url": "https://www.newsfirst.lk/2022/06/11/decline-in-fuel-orders-and-fuel-distribution/",
-    "file_name": "/tmp/news_lk2/articles/4d/4d50067d.json"
   }
 ]
