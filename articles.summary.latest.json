@@ -16,6 +16,76 @@
   {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1655058600,
+    "title": "Pathfinder Foundation introduces Artificial Intelligence platform for research and analysis",
+    "url": "https://www.ft.lk/business/Pathfinder-Foundation-introduces-Artificial-Intelligence-platform-for-research-and-analysis/34-736096",
+    "file_name": "/tmp/news_lk2/articles/49/490d8e8d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655058600,
+    "title": "UNOPS partners South Asia Co-operative Environment Program",
+    "url": "https://www.ft.lk/news/UNOPS-partners-South-Asia-Co-operative-Environment-Program/56-736102",
+    "file_name": "/tmp/news_lk2/articles/ab/abffcd3b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655058600,
+    "title": "SLT-Mobitel unveils revamped \u2018The Directory\u2019 2022 as national business tool",
+    "url": "https://www.ft.lk/business/SLT-Mobitel-unveils-revamped-The-Directory-2022-as-national-business-tool/34-736099",
+    "file_name": "/tmp/news_lk2/articles/8c/8c567886.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655058600,
+    "title": "Scheduled power cuts to continue despite rains",
+    "url": "https://www.ft.lk/news/Scheduled-power-cuts-to-continue-despite-rains/56-736105",
+    "file_name": "/tmp/news_lk2/articles/e0/e00353aa.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655058600,
+    "title": "GL meets Australia\u2019s Deputy Prime Minister in Singapore",
+    "url": "https://www.ft.lk/news/GL-meets-Australia-s-Deputy-Prime-Minister-in-Singapore/56-736101",
+    "file_name": "/tmp/news_lk2/articles/cc/cc03464b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655058600,
+    "title": "Women entrepreneurs get business development support and resources amidst economic crisis",
+    "url": "https://www.ft.lk/business/Women-entrepreneurs-get-business-development-support-and-resources-amidst-economic-crisis/34-736100",
+    "file_name": "/tmp/news_lk2/articles/ad/ad41fdfd.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655058600,
+    "title": "UDA instructed to make all stalled projects successful revenue generators",
+    "url": "https://www.ft.lk/business/UDA-instructed-to-make-all-stalled-projects-successful-revenue-generators/34-736097",
+    "file_name": "/tmp/news_lk2/articles/c9/c9021f8b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655058600,
+    "title": "Govt. to release 173 inmates on Poson Poya",
+    "url": "https://www.ft.lk/news/Govt-to-release-173-inmates-on-Poson-Poya/56-736104",
+    "file_name": "/tmp/news_lk2/articles/9d/9dd96631.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655058600,
+    "title": "Ports Minister visits Hambantota International Port",
+    "url": "https://www.ft.lk/business/Ports-Minister-visits-Hambantota-International-Port/34-736098",
+    "file_name": "/tmp/news_lk2/articles/42/42d13707.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655058600,
+    "title": "President instructs to conduct formal study for quality public service",
+    "url": "https://www.ft.lk/news/President-instructs-to-conduct-formal-study-for-quality-public-service/56-736103",
+    "file_name": "/tmp/news_lk2/articles/e1/e1b2e7de.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655058600,
     "title": "JAT Holdings posts best ever FY on record, delivers IPO promise",
     "url": "https://www.ft.lk/business/JAT-Holdings-posts-best-ever-FY-on-record-delivers-IPO-promise/34-736077",
     "file_name": "/tmp/news_lk2/articles/f4/f43a8ca7.json"
@@ -628,75 +698,5 @@
     "title": "Sri Lanka rupee commercial banks\u2019 weekly quote against USD steady",
     "url": "https://economynext.com/sri-lanka-rupee-commercial-banks-weekly-quote-against-usd-steady-95603/",
     "file_name": "/tmp/news_lk2/articles/82/82095782.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654945560,
-    "title": "Sri Lanka rupee quoted 367 to TT dollar",
-    "url": "https://economynext.com/sri-lanka-rupee-quoted-367-to-tt-dollar-95603/",
-    "file_name": "/tmp/news_lk2/articles/22/2264cc39.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654945260,
-    "title": "Sri Lanka sells Rs50bn of Treasury bonds",
-    "url": "https://economynext.com/sri-lanka-sells-rs50bn-of-treasury-bonds-95601/",
-    "file_name": "/tmp/news_lk2/articles/7f/7fa19192.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654944540,
-    "title": "China announces medicine donation to Polonnaruwa Nephrology Hospital",
-    "url": "http://www.adaderana.lk/news/82995/china-announces-medicine-donation-to-polonnaruwa-nephrology-hospital",
-    "file_name": "/tmp/news_lk2/articles/8e/8e00561e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654943040,
-    "title": "Power cut schedule for next week announced: One hour power cut on Poson Poya day",
-    "url": "https://www.dailymirror.lk/breaking_news/Power-cut-schedule-for-next-week-announced-One-hour-power-cut-on-Poson-Poya-day/108-238924",
-    "file_name": "/tmp/news_lk2/articles/de/de12673d.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654942920,
-    "title": "PUCSL approves power cuts for 13th-19th June",
-    "url": "https://www.newsfirst.lk/2022/06/11/pucsl-approves-power-cuts-for-13th-19th-june/",
-    "file_name": "/tmp/news_lk2/articles/6c/6ca9447e.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654942080,
-    "title": "Grant diesel subsidy for school vans: CTU",
-    "url": "https://www.newsfirst.lk/2022/06/11/grant-diesel-subsidy-for-school-vans-ctu/",
-    "file_name": "/tmp/news_lk2/articles/2a/2a331ef9.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654939620,
-    "title": "Immigration Emigration Dept\u2019s notice on providing services on Monday",
-    "url": "http://www.adaderana.lk/news/82994/immigration-emigration-depts-notice-on-providing-services-on-monday",
-    "file_name": "/tmp/news_lk2/articles/c5/c5d98cf4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654937580,
-    "title": "Justin Bieber says he has facial paralysis due to Ramsay Hunt syndrome",
-    "url": "https://www.dailymirror.lk/breaking_news/Justin-Bieber-says-he-has-facial-paralysis-due-to-Ramsay-Hunt-syndrome/108-238923",
-    "file_name": "/tmp/news_lk2/articles/19/19a38203.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654937460,
-    "title": "Immigration Dept to remain open on Monday (13)",
-    "url": "https://www.newsfirst.lk/2022/06/11/immigration-dept-to-remain-open-on-monday-13/",
-    "file_name": "/tmp/news_lk2/articles/f4/f4593371.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654937400,
-    "title": "Indian PM insisted power project be awarded to Adani : CEB Chief reveals to COPE",
-    "url": "https://www.newsfirst.lk/2022/06/11/indian-pm-insisted-power-project-be-awarded-to-adani-ceb-chief-reveals-to-cope/",
-    "file_name": "/tmp/news_lk2/articles/a4/a429665f.json"
   }
 ]
