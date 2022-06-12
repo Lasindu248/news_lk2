@@ -1,10 +1,52 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655029260,
+    "title": "Protest opposite Dhammika Perera\u2019s residence",
+    "url": "http://www.adaderana.lk/news/83009/protest-opposite-dhammika-pereras-residence",
+    "file_name": "/tmp/news_lk2/articles/78/78669fba.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655028300,
+    "title": "G.L. expresses gratitude for Australian food security assistance",
+    "url": "https://www.newsfirst.lk/2022/06/12/g-l-expresses-gratitude-for-australian-food-security-assistance/",
+    "file_name": "/tmp/news_lk2/articles/9f/9fe346d2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655028060,
+    "title": "Jaishankar to brief MEA Consultative Committee on Sri Lanka crisis",
+    "url": "https://www.dailymirror.lk/breaking_news/Jaishankar-to-brief-MEA-Consultative-Committee-on-Sri-Lanka-crisis/108-238940",
+    "file_name": "/tmp/news_lk2/articles/c1/c1bd4c5f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655027100,
+    "title": "School holidays to be limited",
+    "url": "https://www.newsfirst.lk/2022/06/12/school-holidays-to-be-limited/",
+    "file_name": "/tmp/news_lk2/articles/b1/b11d74f1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655027100,
+    "title": "Daily Mirror journalist threatened at protest",
+    "url": "https://www.dailymirror.lk/breaking_news/Daily-Mirror-journalist-threatened-at-protest/108-238942",
+    "file_name": "/tmp/news_lk2/articles/07/0700ee6c.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655026200,
     "title": "Foreign Minister meets Australia\u2019s Deputy PM in Singapore",
     "url": "http://www.adaderana.lk/news/83008/foreign-minister-meets-australias-deputy-pm-in-singapore",
     "file_name": "/tmp/news_lk2/articles/89/892829ac.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655025540,
+    "title": "Protest erupts outside Dhammika Perera\u2019s house",
+    "url": "https://www.dailymirror.lk/breaking_news/Protest-erupts-outside-Dhammika-Pereras-house/108-238941",
+    "file_name": "/tmp/news_lk2/articles/24/24f7a628.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -656,47 +698,5 @@
     "title": "Get update on fuel availability",
     "url": "https://www.dailymirror.lk/breaking_news/Get-update-on-fuel-availability/108-238920",
     "file_name": "/tmp/news_lk2/articles/88/88e1b27a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654920300,
-    "title": "Get update on fuel availability",
-    "url": "https://www.dailymirror.lk/latest_news/Get-update-on-fuel-availability/342-238920",
-    "file_name": "/tmp/news_lk2/articles/3d/3d2d36e3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654919580,
-    "title": "Pavithra, Dhammika Perera to be Cabinet Ministers soon",
-    "url": "https://www.dailymirror.lk/breaking_news/Pavithra-Dhammika-Perera-to-be-Cabinet-Ministers-soon/108-238918",
-    "file_name": "/tmp/news_lk2/articles/4e/4e380fae.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654918980,
-    "title": "LG Polls to be held after September 20",
-    "url": "https://www.dailymirror.lk/latest_news/LG-Polls-to-be-held-after-September-20/342-238917",
-    "file_name": "/tmp/news_lk2/articles/aa/aaf578f2.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654918980,
-    "title": "LG Polls to be held after September 20",
-    "url": "https://www.dailymirror.lk/breaking_news/LG-Polls-to-be-held-after-September-20/108-238917",
-    "file_name": "/tmp/news_lk2/articles/57/5772e591.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654912980,
-    "title": "Sri Lanka shares fall for 2nd week; political, economic woes dent sentiment despite Perera\u2019s boost",
-    "url": "https://economynext.com/sri-lanka-shares-fall-for-2nd-week-political-economic-woes-dent-sentiment-despite-pereras-boost-95596/",
-    "file_name": "/tmp/news_lk2/articles/e2/e2ad2e53.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654912080,
-    "title": "Spells of showers expected in parts of the island",
-    "url": "http://www.adaderana.lk/news/82987/spells-of-showers-expected-in-parts-of-the-island",
-    "file_name": "/tmp/news_lk2/articles/11/113ae79a.json"
   }
 ]
