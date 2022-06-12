@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655044860,
+    "title": "Sri Lanka President denies influence as Adani controversy hots up",
+    "url": "https://economynext.com/sri-lanka-president-denies-influence-as-adani-controversy-hots-up-95623/",
+    "file_name": "/tmp/news_lk2/articles/6d/6d5ebc9d.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655042820,
     "title": "India foreign minister to brief parliamentary panel on Sri Lanka crisis",
@@ -7,11 +14,25 @@
     "file_name": "/tmp/news_lk2/articles/fe/fe51edb7.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655042160,
+    "title": "Consular Affairs Division to remain open for limited services",
+    "url": "https://www.newsfirst.lk/2022/06/12/consular-affairs-division-to-remain-open-for-limited-services/",
+    "file_name": "/tmp/news_lk2/articles/0b/0ba75d6b.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655041680,
     "title": "Unidentified man found hanging inside train, suicide suspected",
     "url": "http://www.adaderana.lk/news/83012/unidentified-man-found-hanging-inside-train-suicide-suspected",
     "file_name": "/tmp/news_lk2/articles/1a/1a4aaadb.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655041440,
+    "title": "Rahul Gandhi hits out at Modi over Sri Lanka Energy Project",
+    "url": "https://www.newsfirst.lk/2022/06/12/rahul-gandhi-hits-out-at-modi-over-sri-lanka-energy-project/",
+    "file_name": "/tmp/news_lk2/articles/d7/d7ebc18b.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -677,26 +698,5 @@
     "title": "Covid: US to drop test requirement for air travellers",
     "url": "https://www.dailymirror.lk/breaking_news/Covid-US-to-drop-test-requirement-for-air-travellers/108-238922",
     "file_name": "/tmp/news_lk2/articles/b4/b4ec7e76.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654928100,
-    "title": "US ends Covid-19 testing requirement for air travelers entering the country",
-    "url": "https://www.newsfirst.lk/2022/06/11/us-ends-covid-19-testing-requirement-for-air-travelers-entering-the-country/",
-    "file_name": "/tmp/news_lk2/articles/1a/1a561b2a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654928040,
-    "title": "Police probe launched into Education Ministry protest",
-    "url": "https://www.newsfirst.lk/2022/06/11/police-probe-launched-into-education-ministry-protest/",
-    "file_name": "/tmp/news_lk2/articles/d0/d07087aa.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654925820,
-    "title": "US to drop Covid-19 test requirement for air travellers",
-    "url": "http://www.adaderana.lk/news/82990/us-to-drop-covid-19-test-requirement-for-air-travellers",
-    "file_name": "/tmp/news_lk2/articles/7c/7c26556b.json"
   }
 ]
