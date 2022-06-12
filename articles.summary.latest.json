@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655054100,
+    "title": "Sri Lanka investment goods, non-foods import fall overtakes oil cost in April 2022",
+    "url": "https://economynext.com/sri-lanka-investment-goods-non-foods-import-fall-overtakes-oil-cost-in-april-2022-95634/",
+    "file_name": "/tmp/news_lk2/articles/68/68c183d3.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655049660,
     "title": "PM fails to present solution to economic crisis even after a month: Gammanpila",
@@ -691,12 +698,5 @@
     "title": "Moratuwa University lecturers breach nearly Rs. 52 Mn in contracts, bonds - COPE",
     "url": "http://www.adaderana.lk/news/82992/moratuwa-university-lecturers-breach-nearly-rs-52-mn-in-contracts-bonds-cope",
     "file_name": "/tmp/news_lk2/articles/8c/8c8bdce0.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654933920,
-    "title": "UK lifts \u2018all but essential\u2019 travel restriction",
-    "url": "https://www.newsfirst.lk/2022/06/11/uk-lifts-all-but-essential-travel-restriction/",
-    "file_name": "/tmp/news_lk2/articles/34/34215632.json"
   }
 ]
