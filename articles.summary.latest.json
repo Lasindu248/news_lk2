@@ -21,6 +21,13 @@
     "file_name": "/tmp/news_lk2/articles/c1/c1bd4c5f.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655027100,
+    "title": "Daily Mirror journalist threatened at protest",
+    "url": "https://www.dailymirror.lk/latest_news/Daily-Mirror-journalist-threatened-at-protest/342-238942",
+    "file_name": "/tmp/news_lk2/articles/f0/f0cda250.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655027100,
     "title": "School holidays to be limited",
@@ -691,12 +698,5 @@
     "title": "MPR announced for local white and red rice",
     "url": "http://www.adaderana.lk/news/82988/mpr-announced-for-local-white-and-red-rice",
     "file_name": "/tmp/news_lk2/articles/d4/d4d5203d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654920300,
-    "title": "Get update on fuel availability",
-    "url": "https://www.dailymirror.lk/breaking_news/Get-update-on-fuel-availability/108-238920",
-    "file_name": "/tmp/news_lk2/articles/88/88e1b27a.json"
   }
 ]
