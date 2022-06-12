@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655041680,
+    "title": "Unidentified man found hanging inside train, suicide suspected",
+    "url": "http://www.adaderana.lk/news/83012/unidentified-man-found-hanging-inside-train-suicide-suspected",
+    "file_name": "/tmp/news_lk2/articles/1a/1a4aaadb.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655040840,
+    "title": "Sri Lanka\u2019s power cuts to last up to 4-years without renewable sources : PUCSL",
+    "url": "https://economynext.com/sri-lankas-power-cuts-to-last-up-to-4-years-without-renewable-sources-pucsl-95619/",
+    "file_name": "/tmp/news_lk2/articles/71/71577341.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655040300,
     "title": "Remittances drop by 33% since last May",
@@ -684,19 +698,5 @@
     "title": "President gives directives to conduct formal study of public service",
     "url": "http://www.adaderana.lk/news/82989/president-gives-directives-to-conduct-formal-study-of-public-service",
     "file_name": "/tmp/news_lk2/articles/6d/6d0f2e36.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654923180,
-    "title": "President directs to conduct formal study of public service",
-    "url": "http://www.adaderana.lk/news/82989/president-directs-to-conduct-formal-study-of-public-service",
-    "file_name": "/tmp/news_lk2/articles/70/7044c883.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654922100,
-    "title": "CID arrests another suspect for murder of former Parliamentarian",
-    "url": "https://www.newsfirst.lk/2022/06/11/cid-arrests-another-suspect-for-murder-of-former-parliamentarian/",
-    "file_name": "/tmp/news_lk2/articles/e8/e82923e9.json"
   }
 ]
