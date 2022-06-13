@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655080800,
+    "title": "Rainfall expected in some provinces today (13)",
+    "url": "https://www.newsfirst.lk/2022/06/13/rainfall-expected-in-some-provinces-today-13/",
+    "file_name": "/tmp/news_lk2/articles/a8/a85eb0af.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655080200,
+    "title": "Sri Lanka to issue fuel \u2018quotas\u2019 in rationing plan: Minister",
+    "url": "https://economynext.com/sri-lanka-to-issue-fuel-quotas-in-rationing-plan-minister-95655/",
+    "file_name": "/tmp/news_lk2/articles/26/269ec020.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655079600,
+    "title": "Sri Lanka\u2019s CEB chief under fire over contradictory statements to COPE",
+    "url": "https://economynext.com/sri-lankas-ceb-chief-under-fire-over-contradictory-statements-to-cope-95653/",
+    "file_name": "/tmp/news_lk2/articles/35/355e3d00.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655073960,
     "title": "Stop the repression of democracy-Artistes",
@@ -236,6 +257,13 @@
     "title": "Sri Lanka\u2019s power cuts to last up to 5-years without renewable sources : PUCSL",
     "url": "https://economynext.com/sri-lankas-power-cuts-to-last-up-to-5-years-without-renewable-sources-pucsl-95619/",
     "file_name": "/tmp/news_lk2/articles/86/86276bbd.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655040840,
+    "title": "Sri Lanka\u2019s power cuts to last up to 5-years without renewables PUCSL claims",
+    "url": "https://economynext.com/sri-lankas-power-cuts-to-last-up-to-5-years-without-renewables-pucsl-claims-95619/",
+    "file_name": "/tmp/news_lk2/articles/b1/b134857e.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -670,33 +698,5 @@
     "title": "China assures support to jointly tackle Sri Lanka\u2019s crisis situation",
     "url": "http://www.adaderana.lk/news/83000/china-assures-support-to-jointly-tackle-sri-lankas-crisis-situation",
     "file_name": "/tmp/news_lk2/articles/26/26f9d68e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654969680,
-    "title": "Shanaka blinder denies Australia a clean sweep",
-    "url": "https://www.dailymirror.lk/breaking_news/Shanaka-blinder-denies-Australia-a-clean-sweep/108-238927",
-    "file_name": "/tmp/news_lk2/articles/82/82dd69b2.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654969080,
-    "title": "Prez denies undue authorisation for wind power project",
-    "url": "https://www.dailymirror.lk/breaking_news/Prez-denies-undue-authorisation-for-wind-power-project/108-238926",
-    "file_name": "/tmp/news_lk2/articles/ba/ba62a20f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1654969080,
-    "title": "Prez denies undue authorisation for wind power project",
-    "url": "https://www.dailymirror.lk/top_story/Prez-denies-undue-authorisation-for-wind-power-project/155-238926",
-    "file_name": "/tmp/news_lk2/articles/20/20c45122.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654967940,
-    "title": "ADANI FIASCO: CEB Chairman admits he lied; says he got \u2019emotional\u2019",
-    "url": "https://www.newsfirst.lk/2022/06/11/adani-fiasco-ceb-chairman-admits-he-lied-says-he-got-emotional/",
-    "file_name": "/tmp/news_lk2/articles/da/daac85ab.json"
   }
 ]
