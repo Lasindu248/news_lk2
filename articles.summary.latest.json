@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655090880,
+    "title": "Previous govts ruined LITRO by changing chairmen",
+    "url": "https://www.dailymirror.lk/latest_news/Previous-govts-ruined-LITRO-by-changing-chairmen/342-239001",
+    "file_name": "/tmp/news_lk2/articles/a9/a94e098d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655089860,
+    "title": "21st Amendment to be discussed at Cabinet meeting today",
+    "url": "http://www.adaderana.lk/news/83018/21st-amendment-to-be-discussed-at-cabinet-meeting-today",
+    "file_name": "/tmp/news_lk2/articles/cb/cbc582a9.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655088180,
     "title": "Abandoned Paddy Lands to be cultivated",
@@ -72,6 +86,13 @@
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655073780,
+    "title": "A Failed Govt Destroying our Children",
+    "url": "https://www.dailymirror.lk/opinion/A-Failed-Govt-Destroying-our-Children/172-238975",
+    "file_name": "/tmp/news_lk2/articles/b4/b4d0d35d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655073780,
     "title": "A failed Govt  destroying our children",
     "url": "https://www.dailymirror.lk/opinion/A-failed-Govt-destroying-our-children/231-238975",
     "file_name": "/tmp/news_lk2/articles/63/638dc25b.json"
@@ -82,6 +103,13 @@
     "title": "Alliance Fran\u00e7aise de Colombo returns to its historical premises at Barnes Place",
     "url": "https://www.dailymirror.lk/opinion/Alliance-Fran\u00e7aise-de-Colombo-returns-to-its-historical-premises-at-Barnes-Place/231-238974",
     "file_name": "/tmp/news_lk2/articles/b1/b11cacc7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655072700,
+    "title": "Common Minimum Programme for Economic Recovery",
+    "url": "https://www.dailymirror.lk/plus/Common-Minimum-Programme-for-Economic-Recovery/352-238973",
+    "file_name": "/tmp/news_lk2/articles/d2/d2ef4fcf.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -168,6 +196,20 @@
     "file_name": "/tmp/news_lk2/articles/c9/c9021f8b.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655058600,
+    "title": "Remittance income up in May from April signalling positive trend",
+    "url": "https://www.dailymirror.lk/breaking_news/Remittance-income-up-in-May-from-April-signalling-positive-trend/108-238966",
+    "file_name": "/tmp/news_lk2/articles/c2/c2099a92.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655058600,
+    "title": "SL\u2019s average household income makes shocking revelation about poverty level",
+    "url": "https://www.dailymirror.lk/business-news/SLs-average-household-income-makes-shocking-revelation-about-poverty-level/273-238959",
+    "file_name": "/tmp/news_lk2/articles/8e/8e18d8de.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1655058600,
     "title": "Govt. to release 173 inmates on Poson Poya",
@@ -194,6 +236,20 @@
     "title": "JAT Holdings posts best ever FY on record, delivers IPO promise",
     "url": "https://www.ft.lk/business/JAT-Holdings-posts-best-ever-FY-on-record-delivers-IPO-promise/34-736077",
     "file_name": "/tmp/news_lk2/articles/f4/f43a8ca7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655058600,
+    "title": "Rhoda aims to put 100,000 electric smart bicycles on Lankan roads in five years",
+    "url": "https://www.dailymirror.lk/breaking_news/Rhoda-aims-to-put-100-000-electric-smart-bicycles-on-Lankan-roads-in-five-years/108-238963",
+    "file_name": "/tmp/news_lk2/articles/b8/b812bbcd.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655058600,
+    "title": "One in 10 households had food security issues when country entered pandemic: DCS data",
+    "url": "https://www.dailymirror.lk/breaking_news/One-in-10-households-had-food-security-issues-when-country-entered-pandemic-DCS-data/108-238965",
+    "file_name": "/tmp/news_lk2/articles/56/563a2b0b.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -642,61 +698,5 @@
     "title": "173 prisoners to be pardoned for Poson Day",
     "url": "https://www.newsfirst.lk/2022/06/12/173-prisoners-to-be-pardoned-for-poson-day/",
     "file_name": "/tmp/news_lk2/articles/fa/facebef6.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655013780,
-    "title": "38 arrested as navy intercepts Australia-bound fishing trawler",
-    "url": "http://www.adaderana.lk/news/83005/38-arrested-as-navy-intercepts-australia-bound-fishing-trawler",
-    "file_name": "/tmp/news_lk2/articles/a5/a53166da.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655012400,
-    "title": "Sri Lanka open to buying Russian oil, accepting China\u2019s financial help - PM",
-    "url": "http://www.adaderana.lk/news/83004/sri-lanka-open-to-buying-russian-oil-accepting-chinas-financial-help-pm",
-    "file_name": "/tmp/news_lk2/articles/53/5334c77d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655010360,
-    "title": "38 persons attempting to illegally migrate to Australia arrested",
-    "url": "https://www.dailymirror.lk/breaking_news/38-persons-attempting-to-illegally-migrate-to-Australia-arrested/108-238930",
-    "file_name": "/tmp/news_lk2/articles/d8/d8c110b9.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655010000,
-    "title": "Navy foils another illegal migration attempt",
-    "url": "https://www.newsfirst.lk/2022/06/12/navy-foils-another-illegal-migration-attempt/",
-    "file_name": "/tmp/news_lk2/articles/7f/7f554a89.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655009820,
-    "title": "Shanaka plays captain\u2019s knock",
-    "url": "https://www.dailymirror.lk/caption_story/Shanaka-plays-captains-knock/110-238929",
-    "file_name": "/tmp/news_lk2/articles/07/07c25407.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655009580,
-    "title": "China to donate 50% of school uniforms for next year: Education Minister",
-    "url": "https://www.newsfirst.lk/2022/06/12/china-to-donate-50-of-school-uniforms-for-next-year-education-minister/",
-    "file_name": "/tmp/news_lk2/articles/f5/f51433e3.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655007900,
-    "title": "IGP report reveals lack of procedure for appointing OICs",
-    "url": "https://www.newsfirst.lk/2022/06/12/igp-report-reveals-lack-of-procedure-for-appointing-oics/",
-    "file_name": "/tmp/news_lk2/articles/87/8726372f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655007900,
-    "title": "Do not bathe or swim at unsafe places- Police cautions public",
-    "url": "https://www.newsfirst.lk/2022/06/12/do-not-bathe-or-swim-at-unsafe-places-police-cautions-public/",
-    "file_name": "/tmp/news_lk2/articles/40/40a7946b.json"
   }
 ]
