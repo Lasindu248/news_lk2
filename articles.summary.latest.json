@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655110560,
+    "title": "Angelo Mathews wins ICC Men\u2019s Player of the Month",
+    "url": "https://www.dailymirror.lk/breaking_news/Angelo-Mathews-wins-ICC-Mens-Player-of-the-Month/108-239004",
+    "file_name": "/tmp/news_lk2/articles/6d/6dc9c094.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655108580,
     "title": "German Engineer in Sri Lanka develops battery-powered three-wheeler; A solution to the fuel crisis",
@@ -19,6 +26,13 @@
     "title": "Special train services for Poson Poya",
     "url": "http://www.adaderana.lk/news/83024/special-train-services-for-poson-poya",
     "file_name": "/tmp/news_lk2/articles/f9/f9cdd98b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655106900,
+    "title": "2,500 police personnel deployed for security in A\u2019pura",
+    "url": "https://www.dailymirror.lk/latest_news/2-500-police-personnel-deployed-for-security-in-Apura/342-239005",
+    "file_name": "/tmp/news_lk2/articles/7e/7e44f88d.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -684,19 +698,5 @@
     "title": "Sri Lanka mulls relaxing open account imports for 10 foods: Minister",
     "url": "https://economynext.com/sri-lanka-mulls-relaxing-open-account-imports-for-10-foods-minister-95616/",
     "file_name": "/tmp/news_lk2/articles/e5/e51ee129.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655037720,
-    "title": "Sri Lanka to relax open account imports for 10 foods: Minister",
-    "url": "https://economynext.com/sri-lanka-to-relax-open-account-imports-for-10-foods-minister-95616/",
-    "file_name": "/tmp/news_lk2/articles/72/725fb058.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655037660,
-    "title": "hSenid Business Solutions PLC appoints new chief strategy officer",
-    "url": "http://island.lk/hsenid-business-solutions-plc-appoints-new-chief-strategy-officer/",
-    "file_name": "/tmp/news_lk2/articles/dc/dc5462d2.json"
   }
 ]
