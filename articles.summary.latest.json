@@ -1,10 +1,24 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655101920,
+    "title": "Sri Lanka stocks marginally up in mid-day trade on Monday",
+    "url": "https://economynext.com/sri-lanka-stocks-marginally-up-in-mid-day-trade-on-monday-95691/",
+    "file_name": "/tmp/news_lk2/articles/f8/f8f7fabe.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655099160,
     "title": "Muditha Peiris appointed Litro Chairman",
     "url": "https://www.dailymirror.lk/latest_news/Muditha-Peiris-appointed-Litro-Chairman/342-239003",
     "file_name": "/tmp/news_lk2/articles/02/02ef6591.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655098740,
+    "title": "Muditha Peiris: New Chairman of Litro Gas",
+    "url": "https://www.newsfirst.lk/2022/06/13/muditha-peiris-new-chairman-of-litro-gas/",
+    "file_name": "/tmp/news_lk2/articles/2d/2d5cc8a9.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -684,19 +698,5 @@
     "title": "G.L. expresses gratitude for Australian food security assistance",
     "url": "https://www.newsfirst.lk/2022/06/12/g-l-expresses-gratitude-for-australian-food-security-assistance/",
     "file_name": "/tmp/news_lk2/articles/9f/9fe346d2.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655028060,
-    "title": "Jaishankar to brief MEA Consultative Committee on Sri Lanka crisis",
-    "url": "https://www.dailymirror.lk/breaking_news/Jaishankar-to-brief-MEA-Consultative-Committee-on-Sri-Lanka-crisis/108-238940",
-    "file_name": "/tmp/news_lk2/articles/c1/c1bd4c5f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655027100,
-    "title": "Daily Mirror journalist threatened at protest",
-    "url": "https://www.dailymirror.lk/latest_news/Daily-Mirror-journalist-threatened-at-protest/342-238942",
-    "file_name": "/tmp/news_lk2/articles/f0/f0cda250.json"
   }
 ]
