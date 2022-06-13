@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655126580,
+    "title": "Crisit-hit Sri Lanka sees unusual spike in new passports issued",
+    "url": "https://economynext.com/crisit-hit-sri-lanka-sees-unusual-spike-in-new-passports-issued-95721/",
+    "file_name": "/tmp/news_lk2/articles/a2/a28a99db.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655125440,
+    "title": "Soft Liquor Licenses for all establishments registered with SLTDA; Cabinet gives the green light",
+    "url": "https://www.newsfirst.lk/2022/06/13/soft-liquor-licenses-for-all-establishments-registered-with-sltda-cabinet-gives-the-green-light/",
+    "file_name": "/tmp/news_lk2/articles/b7/b74d9869.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655125260,
     "title": "Cabinet nod to issue soft liquor licenses to SLTDA registered establishments",
@@ -684,19 +698,5 @@
     "title": "Foreign Ministry\u2019s Consular Affairs Division open for limited services on Monday",
     "url": "http://www.adaderana.lk/news/83015/foreign-ministrys-consular-affairs-division-open-for-limited-services-on-monday",
     "file_name": "/tmp/news_lk2/articles/db/dbcb757d.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655058600,
-    "title": "Pathfinder Foundation introduces Artificial Intelligence platform for research and analysis",
-    "url": "https://www.ft.lk/business/Pathfinder-Foundation-introduces-Artificial-Intelligence-platform-for-research-and-analysis/34-736096",
-    "file_name": "/tmp/news_lk2/articles/49/490d8e8d.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655058600,
-    "title": "UNOPS partners South Asia Co-operative Environment Program",
-    "url": "https://www.ft.lk/news/UNOPS-partners-South-Asia-Co-operative-Environment-Program/56-736102",
-    "file_name": "/tmp/news_lk2/articles/ab/abffcd3b.json"
   }
 ]
