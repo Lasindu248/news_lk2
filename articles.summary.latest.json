@@ -133,6 +133,13 @@
     "file_name": "/tmp/news_lk2/articles/f4/f43a8ca7.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655057280,
+    "title": "Sustainable economic development in Sri Lanka: Role of mass media in transforming public beliefs and attitudes",
+    "url": "http://island.lk/sustainable-economic-development-in-sri-lanka-role-of-mass-media-in-transforming-public-beliefs-and-attitudes/",
+    "file_name": "/tmp/news_lk2/articles/46/46966098.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655054100,
     "title": "Sri Lanka investment goods, non-foods import fall faster than oil bill in April 2022",
@@ -245,6 +252,20 @@
     "file_name": "/tmp/news_lk2/articles/3b/3ba8254b.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655038080,
+    "title": "IMF mission to Sri Lanka likely to be a \u2018litmus test\u2019 for its new policies",
+    "url": "http://island.lk/imf-mission-to-sri-lanka-likely-to-be-a-litmus-test-for-its-new-policies/",
+    "file_name": "/tmp/news_lk2/articles/7b/7b9f020d.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655037960,
+    "title": "Insurance Association of Sri Lanka appoints office bearers for 2022",
+    "url": "http://island.lk/insurance-association-of-sri-lanka-appoints-office-bearers-for-2022/",
+    "file_name": "/tmp/news_lk2/articles/42/427ccd8d.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655037720,
     "title": "Sri Lanka to relax open account imports for 8 foods: Minister",
@@ -257,6 +278,41 @@
     "title": "Sri Lanka to relax open account imports for 10 foods: Minister",
     "url": "https://economynext.com/sri-lanka-to-relax-open-account-imports-for-10-foods-minister-95616/",
     "file_name": "/tmp/news_lk2/articles/72/725fb058.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655037660,
+    "title": "hSenid Business Solutions PLC appoints new chief strategy officer",
+    "url": "http://island.lk/hsenid-business-solutions-plc-appoints-new-chief-strategy-officer/",
+    "file_name": "/tmp/news_lk2/articles/dc/dc5462d2.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655037060,
+    "title": "DI-Solar from DIMO, Sri Lanka\u2019s first battery-less solution to utilize solar PV",
+    "url": "http://island.lk/di-solar-from-dimo-sri-lankas-first-battery-less-solution-to-utilize-solar-pv/",
+    "file_name": "/tmp/news_lk2/articles/69/693b75c7.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655036940,
+    "title": "Rakuten Viber and Mineski Global boost fun via mgames chatbot on Viber",
+    "url": "http://island.lk/rakuten-viber-and-mineski-global-boost-fun-via-mgames-chatbot-on-viber/",
+    "file_name": "/tmp/news_lk2/articles/72/72a54419.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655036520,
+    "title": "Coca-Cola & Eco Spindles unveil waste management facility on World Environment Day",
+    "url": "http://island.lk/coca-cola-eco-spindles-unveil-waste-management-facility-on-world-environment-day/",
+    "file_name": "/tmp/news_lk2/articles/67/67937ed8.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655036400,
+    "title": "Huawei announces new Inventions revolutionising AI, 5G, and user experience",
+    "url": "http://island.lk/huawei-announces-new-inventions-revolutionising-ai-5g-and-user-experience/",
+    "file_name": "/tmp/news_lk2/articles/36/3611a532.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -642,61 +698,5 @@
     "title": "ADANI FIASCO: CEB Chairman admits he lied; says he got \u2019emotional\u2019",
     "url": "https://www.newsfirst.lk/2022/06/11/adani-fiasco-ceb-chairman-admits-he-lied-says-he-got-emotional/",
     "file_name": "/tmp/news_lk2/articles/da/daac85ab.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654965660,
-    "title": "COPE rebukes CEB for purchasing power at higher prices",
-    "url": "http://www.adaderana.lk/news/82999/cope-rebukes-ceb-for-purchasing-power-at-higher-prices",
-    "file_name": "/tmp/news_lk2/articles/51/51614f8c.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654964880,
-    "title": "Sri Lanka Railway lands to be leased for cultivation amid food scare",
-    "url": "https://economynext.com/sri-lanka-railway-lands-to-be-leased-for-cultivation-amid-food-scare-95608/",
-    "file_name": "/tmp/news_lk2/articles/89/89fb3af1.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654964880,
-    "title": "Sri Lanka Railway lands to be leased for cultivation amid looming food shortage",
-    "url": "https://economynext.com/sri-lanka-railway-lands-to-be-leased-for-cultivation-amid-looming-food-shortage-95608/",
-    "file_name": "/tmp/news_lk2/articles/8b/8bdb16ab.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1654962840,
-    "title": "Sri Lanka President considers decentralizing public service, youth-led cultivation after crisis",
-    "url": "https://economynext.com/sri-lanka-president-considers-decentralizing-public-service-youth-led-cultivation-after-crisis-95606/",
-    "file_name": "/tmp/news_lk2/articles/14/14c8ecc8.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654960080,
-    "title": "Two dead in Lunuwewa drowning",
-    "url": "https://www.newsfirst.lk/2022/06/11/two-dead-in-lunuwewa-drowning/",
-    "file_name": "/tmp/news_lk2/articles/02/02a9aad8.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654955340,
-    "title": "President denies CEB chief\u2019s remarks on Mannar wind power project",
-    "url": "http://www.adaderana.lk/news/82998/president-denies-ceb-chiefs-remarks-on-mannar-wind-power-project",
-    "file_name": "/tmp/news_lk2/articles/b2/b2c739c3.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654955340,
-    "title": "President denies CEB chief\u2019s remarks on undue authorization for wind power project",
-    "url": "http://www.adaderana.lk/news/82998/president-denies-ceb-chiefs-remarks-on-undue-authorization-for-wind-power-project",
-    "file_name": "/tmp/news_lk2/articles/4f/4f40d0bb.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1654953300,
-    "title": "President denies CEB Chairman\u2019s claims on Wind Power Project to Adani",
-    "url": "https://www.newsfirst.lk/2022/06/11/president-denies-ceb-chairmans-claims-on-wind-power-project-to-adani/",
-    "file_name": "/tmp/news_lk2/articles/a4/a474dde1.json"
   }
 ]
