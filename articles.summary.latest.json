@@ -14,6 +14,13 @@
     "file_name": "/tmp/news_lk2/articles/c3/c3921d52.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655140740,
+    "title": "Mihintale Aloka Pooja",
+    "url": "https://www.dailymirror.lk/latest_news/Mihintale-Aloka-Pooja/342-239028",
+    "file_name": "/tmp/news_lk2/articles/2c/2cd51482.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655137320,
     "title": "US, China envoys meet for talks in Colombo",
@@ -233,6 +240,13 @@
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655116980,
+    "title": "SL has to wait till year end to obtain loan from IMF: Harsha",
+    "url": "https://www.dailymirror.lk/top_story/SL-has-to-wait-till-year-end-to-obtain-loan-from-IMF-Harsha/155-239017",
+    "file_name": "/tmp/news_lk2/articles/3f/3fe97a60.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655116980,
     "title": "SL has to wait till year end to obtain loan from IMF - Harsha",
     "url": "https://www.dailymirror.lk/breaking_news/SL-has-to-wait-till-year-end-to-obtain-loan-from-IMF-Harsha/108-239017",
     "file_name": "/tmp/news_lk2/articles/56/5671f6c4.json"
@@ -320,6 +334,13 @@
     "title": "Sri Lanka CEB chairman resigns after uproar over contradictory COPE statement",
     "url": "https://economynext.com/sri-lanka-ceb-chairman-resigns-after-uproar-over-contradictory-cope-statement-95702/",
     "file_name": "/tmp/news_lk2/articles/d2/d221aebc.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655111940,
+    "title": "LAUGFS draws long queues...",
+    "url": "https://www.dailymirror.lk/caption_story/LAUGFS-draws-long-queues/110-239018",
+    "file_name": "/tmp/news_lk2/articles/7d/7dd28abf.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -677,26 +698,5 @@
     "title": "Sri Lanka to issue fuel \u2018quotas\u2019 in rationing plan: Minister",
     "url": "https://economynext.com/sri-lanka-to-issue-fuel-quotas-in-rationing-plan-minister-95655/",
     "file_name": "/tmp/news_lk2/articles/26/269ec020.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655079600,
-    "title": "Sri Lanka\u2019s CEB chief under fire over contradictory statements to COPE",
-    "url": "https://economynext.com/sri-lankas-ceb-chief-under-fire-over-contradictory-statements-to-cope-95653/",
-    "file_name": "/tmp/news_lk2/articles/35/355e3d00.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655076960,
-    "title": "Ganja mixed aphrodisiac \u2019madana modaka\u2019 trending amongst youth: Snr. Prof.",
-    "url": "https://www.dailymirror.lk/breaking_news/Ganja-mixed-aphrodisiac-madana-modaka-trending-amongst-youth-Snr-Prof/108-239000",
-    "file_name": "/tmp/news_lk2/articles/ae/aec780ea.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655076960,
-    "title": "Ganja mixed aphrodisiac \u2019madana modaka\u2019 trending amongst youth: Snr. Prof.",
-    "url": "https://www.dailymirror.lk/latest_news/Ganja-mixed-aphrodisiac-madana-modaka-trending-amongst-youth-Snr-Prof/342-239000",
-    "file_name": "/tmp/news_lk2/articles/8e/8e050548.json"
   }
 ]
