@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655095200,
+    "title": "Man clubbed to death by son in Kuruwita",
+    "url": "http://www.adaderana.lk/news/83021/man-clubbed-to-death-by-son-in-kuruwita",
+    "file_name": "/tmp/news_lk2/articles/17/175c2733.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655094180,
+    "title": "Sri Lanka\u2019s Adani power deal sans tendering strikes sparks in India politics",
+    "url": "https://economynext.com/sri-lankas-adani-power-deal-sans-tendering-strikes-sparks-in-india-politics-95677/",
+    "file_name": "/tmp/news_lk2/articles/e5/e53cc2ed.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655091960,
     "title": "Sri Lanka women win 100m relay silver in India",
@@ -684,19 +698,5 @@
     "title": "No choice but to register consumers at filling stations and give weekly fuel quota \u2013 Minister",
     "url": "http://www.adaderana.lk/news/83007/no-choice-but-to-register-consumers-at-filling-stations-and-give-weekly-fuel-quota-minister",
     "file_name": "/tmp/news_lk2/articles/2f/2fb02373.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655017440,
-    "title": "May 9th violence: Arrests climb over 2,700",
-    "url": "https://www.newsfirst.lk/2022/06/12/may-9th-violence-arrests-climb-over-2700/",
-    "file_name": "/tmp/news_lk2/articles/de/deaafea5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655015940,
-    "title": "Minister says no choice left; motorists to register at filling stations",
-    "url": "https://www.dailymirror.lk/breaking_news/Minister-says-no-choice-left-motorists-to-register-at-filling-stations/108-238935",
-    "file_name": "/tmp/news_lk2/articles/38/38944f7f.json"
   }
 ]
