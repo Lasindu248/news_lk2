@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655119080,
+    "title": "New heads and director board members of state media appointed",
+    "url": "http://www.adaderana.lk/news/83027/new-heads-and-director-board-members-of-state-media-appointed",
+    "file_name": "/tmp/news_lk2/articles/d7/d7db50f1.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655117040,
     "title": "Sri Lanka rupee little changed amid dull trading",
@@ -12,6 +19,20 @@
     "title": "SL has to wait till year end to obtain loan from IMF - Harsha",
     "url": "https://www.dailymirror.lk/latest_news/SL-has-to-wait-till-year-end-to-obtain-loan-from-IMF-Harsha/342-239017",
     "file_name": "/tmp/news_lk2/articles/67/67bc3c25.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655116980,
+    "title": "SL has to wait till year end to obtain loan from IMF - Harsha",
+    "url": "https://www.dailymirror.lk/breaking_news/SL-has-to-wait-till-year-end-to-obtain-loan-from-IMF-Harsha/108-239017",
+    "file_name": "/tmp/news_lk2/articles/56/5671f6c4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655115360,
+    "title": "State media institutions get new Heads",
+    "url": "https://www.dailymirror.lk/breaking_news/State-media-institutions-get-new-Heads/108-239012",
+    "file_name": "/tmp/news_lk2/articles/3c/3cbdcdf7.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -154,6 +175,13 @@
     "file_name": "/tmp/news_lk2/articles/7e/7e44f88d.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655106900,
+    "title": "2,500 police personnel deployed for security in A\u2019pura",
+    "url": "https://www.dailymirror.lk/breaking_news/2-500-police-personnel-deployed-for-security-in-Apura/108-239005",
+    "file_name": "/tmp/news_lk2/articles/c8/c86dfd88.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655106060,
     "title": "Sri Lanka legislator raises shocking questions over Adani power deal",
@@ -224,6 +252,13 @@
     "file_name": "/tmp/news_lk2/articles/02/02ef6591.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655099160,
+    "title": "Muditha Peiris appointed Litro Chairman",
+    "url": "https://www.dailymirror.lk/breaking_news/Muditha-Peiris-appointed-Litro-Chairman/108-239003",
+    "file_name": "/tmp/news_lk2/articles/db/db3b028a.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655098740,
     "title": "Muditha Peiris: New Chairman of Litro Gas",
@@ -271,6 +306,13 @@
     "title": "Expand railway network and encourage commuters to prefer train travel: Station Masters\u2019 Union",
     "url": "https://www.dailymirror.lk/latest_news/Expand-railway-network-and-encourage-commuters-to-prefer-train-travel-Station-Masters-Union/342-239002",
     "file_name": "/tmp/news_lk2/articles/fe/fede4528.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655096280,
+    "title": "Expand railway network and encourage commuters to prefer train travel: Station Masters\u2019 Union",
+    "url": "https://www.dailymirror.lk/breaking_news/Expand-railway-network-and-encourage-commuters-to-prefer-train-travel-Station-Masters-Union/108-239002",
+    "file_name": "/tmp/news_lk2/articles/05/057e2828.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -656,47 +698,5 @@
     "title": "Rhoda aims to put 100,000 electric smart bicycles on Lankan roads in five years",
     "url": "https://www.dailymirror.lk/business-news/Rhoda-aims-to-put-100-000-electric-smart-bicycles-on-Lankan-roads-in-five-years/273-238963",
     "file_name": "/tmp/news_lk2/articles/e7/e75c7d5c.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655058600,
-    "title": "President instructs to conduct formal study for quality public service",
-    "url": "https://www.ft.lk/news/President-instructs-to-conduct-formal-study-for-quality-public-service/56-736103",
-    "file_name": "/tmp/news_lk2/articles/e1/e1b2e7de.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655058600,
-    "title": "JAT Holdings posts best ever FY on record, delivers IPO promise",
-    "url": "https://www.ft.lk/business/JAT-Holdings-posts-best-ever-FY-on-record-delivers-IPO-promise/34-736077",
-    "file_name": "/tmp/news_lk2/articles/f4/f43a8ca7.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655058600,
-    "title": "Rhoda aims to put 100,000 electric smart bicycles on Lankan roads in five years",
-    "url": "https://www.dailymirror.lk/breaking_news/Rhoda-aims-to-put-100-000-electric-smart-bicycles-on-Lankan-roads-in-five-years/108-238963",
-    "file_name": "/tmp/news_lk2/articles/b8/b812bbcd.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655058600,
-    "title": "One in 10 households had food security issues when country entered pandemic: DCS data",
-    "url": "https://www.dailymirror.lk/breaking_news/One-in-10-households-had-food-security-issues-when-country-entered-pandemic-DCS-data/108-238965",
-    "file_name": "/tmp/news_lk2/articles/56/563a2b0b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655058600,
-    "title": "One in 10 households had food security issues when country entered pandemic: DCS data",
-    "url": "https://www.dailymirror.lk/business-news/One-in-10-households-had-food-security-issues-when-country-entered-pandemic-DCS-data/273-238965",
-    "file_name": "/tmp/news_lk2/articles/08/08cebe2e.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655057280,
-    "title": "Sustainable economic development in Sri Lanka: Role of mass media in transforming public beliefs and attitudes",
-    "url": "http://island.lk/sustainable-economic-development-in-sri-lanka-role-of-mass-media-in-transforming-public-beliefs-and-attitudes/",
-    "file_name": "/tmp/news_lk2/articles/46/46966098.json"
   }
 ]
