@@ -7,6 +7,27 @@
     "file_name": "/tmp/news_lk2/articles/f8/f8f7fabe.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655101860,
+    "title": "Murders reported from Kuruwita & Mallawi",
+    "url": "https://www.newsfirst.lk/2022/06/13/murders-reported-from-kuruwita-mallawi/",
+    "file_name": "/tmp/news_lk2/articles/f1/f14bb13c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655101680,
+    "title": "\u2018Check veracity of my statements & issue clarification\u2019 \u2013 Shanakiyan writes to PM",
+    "url": "https://www.newsfirst.lk/2022/06/13/check-veracity-of-my-statements-issue-clarification-shanakiyan-writes-to-pm/",
+    "file_name": "/tmp/news_lk2/articles/a2/a2587880.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655100600,
+    "title": "Power Cuts: PUCSL releases schedule from 13th \u2013 19th June",
+    "url": "https://www.newsfirst.lk/2022/06/13/power-cuts-pucsl-releases-schedule-from-13th-19th-june/",
+    "file_name": "/tmp/news_lk2/articles/95/95900460.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655099160,
     "title": "Muditha Peiris appointed Litro Chairman",
@@ -677,26 +698,5 @@
     "title": "SL v AUS Test in Galle to be dedicated to Shane Warne",
     "url": "http://www.adaderana.lk/news/83010/sl-v-aus-test-in-galle-to-be-dedicated-to-shane-warne",
     "file_name": "/tmp/news_lk2/articles/1f/1f3d0b17.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655031780,
-    "title": "Gas crisis worsening while ship with stocks remains anchored",
-    "url": "https://www.newsfirst.lk/2022/06/12/gas-crisis-worsening-while-ship-with-stocks-remains-anchored/",
-    "file_name": "/tmp/news_lk2/articles/6b/6b464411.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655029260,
-    "title": "Protest opposite Dhammika Perera\u2019s residence",
-    "url": "http://www.adaderana.lk/news/83009/protest-opposite-dhammika-pereras-residence",
-    "file_name": "/tmp/news_lk2/articles/78/78669fba.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655028300,
-    "title": "G.L. expresses gratitude for Australian food security assistance",
-    "url": "https://www.newsfirst.lk/2022/06/12/g-l-expresses-gratitude-for-australian-food-security-assistance/",
-    "file_name": "/tmp/news_lk2/articles/9f/9fe346d2.json"
   }
 ]
