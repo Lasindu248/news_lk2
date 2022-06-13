@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655113740,
+    "title": "US, China envoys discuss \u201cbroad topics of mutual interest\u201d as Sri Lanka\u2019s crisis worsens",
+    "url": "https://economynext.com/us-china-envoys-discuss-broad-topics-of-mutual-interest-as-sri-lankas-crisis-worsens-95694/",
+    "file_name": "/tmp/news_lk2/articles/ac/acf637f6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655113680,
+    "title": "Resurgence of influenza cases - do you also have these symptoms?",
+    "url": "https://www.dailymirror.lk/breaking_news/Resurgence-of-influenza-cases-do-you-also-have-these-symptoms/108-239010",
+    "file_name": "/tmp/news_lk2/articles/03/03d02da6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655113260,
+    "title": "Dr. Shafi donates arrears of his salary to purchase medicines for hospitals",
+    "url": "https://www.dailymirror.lk/breaking_news/Dr-Shafi-donates-arrears-of-his-salary-to-purchase-medicines-for-hospitals/108-239009",
+    "file_name": "/tmp/news_lk2/articles/52/52365414.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655112840,
+    "title": "PM to initiate dialogue with China to secure major assistance",
+    "url": "https://www.dailymirror.lk/breaking_news/PM-to-initiate-dialogue-with-China-to-secure-major-assistance/108-239008",
+    "file_name": "/tmp/news_lk2/articles/e5/e5de508b.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655112540,
     "title": "Ferdinando resigns as CEB Chairman",
@@ -7,11 +35,32 @@
     "file_name": "/tmp/news_lk2/articles/cc/ccd38fd6.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655112480,
+    "title": "Sri Lanka CEB chairman resigns after uproar over contradictory COPE statement",
+    "url": "https://economynext.com/sri-lanka-ceb-chairman-resigns-after-uproar-over-contradictory-cope-statement-95702/",
+    "file_name": "/tmp/news_lk2/articles/d2/d221aebc.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655111880,
     "title": "Angelo Mathews becomes first Sri Lankan to be named ICC Player of the Month",
     "url": "http://www.adaderana.lk/news/83025/angelo-mathews-becomes-first-sri-lankan-to-be-named-icc-player-of-the-month",
     "file_name": "/tmp/news_lk2/articles/be/becce7d2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655111820,
+    "title": "Sri Lanka: CEB Chief resigns following controversial remarks to COPE",
+    "url": "https://www.newsfirst.lk/2022/06/13/sri-lanka-ceb-chief-resigns-following-controversial-remarks-to-cope/",
+    "file_name": "/tmp/news_lk2/articles/59/5944382b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655111400,
+    "title": "CEB Chairman resigns",
+    "url": "https://www.dailymirror.lk/breaking_news/CEB-Chairman-resigns/108-239006",
+    "file_name": "/tmp/news_lk2/articles/6f/6fa4cd68.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -649,54 +698,5 @@
     "title": "India foreign minister to brief parliamentary panel on Sri Lanka crisis",
     "url": "http://www.adaderana.lk/news/83013/india-foreign-minister-to-brief-parliamentary-panel-on-sri-lanka-crisis",
     "file_name": "/tmp/news_lk2/articles/fe/fe51edb7.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655042160,
-    "title": "Consular Affairs Division to remain open for limited services",
-    "url": "https://www.newsfirst.lk/2022/06/12/consular-affairs-division-to-remain-open-for-limited-services/",
-    "file_name": "/tmp/news_lk2/articles/0b/0ba75d6b.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655041680,
-    "title": "Unidentified man found hanging inside train, suicide suspected",
-    "url": "http://www.adaderana.lk/news/83012/unidentified-man-found-hanging-inside-train-suicide-suspected",
-    "file_name": "/tmp/news_lk2/articles/1a/1a4aaadb.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655041440,
-    "title": "Rahul Gandhi hits out at Modi over Sri Lanka Energy Project",
-    "url": "https://www.newsfirst.lk/2022/06/12/rahul-gandhi-hits-out-at-modi-over-sri-lanka-energy-project/",
-    "file_name": "/tmp/news_lk2/articles/d7/d7ebc18b.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655040840,
-    "title": "Sri Lanka\u2019s power cuts to last up to 4-years without renewable sources : PUCSL",
-    "url": "https://economynext.com/sri-lankas-power-cuts-to-last-up-to-4-years-without-renewable-sources-pucsl-95619/",
-    "file_name": "/tmp/news_lk2/articles/71/71577341.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655040840,
-    "title": "Sri Lanka\u2019s power cuts to last up to 5-years without renewable sources : PUCSL",
-    "url": "https://economynext.com/sri-lankas-power-cuts-to-last-up-to-5-years-without-renewable-sources-pucsl-95619/",
-    "file_name": "/tmp/news_lk2/articles/86/86276bbd.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655040840,
-    "title": "Sri Lanka\u2019s power cuts to last up to 5-years without renewables PUCSL claims",
-    "url": "https://economynext.com/sri-lankas-power-cuts-to-last-up-to-5-years-without-renewables-pucsl-claims-95619/",
-    "file_name": "/tmp/news_lk2/articles/b1/b134857e.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655040300,
-    "title": "Remittances drop by 33% since last May",
-    "url": "https://www.newsfirst.lk/2022/06/12/remittances-drop-by-33-since-last-may/",
-    "file_name": "/tmp/news_lk2/articles/ff/ffa419e6.json"
   }
 ]
