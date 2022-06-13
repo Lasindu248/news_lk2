@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655137320,
+    "title": "US, China envoys meet for talks in Colombo",
+    "url": "http://www.adaderana.lk/news/83033/us-china-envoys-meet-for-talks-in-colombo",
+    "file_name": "/tmp/news_lk2/articles/95/959c9e30.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655135880,
     "title": "Blinken assures support to promote US investments in Sri Lanka after IMF talks end",
     "url": "http://www.adaderana.lk/news/83032/blinken-assures-support-to-promote-us-investments-in-sri-lanka-after-imf-talks-end",
@@ -691,12 +698,5 @@
     "title": "A Failed Govt Destroying our Children",
     "url": "https://www.dailymirror.lk/recomended-news/A-Failed-Govt-Destroying-our-Children/277-238975",
     "file_name": "/tmp/news_lk2/articles/7a/7a67dd4f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655073780,
-    "title": "A Failed Govt Destroying our Children",
-    "url": "https://www.dailymirror.lk/opinion/A-Failed-Govt-Destroying-our-Children/172-238975",
-    "file_name": "/tmp/news_lk2/articles/b4/b4d0d35d.json"
   }
 ]
