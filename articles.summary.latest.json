@@ -1,10 +1,66 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655150340,
+    "title": "FM seeks understanding of UNHRC regarding challenging social and economic situation in SL",
+    "url": "https://www.ft.lk/news/FM-seeks-understanding-of-UNHRC-regarding-challenging-social-and-economic-situation-in-SL/56-736131",
+    "file_name": "/tmp/news_lk2/articles/1e/1e7b2f9f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655150280,
+    "title": "Govt. announces several measures to boost public and school transport",
+    "url": "https://www.ft.lk/news/Govt-announces-several-measures-to-boost-public-and-school-transport/56-736130",
+    "file_name": "/tmp/news_lk2/articles/ff/ffca5a9f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655150160,
+    "title": "SriLankan Airlines scores two APEX awards",
+    "url": "https://www.ft.lk/business/SriLankan-Airlines-scores-two-APEX-awards/34-736129",
+    "file_name": "/tmp/news_lk2/articles/3f/3f156496.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655150100,
+    "title": "DI-Solar from DIMO, Sri Lanka\u2019s first battery less solution to utilise solar PV generated power during outages",
+    "url": "https://www.ft.lk/business/DI-Solar-from-DIMO-Sri-Lanka-s-first-battery-less-solution-to-utilise-solar-PV-generated-power-during-outages/34-736128",
+    "file_name": "/tmp/news_lk2/articles/ab/abf27496.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655150100,
+    "title": "People\u2019s Leasing celebrates 26th Anniversary with valiant fuel station staff",
+    "url": "https://www.ft.lk/business/People-s-Leasing-celebrates-26th-Anniversary-with-valiant-fuel-station-staff/34-736127",
+    "file_name": "/tmp/news_lk2/articles/e8/e856518e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655150040,
+    "title": "TVEC recognises CMA Sri Lanka DABM Course at NVQ Level 6 Higher National Diploma",
+    "url": "https://www.ft.lk/business/TVEC-recognises-CMA-Sri-Lanka-DABM-Course-at-NVQ-Level-6-Higher-National-Diploma/34-736126",
+    "file_name": "/tmp/news_lk2/articles/cf/cf2cea26.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655149980,
+    "title": "ACL Cables classified among Most Valuable Consumer Brands by LMD Brands Annual Ranking 2022",
+    "url": "https://www.ft.lk/business/ACL-Cables-classified-among-Most-Valuable-Consumer-Brands-by-LMD-Brands-Annual-Ranking-2022/34-736125",
+    "file_name": "/tmp/news_lk2/articles/a0/a0c22f11.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655147880,
     "title": "Poson Poya Day is of highest significance to Sri Lankan Buddhists: President",
     "url": "https://www.dailymirror.lk/latest_news/Poson-Poya-Day-is-of-highest-significance-to-Sri-Lankan-Buddhists-President/342-239023",
     "file_name": "/tmp/news_lk2/articles/1e/1e5d829e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655147880,
+    "title": "Poson Poya Day is of highest significance to Sri Lankan Buddhists: President",
+    "url": "https://www.dailymirror.lk/breaking_news/Poson-Poya-Day-is-of-highest-significance-to-Sri-Lankan-Buddhists-President/108-239023",
+    "file_name": "/tmp/news_lk2/articles/f9/f9f43ffb.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -47,6 +103,13 @@
     "title": "Mihintale Aloka Pooja",
     "url": "https://www.dailymirror.lk/caption_story/Mihintale-Aloka-Pooja/110-239028",
     "file_name": "/tmp/news_lk2/articles/c3/c3921d52.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655140740,
+    "title": "Thantirimale Poson Aloka Pooja",
+    "url": "https://www.dailymirror.lk/caption_story/Thantirimale-Poson-Aloka-Pooja/110-239028",
+    "file_name": "/tmp/news_lk2/articles/86/86e5417a.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -635,68 +698,5 @@
     "title": "Gasoline prices in the U.S. are skyrocketing",
     "url": "https://www.newsfirst.lk/2022/06/13/gasoline-prices-in-the-u-s-are-skyrocketing/",
     "file_name": "/tmp/news_lk2/articles/e5/e5ee8044.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655091180,
-    "title": "Exhibition of voters\u2019 register from Wednesday",
-    "url": "http://www.adaderana.lk/news/83019/exhibition-of-voters-register-from-wednesday",
-    "file_name": "/tmp/news_lk2/articles/e4/e418d805.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655090880,
-    "title": "Previous govts ruined LITRO by changing chairmen",
-    "url": "https://www.dailymirror.lk/latest_news/Previous-govts-ruined-LITRO-by-changing-chairmen/342-239001",
-    "file_name": "/tmp/news_lk2/articles/a9/a94e098d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655090880,
-    "title": "Previous govts ruined LITRO by changing chairmen",
-    "url": "https://www.dailymirror.lk/breaking_news/Previous-govts-ruined-LITRO-by-changing-chairmen/108-239001",
-    "file_name": "/tmp/news_lk2/articles/b1/b1b58cc0.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655090700,
-    "title": "Jaishankar to brief India\u2019s MEA Consultative Committee on Sri Lanka crisis",
-    "url": "https://www.newsfirst.lk/2022/06/13/jaishankar-to-brief-indias-mea-consultative-committee-on-sri-lanka-crisis/",
-    "file_name": "/tmp/news_lk2/articles/45/452bf3d9.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655090580,
-    "title": "Concealed laugfs gas seized from A\u2019pura",
-    "url": "https://www.newsfirst.lk/2022/06/13/concealed-laugfs-gas-seized-from-apura/",
-    "file_name": "/tmp/news_lk2/articles/66/666af6a3.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655089860,
-    "title": "4,000 kg concealed rice stocks seized",
-    "url": "https://www.newsfirst.lk/2022/06/13/4000-kg-concealed-rice-stocks-seized/",
-    "file_name": "/tmp/news_lk2/articles/f7/f7c5db73.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655089860,
-    "title": "21st Amendment to be discussed at Cabinet meeting today",
-    "url": "http://www.adaderana.lk/news/83018/21st-amendment-to-be-discussed-at-cabinet-meeting-today",
-    "file_name": "/tmp/news_lk2/articles/cb/cbc582a9.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655089020,
-    "title": "Drop-in fuel orders, lament Tanker Owners",
-    "url": "https://www.newsfirst.lk/2022/06/13/drop-in-fuel-orders-lament-tanker-owners/",
-    "file_name": "/tmp/news_lk2/articles/e7/e768cf93.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655088180,
-    "title": "Abandoned Paddy Lands to be cultivated",
-    "url": "https://www.newsfirst.lk/2022/06/13/abandoned-paddy-lands-to-be-cultivated/",
-    "file_name": "/tmp/news_lk2/articles/3f/3f8418d7.json"
   }
 ]
