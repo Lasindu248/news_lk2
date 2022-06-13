@@ -1,6 +1,41 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "time_ut": 1655088180,
+    "title": "Abandoned Paddy Lands to be cultivated",
+    "url": "https://www.newsfirst.lk/2022/06/13/abandoned-paddy-lands-to-be-cultivated/",
+    "file_name": "/tmp/news_lk2/articles/3f/3f8418d7.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655087220,
+    "title": "Several spells of showers expected in parts of the island",
+    "url": "http://www.adaderana.lk/news/83017/several-spells-of-showers-expected-in-parts-of-the-island",
+    "file_name": "/tmp/news_lk2/articles/ee/ee2336f3.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655085600,
+    "title": "Public transport limited; Special Trains for Poson",
+    "url": "https://www.newsfirst.lk/2022/06/13/public-transport-limited-special-trains-for-poson/",
+    "file_name": "/tmp/news_lk2/articles/f4/f4babcd8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655084880,
+    "title": "Special Govt & School holiday today (13)",
+    "url": "https://www.newsfirst.lk/2022/06/13/special-govt-school-holiday-today-13/",
+    "file_name": "/tmp/news_lk2/articles/89/89e97d84.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655084340,
+    "title": "Sri Lanka runs BOP deficits on borrowed money",
+    "url": "https://economynext.com/sri-lanka-runs-bop-deficits-on-borrowed-money-95657/",
+    "file_name": "/tmp/news_lk2/articles/90/90586b55.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "time_ut": 1655080800,
     "title": "Rainfall expected in some provinces today (13)",
     "url": "https://www.newsfirst.lk/2022/06/13/rainfall-expected-in-some-provinces-today-13/",
@@ -19,6 +54,13 @@
     "title": "Sri Lanka\u2019s CEB chief under fire over contradictory statements to COPE",
     "url": "https://economynext.com/sri-lankas-ceb-chief-under-fire-over-contradictory-statements-to-cope-95653/",
     "file_name": "/tmp/news_lk2/articles/35/355e3d00.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655076960,
+    "title": "Ganja mixed aphrodisiac \u2019madana modaka\u2019 trending amongst youth: Snr. Prof.",
+    "url": "https://www.dailymirror.lk/breaking_news/Ganja-mixed-aphrodisiac-madana-modaka-trending-amongst-youth-Snr-Prof/108-239000",
+    "file_name": "/tmp/news_lk2/articles/ae/aec780ea.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -219,6 +261,13 @@
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655042820,
+    "title": "Indian foreign minister to brief parliamentary panel on Sri Lanka crisis",
+    "url": "http://www.adaderana.lk/news/83013/indian-foreign-minister-to-brief-parliamentary-panel-on-sri-lanka-crisis",
+    "file_name": "/tmp/news_lk2/articles/5b/5b354fe2.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655042820,
     "title": "India foreign minister to brief parliamentary panel on Sri Lanka crisis",
     "url": "http://www.adaderana.lk/news/83013/india-foreign-minister-to-brief-parliamentary-panel-on-sri-lanka-crisis",
     "file_name": "/tmp/news_lk2/articles/fe/fe51edb7.json"
@@ -299,6 +348,13 @@
     "title": "Sri Lanka to relax open account imports for 8 foods: Minister",
     "url": "https://economynext.com/sri-lanka-to-relax-open-account-imports-for-8-foods-minister-95616/",
     "file_name": "/tmp/news_lk2/articles/66/66fc350a.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655037720,
+    "title": "Sri Lanka mulls relaxing open account imports for 10 foods: Minister",
+    "url": "https://economynext.com/sri-lanka-mulls-relaxing-open-account-imports-for-10-foods-minister-95616/",
+    "file_name": "/tmp/news_lk2/articles/e5/e51ee129.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -642,61 +698,5 @@
     "title": "Do not bathe or swim at unsafe places- Police cautions public",
     "url": "https://www.newsfirst.lk/2022/06/12/do-not-bathe-or-swim-at-unsafe-places-police-cautions-public/",
     "file_name": "/tmp/news_lk2/articles/40/40a7946b.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655007780,
-    "title": "Special Audit on public loans to be conducted",
-    "url": "https://www.newsfirst.lk/2022/06/12/special-audit-on-public-loans-to-be-conducted/",
-    "file_name": "/tmp/news_lk2/articles/88/8853daea.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655007720,
-    "title": "Crisis in Sri Lanka has been one of its own making: PM",
-    "url": "https://www.newsfirst.lk/2022/06/12/crisis-in-sri-lanka-has-been-one-of-its-own-making-pm/",
-    "file_name": "/tmp/news_lk2/articles/af/affeb768.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655003880,
-    "title": "UN warns Sri Lanka could face \u2018full-blown humanitarian emergency\u2019",
-    "url": "http://www.adaderana.lk/news/83003/un-warns-sri-lanka-could-face-full-blown-humanitarian-emergency",
-    "file_name": "/tmp/news_lk2/articles/cf/cf0cb812.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655003580,
-    "title": "Sri Lanka official remittances down 33-pct in May",
-    "url": "https://economynext.com/sri-lanka-official-remittances-down-33-pct-in-may-95612/",
-    "file_name": "/tmp/news_lk2/articles/22/224b7543.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655001900,
-    "title": "CEB Chairman withdraws comments he made on Indian PM",
-    "url": "https://www.dailymirror.lk/breaking_news/CEB-Chairman-withdraws-comments-he-made-on-Indian-PM/108-238928",
-    "file_name": "/tmp/news_lk2/articles/5b/5b2dd52c.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655000820,
-    "title": "CEB chairman issues apology, withdraws controversial statement at COPE",
-    "url": "http://www.adaderana.lk/news/83002/ceb-chairman-issues-apology-withdraws-controversial-statement-at-cope",
-    "file_name": "/tmp/news_lk2/articles/7f/7fcf3acc.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654999440,
-    "title": "Showers to occur at times in several provinces and districts",
-    "url": "http://www.adaderana.lk/news/83001/showers-to-occur-at-times-in-several-provinces-and-districts",
-    "file_name": "/tmp/news_lk2/articles/10/1070d8dd.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1654981980,
-    "title": "China assures support to jointly tackle Sri Lanka\u2019s crisis situation",
-    "url": "http://www.adaderana.lk/news/83000/china-assures-support-to-jointly-tackle-sri-lankas-crisis-situation",
-    "file_name": "/tmp/news_lk2/articles/26/26f9d68e.json"
   }
 ]
