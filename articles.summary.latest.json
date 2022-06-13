@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655107020,
+    "title": "Special train services for Poson Poya",
+    "url": "http://www.adaderana.lk/news/83024/special-train-services-for-poson-poya",
+    "file_name": "/tmp/news_lk2/articles/f9/f9cdd98b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655106060,
+    "title": "Sri Lanka legislator raises shock questions over Adani power deal",
+    "url": "https://economynext.com/sri-lanka-legislator-raises-shock-questions-over-adani-power-deal-95690/",
+    "file_name": "/tmp/news_lk2/articles/b6/b6ed5657.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655104560,
     "title": "Sri Lanka opposition MP rejects PM\u2019s insinuations; says he does not condone violence",
@@ -684,19 +698,5 @@
     "title": "Rakuten Viber and Mineski Global boost fun via mgames chatbot on Viber",
     "url": "http://island.lk/rakuten-viber-and-mineski-global-boost-fun-via-mgames-chatbot-on-viber/",
     "file_name": "/tmp/news_lk2/articles/72/72a54419.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655036520,
-    "title": "Coca-Cola & Eco Spindles unveil waste management facility on World Environment Day",
-    "url": "http://island.lk/coca-cola-eco-spindles-unveil-waste-management-facility-on-world-environment-day/",
-    "file_name": "/tmp/news_lk2/articles/67/67937ed8.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655036400,
-    "title": "Huawei announces new Inventions revolutionising AI, 5G, and user experience",
-    "url": "http://island.lk/huawei-announces-new-inventions-revolutionising-ai-5g-and-user-experience/",
-    "file_name": "/tmp/news_lk2/articles/36/3611a532.json"
   }
 ]
