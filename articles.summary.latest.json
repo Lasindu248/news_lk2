@@ -113,6 +113,13 @@
   },
   {
     "newspaper_id": "economy-next-com",
+    "time_ut": 1655124960,
+    "title": "Exclusive: Sri Lanka doctor falsely accused of forced sterilisation to donate his compensation",
+    "url": "https://economynext.com/exclusive-sri-lanka-doctor-falsely-accused-of-forced-sterilisation-to-donate-his-compensation-95720/",
+    "file_name": "/tmp/news_lk2/articles/1a/1afdfe14.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "time_ut": 1655124060,
     "title": "Sri Lanka to introduce new trains including luxury services to manage costs: minister",
     "url": "https://economynext.com/sri-lanka-to-introduce-new-trains-including-luxury-services-to-manage-costs-minister-95719/",
@@ -691,12 +698,5 @@
     "title": "A Failed Govt Destroying our Children",
     "url": "https://www.dailymirror.lk/opinion/A-Failed-Govt-Destroying-our-Children/231-238975",
     "file_name": "/tmp/news_lk2/articles/a6/a6cf0b98.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655073780,
-    "title": "A Failed Govt Destroying our Children",
-    "url": "https://www.dailymirror.lk/recomended-news/A-Failed-Govt-Destroying-our-Children/277-238975",
-    "file_name": "/tmp/news_lk2/articles/7a/7a67dd4f.json"
   }
 ]
