@@ -1,10 +1,45 @@
 [
   {
     "newspaper_id": "economy-next-com",
+    "time_ut": 1655117040,
+    "title": "Sri Lanka rupee little changed amid dull trading",
+    "url": "https://economynext.com/sri-lanka-rupee-little-changed-amid-dull-trading-95701/",
+    "file_name": "/tmp/news_lk2/articles/fa/fa3743a8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655116980,
+    "title": "SL has to wait till year end to obtain loan from IMF - Harsha",
+    "url": "https://www.dailymirror.lk/latest_news/SL-has-to-wait-till-year-end-to-obtain-loan-from-IMF-Harsha/342-239017",
+    "file_name": "/tmp/news_lk2/articles/67/67bc3c25.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655115360,
+    "title": "State media institutions get new Heads",
+    "url": "https://www.dailymirror.lk/latest_news/State-media-institutions-get-new-Heads/342-239012",
+    "file_name": "/tmp/news_lk2/articles/42/42a27e91.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655114940,
+    "title": "Iranians to dispatch medicine & physicians to Sri Lanka",
+    "url": "https://www.dailymirror.lk/breaking_news/Iranians-to-dispatch-medicine-physicians-to-Sri-Lanka/108-239011",
+    "file_name": "/tmp/news_lk2/articles/0d/0d4dd930.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "time_ut": 1655113740,
     "title": "US, China envoys discuss \u201cbroad topics of mutual interest\u201d as Sri Lanka\u2019s crisis worsens",
     "url": "https://economynext.com/us-china-envoys-discuss-broad-topics-of-mutual-interest-as-sri-lankas-crisis-worsens-95694/",
     "file_name": "/tmp/news_lk2/articles/ac/acf637f6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655113680,
+    "title": "Resurgence of influenza cases - do you also have these symptoms?",
+    "url": "https://www.dailymirror.lk/latest_news/Resurgence-of-influenza-cases-do-you-also-have-these-symptoms/342-239010",
+    "file_name": "/tmp/news_lk2/articles/d5/d532a023.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -24,6 +59,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655112840,
     "title": "PM to initiate dialogue with China to secure major assistance",
+    "url": "https://www.dailymirror.lk/latest_news/PM-to-initiate-dialogue-with-China-to-secure-major-assistance/342-239008",
+    "file_name": "/tmp/news_lk2/articles/ba/ba6efa8f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655112840,
+    "title": "PM to initiate dialogue with China to secure major assistance",
     "url": "https://www.dailymirror.lk/breaking_news/PM-to-initiate-dialogue-with-China-to-secure-major-assistance/108-239008",
     "file_name": "/tmp/news_lk2/articles/e5/e5de508b.json"
   },
@@ -33,6 +75,13 @@
     "title": "Ferdinando resigns as CEB Chairman",
     "url": "http://www.adaderana.lk/news/83026/ferdinando-resigns-as-ceb-chairman",
     "file_name": "/tmp/news_lk2/articles/cc/ccd38fd6.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655112480,
+    "title": "Sri Lanka CEB chairman resigns after Adani deal revelations",
+    "url": "https://economynext.com/sri-lanka-ceb-chairman-resigns-after-adani-deal-revelations-95702/",
+    "file_name": "/tmp/news_lk2/articles/5c/5c3e0a90.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -416,6 +465,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655073780,
     "title": "A Failed Govt Destroying our Children",
+    "url": "https://www.dailymirror.lk/recomended-news/A-Failed-Govt-Destroying-our-Children/277-238975",
+    "file_name": "/tmp/news_lk2/articles/7a/7a67dd4f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655073780,
+    "title": "A Failed Govt Destroying our Children",
     "url": "https://www.dailymirror.lk/opinion/A-Failed-Govt-Destroying-our-Children/172-238975",
     "file_name": "/tmp/news_lk2/articles/b4/b4d0d35d.json"
   },
@@ -439,6 +495,13 @@
     "title": "Alliance Fran\u00e7aise de Colombo returns to its historical premises at Barnes Place",
     "url": "https://www.dailymirror.lk/opinion/Alliance-Fran\u00e7aise-de-Colombo-returns-to-its-historical-premises-at-Barnes-Place/231-238974",
     "file_name": "/tmp/news_lk2/articles/b1/b11cacc7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655072700,
+    "title": "Common Minimum Programme for Economic Recovery",
+    "url": "https://www.dailymirror.lk/recomended-news/Common-Minimum-Programme-for-Economic-Recovery/277-238973",
+    "file_name": "/tmp/news_lk2/articles/5b/5b2d7623.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -635,68 +698,5 @@
     "title": "Sustainable economic development in Sri Lanka: Role of mass media in transforming public beliefs and attitudes",
     "url": "http://island.lk/sustainable-economic-development-in-sri-lanka-role-of-mass-media-in-transforming-public-beliefs-and-attitudes/",
     "file_name": "/tmp/news_lk2/articles/46/46966098.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655054100,
-    "title": "Sri Lanka investment goods, non-foods import fall faster than oil bill in April 2022",
-    "url": "https://economynext.com/sri-lanka-investment-goods-non-foods-import-fall-faster-than-oil-bill-in-april-2022-95634/",
-    "file_name": "/tmp/news_lk2/articles/ed/edd6f472.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655054100,
-    "title": "Sri Lanka investment goods, non-foods import fall overtakes oil cost in April 2022",
-    "url": "https://economynext.com/sri-lanka-investment-goods-non-foods-import-fall-overtakes-oil-cost-in-april-2022-95634/",
-    "file_name": "/tmp/news_lk2/articles/68/68c183d3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655049660,
-    "title": "PM fails to present solution to economic crisis even after a month: Gammanpila",
-    "url": "https://www.dailymirror.lk/latest_news/PM-fails-to-present-solution-to-economic-crisis-even-after-a-month-Gammanpila/342-238944",
-    "file_name": "/tmp/news_lk2/articles/0e/0e86f597.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655049660,
-    "title": "PM fails to present solution to economic crisis even after a month: Gammanpila",
-    "url": "https://www.dailymirror.lk/breaking_news/PM-fails-to-present-solution-to-economic-crisis-even-after-a-month-Gammanpila/108-238944",
-    "file_name": "/tmp/news_lk2/articles/93/938e1bb0.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655048100,
-    "title": "Over 500 LP gas cylinders found hidden inside warehouse in A\u2019pura",
-    "url": "http://www.adaderana.lk/news/83014/over-500-lp-gas-cylinders-found-hidden-inside-warehouse-in-apura",
-    "file_name": "/tmp/news_lk2/articles/e3/e3e3eadd.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655047560,
-    "title": "Mattala Airport running at monthly loss of Rs. 10 Mn : Minister",
-    "url": "https://www.dailymirror.lk/breaking_news/Mattala-Airport-running-at-monthly-loss-of-Rs-10-Mn-Minister/108-238943",
-    "file_name": "/tmp/news_lk2/articles/25/25e38c30.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655047560,
-    "title": "Mattala Airport running at monthly loss of Rs. 10 Mn : Minister",
-    "url": "https://www.dailymirror.lk/latest_news/Mattala-Airport-running-at-monthly-loss-of-Rs-10-Mn-Minister/342-238943",
-    "file_name": "/tmp/news_lk2/articles/da/da0f2e32.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655044860,
-    "title": "Sri Lanka President denies influence as Adani controversy hots up",
-    "url": "https://economynext.com/sri-lanka-president-denies-influence-as-adani-controversy-hots-up-95623/",
-    "file_name": "/tmp/news_lk2/articles/6d/6d5ebc9d.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655042820,
-    "title": "Indian foreign minister to brief parliamentary panel on Sri Lanka crisis",
-    "url": "http://www.adaderana.lk/news/83013/indian-foreign-minister-to-brief-parliamentary-panel-on-sri-lanka-crisis",
-    "file_name": "/tmp/news_lk2/articles/5b/5b354fe2.json"
   }
 ]
