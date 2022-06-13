@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655131320,
+    "title": "Organised liquor vendors trying to create monopoly: Excise Chief",
+    "url": "https://www.dailymirror.lk/breaking_news/Organised-liquor-vendors-trying-to-create-monopoly-Excise-Chief/108-239022",
+    "file_name": "/tmp/news_lk2/articles/94/9403a4f6.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655131080,
     "title": "Dr. Shafi awarded salary arrears; decides to purchase essential medicines for Sri Lanka.",
@@ -19,6 +26,13 @@
     "title": "Adani Fiasco: Did Ex-CEB Chairman actually lie to COPE? What did he tell Treasury Secretary about President\u2019s meeting?",
     "url": "https://www.newsfirst.lk/2022/06/13/adani-fiasco-did-ex-ceb-chairman-actually-lie-to-cope-what-did-he-tell-treasury-secretary-about-presidents-meeting/",
     "file_name": "/tmp/news_lk2/articles/28/287ec9fe.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655128980,
+    "title": "SJB to support restructuring CPC, SriLankan Airlines",
+    "url": "https://www.dailymirror.lk/breaking_news/SJB-to-support-restructuring-CPC-SriLankan-Airlines/108-239020",
+    "file_name": "/tmp/news_lk2/articles/41/4142829e.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -68,6 +82,13 @@
     "title": "UNHRC: Sri Lanka made significant progress & remains open to engaging with the diaspora \u2013 Foreign Minister",
     "url": "https://www.newsfirst.lk/2022/06/13/unhrc-sri-lanka-made-significant-progress-remains-open-to-engaging-with-the-diaspora-foreign-minister/",
     "file_name": "/tmp/news_lk2/articles/72/7282340c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655123340,
+    "title": "Special transportation plans from Wednesday",
+    "url": "https://www.dailymirror.lk/breaking_news/Special-transportation-plans-from-Wednesday/108-239019",
+    "file_name": "/tmp/news_lk2/articles/79/797cf767.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -677,26 +698,5 @@
     "title": "Common Minimum Programme for Economic Recovery",
     "url": "https://www.dailymirror.lk/opinion/Common-Minimum-Programme-for-Economic-Recovery/231-238973",
     "file_name": "/tmp/news_lk2/articles/4a/4a58b915.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655072400,
-    "title": "Relevance of Dhamma in Today\u2019s Politics",
-    "url": "https://www.dailymirror.lk/opinion/Relevance-of-Dhamma-in-Todays-Politics/172-238972",
-    "file_name": "/tmp/news_lk2/articles/88/88567800.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655072400,
-    "title": "Relevance of Dhamma in Today\u2019s Politics",
-    "url": "https://www.dailymirror.lk/opinion/Relevance-of-Dhamma-in-Todays-Politics/231-238972",
-    "file_name": "/tmp/news_lk2/articles/59/597f8c79.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655072220,
-    "title": "From \u2018Gota Go Home\u2019 to realities on the ground - EDITORIAL",
-    "url": "https://www.dailymirror.lk/opinion/From-Gota-Go-Home-to-realities-on-the-ground-EDITORIAL/231-238971",
-    "file_name": "/tmp/news_lk2/articles/ca/ca036b2d.json"
   }
 ]
