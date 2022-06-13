@@ -107,6 +107,13 @@
   {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655106060,
+    "title": "Sri Lanka legislator raises shocking questions over Adani power deal",
+    "url": "https://economynext.com/sri-lanka-legislator-raises-shocking-questions-over-adani-power-deal-95690/",
+    "file_name": "/tmp/news_lk2/articles/60/60134980.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655106060,
     "title": "Sri Lanka legislator raises shock questions over Adani power deal",
     "url": "https://economynext.com/sri-lanka-legislator-raises-shock-questions-over-adani-power-deal-95690/",
     "file_name": "/tmp/news_lk2/articles/b6/b6ed5657.json"
@@ -691,12 +698,5 @@
     "title": "Indian foreign minister to brief parliamentary panel on Sri Lanka crisis",
     "url": "http://www.adaderana.lk/news/83013/indian-foreign-minister-to-brief-parliamentary-panel-on-sri-lanka-crisis",
     "file_name": "/tmp/news_lk2/articles/5b/5b354fe2.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655042820,
-    "title": "India foreign minister to brief parliamentary panel on Sri Lanka crisis",
-    "url": "http://www.adaderana.lk/news/83013/india-foreign-minister-to-brief-parliamentary-panel-on-sri-lanka-crisis",
-    "file_name": "/tmp/news_lk2/articles/fe/fe51edb7.json"
   }
 ]
