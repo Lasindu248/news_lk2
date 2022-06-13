@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655091960,
+    "title": "Sri Lanka women win 100m relay silver in India",
+    "url": "https://www.newsfirst.lk/2022/06/13/sri-lanka-women-win-100m-relay-silver-in-india/",
+    "file_name": "/tmp/news_lk2/articles/da/da9e1e4d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655091720,
+    "title": "India\u2019s Sonia Gandhi hospitalised with Covid issues",
+    "url": "http://www.adaderana.lk/news/83020/indias-sonia-gandhi-hospitalised-with-covid-issues",
+    "file_name": "/tmp/news_lk2/articles/12/12781db1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655091600,
+    "title": "Gasoline prices in the U.S. are skyrocketing",
+    "url": "https://www.newsfirst.lk/2022/06/13/gasoline-prices-in-the-u-s-are-skyrocketing/",
+    "file_name": "/tmp/news_lk2/articles/e5/e5ee8044.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655091180,
+    "title": "Exhibition of voters\u2019 register from Wednesday",
+    "url": "http://www.adaderana.lk/news/83019/exhibition-of-voters-register-from-wednesday",
+    "file_name": "/tmp/news_lk2/articles/e4/e418d805.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655090880,
     "title": "Previous govts ruined LITRO by changing chairmen",
@@ -7,11 +35,39 @@
     "file_name": "/tmp/news_lk2/articles/a9/a94e098d.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655090700,
+    "title": "Jaishankar to brief India\u2019s MEA Consultative Committee on Sri Lanka crisis",
+    "url": "https://www.newsfirst.lk/2022/06/13/jaishankar-to-brief-indias-mea-consultative-committee-on-sri-lanka-crisis/",
+    "file_name": "/tmp/news_lk2/articles/45/452bf3d9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655090580,
+    "title": "Concealed laugfs gas seized from A\u2019pura",
+    "url": "https://www.newsfirst.lk/2022/06/13/concealed-laugfs-gas-seized-from-apura/",
+    "file_name": "/tmp/news_lk2/articles/66/666af6a3.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655089860,
+    "title": "4,000 kg concealed rice stocks seized",
+    "url": "https://www.newsfirst.lk/2022/06/13/4000-kg-concealed-rice-stocks-seized/",
+    "file_name": "/tmp/news_lk2/articles/f7/f7c5db73.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655089860,
     "title": "21st Amendment to be discussed at Cabinet meeting today",
     "url": "http://www.adaderana.lk/news/83018/21st-amendment-to-be-discussed-at-cabinet-meeting-today",
     "file_name": "/tmp/news_lk2/articles/cb/cbc582a9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655089020,
+    "title": "Drop-in fuel orders, lament Tanker Owners",
+    "url": "https://www.newsfirst.lk/2022/06/13/drop-in-fuel-orders-lament-tanker-owners/",
+    "file_name": "/tmp/news_lk2/articles/e7/e768cf93.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -642,61 +698,5 @@
     "title": "Minister says no choice left; motorists to register at filling stations",
     "url": "https://www.dailymirror.lk/breaking_news/Minister-says-no-choice-left-motorists-to-register-at-filling-stations/108-238935",
     "file_name": "/tmp/news_lk2/articles/38/38944f7f.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655015460,
-    "title": "173 prisoners to be released on Poson Poya",
-    "url": "http://www.adaderana.lk/news/83006/173-prisoners-to-be-released-on-poson-poya",
-    "file_name": "/tmp/news_lk2/articles/f1/f1822442.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655015100,
-    "title": "Fuel Crisis: Sri Lanka to register consumers for weekly fuel quota",
-    "url": "https://www.newsfirst.lk/2022/06/12/fuel-crisis-sri-lanka-to-register-consumers-for-weekly-fuel-quota/",
-    "file_name": "/tmp/news_lk2/articles/e9/e943ee01.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655014680,
-    "title": "North & East school attendance at a high",
-    "url": "https://www.newsfirst.lk/2022/06/12/north-east-school-attendance-at-a-high/",
-    "file_name": "/tmp/news_lk2/articles/b2/b2163d6f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655014680,
-    "title": "Extracurricular activities without incurring funds, discussed",
-    "url": "https://www.newsfirst.lk/2022/06/12/extracurricular-activities-without-incurring-funds-discussed/",
-    "file_name": "/tmp/news_lk2/articles/15/157813ca.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655014620,
-    "title": "May 9 unrest:  Over 1,000 suspects still in remand custody",
-    "url": "https://www.dailymirror.lk/top_story/May-9-unrest-Over-1-000-suspects-still-in-remand-custody/155-238934",
-    "file_name": "/tmp/news_lk2/articles/38/38d3a42d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655014620,
-    "title": "May 9 unrest:  Over 1,000 suspects still in remand custody",
-    "url": "https://www.dailymirror.lk/breaking_news/May-9-unrest-Over-1-000-suspects-still-in-remand-custody/108-238934",
-    "file_name": "/tmp/news_lk2/articles/ee/ee47f1b2.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655014560,
-    "title": "Commission appointed to probe recent violence to call for information",
-    "url": "https://www.newsfirst.lk/2022/06/12/commission-appointed-to-probe-recent-violence-to-call-for-information/",
-    "file_name": "/tmp/news_lk2/articles/c6/c6a0a883.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655014380,
-    "title": "173 prisoners to be pardoned for Poson Day",
-    "url": "https://www.newsfirst.lk/2022/06/12/173-prisoners-to-be-pardoned-for-poson-day/",
-    "file_name": "/tmp/news_lk2/articles/fa/facebef6.json"
   }
 ]
