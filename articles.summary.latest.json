@@ -1,6 +1,27 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655121420,
+    "title": "There is a man-made economic crisis in Sri Lanka - PM Ranil Wickremesinghe",
+    "url": "http://www.adaderana.lk/news/83028/there-is-a-man-made-economic-crisis-in-sri-lanka-pm-ranil-wickremesinghe",
+    "file_name": "/tmp/news_lk2/articles/ea/ea01eb60.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655120160,
+    "title": "Hambantota Port achieves record numbers for transshipment",
+    "url": "https://www.newsfirst.lk/2022/06/13/hambantota-port-achieves-record-numbers-for-transshipment/",
+    "file_name": "/tmp/news_lk2/articles/e8/e88cb66f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655119380,
+    "title": "Sri Lanka signs USD 27 Mn agreement to double milk production of dairy farmers",
+    "url": "https://www.newsfirst.lk/2022/06/13/sri-lanka-signs-usd-27-mn-agreement-to-double-milk-production-of-dairy-farmers/",
+    "file_name": "/tmp/news_lk2/articles/25/25925a82.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655119080,
     "title": "New heads and director board members of state media appointed",
     "url": "http://www.adaderana.lk/news/83027/new-heads-and-director-board-members-of-state-media-appointed",
@@ -677,26 +698,5 @@
     "title": "Govt. to release 173 inmates on Poson Poya",
     "url": "https://www.ft.lk/news/Govt-to-release-173-inmates-on-Poson-Poya/56-736104",
     "file_name": "/tmp/news_lk2/articles/9d/9dd96631.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655058600,
-    "title": "Remittance income up in May from April signalling positive trend",
-    "url": "https://www.dailymirror.lk/business__main/Remittance-income-up-in-May-from-April-signalling-positive-trend/245-238966",
-    "file_name": "/tmp/news_lk2/articles/1f/1fde3397.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655058600,
-    "title": "Ports Minister visits Hambantota International Port",
-    "url": "https://www.ft.lk/business/Ports-Minister-visits-Hambantota-International-Port/34-736098",
-    "file_name": "/tmp/news_lk2/articles/42/42d13707.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655058600,
-    "title": "Rhoda aims to put 100,000 electric smart bicycles on Lankan roads in five years",
-    "url": "https://www.dailymirror.lk/business-news/Rhoda-aims-to-put-100-000-electric-smart-bicycles-on-Lankan-roads-in-five-years/273-238963",
-    "file_name": "/tmp/news_lk2/articles/e7/e75c7d5c.json"
   }
 ]
