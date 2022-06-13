@@ -1,10 +1,52 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655124060,
+    "title": "Sri Lanka to introduce new trains including luxury services to manage costs: minister",
+    "url": "https://economynext.com/sri-lanka-to-introduce-new-trains-including-luxury-services-to-manage-costs-minister-95719/",
+    "file_name": "/tmp/news_lk2/articles/44/44c707a1.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655124060,
+    "title": "Protesters block Baseline Road demanding fuel",
+    "url": "http://www.adaderana.lk/news/83030/protesters-block-baseline-road-demanding-fuel",
+    "file_name": "/tmp/news_lk2/articles/10/100aa670.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655123520,
+    "title": "UNHRC: Sri Lanka made significant progress & remains open to engaging with the diaspora \u2013 Foreign Minister",
+    "url": "https://www.newsfirst.lk/2022/06/13/unhrc-sri-lanka-made-significant-progress-remains-open-to-engaging-with-the-diaspora-foreign-minister/",
+    "file_name": "/tmp/news_lk2/articles/72/7282340c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655123340,
+    "title": "Special transportation plans from Wednesday",
+    "url": "https://www.dailymirror.lk/latest_news/Special-transportation-plans-from-Wednesday/342-239019",
+    "file_name": "/tmp/news_lk2/articles/e1/e12e395a.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655122860,
+    "title": "Sri Lanka remains open to engaging with diaspora community - Foreign Minister",
+    "url": "http://www.adaderana.lk/news/83029/sri-lanka-remains-open-to-engaging-with-diaspora-community-foreign-minister",
+    "file_name": "/tmp/news_lk2/articles/62/62c004bc.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655121420,
     "title": "There is a man-made economic crisis in Sri Lanka - PM Ranil Wickremesinghe",
     "url": "http://www.adaderana.lk/news/83028/there-is-a-man-made-economic-crisis-in-sri-lanka-pm-ranil-wickremesinghe",
     "file_name": "/tmp/news_lk2/articles/ea/ea01eb60.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655121180,
+    "title": "Angelo Mathews : ICC Men\u2019s Player of the Month for May 2022",
+    "url": "https://www.newsfirst.lk/2022/06/13/angelo-mathews-icc-mens-player-of-the-month-for-may-2022/",
+    "file_name": "/tmp/news_lk2/articles/0c/0ceab8d2.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -131,6 +173,13 @@
     "title": "Sri Lanka CEB chairman resigns after uproar over contradictory COPE statement",
     "url": "https://economynext.com/sri-lanka-ceb-chairman-resigns-after-uproar-over-contradictory-cope-statement-95702/",
     "file_name": "/tmp/news_lk2/articles/d2/d221aebc.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655111940,
+    "title": "LAUGFS draws long queues...",
+    "url": "https://www.dailymirror.lk/latest_news/LAUGFS-draws-long-queues/342-239018",
+    "file_name": "/tmp/news_lk2/articles/cf/cf541bdb.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -649,54 +698,5 @@
     "title": "Scheduled power cuts to continue despite rains",
     "url": "https://www.ft.lk/news/Scheduled-power-cuts-to-continue-despite-rains/56-736105",
     "file_name": "/tmp/news_lk2/articles/e0/e00353aa.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655058600,
-    "title": "GL meets Australia\u2019s Deputy Prime Minister in Singapore",
-    "url": "https://www.ft.lk/news/GL-meets-Australia-s-Deputy-Prime-Minister-in-Singapore/56-736101",
-    "file_name": "/tmp/news_lk2/articles/cc/cc03464b.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655058600,
-    "title": "Women entrepreneurs get business development support and resources amidst economic crisis",
-    "url": "https://www.ft.lk/business/Women-entrepreneurs-get-business-development-support-and-resources-amidst-economic-crisis/34-736100",
-    "file_name": "/tmp/news_lk2/articles/ad/ad41fdfd.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655058600,
-    "title": "UDA instructed to make all stalled projects successful revenue generators",
-    "url": "https://www.ft.lk/business/UDA-instructed-to-make-all-stalled-projects-successful-revenue-generators/34-736097",
-    "file_name": "/tmp/news_lk2/articles/c9/c9021f8b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655058600,
-    "title": "Remittance income up in May from April signalling positive trend",
-    "url": "https://www.dailymirror.lk/breaking_news/Remittance-income-up-in-May-from-April-signalling-positive-trend/108-238966",
-    "file_name": "/tmp/news_lk2/articles/c2/c2099a92.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655058600,
-    "title": "SL\u2019s average household income makes shocking revelation about poverty level",
-    "url": "https://www.dailymirror.lk/business-news/SLs-average-household-income-makes-shocking-revelation-about-poverty-level/273-238959",
-    "file_name": "/tmp/news_lk2/articles/8e/8e18d8de.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655058600,
-    "title": "SL\u2019s average household income makes shocking revelation about poverty level",
-    "url": "https://www.dailymirror.lk/top_story/SLs-average-household-income-makes-shocking-revelation-about-poverty-level/155-238959",
-    "file_name": "/tmp/news_lk2/articles/85/85d7c50b.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655058600,
-    "title": "Govt. to release 173 inmates on Poson Poya",
-    "url": "https://www.ft.lk/news/Govt-to-release-173-inmates-on-Poson-Poya/56-736104",
-    "file_name": "/tmp/news_lk2/articles/9d/9dd96631.json"
   }
 ]
