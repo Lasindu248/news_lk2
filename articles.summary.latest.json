@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655125260,
+    "title": "Cabinet nod to issue soft liquor licenses to SLTDA registered establishments",
+    "url": "http://www.adaderana.lk/news/83031/cabinet-nod-to-issue-soft-liquor-licenses-to-sltda-registered-establishments",
+    "file_name": "/tmp/news_lk2/articles/28/28765020.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655124960,
+    "title": "Sri Lanka doctor falsely accused of forced sterilisation to donate his compensaton",
+    "url": "https://economynext.com/sri-lanka-doctor-falsely-accused-of-forced-sterilisation-to-donate-his-compensaton-95720/",
+    "file_name": "/tmp/news_lk2/articles/48/4856ea2b.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655124060,
     "title": "Sri Lanka to introduce new trains including luxury services to manage costs: minister",
@@ -684,19 +698,5 @@
     "title": "UNOPS partners South Asia Co-operative Environment Program",
     "url": "https://www.ft.lk/news/UNOPS-partners-South-Asia-Co-operative-Environment-Program/56-736102",
     "file_name": "/tmp/news_lk2/articles/ab/abffcd3b.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655058600,
-    "title": "SLT-Mobitel unveils revamped \u2018The Directory\u2019 2022 as national business tool",
-    "url": "https://www.ft.lk/business/SLT-Mobitel-unveils-revamped-The-Directory-2022-as-national-business-tool/34-736099",
-    "file_name": "/tmp/news_lk2/articles/8c/8c567886.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655058600,
-    "title": "Scheduled power cuts to continue despite rains",
-    "url": "https://www.ft.lk/news/Scheduled-power-cuts-to-continue-despite-rains/56-736105",
-    "file_name": "/tmp/news_lk2/articles/e0/e00353aa.json"
   }
 ]
