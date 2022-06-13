@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655131080,
+    "title": "Dr. Shafi awarded salary arrears; decides to purchase essential medicines for Sri Lanka.",
+    "url": "https://www.newsfirst.lk/2022/06/13/dr-shafi-awarded-salary-arrears-decides-to-purchase-essential-medicines-for-sri-lanka/",
+    "file_name": "/tmp/news_lk2/articles/66/66bdfce9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655130120,
+    "title": "Blinken agrees to promote investments to Sri Lanka once the IMF negotiations are over",
+    "url": "https://www.newsfirst.lk/2022/06/13/blinken-agrees-to-promote-investments-to-sri-lanka-once-the-imf-negotiations-are-over/",
+    "file_name": "/tmp/news_lk2/articles/a2/a28bb2a3.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655129400,
+    "title": "Adani Fiasco: Did Ex-CEB Chairman actually lie to COPE? What did he tell Treasury Secretary about President\u2019s meeting?",
+    "url": "https://www.newsfirst.lk/2022/06/13/adani-fiasco-did-ex-ceb-chairman-actually-lie-to-cope-what-did-he-tell-treasury-secretary-about-presidents-meeting/",
+    "file_name": "/tmp/news_lk2/articles/28/287ec9fe.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655126580,
     "title": "Crisit-hit Sri Lanka sees unusual spike in new passports issued",
@@ -677,26 +698,5 @@
     "title": "From \u2018Gota Go Home\u2019 to realities on the ground - EDITORIAL",
     "url": "https://www.dailymirror.lk/opinion/From-Gota-Go-Home-to-realities-on-the-ground-EDITORIAL/231-238971",
     "file_name": "/tmp/news_lk2/articles/ca/ca036b2d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655072220,
-    "title": "From \u2018Gota Go Home\u2019 to realities on the ground - EDITORIAL",
-    "url": "https://www.dailymirror.lk/opinion/From-Gota-Go-Home-to-realities-on-the-ground-EDITORIAL/172-238971",
-    "file_name": "/tmp/news_lk2/articles/b9/b90d47a8.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655060280,
-    "title": "\u2018BJP\u2019s cronyism has crossed Palk Strait\u2019: Rahul Gandhi slams Modi govt over Sri Lanka power project",
-    "url": "http://www.adaderana.lk/news/83016/bjps-cronyism-has-crossed-palk-strait-rahul-gandhi-slams-modi-govt-over-sri-lanka-power-project",
-    "file_name": "/tmp/news_lk2/articles/b2/b21a9428.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655059380,
-    "title": "Foreign Ministry\u2019s Consular Affairs Division open for limited services on Monday",
-    "url": "http://www.adaderana.lk/news/83015/foreign-ministrys-consular-affairs-division-open-for-limited-services-on-monday",
-    "file_name": "/tmp/news_lk2/articles/db/dbcb757d.json"
   }
 ]
