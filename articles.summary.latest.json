@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655108580,
+    "title": "German Engineer in Sri Lanka develops battery-powered three-wheeler; A solution to the fuel crisis",
+    "url": "https://www.newsfirst.lk/2022/06/13/german-engineer-in-sri-lanka-develops-battery-powered-three-wheeler-a-solution-to-the-fuel-crisis/",
+    "file_name": "/tmp/news_lk2/articles/98/98a93610.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655108220,
+    "title": "Foreign Min. elaborates on GLs visit to S\u2019pore",
+    "url": "https://www.newsfirst.lk/2022/06/13/foreign-min-elaborates-on-gls-visit-to-spore/",
+    "file_name": "/tmp/news_lk2/articles/6e/6e903437.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655107020,
     "title": "Special train services for Poson Poya",
@@ -684,19 +698,5 @@
     "title": "hSenid Business Solutions PLC appoints new chief strategy officer",
     "url": "http://island.lk/hsenid-business-solutions-plc-appoints-new-chief-strategy-officer/",
     "file_name": "/tmp/news_lk2/articles/dc/dc5462d2.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655037060,
-    "title": "DI-Solar from DIMO, Sri Lanka\u2019s first battery-less solution to utilize solar PV",
-    "url": "http://island.lk/di-solar-from-dimo-sri-lankas-first-battery-less-solution-to-utilize-solar-pv/",
-    "file_name": "/tmp/news_lk2/articles/69/693b75c7.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655036940,
-    "title": "Rakuten Viber and Mineski Global boost fun via mgames chatbot on Viber",
-    "url": "http://island.lk/rakuten-viber-and-mineski-global-boost-fun-via-mgames-chatbot-on-viber/",
-    "file_name": "/tmp/news_lk2/articles/72/72a54419.json"
   }
 ]
