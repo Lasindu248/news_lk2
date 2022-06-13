@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655112540,
+    "title": "Ferdinando resigns as CEB Chairman",
+    "url": "http://www.adaderana.lk/news/83026/ferdinando-resigns-as-ceb-chairman",
+    "file_name": "/tmp/news_lk2/articles/cc/ccd38fd6.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655111880,
+    "title": "Angelo Mathews becomes first Sri Lankan to be named ICC Player of the Month",
+    "url": "http://www.adaderana.lk/news/83025/angelo-mathews-becomes-first-sri-lankan-to-be-named-icc-player-of-the-month",
+    "file_name": "/tmp/news_lk2/articles/be/becce7d2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655111400,
+    "title": "CEB Chairman resigns",
+    "url": "https://www.dailymirror.lk/latest_news/CEB-Chairman-resigns/342-239006",
+    "file_name": "/tmp/news_lk2/articles/97/979a979c.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655110560,
     "title": "Angelo Mathews wins ICC Men\u2019s Player of the Month",
@@ -201,6 +222,13 @@
     "title": "Previous govts ruined LITRO by changing chairmen",
     "url": "https://www.dailymirror.lk/latest_news/Previous-govts-ruined-LITRO-by-changing-chairmen/342-239001",
     "file_name": "/tmp/news_lk2/articles/a9/a94e098d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655090880,
+    "title": "Previous govts ruined LITRO by changing chairmen",
+    "url": "https://www.dailymirror.lk/breaking_news/Previous-govts-ruined-LITRO-by-changing-chairmen/108-239001",
+    "file_name": "/tmp/news_lk2/articles/b1/b1b58cc0.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -476,6 +504,13 @@
     "file_name": "/tmp/news_lk2/articles/8e/8e18d8de.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655058600,
+    "title": "SL\u2019s average household income makes shocking revelation about poverty level",
+    "url": "https://www.dailymirror.lk/top_story/SLs-average-household-income-makes-shocking-revelation-about-poverty-level/155-238959",
+    "file_name": "/tmp/news_lk2/articles/85/85d7c50b.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1655058600,
     "title": "Govt. to release 173 inmates on Poson Poya",
@@ -663,40 +698,5 @@
     "title": "Remittances drop by 33% since last May",
     "url": "https://www.newsfirst.lk/2022/06/12/remittances-drop-by-33-since-last-may/",
     "file_name": "/tmp/news_lk2/articles/ff/ffa419e6.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655038320,
-    "title": "CBSL receives over 50,000 USD to import essentials",
-    "url": "https://www.newsfirst.lk/2022/06/12/cbsl-receives-over-50000-usd-to-import-essentials/",
-    "file_name": "/tmp/news_lk2/articles/3b/3ba8254b.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655038080,
-    "title": "IMF mission to Sri Lanka likely to be a \u2018litmus test\u2019 for its new policies",
-    "url": "http://island.lk/imf-mission-to-sri-lanka-likely-to-be-a-litmus-test-for-its-new-policies/",
-    "file_name": "/tmp/news_lk2/articles/7b/7b9f020d.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655037960,
-    "title": "Insurance Association of Sri Lanka appoints office bearers for 2022",
-    "url": "http://island.lk/insurance-association-of-sri-lanka-appoints-office-bearers-for-2022/",
-    "file_name": "/tmp/news_lk2/articles/42/427ccd8d.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655037720,
-    "title": "Sri Lanka to relax open account imports for 8 foods: Minister",
-    "url": "https://economynext.com/sri-lanka-to-relax-open-account-imports-for-8-foods-minister-95616/",
-    "file_name": "/tmp/news_lk2/articles/66/66fc350a.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655037720,
-    "title": "Sri Lanka mulls relaxing open account imports for 10 foods: Minister",
-    "url": "https://economynext.com/sri-lanka-mulls-relaxing-open-account-imports-for-10-foods-minister-95616/",
-    "file_name": "/tmp/news_lk2/articles/e5/e51ee129.json"
   }
 ]
