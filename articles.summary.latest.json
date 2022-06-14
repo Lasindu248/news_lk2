@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655221680,
+    "title": "Sri Lanka to supply 50-pct of fuel demand : PM",
+    "url": "https://economynext.com/sri-lanka-to-supply-50-pct-of-fuel-demand-pm-95746/",
+    "file_name": "/tmp/news_lk2/articles/fe/fe56b1bf.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655220120,
+    "title": "BASL requests for courts to function as essential service",
+    "url": "https://www.newsfirst.lk/2022/06/14/basl-requests-for-courts-to-function-as-essential-service/",
+    "file_name": "/tmp/news_lk2/articles/40/40ded5cb.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655220000,
+    "title": "Sri Lanka receives 3,500 MT of Gas, new Indian Credit line to support fuel purchasing for another four months \u2013 PM",
+    "url": "https://www.newsfirst.lk/2022/06/14/sri-lanka-receives-3500-mt-of-gas-new-indian-credit-line-to-support-fuel-purchasing-for-another-four-months-pm/",
+    "file_name": "/tmp/news_lk2/articles/d5/d56c2419.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655219820,
+    "title": "Cabinet positive to launch Jaffna-Pondicherry boat service: Minister",
+    "url": "https://www.newsfirst.lk/2022/06/14/cabinet-positive-to-launch-jaffna-pondicherry-boat-service-minister/",
+    "file_name": "/tmp/news_lk2/articles/f1/f164b1c0.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655218080,
     "title": "Announcement on distribution priority of latest LP gas shipment",
@@ -670,33 +698,5 @@
     "title": "Poson Poya Day is of highest significance to Sri Lankan Buddhists: President",
     "url": "https://www.dailymirror.lk/breaking_news/Poson-Poya-Day-is-of-highest-significance-to-Sri-Lankan-Buddhists-President/108-239023",
     "file_name": "/tmp/news_lk2/articles/f9/f9f43ffb.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655146500,
-    "title": "US contributes $27 million to strengthen Sri Lanka\u2019s dairy industry",
-    "url": "http://www.adaderana.lk/news/83035/us-contributes-27-million-to-strengthen-sri-lankas-dairy-industry",
-    "file_name": "/tmp/news_lk2/articles/58/58130a2f.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655146020,
-    "title": "UN rights chief Michelle Bachelet will not seek second term",
-    "url": "http://www.adaderana.lk/news/83034/un-rights-chief-michelle-bachelet-will-not-seek-second-term",
-    "file_name": "/tmp/news_lk2/articles/ae/aee34e36.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655145600,
-    "title": "An Aragalaya needed for public sector reform",
-    "url": "https://www.dailymirror.lk/opinion/An-Aragalaya-needed-for-public-sector-reform/172-239029",
-    "file_name": "/tmp/news_lk2/articles/f5/f54f9c3f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655145480,
-    "title": "Lessons from the fiasco  over the detention of  \u2018Aeroflot\u2019",
-    "url": "https://www.dailymirror.lk/opinion/Lessons-from-the-fiasco-over-the-detention-of-Aeroflot/172-239030",
-    "file_name": "/tmp/news_lk2/articles/fc/fc82937f.json"
   }
 ]
