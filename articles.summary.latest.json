@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655200380,
+    "title": "Indian High Commissioner delivers special message for Poson",
+    "url": "http://www.adaderana.lk/news/83043/indian-high-commissioner-delivers-special-message-for-poson",
+    "file_name": "/tmp/news_lk2/articles/98/98abd039.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655197620,
     "title": "6 batches of Rice scheduled to arrive in SL under Chinese grant",
@@ -40,6 +47,13 @@
     "title": "Sri Lanka state workers to get 5-year no pay leave in soft-peg collapse",
     "url": "https://economynext.com/sri-lanka-state-workers-to-get-5-year-no-pay-leave-in-soft-peg-collapse-95742/",
     "file_name": "/tmp/news_lk2/articles/97/97711a40.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655195880,
+    "title": "World Blood Donor's Day",
+    "url": "https://www.dailymirror.lk/caption_story/World-Blood-Donor-s-Day/110-239044",
+    "file_name": "/tmp/news_lk2/articles/0d/0dbc22c5.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -684,19 +698,5 @@
     "title": "Soft Liquor Licenses for all establishments registered with SLTDA; Cabinet gives the green light",
     "url": "https://www.newsfirst.lk/2022/06/13/soft-liquor-licenses-for-all-establishments-registered-with-sltda-cabinet-gives-the-green-light/",
     "file_name": "/tmp/news_lk2/articles/b7/b74d9869.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655125260,
-    "title": "Cabinet nod to issue soft liquor licenses to SLTDA registered establishments",
-    "url": "http://www.adaderana.lk/news/83031/cabinet-nod-to-issue-soft-liquor-licenses-to-sltda-registered-establishments",
-    "file_name": "/tmp/news_lk2/articles/28/28765020.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655124960,
-    "title": "Sri Lanka doctor falsely accused of forced sterilisation to donate his compensation",
-    "url": "https://economynext.com/sri-lanka-doctor-falsely-accused-of-forced-sterilisation-to-donate-his-compensation-95720/",
-    "file_name": "/tmp/news_lk2/articles/74/74a94e66.json"
   }
 ]
