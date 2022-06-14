@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655224860,
+    "title": "Representatives from Lazard, Clifford Chance arrive in Sri Lanka",
+    "url": "http://www.adaderana.lk/news/83049/representatives-from-lazard-clifford-chance-arrive-in-sri-lanka",
+    "file_name": "/tmp/news_lk2/articles/6f/6fe20207.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655222520,
+    "title": "Debt advisors in Sri Lanka, IMF team on June 20: PM",
+    "url": "https://economynext.com/debt-advisors-in-sri-lanka-imf-team-on-june-20-pm-95753/",
+    "file_name": "/tmp/news_lk2/articles/a3/a30340a2.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655221680,
     "title": "Sri Lanka to supply 50-pct of fuel demand : PM",
@@ -26,6 +40,13 @@
     "title": "Cabinet positive to launch Jaffna-Pondicherry boat service: Minister",
     "url": "https://www.newsfirst.lk/2022/06/14/cabinet-positive-to-launch-jaffna-pondicherry-boat-service-minister/",
     "file_name": "/tmp/news_lk2/articles/f1/f164b1c0.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655218080,
+    "title": "Latest LP gas shipment to be distributed on priority basis",
+    "url": "http://www.adaderana.lk/news/83048/latest-lp-gas-shipment-to-be-distributed-on-priority-basis",
+    "file_name": "/tmp/news_lk2/articles/40/4027773b.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -677,26 +698,5 @@
     "title": "TVEC recognises CMA Sri Lanka DABM Course at NVQ Level 6 Higher National Diploma",
     "url": "https://www.ft.lk/business/TVEC-recognises-CMA-Sri-Lanka-DABM-Course-at-NVQ-Level-6-Higher-National-Diploma/34-736126",
     "file_name": "/tmp/news_lk2/articles/cf/cf2cea26.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655149980,
-    "title": "ACL Cables classified among Most Valuable Consumer Brands by LMD Brands Annual Ranking 2022",
-    "url": "https://www.ft.lk/business/ACL-Cables-classified-among-Most-Valuable-Consumer-Brands-by-LMD-Brands-Annual-Ranking-2022/34-736125",
-    "file_name": "/tmp/news_lk2/articles/a0/a0c22f11.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655147880,
-    "title": "Poson Poya Day is of highest significance to Sri Lankan Buddhists: President",
-    "url": "https://www.dailymirror.lk/latest_news/Poson-Poya-Day-is-of-highest-significance-to-Sri-Lankan-Buddhists-President/342-239023",
-    "file_name": "/tmp/news_lk2/articles/1e/1e5d829e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655147880,
-    "title": "Poson Poya Day is of highest significance to Sri Lankan Buddhists: President",
-    "url": "https://www.dailymirror.lk/breaking_news/Poson-Poya-Day-is-of-highest-significance-to-Sri-Lankan-Buddhists-President/108-239023",
-    "file_name": "/tmp/news_lk2/articles/f9/f9f43ffb.json"
   }
 ]
