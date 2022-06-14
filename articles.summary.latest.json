@@ -1,10 +1,31 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655214660,
+    "title": "Fuel Crisis: Sri Lanka wants another USD 500 Mn from India",
+    "url": "https://www.newsfirst.lk/2022/06/14/fuel-crisis-sri-lanka-wants-another-usd-500-mn-from-india/",
+    "file_name": "/tmp/news_lk2/articles/f4/f426ab3e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655214000,
     "title": "Presidential pardon for 173 inmates for Poson Poya",
     "url": "http://www.adaderana.lk/news/83047/presidential-pardon-for-173-inmates-for-poson-poya",
     "file_name": "/tmp/news_lk2/articles/35/353d0ed2.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655214000,
+    "title": "173 inmates pardoned in view of Poson Poya",
+    "url": "http://www.adaderana.lk/news/83047/173-inmates-pardoned-in-view-of-poson-poya",
+    "file_name": "/tmp/news_lk2/articles/4c/4c816417.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655212860,
+    "title": "Final diesel tanker under Indian LoC in two days",
+    "url": "https://www.newsfirst.lk/2022/06/14/final-diesel-tanker-under-indian-loc-in-two-days/",
+    "file_name": "/tmp/news_lk2/articles/d8/d81c28ae.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -677,26 +698,5 @@
     "title": "Mihintale Aloka Pooja",
     "url": "https://www.dailymirror.lk/latest_news/Mihintale-Aloka-Pooja/342-239028",
     "file_name": "/tmp/news_lk2/articles/2c/2cd51482.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655137320,
-    "title": "US, China envoys meet for talks in Colombo",
-    "url": "http://www.adaderana.lk/news/83033/us-china-envoys-meet-for-talks-in-colombo",
-    "file_name": "/tmp/news_lk2/articles/95/959c9e30.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655135880,
-    "title": "Blinken assures support to promote US investments in Sri Lanka after IMF talks end",
-    "url": "http://www.adaderana.lk/news/83032/blinken-assures-support-to-promote-us-investments-in-sri-lanka-after-imf-talks-end",
-    "file_name": "/tmp/news_lk2/articles/51/515a5f6f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655135100,
-    "title": "Chinese, U.S. envoys meet in Colombo; pledge support to help Sri Lanka mitigate economic crisis",
-    "url": "https://www.dailymirror.lk/breaking_news/Chinese-U-S-envoys-meet-in-Colombo-pledge-support-to-help-Sri-Lanka-mitigate-economic-crisis/108-239026",
-    "file_name": "/tmp/news_lk2/articles/4f/4fb84bce.json"
   }
 ]
