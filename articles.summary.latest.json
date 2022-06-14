@@ -42,6 +42,27 @@
     "file_name": "/tmp/news_lk2/articles/d6/d6f3dd1a.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655231400,
+    "title": "Asian Palm Oil Alliance offers support to oil palm industry in Sri Lanka",
+    "url": "https://www.ft.lk/business/Asian-Palm-Oil-Alliance-offers-support-to-oil-palm-industry-in-Sri-Lanka/34-736167",
+    "file_name": "/tmp/news_lk2/articles/99/99e8681d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655231400,
+    "title": "Hemas Pharmaceuticals now certified for \u2018Good Distribution Practices\u2019 by Bureau Veritas",
+    "url": "https://www.ft.lk/business/Hemas-Pharmaceuticals-now-certified-for-Good-Distribution-Practices-by-Bureau-Veritas/34-736165",
+    "file_name": "/tmp/news_lk2/articles/6d/6d689b35.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655231400,
+    "title": "WCIC partners Alliance for Sustainable Infrastructure",
+    "url": "https://www.ft.lk/business/WCIC-partners-Alliance-for-Sustainable-Infrastructure/34-736166",
+    "file_name": "/tmp/news_lk2/articles/97/97fc0548.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655230620,
     "title": "Sri Lanka to receive 6 batches of rice from China",
@@ -677,26 +698,5 @@
     "title": "Diesel shipment in two days \u2013 Ministry",
     "url": "https://www.newsfirst.lk/2022/06/14/diesel-shipment-in-two-days-ministry/",
     "file_name": "/tmp/news_lk2/articles/5f/5fe7d0ba.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655171520,
-    "title": "Sri Lanka to bring back \u2018Park & Ride\u2019 Bus Service",
-    "url": "https://www.newsfirst.lk/2022/06/14/sri-lanka-to-bring-back-park-ride-bus-service/",
-    "file_name": "/tmp/news_lk2/articles/01/013050c2.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655170560,
-    "title": "Evening thundershowers in some areas expected to enhance",
-    "url": "http://www.adaderana.lk/news/83036/evening-thundershowers-in-some-areas-expected-to-enhance",
-    "file_name": "/tmp/news_lk2/articles/e2/e27e5cd7.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655170560,
-    "title": "Evening thundershowers in some areas to enhance",
-    "url": "http://www.adaderana.lk/news/83036/evening-thundershowers-in-some-areas-to-enhance",
-    "file_name": "/tmp/news_lk2/articles/8a/8a8b4db8.json"
   }
 ]
