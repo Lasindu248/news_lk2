@@ -1,10 +1,24 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655202360,
+    "title": "Sri Lanka to boost \u2018Agampora\u2019 traditional martial art by lifting 200-year ban",
+    "url": "https://economynext.com/sri-lanka-to-boost-agampora-traditional-martial-art-by-lifting-200-year-ban-95743/",
+    "file_name": "/tmp/news_lk2/articles/f0/f0f3b9b1.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655200380,
     "title": "Indian High Commissioner delivers special message for Poson",
     "url": "http://www.adaderana.lk/news/83043/indian-high-commissioner-delivers-special-message-for-poson",
     "file_name": "/tmp/news_lk2/articles/98/98abd039.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655199180,
+    "title": "21A must be passed with positive changes, say Multi-disciplinary group of leading professionals",
+    "url": "https://www.newsfirst.lk/2022/06/14/21a-must-be-passed-with-positive-changes-say-multi-disciplinary-group-of-leading-professionals/",
+    "file_name": "/tmp/news_lk2/articles/3a/3afcf4b4.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -77,11 +91,25 @@
     "file_name": "/tmp/news_lk2/articles/9b/9b3f0006.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655192820,
+    "title": "Motorcycle murderers Are Back : One person shot dead in Wattala",
+    "url": "https://www.newsfirst.lk/2022/06/14/motorcycle-murderers-are-back-one-person-shot-dead-in-wattala/",
+    "file_name": "/tmp/news_lk2/articles/33/33882cda.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655192160,
     "title": "Sri Lanka state offices shut on Fridays for home garden leave",
     "url": "https://economynext.com/sri-lanka-state-offices-shut-on-fridays-for-home-garden-leave-95738/",
     "file_name": "/tmp/news_lk2/articles/2c/2c77849b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655191920,
+    "title": "Poson Dansala at Sirikotha",
+    "url": "https://www.dailymirror.lk/caption_story/Poson-Dansala-at-Sirikotha/110-239046",
+    "file_name": "/tmp/news_lk2/articles/9b/9baef7e5.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -670,33 +698,5 @@
     "title": "Hambantota Port achieves record numbers for transshipment",
     "url": "http://island.lk/hambantota-port-achieves-record-numbers-for-transshipment/",
     "file_name": "/tmp/news_lk2/articles/0f/0f4e91ac.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655127660,
-    "title": "First Nation\u2019s People",
-    "url": "http://island.lk/first-nations-people/",
-    "file_name": "/tmp/news_lk2/articles/a8/a860f857.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655127660,
-    "title": "Food Aid\u2026for Sri Lanka!",
-    "url": "http://island.lk/food-aidfor-sri-lanka/",
-    "file_name": "/tmp/news_lk2/articles/9b/9b8e526d.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655126580,
-    "title": "Crisit-hit Sri Lanka sees unusual spike in new passports issued",
-    "url": "https://economynext.com/crisit-hit-sri-lanka-sees-unusual-spike-in-new-passports-issued-95721/",
-    "file_name": "/tmp/news_lk2/articles/a2/a28a99db.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655125440,
-    "title": "Soft Liquor Licenses for all establishments registered with SLTDA; Cabinet gives the green light",
-    "url": "https://www.newsfirst.lk/2022/06/13/soft-liquor-licenses-for-all-establishments-registered-with-sltda-cabinet-gives-the-green-light/",
-    "file_name": "/tmp/news_lk2/articles/b7/b74d9869.json"
   }
 ]
