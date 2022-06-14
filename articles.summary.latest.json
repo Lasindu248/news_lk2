@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655180520,
+    "title": "Hospitalization of children on the rise",
+    "url": "https://www.newsfirst.lk/2022/06/14/hospitalization-of-children-on-the-rise/",
+    "file_name": "/tmp/news_lk2/articles/6f/6f7c946a.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655180460,
     "title": "Cabinet postpones approving for 21st constitutional amendment",
@@ -7,11 +14,32 @@
     "file_name": "/tmp/news_lk2/articles/77/77c9f3e4.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655179920,
+    "title": "Friday Holiday for Public Sector, but NOT for essential services",
+    "url": "https://www.newsfirst.lk/2022/06/14/friday-holiday-for-public-sector-but-not-for-essential-services/",
+    "file_name": "/tmp/news_lk2/articles/8e/8e09c620.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655179740,
     "title": "Sri Lanka  continues to soft-peg in May intervening in both directions",
     "url": "https://economynext.com/sri-lanka-continues-to-soft-peg-in-may-intervening-in-both-directions-95725/",
     "file_name": "/tmp/news_lk2/articles/ac/ac85b807.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655178960,
+    "title": "173 inmates to be released for Poson Poya",
+    "url": "https://www.newsfirst.lk/2022/06/14/173-inmates-to-be-released-for-poson-poya/",
+    "file_name": "/tmp/news_lk2/articles/bd/bd0b2799.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655178960,
+    "title": "Adani Reacts To Sri Lanka Controversy On PM Modi And Energy Project",
+    "url": "https://www.newsfirst.lk/2022/06/14/adani-reacts-to-sri-lanka-controversy-on-pm-modi-and-energy-project/",
+    "file_name": "/tmp/news_lk2/articles/85/85bd9cb8.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -670,33 +698,5 @@
     "title": "CEB Chairman resigns",
     "url": "https://www.dailymirror.lk/latest_news/CEB-Chairman-resigns/342-239006",
     "file_name": "/tmp/news_lk2/articles/97/979a979c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655110560,
-    "title": "Angelo Mathews wins ICC Men\u2019s Player of the Month",
-    "url": "https://www.dailymirror.lk/breaking_news/Angelo-Mathews-wins-ICC-Mens-Player-of-the-Month/108-239004",
-    "file_name": "/tmp/news_lk2/articles/6d/6dc9c094.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655108580,
-    "title": "German Engineer in Sri Lanka develops battery-powered three-wheeler; A solution to the fuel crisis",
-    "url": "https://www.newsfirst.lk/2022/06/13/german-engineer-in-sri-lanka-develops-battery-powered-three-wheeler-a-solution-to-the-fuel-crisis/",
-    "file_name": "/tmp/news_lk2/articles/98/98a93610.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655108220,
-    "title": "Foreign Min. elaborates on GLs visit to S\u2019pore",
-    "url": "https://www.newsfirst.lk/2022/06/13/foreign-min-elaborates-on-gls-visit-to-spore/",
-    "file_name": "/tmp/news_lk2/articles/6e/6e903437.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655107020,
-    "title": "Special train services for Poson Poya",
-    "url": "http://www.adaderana.lk/news/83024/special-train-services-for-poson-poya",
-    "file_name": "/tmp/news_lk2/articles/f9/f9cdd98b.json"
   }
 ]
