@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655195220,
+    "title": "Rescheduled time table for trains on Kelani Valley line",
+    "url": "https://www.dailymirror.lk/breaking_news/Rescheduled-time-table-for-trains-on-Kelani-Valley-line/108-239043",
+    "file_name": "/tmp/news_lk2/articles/70/7053f307.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655192820,
+    "title": "Motorcycle Killers Are Back : One person shot dead in Wattala",
+    "url": "https://www.newsfirst.lk/2022/06/14/motorcycle-killers-are-back-one-person-shot-dead-in-wattala/",
+    "file_name": "/tmp/news_lk2/articles/9b/9b3f0006.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655192160,
     "title": "Sri Lanka state offices shut on Fridays for home garden leave",
@@ -21,6 +35,20 @@
     "file_name": "/tmp/news_lk2/articles/28/280cabb1.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655191020,
+    "title": "Multiple arrests for heroin possession on Monday (13)",
+    "url": "https://www.newsfirst.lk/2022/06/14/multiple-arrests-for-heroin-possession-on-monday-13/",
+    "file_name": "/tmp/news_lk2/articles/a0/a05900ff.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655189640,
+    "title": "Functions at National Blood Transfusion unit to turn critical in few weeks",
+    "url": "https://www.dailymirror.lk/breaking_news/Functions-at-National-Blood-Transfusion-unit-to-turn-critical-in-few-weeks/108-239042",
+    "file_name": "/tmp/news_lk2/articles/2c/2cf7e134.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655187540,
     "title": "\u201cClearly disappointed\u201d: Adani reacts to Sri Lanka controversy on energy project",
@@ -40,6 +68,13 @@
     "title": "US stands ready to work with Sri Lanka:  US Secretary of State",
     "url": "https://www.dailymirror.lk/latest_news/US-stands-ready-to-work-with-Sri-Lanka-US-Secretary-of-State/342-239038",
     "file_name": "/tmp/news_lk2/articles/02/02b6ec4a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655183880,
+    "title": "US stands ready to work with Sri Lanka:  US Secretary of State",
+    "url": "https://www.dailymirror.lk/breaking_news/US-stands-ready-to-work-with-Sri-Lanka-US-Secretary-of-State/108-239038",
+    "file_name": "/tmp/news_lk2/articles/61/61a793e5.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -145,6 +180,13 @@
     "title": "Religious observances at Gangaramaya",
     "url": "https://www.dailymirror.lk/latest_news/Religious-observances-at-Gangaramaya/342-239041",
     "file_name": "/tmp/news_lk2/articles/a5/a565845e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655179500,
+    "title": "Religious observances at Gangaramaya and Bellanwila",
+    "url": "https://www.dailymirror.lk/caption_story/Religious-observances-at-Gangaramaya-and-Bellanwila/110-239041",
+    "file_name": "/tmp/news_lk2/articles/6f/6f128661.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -456,6 +498,13 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655132940,
+    "title": "Australia\u2019s Kane Richardson out of Sri Lanka series with injury",
+    "url": "https://www.dailymirror.lk/headline/Australias-Kane-Richardson-out-of-Sri-Lanka-series-with-injury/419-239021",
+    "file_name": "/tmp/news_lk2/articles/68/68c1c6bd.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655131320,
     "title": "Organised liquor vendors trying to create monopoly: Excise Chief",
     "url": "https://www.dailymirror.lk/latest_news/Organised-liquor-vendors-trying-to-create-monopoly-Excise-Chief/342-239022",
@@ -649,54 +698,5 @@
     "title": "There is a man-made economic crisis in Sri Lanka - PM Ranil Wickremesinghe",
     "url": "http://www.adaderana.lk/news/83028/there-is-a-man-made-economic-crisis-in-sri-lanka-pm-ranil-wickremesinghe",
     "file_name": "/tmp/news_lk2/articles/ea/ea01eb60.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655121180,
-    "title": "Angelo Mathews : ICC Men\u2019s Player of the Month for May 2022",
-    "url": "https://www.newsfirst.lk/2022/06/13/angelo-mathews-icc-mens-player-of-the-month-for-may-2022/",
-    "file_name": "/tmp/news_lk2/articles/0c/0ceab8d2.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655120160,
-    "title": "Hambantota Port achieves record numbers for transshipment",
-    "url": "https://www.newsfirst.lk/2022/06/13/hambantota-port-achieves-record-numbers-for-transshipment/",
-    "file_name": "/tmp/news_lk2/articles/e8/e88cb66f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655119380,
-    "title": "Sri Lanka signs USD 27 Mn agreement to double milk production of dairy farmers",
-    "url": "https://www.newsfirst.lk/2022/06/13/sri-lanka-signs-usd-27-mn-agreement-to-double-milk-production-of-dairy-farmers/",
-    "file_name": "/tmp/news_lk2/articles/25/25925a82.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655119080,
-    "title": "New heads and director board members of state media appointed",
-    "url": "http://www.adaderana.lk/news/83027/new-heads-and-director-board-members-of-state-media-appointed",
-    "file_name": "/tmp/news_lk2/articles/d7/d7db50f1.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655117040,
-    "title": "Sri Lanka rupee little changed amid dull trading",
-    "url": "https://economynext.com/sri-lanka-rupee-little-changed-amid-dull-trading-95701/",
-    "file_name": "/tmp/news_lk2/articles/fa/fa3743a8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655116980,
-    "title": "SL has to wait till year end to obtain loan from IMF - Harsha",
-    "url": "https://www.dailymirror.lk/latest_news/SL-has-to-wait-till-year-end-to-obtain-loan-from-IMF-Harsha/342-239017",
-    "file_name": "/tmp/news_lk2/articles/67/67bc3c25.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655116980,
-    "title": "SL has to wait till year end to obtain loan from IMF: Harsha",
-    "url": "https://www.dailymirror.lk/top_story/SL-has-to-wait-till-year-end-to-obtain-loan-from-IMF-Harsha/155-239017",
-    "file_name": "/tmp/news_lk2/articles/3f/3fe97a60.json"
   }
 ]
