@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655170560,
+    "title": "Evening thundershowers in some areas to enhance",
+    "url": "http://www.adaderana.lk/news/83036/evening-thundershowers-in-some-areas-to-enhance",
+    "file_name": "/tmp/news_lk2/articles/8a/8a8b4db8.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655156520,
     "title": "Dhamma endorsed by Arahath Mahinda is like a road map for society: Ranil",
@@ -166,6 +173,13 @@
     "title": "Pettah busy, but no sales",
     "url": "https://www.dailymirror.lk/latest_news/Pettah-busy-but-no-sales/342-239025",
     "file_name": "/tmp/news_lk2/articles/cf/cfb6bfdc.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655132940,
+    "title": "Australia\u2019s Kane Richardson out of Sri Lanka series with injury",
+    "url": "https://www.dailymirror.lk/top-story-sports-1/Australias-Kane-Richardson-out-of-Sri-Lanka-series-with-injury/324-239021",
+    "file_name": "/tmp/news_lk2/articles/3a/3aa809c5.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -684,19 +698,5 @@
     "title": "Indian Rupee Tumbles Past 78 Per Dollar Amid Global Risk-Off",
     "url": "https://www.newsfirst.lk/2022/06/13/indian-rupee-tumbles-past-78-per-dollar-amid-global-risk-off/",
     "file_name": "/tmp/news_lk2/articles/d1/d14d90b5.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655097120,
-    "title": "Sri Lanka sees unexpectedly higher Yala rice cultivation: Minister",
-    "url": "https://economynext.com/sri-lanka-sees-unexpectedly-higher-yala-rice-cultivation-minister-95679/",
-    "file_name": "/tmp/news_lk2/articles/fb/fb9e228b.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655097060,
-    "title": "Traders can face up to Rs. 500,000 in fines & 6 months in prison for selling rice at high prices",
-    "url": "https://www.newsfirst.lk/2022/06/13/traders-can-face-up-to-rs-500000-in-fines-6-months-in-prison-for-selling-rice-at-high-prices/",
-    "file_name": "/tmp/news_lk2/articles/ae/aebc8c7a.json"
   }
 ]
