@@ -168,6 +168,13 @@
     "file_name": "/tmp/news_lk2/articles/fc/fc82937f.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655145480,
+    "title": "Lessons from the fiasco  over the detention of  \u2018Aeroflot\u2019",
+    "url": "https://www.dailymirror.lk/recomended-news/Lessons-from-the-fiasco-over-the-detention-of-Aeroflot/277-239030",
+    "file_name": "/tmp/news_lk2/articles/34/34c3abc5.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655141100,
     "title": "Sri Lanka stocks slip amid uncertainties; turnover slumps to 7-wk low",
@@ -236,6 +243,13 @@
     "title": "Pettah busy, but no sales",
     "url": "https://www.dailymirror.lk/latest_news/Pettah-busy-but-no-sales/342-239025",
     "file_name": "/tmp/news_lk2/articles/cf/cfb6bfdc.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655132940,
+    "title": "Australia\u2019s Kane Richardson out of Sri Lanka series with injury",
+    "url": "https://www.dailymirror.lk/breaking_news/Australias-Kane-Richardson-out-of-Sri-Lanka-series-with-injury/108-239021",
+    "file_name": "/tmp/news_lk2/articles/a9/a91bb4af.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -684,19 +698,5 @@
     "title": "Sri Lanka opposition MP rejects PM\u2019s insinuations; says he does not condone violence",
     "url": "https://economynext.com/sri-lanka-opposition-mp-rejects-pms-insinuations-says-he-does-not-condone-violence-95693/",
     "file_name": "/tmp/news_lk2/articles/dd/dd819b5e.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655104380,
-    "title": "Pope cancels Africa trip due to bad knee, Canada trip unsure",
-    "url": "http://www.adaderana.lk/news/83023/pope-cancels-africa-trip-due-to-bad-knee-canada-trip-unsure",
-    "file_name": "/tmp/news_lk2/articles/2a/2a64cb8f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655102460,
-    "title": "Daily exchange rate for Monday (13)",
-    "url": "https://www.newsfirst.lk/2022/06/13/daily-exchange-rate-for-monday-13/",
-    "file_name": "/tmp/news_lk2/articles/83/83054df3.json"
   }
 ]
