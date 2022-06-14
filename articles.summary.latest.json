@@ -1,5 +1,40 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655196960,
+    "title": "Three including mother and son reported missing while sea bathing",
+    "url": "http://www.adaderana.lk/news/83042/three-including-mother-and-son-reported-missing-while-sea-bathing",
+    "file_name": "/tmp/news_lk2/articles/c3/c3013322.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655196960,
+    "title": "New Zealand amends travel warning for SL",
+    "url": "https://www.newsfirst.lk/2022/06/14/new-zealand-amends-travel-warning-for-sl/",
+    "file_name": "/tmp/news_lk2/articles/f3/f3f2982a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655196900,
+    "title": "Fuel delivery will continue: CPSTL",
+    "url": "https://www.newsfirst.lk/2022/06/14/fuel-delivery-will-continue-cpstl/",
+    "file_name": "/tmp/news_lk2/articles/a9/a9d132f0.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655196720,
+    "title": "Sri Lanka state workers to get 5-year no pay leave in soft-peg collapse",
+    "url": "https://economynext.com/sri-lanka-state-workers-to-get-5-year-no-pay-leave-in-soft-peg-collapse-95742/",
+    "file_name": "/tmp/news_lk2/articles/97/97711a40.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655195220,
+    "title": "Rescheduled time table for trains on Kelani Valley line",
+    "url": "https://www.dailymirror.lk/latest_news/Rescheduled-time-table-for-trains-on-Kelani-Valley-line/342-239043",
+    "file_name": "/tmp/news_lk2/articles/75/75a006e1.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655195220,
     "title": "Rescheduled time table for trains on Kelani Valley line",
@@ -40,6 +75,13 @@
     "title": "Multiple arrests for heroin possession on Monday (13)",
     "url": "https://www.newsfirst.lk/2022/06/14/multiple-arrests-for-heroin-possession-on-monday-13/",
     "file_name": "/tmp/news_lk2/articles/a0/a05900ff.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655189640,
+    "title": "Functions at National Blood Transfusion unit to turn critical in few weeks",
+    "url": "https://www.dailymirror.lk/latest_news/Functions-at-National-Blood-Transfusion-unit-to-turn-critical-in-few-weeks/342-239042",
+    "file_name": "/tmp/news_lk2/articles/5b/5b4925e3.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -486,6 +528,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655132940,
     "title": "Australia\u2019s Kane Richardson out of Sri Lanka series with injury",
+    "url": "https://www.dailymirror.lk/mirror_sports_cricket/Australias-Kane-Richardson-out-of-Sri-Lanka-series-with-injury/458-239021",
+    "file_name": "/tmp/news_lk2/articles/95/958020fa.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655132940,
+    "title": "Australia\u2019s Kane Richardson out of Sri Lanka series with injury",
     "url": "https://www.dailymirror.lk/sports/Australias-Kane-Richardson-out-of-Sri-Lanka-series-with-injury/322-239021",
     "file_name": "/tmp/news_lk2/articles/b8/b893edd3.json"
   },
@@ -649,54 +698,5 @@
     "title": "Exclusive: Sri Lanka doctor falsely accused of forced sterilisation to donate his compensation",
     "url": "https://economynext.com/exclusive-sri-lanka-doctor-falsely-accused-of-forced-sterilisation-to-donate-his-compensation-95720/",
     "file_name": "/tmp/news_lk2/articles/1a/1afdfe14.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655124060,
-    "title": "Sri Lanka to introduce new trains including luxury services to manage costs: minister",
-    "url": "https://economynext.com/sri-lanka-to-introduce-new-trains-including-luxury-services-to-manage-costs-minister-95719/",
-    "file_name": "/tmp/news_lk2/articles/44/44c707a1.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655124060,
-    "title": "Protesters block Baseline Road demanding fuel",
-    "url": "http://www.adaderana.lk/news/83030/protesters-block-baseline-road-demanding-fuel",
-    "file_name": "/tmp/news_lk2/articles/10/100aa670.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655123520,
-    "title": "UNHRC: Sri Lanka made significant progress & remains open to engaging with the diaspora \u2013 Foreign Minister",
-    "url": "https://www.newsfirst.lk/2022/06/13/unhrc-sri-lanka-made-significant-progress-remains-open-to-engaging-with-the-diaspora-foreign-minister/",
-    "file_name": "/tmp/news_lk2/articles/72/7282340c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655123340,
-    "title": "Special transportation plans from Wednesday",
-    "url": "https://www.dailymirror.lk/breaking_news/Special-transportation-plans-from-Wednesday/108-239019",
-    "file_name": "/tmp/news_lk2/articles/79/797cf767.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655123340,
-    "title": "Special transportation plans from Wednesday",
-    "url": "https://www.dailymirror.lk/latest_news/Special-transportation-plans-from-Wednesday/342-239019",
-    "file_name": "/tmp/news_lk2/articles/e1/e12e395a.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655122860,
-    "title": "Sri Lanka remains open to engaging with diaspora community - Foreign Minister",
-    "url": "http://www.adaderana.lk/news/83029/sri-lanka-remains-open-to-engaging-with-diaspora-community-foreign-minister",
-    "file_name": "/tmp/news_lk2/articles/62/62c004bc.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655121420,
-    "title": "There is a man-made economic crisis in Sri Lanka - PM Ranil Wickremesinghe",
-    "url": "http://www.adaderana.lk/news/83028/there-is-a-man-made-economic-crisis-in-sri-lanka-pm-ranil-wickremesinghe",
-    "file_name": "/tmp/news_lk2/articles/ea/ea01eb60.json"
   }
 ]
