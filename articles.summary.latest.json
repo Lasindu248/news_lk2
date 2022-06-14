@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655210640,
+    "title": "Cabinet approves Social Security Contribution Tax Bill",
+    "url": "http://www.adaderana.lk/news/83046/cabinet-approves-social-security-contribution-tax-bill",
+    "file_name": "/tmp/news_lk2/articles/7b/7bc9fe67.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655209200,
+    "title": "Public employees encouraged to take entitled no-pay leave",
+    "url": "http://www.adaderana.lk/news/83045/public-employees-encouraged-to-take-entitled-no-pay-leave",
+    "file_name": "/tmp/news_lk2/articles/52/5293d18e.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655208480,
+    "title": "Sri Lanka Maha 2021 rice harvest drop 40-pct crop due to fertilizer ban",
+    "url": "https://economynext.com/sri-lanka-maha-2021-rice-harvest-drop-40-pct-crop-due-to-fertilizer-ban-95750/",
+    "file_name": "/tmp/news_lk2/articles/c8/c8ea60a9.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655207160,
     "title": "Litro pays USD 3.9 Mn for LP Gas",
@@ -75,6 +96,13 @@
     "title": "Private buses may grind to halt by Friday: Gemunu",
     "url": "https://www.dailymirror.lk/breaking_news/Private-buses-may-grind-to-halt-by-Friday-Gemunu/108-239047",
     "file_name": "/tmp/news_lk2/articles/7a/7a83c758.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655199600,
+    "title": "Youngster shot dead in Wattala",
+    "url": "https://www.dailymirror.lk/breaking_news/Youngster-shot-dead-in-Wattala/108-239049",
+    "file_name": "/tmp/news_lk2/articles/e5/e54be0ef.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -670,33 +698,5 @@
     "title": "Australia\u2019s Kane Richardson out of Sri Lanka series with injury",
     "url": "https://www.dailymirror.lk/breaking_news/Australias-Kane-Richardson-out-of-Sri-Lanka-series-with-injury/108-239021",
     "file_name": "/tmp/news_lk2/articles/a9/a91bb4af.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655132940,
-    "title": "Australia\u2019s Kane Richardson out of Sri Lanka series with injury",
-    "url": "https://www.dailymirror.lk/latest_news/Australias-Kane-Richardson-out-of-Sri-Lanka-series-with-injury/342-239021",
-    "file_name": "/tmp/news_lk2/articles/c2/c2538c9e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655132940,
-    "title": "Australia\u2019s Kane Richardson out of Sri Lanka series with injury",
-    "url": "https://www.dailymirror.lk/mirror_sports_cricket/Australias-Kane-Richardson-out-of-Sri-Lanka-series-with-injury/458-239021",
-    "file_name": "/tmp/news_lk2/articles/95/958020fa.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655132940,
-    "title": "Australia\u2019s Kane Richardson out of Sri Lanka series with injury",
-    "url": "https://www.dailymirror.lk/sports/Australias-Kane-Richardson-out-of-Sri-Lanka-series-with-injury/322-239021",
-    "file_name": "/tmp/news_lk2/articles/b8/b893edd3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655132940,
-    "title": "Australia\u2019s Kane Richardson out of Sri Lanka series with injury",
-    "url": "https://www.dailymirror.lk/top-story-sports-1/Australias-Kane-Richardson-out-of-Sri-Lanka-series-with-injury/324-239021",
-    "file_name": "/tmp/news_lk2/articles/3a/3aa809c5.json"
   }
 ]
