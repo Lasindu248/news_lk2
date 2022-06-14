@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655230620,
+    "title": "Sri Lanka to receive 6 batches of rice from China",
+    "url": "http://www.adaderana.lk/news/83050/sri-lanka-to-receive-6-batches-of-rice-from-china",
+    "file_name": "/tmp/news_lk2/articles/94/94509694.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655224860,
     "title": "Representatives from Lazard, Clifford Chance arrive in Sri Lanka",
     "url": "http://www.adaderana.lk/news/83049/representatives-from-lazard-clifford-chance-arrive-in-sri-lanka",
@@ -691,12 +698,5 @@
     "title": "People\u2019s Leasing celebrates 26th Anniversary with valiant fuel station staff",
     "url": "https://www.ft.lk/business/People-s-Leasing-celebrates-26th-Anniversary-with-valiant-fuel-station-staff/34-736127",
     "file_name": "/tmp/news_lk2/articles/e8/e856518e.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655150040,
-    "title": "TVEC recognises CMA Sri Lanka DABM Course at NVQ Level 6 Higher National Diploma",
-    "url": "https://www.ft.lk/business/TVEC-recognises-CMA-Sri-Lanka-DABM-Course-at-NVQ-Level-6-Higher-National-Diploma/34-736126",
-    "file_name": "/tmp/news_lk2/articles/cf/cf2cea26.json"
   }
 ]
