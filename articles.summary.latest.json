@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655211780,
+    "title": "Payment for gas made today; distribution after tomorow",
+    "url": "https://www.dailymirror.lk/breaking_news/Payment-for-gas-made-today-distribution-after-tomorow/108-239053",
+    "file_name": "/tmp/news_lk2/articles/6a/6ad8bc0d.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655210640,
     "title": "Cabinet approves Social Security Contribution Tax Bill",
@@ -12,6 +19,13 @@
     "title": "Public employees encouraged to take entitled no-pay leave",
     "url": "http://www.adaderana.lk/news/83045/public-employees-encouraged-to-take-entitled-no-pay-leave",
     "file_name": "/tmp/news_lk2/articles/52/5293d18e.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655209200,
+    "title": "Govt to encourage public employees to take entitled no-pay leave",
+    "url": "http://www.adaderana.lk/news/83045/govt-to-encourage-public-employees-to-take-entitled-no-pay-leave",
+    "file_name": "/tmp/news_lk2/articles/82/822fd35b.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -684,19 +698,5 @@
     "title": "Pettah busy, but no sales",
     "url": "https://www.dailymirror.lk/caption_story/Pettah-busy-but-no-sales/110-239025",
     "file_name": "/tmp/news_lk2/articles/d7/d7081344.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655134740,
-    "title": "Pettah busy, but no sales",
-    "url": "https://www.dailymirror.lk/latest_news/Pettah-busy-but-no-sales/342-239025",
-    "file_name": "/tmp/news_lk2/articles/cf/cfb6bfdc.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655132940,
-    "title": "Australia\u2019s Kane Richardson out of Sri Lanka series with injury",
-    "url": "https://www.dailymirror.lk/breaking_news/Australias-Kane-Richardson-out-of-Sri-Lanka-series-with-injury/108-239021",
-    "file_name": "/tmp/news_lk2/articles/a9/a91bb4af.json"
   }
 ]
