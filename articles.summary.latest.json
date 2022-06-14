@@ -210,6 +210,62 @@
     "file_name": "/tmp/news_lk2/articles/1e/1ec1efee.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655128860,
+    "title": "Seylan Bank enables a smooth ride for Rhoda",
+    "url": "http://island.lk/seylan-bank-enables-a-smooth-ride-for-rhoda/",
+    "file_name": "/tmp/news_lk2/articles/02/027e58eb.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655128800,
+    "title": "ComBank breaks new ground with women-only \u2018Anagi\u2019 Credit Cards",
+    "url": "http://island.lk/combank-breaks-new-ground-with-women-only-anagi-credit-cards/",
+    "file_name": "/tmp/news_lk2/articles/72/72671d40.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655128620,
+    "title": "SLT-MOBITEL elevates Liberty Plaza tenants\u2019 experience with cutting-edge connectivity and advanced ICT solutions",
+    "url": "http://island.lk/slt-mobitel-elevates-liberty-plaza-tenants-experience-with-cutting-edge-connectivity-and-advanced-ict-solutions/",
+    "file_name": "/tmp/news_lk2/articles/6c/6c60d7d9.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655128020,
+    "title": "ISMM International Seminar on October 24, 2022 at the Shangri-La",
+    "url": "http://island.lk/ismm-international-seminar-on-october-24-2022-at-the-shangri-la/",
+    "file_name": "/tmp/news_lk2/articles/f3/f3c47ece.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655127960,
+    "title": "Virtusa\u2019s global leadership team visits Sri Lanka",
+    "url": "http://island.lk/virtusas-global-leadership-team-visits-sri-lanka/",
+    "file_name": "/tmp/news_lk2/articles/42/429029f8.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655127840,
+    "title": "Hambantota Port achieves record numbers for transshipment",
+    "url": "http://island.lk/hambantota-port-achieves-record-numbers-for-transshipment/",
+    "file_name": "/tmp/news_lk2/articles/0f/0f4e91ac.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655127660,
+    "title": "First Nation\u2019s People",
+    "url": "http://island.lk/first-nations-people/",
+    "file_name": "/tmp/news_lk2/articles/a8/a860f857.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655127660,
+    "title": "Food Aid\u2026for Sri Lanka!",
+    "url": "http://island.lk/food-aidfor-sri-lanka/",
+    "file_name": "/tmp/news_lk2/articles/9b/9b8e526d.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655126580,
     "title": "Crisit-hit Sri Lanka sees unusual spike in new passports issued",
@@ -642,61 +698,5 @@
     "title": "\u20184-day work week\u2019 proposal to Cabinet, today (13)",
     "url": "https://www.newsfirst.lk/2022/06/13/4-day-work-week-proposal-to-cabinet-today-13/",
     "file_name": "/tmp/news_lk2/articles/eb/eb1c05cf.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655096280,
-    "title": "Expand railway network and encourage commuters to prefer train travel: Station Masters\u2019 Union",
-    "url": "https://www.dailymirror.lk/latest_news/Expand-railway-network-and-encourage-commuters-to-prefer-train-travel-Station-Masters-Union/342-239002",
-    "file_name": "/tmp/news_lk2/articles/fe/fede4528.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655096280,
-    "title": "Expand railway network and encourage commuters to prefer train travel: Station Masters\u2019 Union",
-    "url": "https://www.dailymirror.lk/breaking_news/Expand-railway-network-and-encourage-commuters-to-prefer-train-travel-Station-Masters-Union/108-239002",
-    "file_name": "/tmp/news_lk2/articles/05/057e2828.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655095920,
-    "title": "Diesel shipment to reach SL in three days",
-    "url": "https://www.newsfirst.lk/2022/06/13/diesel-shipment-to-reach-sl-in-three-days/",
-    "file_name": "/tmp/news_lk2/articles/a0/a05ecb20.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655095200,
-    "title": "Man clubbed to death by son in Kuruwita",
-    "url": "http://www.adaderana.lk/news/83021/man-clubbed-to-death-by-son-in-kuruwita",
-    "file_name": "/tmp/news_lk2/articles/17/175c2733.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655094180,
-    "title": "Sri Lanka\u2019s Adani power deal sans tendering strikes sparks in India politics",
-    "url": "https://economynext.com/sri-lankas-adani-power-deal-sans-tendering-strikes-sparks-in-india-politics-95677/",
-    "file_name": "/tmp/news_lk2/articles/e5/e53cc2ed.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655091960,
-    "title": "Sri Lanka women win 100m relay silver in India",
-    "url": "https://www.newsfirst.lk/2022/06/13/sri-lanka-women-win-100m-relay-silver-in-india/",
-    "file_name": "/tmp/news_lk2/articles/da/da9e1e4d.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655091720,
-    "title": "India\u2019s Sonia Gandhi hospitalised with Covid issues",
-    "url": "http://www.adaderana.lk/news/83020/indias-sonia-gandhi-hospitalised-with-covid-issues",
-    "file_name": "/tmp/news_lk2/articles/12/12781db1.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655091600,
-    "title": "Gasoline prices in the U.S. are skyrocketing",
-    "url": "https://www.newsfirst.lk/2022/06/13/gasoline-prices-in-the-u-s-are-skyrocketing/",
-    "file_name": "/tmp/news_lk2/articles/e5/e5ee8044.json"
   }
 ]
