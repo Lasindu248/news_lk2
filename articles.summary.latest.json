@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655203800,
+    "title": "Poson Dansala at Gangarama temple",
+    "url": "https://www.dailymirror.lk/caption_story/Poson-Dansala-at-Gangarama-temple/110-239048",
+    "file_name": "/tmp/news_lk2/articles/87/877c7c67.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655202600,
+    "title": "China\u2019s US$74 rice grant to reach Sri Lanka by end June",
+    "url": "https://economynext.com/chinas-us74-rice-grant-to-reach-sri-lanka-by-end-june-95747/",
+    "file_name": "/tmp/news_lk2/articles/ad/adec94d4.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655202360,
     "title": "Sri Lanka to boost \u2018Agampora\u2019 traditional martial art by lifting 200-year ban",
@@ -14,6 +28,13 @@
     "file_name": "/tmp/news_lk2/articles/98/98abd039.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655199900,
+    "title": "Private buses may grind to halt by Friday: Gemunu",
+    "url": "https://www.dailymirror.lk/breaking_news/Private-buses-may-grind-to-halt-by-Friday-Gemunu/108-239047",
+    "file_name": "/tmp/news_lk2/articles/7a/7a83c758.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655199180,
     "title": "21A must be passed with positive changes, say Multi-disciplinary group of leading professionals",
@@ -26,6 +47,13 @@
     "title": "6 batches of Rice scheduled to arrive in SL under Chinese grant",
     "url": "https://www.newsfirst.lk/2022/06/14/6-batches-of-rice-scheduled-to-arrive-in-sl-under-chinese-grant/",
     "file_name": "/tmp/news_lk2/articles/d7/d741be45.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655197440,
+    "title": "Prisoners released under Poson pardon",
+    "url": "https://www.dailymirror.lk/caption_story/Prisoners-released-under-Poson-pardon/110-239045",
+    "file_name": "/tmp/news_lk2/articles/52/526ef846.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -670,33 +698,5 @@
     "title": "ComBank breaks new ground with women-only \u2018Anagi\u2019 Credit Cards",
     "url": "http://island.lk/combank-breaks-new-ground-with-women-only-anagi-credit-cards/",
     "file_name": "/tmp/news_lk2/articles/72/72671d40.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655128620,
-    "title": "SLT-MOBITEL elevates Liberty Plaza tenants\u2019 experience with cutting-edge connectivity and advanced ICT solutions",
-    "url": "http://island.lk/slt-mobitel-elevates-liberty-plaza-tenants-experience-with-cutting-edge-connectivity-and-advanced-ict-solutions/",
-    "file_name": "/tmp/news_lk2/articles/6c/6c60d7d9.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655128020,
-    "title": "ISMM International Seminar on October 24, 2022 at the Shangri-La",
-    "url": "http://island.lk/ismm-international-seminar-on-october-24-2022-at-the-shangri-la/",
-    "file_name": "/tmp/news_lk2/articles/f3/f3c47ece.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655127960,
-    "title": "Virtusa\u2019s global leadership team visits Sri Lanka",
-    "url": "http://island.lk/virtusas-global-leadership-team-visits-sri-lanka/",
-    "file_name": "/tmp/news_lk2/articles/42/429029f8.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655127840,
-    "title": "Hambantota Port achieves record numbers for transshipment",
-    "url": "http://island.lk/hambantota-port-achieves-record-numbers-for-transshipment/",
-    "file_name": "/tmp/news_lk2/articles/0f/0f4e91ac.json"
   }
 ]
