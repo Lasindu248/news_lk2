@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655187540,
+    "title": "\u201cClearly disappointed\u201d: Adani reacts to Sri Lanka controversy on energy project",
+    "url": "http://www.adaderana.lk/news/83039/clearly-disappointed-adani-reacts-to-sri-lanka-controversy-on-energy-project",
+    "file_name": "/tmp/news_lk2/articles/9c/9cec4c50.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655184120,
     "title": "Gazette lifting ban on \u2018Angampora\u2019 to be issued",
@@ -63,11 +70,25 @@
     "file_name": "/tmp/news_lk2/articles/77/77c9f3e4.json"
   },
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655180460,
+    "title": "Cabinet postpones approval for 21st constitutional amendment",
+    "url": "http://www.adaderana.lk/news/83037/cabinet-postpones-approval-for-21st-constitutional-amendment",
+    "file_name": "/tmp/news_lk2/articles/56/5663335e.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655180400,
     "title": "Cabinet approves Friday to be declared a holiday for public servants",
     "url": "https://www.dailymirror.lk/latest_news/Cabinet-approves-Friday-to-be-declared-a-holiday-for-public-servants/342-239040",
     "file_name": "/tmp/news_lk2/articles/73/737530d9.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655180400,
+    "title": "Cabinet approves Friday to be declared a holiday for public servants",
+    "url": "https://www.dailymirror.lk/breaking_news/Cabinet-approves-Friday-to-be-declared-a-holiday-for-public-servants/108-239040",
+    "file_name": "/tmp/news_lk2/articles/03/03353b51.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -89,6 +110,13 @@
     "title": "Sri Lanka  continues to soft-peg in May intervening in both directions",
     "url": "https://economynext.com/sri-lanka-continues-to-soft-peg-in-may-intervening-in-both-directions-95725/",
     "file_name": "/tmp/news_lk2/articles/ac/ac85b807.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655179500,
+    "title": "Religious observances at Gangaramaya",
+    "url": "https://www.dailymirror.lk/latest_news/Religious-observances-at-Gangaramaya/342-239041",
+    "file_name": "/tmp/news_lk2/articles/a5/a565845e.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -187,6 +215,13 @@
     "title": "Dhamma endorsed by Arahath Mahinda is like a road map for society: Ranil",
     "url": "https://www.dailymirror.lk/latest_news/Dhamma-endorsed-by-Arahath-Mahinda-is-like-a-road-map-for-society-Ranil/342-239024",
     "file_name": "/tmp/news_lk2/articles/d2/d25711b8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655156520,
+    "title": "Dhamma endorsed by Arahath Mahinda is like a road map for society: Ranil",
+    "url": "https://www.dailymirror.lk/breaking_news/Dhamma-endorsed-by-Arahath-Mahinda-is-like-a-road-map-for-society-Ranil/108-239024",
+    "file_name": "/tmp/news_lk2/articles/3f/3f81276e.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -369,6 +404,13 @@
     "title": "Australia\u2019s Kane Richardson out of Sri Lanka series with injury",
     "url": "https://www.dailymirror.lk/breaking_news/Australias-Kane-Richardson-out-of-Sri-Lanka-series-with-injury/108-239021",
     "file_name": "/tmp/news_lk2/articles/a9/a91bb4af.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655132940,
+    "title": "Australia\u2019s Kane Richardson out of Sri Lanka series with injury",
+    "url": "https://www.dailymirror.lk/latest_news/Australias-Kane-Richardson-out-of-Sri-Lanka-series-with-injury/342-239021",
+    "file_name": "/tmp/news_lk2/articles/c2/c2538c9e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -656,47 +698,5 @@
     "title": "Iranians to dispatch medicine & physicians to Sri Lanka",
     "url": "https://www.dailymirror.lk/breaking_news/Iranians-to-dispatch-medicine-physicians-to-Sri-Lanka/108-239011",
     "file_name": "/tmp/news_lk2/articles/0d/0d4dd930.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655113740,
-    "title": "US, China envoys discuss \u201cbroad topics of mutual interest\u201d as Sri Lanka\u2019s crisis worsens",
-    "url": "https://economynext.com/us-china-envoys-discuss-broad-topics-of-mutual-interest-as-sri-lankas-crisis-worsens-95694/",
-    "file_name": "/tmp/news_lk2/articles/ac/acf637f6.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655113680,
-    "title": "Resurgence of influenza cases - do you also have these symptoms?",
-    "url": "https://www.dailymirror.lk/latest_news/Resurgence-of-influenza-cases-do-you-also-have-these-symptoms/342-239010",
-    "file_name": "/tmp/news_lk2/articles/d5/d532a023.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655113680,
-    "title": "Resurgence of influenza cases - do you also have these symptoms?",
-    "url": "https://www.dailymirror.lk/breaking_news/Resurgence-of-influenza-cases-do-you-also-have-these-symptoms/108-239010",
-    "file_name": "/tmp/news_lk2/articles/03/03d02da6.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655113260,
-    "title": "Dr. Shafi donates arrears of his salary to purchase medicines for hospitals",
-    "url": "https://www.dailymirror.lk/breaking_news/Dr-Shafi-donates-arrears-of-his-salary-to-purchase-medicines-for-hospitals/108-239009",
-    "file_name": "/tmp/news_lk2/articles/52/52365414.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655112840,
-    "title": "PM to initiate dialogue with China to secure major assistance",
-    "url": "https://www.dailymirror.lk/latest_news/PM-to-initiate-dialogue-with-China-to-secure-major-assistance/342-239008",
-    "file_name": "/tmp/news_lk2/articles/ba/ba6efa8f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655112840,
-    "title": "PM to initiate dialogue with China to secure major assistance",
-    "url": "https://www.dailymirror.lk/breaking_news/PM-to-initiate-dialogue-with-China-to-secure-major-assistance/108-239008",
-    "file_name": "/tmp/news_lk2/articles/e5/e5de508b.json"
   }
 ]
