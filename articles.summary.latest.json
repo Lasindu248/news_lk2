@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655192160,
+    "title": "Sri Lanka state offices shut on Fridays for home garden leave",
+    "url": "https://economynext.com/sri-lanka-state-offices-shut-on-fridays-for-home-garden-leave-95738/",
+    "file_name": "/tmp/news_lk2/articles/2c/2c77849b.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655191800,
     "title": "One person shot dead in Wattala",
@@ -691,12 +698,5 @@
     "title": "SL has to wait till year end to obtain loan from IMF: Harsha",
     "url": "https://www.dailymirror.lk/top_story/SL-has-to-wait-till-year-end-to-obtain-loan-from-IMF-Harsha/155-239017",
     "file_name": "/tmp/news_lk2/articles/3f/3fe97a60.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655116980,
-    "title": "SL has to wait till year end to obtain loan from IMF - Harsha",
-    "url": "https://www.dailymirror.lk/breaking_news/SL-has-to-wait-till-year-end-to-obtain-loan-from-IMF-Harsha/108-239017",
-    "file_name": "/tmp/news_lk2/articles/56/5671f6c4.json"
   }
 ]
