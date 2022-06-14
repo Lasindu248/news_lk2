@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655233800,
+    "title": "Maxwell guides Australia to early series lead",
+    "url": "https://www.dailymirror.lk/headline/Maxwell-guides-Australia-to-early-series-lead/419-239061",
+    "file_name": "/tmp/news_lk2/articles/2f/2f5916e3.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655230620,
     "title": "Sri Lanka to receive 6 batches of rice from China",
@@ -66,6 +73,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655217960,
     "title": "Possible to meet 50%  demand for gas, fuel in coming weeks: PM",
+    "url": "https://www.dailymirror.lk/breaking_news/Possible-to-meet-50-demand-for-gas-fuel-in-coming-weeks-PM/108-239060",
+    "file_name": "/tmp/news_lk2/articles/aa/aa497dd5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655217960,
+    "title": "Possible to meet 50%  demand for gas, fuel in coming weeks: PM",
     "url": "https://www.dailymirror.lk/latest_news/Possible-to-meet-50-demand-for-gas-fuel-in-coming-weeks-PM/342-239060",
     "file_name": "/tmp/news_lk2/articles/2c/2c803034.json"
   },
@@ -75,6 +89,13 @@
     "title": "Crisis-hit Sri Lanka aims for USD800 mln from tourism; India-led revival advised",
     "url": "https://economynext.com/crisis-hit-sri-lanka-aims-for-usd800-mln-from-tourism-india-led-revival-advised-95748/",
     "file_name": "/tmp/news_lk2/articles/ed/ed9332df.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655216400,
+    "title": "Mendis anchors Sri Lankan batting in first ODI against Australia",
+    "url": "https://www.dailymirror.lk/breaking_news/Mendis-anchors-Sri-Lankan-batting-in-first-ODI-against-Australia/108-239058",
+    "file_name": "/tmp/news_lk2/articles/05/05505c79.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -117,6 +138,13 @@
     "title": "Final diesel tanker under Indian LoC in two days",
     "url": "https://www.newsfirst.lk/2022/06/14/final-diesel-tanker-under-indian-loc-in-two-days/",
     "file_name": "/tmp/news_lk2/articles/d8/d81c28ae.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655212440,
+    "title": "Gazette to be issued lifting English colonial era ban",
+    "url": "https://www.dailymirror.lk/breaking_news/Gazette-to-be-issued-lifting-English-colonial-era-ban/108-239059",
+    "file_name": "/tmp/news_lk2/articles/7e/7e26bed4.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -670,33 +698,5 @@
     "title": "FM seeks understanding of UNHRC regarding challenging social and economic situation in SL",
     "url": "https://www.ft.lk/news/FM-seeks-understanding-of-UNHRC-regarding-challenging-social-and-economic-situation-in-SL/56-736131",
     "file_name": "/tmp/news_lk2/articles/1e/1e7b2f9f.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655150280,
-    "title": "Govt. announces several measures to boost public and school transport",
-    "url": "https://www.ft.lk/news/Govt-announces-several-measures-to-boost-public-and-school-transport/56-736130",
-    "file_name": "/tmp/news_lk2/articles/ff/ffca5a9f.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655150160,
-    "title": "SriLankan Airlines scores two APEX awards",
-    "url": "https://www.ft.lk/business/SriLankan-Airlines-scores-two-APEX-awards/34-736129",
-    "file_name": "/tmp/news_lk2/articles/3f/3f156496.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655150100,
-    "title": "DI-Solar from DIMO, Sri Lanka\u2019s first battery less solution to utilise solar PV generated power during outages",
-    "url": "https://www.ft.lk/business/DI-Solar-from-DIMO-Sri-Lanka-s-first-battery-less-solution-to-utilise-solar-PV-generated-power-during-outages/34-736128",
-    "file_name": "/tmp/news_lk2/articles/ab/abf27496.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655150100,
-    "title": "People\u2019s Leasing celebrates 26th Anniversary with valiant fuel station staff",
-    "url": "https://www.ft.lk/business/People-s-Leasing-celebrates-26th-Anniversary-with-valiant-fuel-station-staff/34-736127",
-    "file_name": "/tmp/news_lk2/articles/e8/e856518e.json"
   }
 ]
