@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655207160,
+    "title": "Litro pays USD 3.9 Mn for LP Gas",
+    "url": "https://www.newsfirst.lk/2022/06/14/litro-pays-usd-3-9-mn-for-lp-gas/",
+    "file_name": "/tmp/news_lk2/articles/d3/d3e2defb.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655205780,
+    "title": "Attract more tourists, resume Palaly operations: Prime Minister advises tourism stakeholders",
+    "url": "https://www.newsfirst.lk/2022/06/14/attract-more-tourists-resume-palaly-operations-prime-minister-advises-tourism-stakeholders/",
+    "file_name": "/tmp/news_lk2/articles/d3/d311735f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655205720,
+    "title": "WEATHER: Amber alert issued for severe lightning",
+    "url": "https://www.newsfirst.lk/2022/06/14/weather-amber-alert-issued-for-severe-lightning/",
+    "file_name": "/tmp/news_lk2/articles/b9/b93e4b96.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655204940,
     "title": "Former Maldivian President refutes Harsha\u2019s remarks",
@@ -677,26 +698,5 @@
     "title": "Australia\u2019s Kane Richardson out of Sri Lanka series with injury",
     "url": "https://www.dailymirror.lk/top-story-sports-1/Australias-Kane-Richardson-out-of-Sri-Lanka-series-with-injury/324-239021",
     "file_name": "/tmp/news_lk2/articles/3a/3aa809c5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655132940,
-    "title": "Australia\u2019s Kane Richardson out of Sri Lanka series with injury",
-    "url": "https://www.dailymirror.lk/headline/Australias-Kane-Richardson-out-of-Sri-Lanka-series-with-injury/419-239021",
-    "file_name": "/tmp/news_lk2/articles/68/68c1c6bd.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655131320,
-    "title": "Organised liquor vendors trying to create monopoly: Excise Chief",
-    "url": "https://www.dailymirror.lk/latest_news/Organised-liquor-vendors-trying-to-create-monopoly-Excise-Chief/342-239022",
-    "file_name": "/tmp/news_lk2/articles/2c/2c6cc7b7.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655131320,
-    "title": "Organised liquor vendors trying to create monopoly: Excise Chief",
-    "url": "https://www.dailymirror.lk/breaking_news/Organised-liquor-vendors-trying-to-create-monopoly-Excise-Chief/108-239022",
-    "file_name": "/tmp/news_lk2/articles/94/9403a4f6.json"
   }
 ]
