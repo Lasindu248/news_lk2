@@ -114,6 +114,13 @@
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655179500,
+    "title": "Religious observances at Gangaramaya and Bellanwila",
+    "url": "https://www.dailymirror.lk/latest_news/Religious-observances-at-Gangaramaya-and-Bellanwila/342-239041",
+    "file_name": "/tmp/news_lk2/articles/ac/aca450b3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655179500,
     "title": "Religious observances at Gangaramaya",
     "url": "https://www.dailymirror.lk/latest_news/Religious-observances-at-Gangaramaya/342-239041",
     "file_name": "/tmp/news_lk2/articles/a5/a565845e.json"
@@ -691,12 +698,5 @@
     "title": "State media institutions get new Heads",
     "url": "https://www.dailymirror.lk/latest_news/State-media-institutions-get-new-Heads/342-239012",
     "file_name": "/tmp/news_lk2/articles/42/42a27e91.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655114940,
-    "title": "Iranians to dispatch medicine & physicians to Sri Lanka",
-    "url": "https://www.dailymirror.lk/breaking_news/Iranians-to-dispatch-medicine-physicians-to-Sri-Lanka/108-239011",
-    "file_name": "/tmp/news_lk2/articles/0d/0d4dd930.json"
   }
 ]
