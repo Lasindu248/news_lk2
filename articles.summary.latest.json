@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655156520,
+    "title": "Dhamma endorsed by Arahath Mahinda is like a road map for society: Ranil",
+    "url": "https://www.dailymirror.lk/latest_news/Dhamma-endorsed-by-Arahath-Mahinda-is-like-a-road-map-for-society-Ranil/342-239024",
+    "file_name": "/tmp/news_lk2/articles/d2/d25711b8.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1655150340,
     "title": "FM seeks understanding of UNHRC regarding challenging social and economic situation in SL",
@@ -691,12 +698,5 @@
     "title": "Traders can face up to Rs. 500,000 in fines & 6 months in prison for selling rice at high prices",
     "url": "https://www.newsfirst.lk/2022/06/13/traders-can-face-up-to-rs-500000-in-fines-6-months-in-prison-for-selling-rice-at-high-prices/",
     "file_name": "/tmp/news_lk2/articles/ae/aebc8c7a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655096820,
-    "title": "\u20184-day work week\u2019 proposal to Cabinet, today (13)",
-    "url": "https://www.newsfirst.lk/2022/06/13/4-day-work-week-proposal-to-cabinet-today-13/",
-    "file_name": "/tmp/news_lk2/articles/eb/eb1c05cf.json"
   }
 ]
