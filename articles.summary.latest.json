@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655183880,
+    "title": "US stands ready to work with Sri Lanka:  US Secretary of State",
+    "url": "https://www.dailymirror.lk/latest_news/US-stands-ready-to-work-with-Sri-Lanka-US-Secretary-of-State/342-239038",
+    "file_name": "/tmp/news_lk2/articles/02/02b6ec4a.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655183460,
     "title": "Fridays to be declared holidays for public sector for 3 months",
@@ -14,6 +21,13 @@
     "file_name": "/tmp/news_lk2/articles/42/424ef0d7.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655182200,
+    "title": "Adani reacts to Sri Lanka controversy on PM Modi and energy project",
+    "url": "https://www.dailymirror.lk/breaking_news/Adani-reacts-to-Sri-Lanka-controversy-on-PM-Modi-and-energy-project/108-239039",
+    "file_name": "/tmp/news_lk2/articles/87/871f608b.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655180520,
     "title": "Hospitalization of children on the rise",
@@ -26,6 +40,13 @@
     "title": "Cabinet postpones approving for 21st constitutional amendment",
     "url": "http://www.adaderana.lk/news/83037/cabinet-postpones-approving-for-21st-constitutional-amendment-",
     "file_name": "/tmp/news_lk2/articles/77/77c9f3e4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655180400,
+    "title": "Cabinet approves Friday to be declared a holiday for public servants",
+    "url": "https://www.dailymirror.lk/latest_news/Cabinet-approves-Friday-to-be-declared-a-holiday-for-public-servants/342-239040",
+    "file_name": "/tmp/news_lk2/articles/73/737530d9.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -677,26 +698,5 @@
     "title": "Sri Lanka CEB chairman resigns after uproar over contradictory COPE statement",
     "url": "https://economynext.com/sri-lanka-ceb-chairman-resigns-after-uproar-over-contradictory-cope-statement-95702/",
     "file_name": "/tmp/news_lk2/articles/d2/d221aebc.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655111940,
-    "title": "LAUGFS draws long queues...",
-    "url": "https://www.dailymirror.lk/caption_story/LAUGFS-draws-long-queues/110-239018",
-    "file_name": "/tmp/news_lk2/articles/7d/7dd28abf.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655111940,
-    "title": "LAUGFS draws long queues...",
-    "url": "https://www.dailymirror.lk/latest_news/LAUGFS-draws-long-queues/342-239018",
-    "file_name": "/tmp/news_lk2/articles/cf/cf541bdb.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655111880,
-    "title": "Angelo Mathews becomes first Sri Lankan to be named ICC Player of the Month",
-    "url": "http://www.adaderana.lk/news/83025/angelo-mathews-becomes-first-sri-lankan-to-be-named-icc-player-of-the-month",
-    "file_name": "/tmp/news_lk2/articles/be/becce7d2.json"
   }
 ]
