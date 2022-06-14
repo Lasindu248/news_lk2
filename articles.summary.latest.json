@@ -1,10 +1,38 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655218080,
+    "title": "Announcement on distribution priority of latest LP gas shipment",
+    "url": "http://www.adaderana.lk/news/83048/announcement-on-distribution-priority-of-latest-lp-gas-shipment",
+    "file_name": "/tmp/news_lk2/articles/60/60d6af1f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655217960,
+    "title": "Possible to meet 50%  demand for gas, fuel in coming weeks: PM",
+    "url": "https://www.dailymirror.lk/latest_news/Possible-to-meet-50-demand-for-gas-fuel-in-coming-weeks-PM/342-239060",
+    "file_name": "/tmp/news_lk2/articles/2c/2c803034.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655217660,
+    "title": "Crisis-hit Sri Lanka aims for USD800 mln from tourism; India-led revival advised",
+    "url": "https://economynext.com/crisis-hit-sri-lanka-aims-for-usd800-mln-from-tourism-india-led-revival-advised-95748/",
+    "file_name": "/tmp/news_lk2/articles/ed/ed9332df.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655216400,
     "title": "Mendis anchors Sri Lankan batting in first ODI against Australia",
     "url": "https://www.dailymirror.lk/latest_news/Mendis-anchors-Sri-Lankan-batting-in-first-ODI-against-Australia/342-239058",
     "file_name": "/tmp/news_lk2/articles/91/91e59186.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655216040,
+    "title": "CTB depots to provide fuel for school vans & buses",
+    "url": "https://www.newsfirst.lk/2022/06/14/ctb-depots-to-provide-fuel-for-school-vans-buses/",
+    "file_name": "/tmp/news_lk2/articles/b5/b5dee1bf.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -670,33 +698,5 @@
     "title": "Lessons from the fiasco  over the detention of  \u2018Aeroflot\u2019",
     "url": "https://www.dailymirror.lk/opinion/Lessons-from-the-fiasco-over-the-detention-of-Aeroflot/172-239030",
     "file_name": "/tmp/news_lk2/articles/fc/fc82937f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655145480,
-    "title": "Lessons from the fiasco  over the detention of  \u2018Aeroflot\u2019",
-    "url": "https://www.dailymirror.lk/recomended-news/Lessons-from-the-fiasco-over-the-detention-of-Aeroflot/277-239030",
-    "file_name": "/tmp/news_lk2/articles/34/34c3abc5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655145480,
-    "title": "Lessons from the fiasco  over the detention of  \u2018Aeroflot\u2019",
-    "url": "https://www.dailymirror.lk/plus/Lessons-from-the-fiasco-over-the-detention-of-Aeroflot/352-239030",
-    "file_name": "/tmp/news_lk2/articles/53/5360b01b.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655141100,
-    "title": "Sri Lanka stocks slip amid uncertainties; turnover slumps to 7-wk low",
-    "url": "https://economynext.com/sri-lanka-stocks-slip-amid-uncertainties-turnover-slumps-to-7-wk-low-95723/",
-    "file_name": "/tmp/news_lk2/articles/a7/a7e69025.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655140740,
-    "title": "Mihintale Aloka Pooja",
-    "url": "https://www.dailymirror.lk/caption_story/Mihintale-Aloka-Pooja/110-239028",
-    "file_name": "/tmp/news_lk2/articles/c3/c3921d52.json"
   }
 ]
