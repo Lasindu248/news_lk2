@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655184120,
+    "title": "Gazette lifting ban on \u2018Angampora\u2019 to be issued",
+    "url": "https://www.newsfirst.lk/2022/06/14/gazette-lifting-ban-on-angampora-to-be-issued/",
+    "file_name": "/tmp/news_lk2/articles/73/738e04c0.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655183880,
     "title": "US stands ready to work with Sri Lanka:  US Secretary of State",
@@ -14,6 +21,13 @@
     "file_name": "/tmp/news_lk2/articles/72/72a869bc.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655182980,
+    "title": "WTO nears food pledges; India, Egypt, Sri Lanka hold out",
+    "url": "https://www.newsfirst.lk/2022/06/14/wto-nears-food-pledges-india-egypt-sri-lanka-hold-out/",
+    "file_name": "/tmp/news_lk2/articles/e2/e225f831.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655182380,
     "title": "Sri Lanka cabinet approves 2.5-pct turnover tax",
@@ -26,6 +40,13 @@
     "title": "Adani reacts to Sri Lanka controversy on PM Modi and energy project",
     "url": "https://www.dailymirror.lk/breaking_news/Adani-reacts-to-Sri-Lanka-controversy-on-PM-Modi-and-energy-project/108-239039",
     "file_name": "/tmp/news_lk2/articles/87/871f608b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655182200,
+    "title": "Adani reacts to Sri Lanka controversy on PM Modi and energy project",
+    "url": "https://www.dailymirror.lk/top_story/Adani-reacts-to-Sri-Lanka-controversy-on-PM-Modi-and-energy-project/155-239039",
+    "file_name": "/tmp/news_lk2/articles/84/84169dc5.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -677,26 +698,5 @@
     "title": "PM to initiate dialogue with China to secure major assistance",
     "url": "https://www.dailymirror.lk/breaking_news/PM-to-initiate-dialogue-with-China-to-secure-major-assistance/108-239008",
     "file_name": "/tmp/news_lk2/articles/e5/e5de508b.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655112540,
-    "title": "Ferdinando resigns as CEB Chairman",
-    "url": "http://www.adaderana.lk/news/83026/ferdinando-resigns-as-ceb-chairman",
-    "file_name": "/tmp/news_lk2/articles/cc/ccd38fd6.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655112480,
-    "title": "Sri Lanka CEB chairman resigns after Adani deal revelations",
-    "url": "https://economynext.com/sri-lanka-ceb-chairman-resigns-after-adani-deal-revelations-95702/",
-    "file_name": "/tmp/news_lk2/articles/5c/5c3e0a90.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655112480,
-    "title": "Sri Lanka CEB chairman resigns after uproar over contradictory COPE statement",
-    "url": "https://economynext.com/sri-lanka-ceb-chairman-resigns-after-uproar-over-contradictory-cope-statement-95702/",
-    "file_name": "/tmp/news_lk2/articles/d2/d221aebc.json"
   }
 ]
