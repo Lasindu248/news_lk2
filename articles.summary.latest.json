@@ -1,10 +1,24 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655204940,
+    "title": "Former Maldivian President refutes Harsha\u2019s remarks",
+    "url": "http://www.adaderana.lk/news/83044/former-maldivian-president-refutes-harshas-remarks",
+    "file_name": "/tmp/news_lk2/articles/0a/0afd751d.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655203800,
     "title": "Poson Dansala at Gangarama temple",
     "url": "https://www.dailymirror.lk/caption_story/Poson-Dansala-at-Gangarama-temple/110-239048",
     "file_name": "/tmp/news_lk2/articles/87/877c7c67.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655203800,
+    "title": "Poson Dansala at Gangarama temple",
+    "url": "https://www.dailymirror.lk/latest_news/Poson-Dansala-at-Gangarama-temple/342-239048",
+    "file_name": "/tmp/news_lk2/articles/20/20c80f03.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -31,8 +45,22 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655199900,
     "title": "Private buses may grind to halt by Friday: Gemunu",
+    "url": "https://www.dailymirror.lk/latest_news/Private-buses-may-grind-to-halt-by-Friday-Gemunu/342-239047",
+    "file_name": "/tmp/news_lk2/articles/26/2673edf7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655199900,
+    "title": "Private buses may grind to halt by Friday: Gemunu",
     "url": "https://www.dailymirror.lk/breaking_news/Private-buses-may-grind-to-halt-by-Friday-Gemunu/108-239047",
     "file_name": "/tmp/news_lk2/articles/7a/7a83c758.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655199600,
+    "title": "Youngster shot dead in Wattala",
+    "url": "https://www.dailymirror.lk/latest_news/Youngster-shot-dead-in-Wattala/342-239049",
+    "file_name": "/tmp/news_lk2/articles/e4/e45f0280.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -54,6 +82,13 @@
     "title": "Prisoners released under Poson pardon",
     "url": "https://www.dailymirror.lk/caption_story/Prisoners-released-under-Poson-pardon/110-239045",
     "file_name": "/tmp/news_lk2/articles/52/526ef846.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655197440,
+    "title": "Prisoners released under Poson pardon",
+    "url": "https://www.dailymirror.lk/latest_news/Prisoners-released-under-Poson-pardon/342-239045",
+    "file_name": "/tmp/news_lk2/articles/a6/a6177235.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -99,6 +134,13 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655195880,
+    "title": "World Blood Donor's Day",
+    "url": "https://www.dailymirror.lk/latest_news/World-Blood-Donor-s-Day/342-239044",
+    "file_name": "/tmp/news_lk2/articles/23/23b088e1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655195220,
     "title": "Rescheduled time table for trains on Kelani Valley line",
     "url": "https://www.dailymirror.lk/latest_news/Rescheduled-time-table-for-trains-on-Kelani-Valley-line/342-239043",
@@ -131,6 +173,13 @@
     "title": "Sri Lanka state offices shut on Fridays for home garden leave",
     "url": "https://economynext.com/sri-lanka-state-offices-shut-on-fridays-for-home-garden-leave-95738/",
     "file_name": "/tmp/news_lk2/articles/2c/2c77849b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655191920,
+    "title": "Poson Dansala at Sirikotha",
+    "url": "https://www.dailymirror.lk/latest_news/Poson-Dansala-at-Sirikotha/342-239046",
+    "file_name": "/tmp/news_lk2/articles/fa/fa2df386.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -649,54 +698,5 @@
     "title": "Organised liquor vendors trying to create monopoly: Excise Chief",
     "url": "https://www.dailymirror.lk/breaking_news/Organised-liquor-vendors-trying-to-create-monopoly-Excise-Chief/108-239022",
     "file_name": "/tmp/news_lk2/articles/94/9403a4f6.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655131080,
-    "title": "Dr. Shafi awarded salary arrears; decides to purchase essential medicines for Sri Lanka.",
-    "url": "https://www.newsfirst.lk/2022/06/13/dr-shafi-awarded-salary-arrears-decides-to-purchase-essential-medicines-for-sri-lanka/",
-    "file_name": "/tmp/news_lk2/articles/66/66bdfce9.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655130120,
-    "title": "Blinken agrees to promote investments to Sri Lanka once the IMF negotiations are over",
-    "url": "https://www.newsfirst.lk/2022/06/13/blinken-agrees-to-promote-investments-to-sri-lanka-once-the-imf-negotiations-are-over/",
-    "file_name": "/tmp/news_lk2/articles/a2/a28bb2a3.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655129400,
-    "title": "Adani Fiasco: Did Ex-CEB Chairman actually lie to COPE? What did he tell Treasury Secretary about President\u2019s meeting?",
-    "url": "https://www.newsfirst.lk/2022/06/13/adani-fiasco-did-ex-ceb-chairman-actually-lie-to-cope-what-did-he-tell-treasury-secretary-about-presidents-meeting/",
-    "file_name": "/tmp/news_lk2/articles/28/287ec9fe.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655128980,
-    "title": "SJB to support restructuring CPC, SriLankan Airlines",
-    "url": "https://www.dailymirror.lk/breaking_news/SJB-to-support-restructuring-CPC-SriLankan-Airlines/108-239020",
-    "file_name": "/tmp/news_lk2/articles/41/4142829e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655128980,
-    "title": "SJB to support restructuring CPC, SriLankan Airlines",
-    "url": "https://www.dailymirror.lk/latest_news/SJB-to-support-restructuring-CPC-SriLankan-Airlines/342-239020",
-    "file_name": "/tmp/news_lk2/articles/1e/1ec1efee.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655128860,
-    "title": "Seylan Bank enables a smooth ride for Rhoda",
-    "url": "http://island.lk/seylan-bank-enables-a-smooth-ride-for-rhoda/",
-    "file_name": "/tmp/news_lk2/articles/02/027e58eb.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655128800,
-    "title": "ComBank breaks new ground with women-only \u2018Anagi\u2019 Credit Cards",
-    "url": "http://island.lk/combank-breaks-new-ground-with-women-only-anagi-credit-cards/",
-    "file_name": "/tmp/news_lk2/articles/72/72671d40.json"
   }
 ]
