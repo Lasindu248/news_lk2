@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655325480,
+    "title": "FR application filed against appointing Dhammika Perera as an MP",
+    "url": "http://www.adaderana.lk/news/83070/fr-application-filed-against-appointing-dhammika-perera-as-an-mp",
+    "file_name": "/tmp/news_lk2/articles/1a/1a5cd809.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1655317800,
     "title": "COPA wants detailed report on ethanol imports into country",
@@ -691,12 +698,5 @@
     "title": "SL vs AUS: Maxwell blazing fifty helps visitors win in rain-curtailed first game",
     "url": "https://www.newsfirst.lk/2022/06/15/sl-vs-aus-maxwell-blazing-fifty-helps-visitors-win-in-rain-curtailed-first-game/",
     "file_name": "/tmp/news_lk2/articles/44/4435d708.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655264760,
-    "title": "Schools open after a four-day holiday",
-    "url": "https://www.newsfirst.lk/2022/06/15/schools-open-after-a-four-day-holiday/",
-    "file_name": "/tmp/news_lk2/articles/86/8620f22f.json"
   }
 ]
