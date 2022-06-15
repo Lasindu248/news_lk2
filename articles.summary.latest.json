@@ -1,10 +1,45 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655263140,
+    "title": "UK govt. not party to training SL\u2019S STF personnel in 1980s \u2013 Britain",
+    "url": "https://www.dailymirror.lk/breaking_news/UK-govt-not-party-to-training-SLS-STF-personnel-in-1980s-Britain/108-239094",
+    "file_name": "/tmp/news_lk2/articles/3d/3d962fc8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655262720,
+    "title": "New rules to facilitate State employees seeking foreign employment",
+    "url": "https://www.dailymirror.lk/breaking_news/New-rules-to-facilitate-State-employees-seeking-foreign-employment/108-239087",
+    "file_name": "/tmp/news_lk2/articles/2b/2bd6c4b0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655262360,
+    "title": "UK govt. not party to training SL\u2019s STF personnel in 1980s \u2013 Britain",
+    "url": "https://www.dailymirror.lk/breaking_news/UK-govt-not-party-to-training-SLs-STF-personnel-in-1980s-Britain/108-239077",
+    "file_name": "/tmp/news_lk2/articles/ac/acf89bc1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655260500,
+    "title": "Showers & thundershowers likely on Wednesday (15)",
+    "url": "https://www.newsfirst.lk/2022/06/15/showers-thundershowers-likely-on-wednesday-15/",
+    "file_name": "/tmp/news_lk2/articles/b4/b4fe005b.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655258640,
     "title": "Several areas to receive spells of showers today",
     "url": "http://www.adaderana.lk/news/83051/several-areas-to-receive-spells-of-showers-today",
     "file_name": "/tmp/news_lk2/articles/05/05758234.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655257980,
+    "title": "Sri Lanka, world\u2019s poor suffers from Fed\u2019s accidental discovery: Bellwether",
+    "url": "https://economynext.com/sri-lanka-worlds-poor-suffers-from-feds-accidental-discovery-bellwether-95761/",
+    "file_name": "/tmp/news_lk2/articles/87/8722eb62.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -19,6 +54,20 @@
     "title": "UL 504 avoids biggest possible mid-air collision with British Airways",
     "url": "https://www.dailymirror.lk/latest_news/UL-504-avoids-biggest-possible-mid-air-collision-with-British-Airways/342-239067",
     "file_name": "/tmp/news_lk2/articles/58/58faadf3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655256240,
+    "title": "UL 504 avoids biggest possible mid-air collision with British Airways",
+    "url": "https://www.dailymirror.lk/top_story/UL-504-avoids-biggest-possible-mid-air-collision-with-British-Airways/155-239067",
+    "file_name": "/tmp/news_lk2/articles/50/50045168.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655245800,
+    "title": "I stand by what I said: Harsha",
+    "url": "https://www.dailymirror.lk/breaking_news/I-stand-by-what-I-said-Harsha/108-239068",
+    "file_name": "/tmp/news_lk2/articles/7e/7e706f1d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -61,6 +110,13 @@
     "title": "Nasheed refutes Harsha\u2019s claims",
     "url": "https://www.dailymirror.lk/latest_news/Nasheed-refutes-Harshas-claims/342-239069",
     "file_name": "/tmp/news_lk2/articles/24/2442fb17.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655238780,
+    "title": "Nasheed refutes Harsha\u2019s claims",
+    "url": "https://www.dailymirror.lk/breaking_news/Nasheed-refutes-Harshas-claims/108-239069",
+    "file_name": "/tmp/news_lk2/articles/22/224f60a5.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -642,61 +698,5 @@
     "title": "Functions at National Blood Transfusion unit to turn critical in few weeks",
     "url": "https://www.dailymirror.lk/breaking_news/Functions-at-National-Blood-Transfusion-unit-to-turn-critical-in-few-weeks/108-239042",
     "file_name": "/tmp/news_lk2/articles/2c/2cf7e134.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655187540,
-    "title": "\u201cClearly disappointed\u201d: Adani reacts to Sri Lanka controversy on energy project",
-    "url": "http://www.adaderana.lk/news/83039/clearly-disappointed-adani-reacts-to-sri-lanka-controversy-on-energy-project",
-    "file_name": "/tmp/news_lk2/articles/9c/9cec4c50.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655184120,
-    "title": "Gazette lifting ban on \u2018Angampora\u2019 to be issued",
-    "url": "https://www.newsfirst.lk/2022/06/14/gazette-lifting-ban-on-angampora-to-be-issued/",
-    "file_name": "/tmp/news_lk2/articles/73/738e04c0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655183880,
-    "title": "US stands ready to work with Sri Lanka:  US Secretary of State",
-    "url": "https://www.dailymirror.lk/latest_news/US-stands-ready-to-work-with-Sri-Lanka-US-Secretary-of-State/342-239038",
-    "file_name": "/tmp/news_lk2/articles/02/02b6ec4a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655183880,
-    "title": "US stands ready to work with Sri Lanka:  US Secretary of State",
-    "url": "https://www.dailymirror.lk/breaking_news/US-stands-ready-to-work-with-Sri-Lanka-US-Secretary-of-State/108-239038",
-    "file_name": "/tmp/news_lk2/articles/61/61a793e5.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655183460,
-    "title": "Fridays to be declared holidays for public sector for 3 months",
-    "url": "http://www.adaderana.lk/news/83038/fridays-to-be-declared-holidays-for-public-sector-for-3-months",
-    "file_name": "/tmp/news_lk2/articles/72/72a869bc.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655182980,
-    "title": "WTO nears food pledges; India, Egypt, Sri Lanka hold out",
-    "url": "https://www.newsfirst.lk/2022/06/14/wto-nears-food-pledges-india-egypt-sri-lanka-hold-out/",
-    "file_name": "/tmp/news_lk2/articles/e2/e225f831.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655182380,
-    "title": "Sri Lanka cabinet approves 2.5-pct turnover tax",
-    "url": "https://economynext.com/sri-lanka-cabinet-approves-2-5-pct-turnover-tax-95733/",
-    "file_name": "/tmp/news_lk2/articles/42/424ef0d7.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655182200,
-    "title": "Adani reacts to Sri Lanka controversy on PM Modi and energy project",
-    "url": "https://www.dailymirror.lk/breaking_news/Adani-reacts-to-Sri-Lanka-controversy-on-PM-Modi-and-energy-project/108-239039",
-    "file_name": "/tmp/news_lk2/articles/87/871f608b.json"
   }
 ]
