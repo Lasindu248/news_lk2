@@ -1,6 +1,48 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655288940,
+    "title": "Govt to take policy decision to up train fares: GMR",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-to-take-policy-decision-to-up-train-fares-GMR/108-239112",
+    "file_name": "/tmp/news_lk2/articles/5f/5fc9e20f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655288820,
+    "title": "MP Sanath Nishantha and Moratuwa Mayor granted bail",
+    "url": "http://www.adaderana.lk/news/83061/mp-sanath-nishantha-and-moratuwa-mayor-granted-bail",
+    "file_name": "/tmp/news_lk2/articles/c8/c884e092.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655288460,
+    "title": "Winding queues....still with hope",
+    "url": "https://www.dailymirror.lk/caption_story/Winding-queues-still-with-hope/110-239111",
+    "file_name": "/tmp/news_lk2/articles/18/18b03453.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655288340,
+    "title": "UNFPA and China provide medical equipment to Ministry of Health",
+    "url": "http://www.adaderana.lk/news/83060/unfpa-and-china-provide-medical-equipment-to-ministry-of-health",
+    "file_name": "/tmp/news_lk2/articles/9d/9dfa322c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655287800,
+    "title": "Sanath Nishantha, Moratuwa Mayor granted bail",
+    "url": "https://www.dailymirror.lk/breaking_news/Sanath-Nishantha-Moratuwa-Mayor-granted-bail/108-239110",
+    "file_name": "/tmp/news_lk2/articles/7f/7fd8d97d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655287020,
+    "title": "UNFPA with China donates medical equipment to Sri Lanka worth 800,000 dollars",
+    "url": "https://economynext.com/unfpa-with-china-donates-medical-equipment-to-sri-lanka-worth-800000-dollars-95830/",
+    "file_name": "/tmp/news_lk2/articles/ac/acc51531.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655286960,
     "title": "Monitor banks\u2019 lending policies: PM instructs CB Treasury",
     "url": "https://www.dailymirror.lk/latest_news/Monitor-banks-lending-policies-PM-instructs-CB-Treasury/342-239109",
@@ -8,10 +50,31 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655286960,
+    "title": "Monitor banks\u2019 lending policies: PM instructs CB Treasury",
+    "url": "https://www.dailymirror.lk/breaking_news/Monitor-banks-lending-policies-PM-instructs-CB-Treasury/108-239109",
+    "file_name": "/tmp/news_lk2/articles/e2/e2fcdc27.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655286900,
+    "title": "GMOA gets new Head",
+    "url": "https://www.dailymirror.lk/breaking_news/GMOA-gets-new-Head/108-239108",
+    "file_name": "/tmp/news_lk2/articles/d9/d9adeea8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655286900,
     "title": "GMOA gets new Head",
     "url": "https://www.dailymirror.lk/latest_news/GMOA-gets-new-Head/342-239108",
     "file_name": "/tmp/news_lk2/articles/1d/1d9f5ca8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655286660,
+    "title": "Requested to increase price by Rs.200: LITRO Chairman",
+    "url": "https://www.dailymirror.lk/breaking_news/Requested-to-increase-price-by-Rs-200-LITRO-Chairman/108-239107",
+    "file_name": "/tmp/news_lk2/articles/1b/1b9ec037.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -635,68 +698,5 @@
     "title": "Sri Lanka to receive 6 batches of rice from China",
     "url": "http://www.adaderana.lk/news/83050/sri-lanka-to-receive-6-batches-of-rice-from-china",
     "file_name": "/tmp/news_lk2/articles/94/94509694.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655224860,
-    "title": "Representatives from Lazard, Clifford Chance arrive in Sri Lanka",
-    "url": "http://www.adaderana.lk/news/83049/representatives-from-lazard-clifford-chance-arrive-in-sri-lanka",
-    "file_name": "/tmp/news_lk2/articles/6f/6fe20207.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655222520,
-    "title": "Debt advisors in Sri Lanka, IMF team on June 20: PM",
-    "url": "https://economynext.com/debt-advisors-in-sri-lanka-imf-team-on-june-20-pm-95753/",
-    "file_name": "/tmp/news_lk2/articles/a3/a30340a2.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655221680,
-    "title": "Sri Lanka to supply only half the fuel demand in the near future: PM",
-    "url": "https://economynext.com/sri-lanka-to-supply-only-half-the-fuel-demand-in-the-near-future-pm-95746/",
-    "file_name": "/tmp/news_lk2/articles/0b/0b28a000.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655221680,
-    "title": "Sri Lanka to supply 50-pct of fuel demand : PM",
-    "url": "https://economynext.com/sri-lanka-to-supply-50-pct-of-fuel-demand-pm-95746/",
-    "file_name": "/tmp/news_lk2/articles/fe/fe56b1bf.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655220120,
-    "title": "BASL requests for courts to function as essential service",
-    "url": "https://www.newsfirst.lk/2022/06/14/basl-requests-for-courts-to-function-as-essential-service/",
-    "file_name": "/tmp/news_lk2/articles/40/40ded5cb.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655220000,
-    "title": "Sri Lanka receives 3,500 MT of Gas, new Indian Credit line to support fuel purchasing for another four months \u2013 PM",
-    "url": "https://www.newsfirst.lk/2022/06/14/sri-lanka-receives-3500-mt-of-gas-new-indian-credit-line-to-support-fuel-purchasing-for-another-four-months-pm/",
-    "file_name": "/tmp/news_lk2/articles/d5/d56c2419.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655219820,
-    "title": "Cabinet positive to launch Jaffna-Pondicherry boat service: Minister",
-    "url": "https://www.newsfirst.lk/2022/06/14/cabinet-positive-to-launch-jaffna-pondicherry-boat-service-minister/",
-    "file_name": "/tmp/news_lk2/articles/f1/f164b1c0.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655218080,
-    "title": "Latest LP gas shipment to be distributed on priority basis",
-    "url": "http://www.adaderana.lk/news/83048/latest-lp-gas-shipment-to-be-distributed-on-priority-basis",
-    "file_name": "/tmp/news_lk2/articles/40/4027773b.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655218080,
-    "title": "Announcement on distribution priority of latest LP gas shipment",
-    "url": "http://www.adaderana.lk/news/83048/announcement-on-distribution-priority-of-latest-lp-gas-shipment",
-    "file_name": "/tmp/news_lk2/articles/60/60d6af1f.json"
   }
 ]
