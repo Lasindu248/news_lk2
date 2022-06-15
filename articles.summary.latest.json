@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655258640,
+    "title": "Several areas to receive spells of showers today",
+    "url": "http://www.adaderana.lk/news/83051/several-areas-to-receive-spells-of-showers-today",
+    "file_name": "/tmp/news_lk2/articles/05/05758234.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655257980,
+    "title": "Sri Lanka, world suffers from Fed\u2019s accidental discovery: Bellwether",
+    "url": "https://economynext.com/sri-lanka-world-suffers-from-feds-accidental-discovery-bellwether-95761/",
+    "file_name": "/tmp/news_lk2/articles/dc/dcdeb766.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655256240,
     "title": "UL 504 avoids biggest possible mid-air collision with British Airways",
@@ -22,10 +36,38 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655241540,
+    "title": "Loving families create a just and fair society - EDITORIAL",
+    "url": "https://www.dailymirror.lk/opinion/Loving-families-create-a-just-and-fair-society-EDITORIAL/172-239066",
+    "file_name": "/tmp/news_lk2/articles/a1/a148e9a1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655241060,
+    "title": "Why are we hated so much?",
+    "url": "https://www.dailymirror.lk/opinion/Why-are-we-hated-so-much/172-239065",
+    "file_name": "/tmp/news_lk2/articles/13/13785252.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655241060,
     "title": "Why are we hated so much?",
     "url": "https://www.dailymirror.lk/opinion/Why-are-we-hated-so-much/231-239065",
     "file_name": "/tmp/news_lk2/articles/86/86d53322.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655238780,
+    "title": "Nasheed refutes Harsha\u2019s claims",
+    "url": "https://www.dailymirror.lk/latest_news/Nasheed-refutes-Harshas-claims/342-239069",
+    "file_name": "/tmp/news_lk2/articles/24/2442fb17.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655238120,
+    "title": "Mirihana land reclamation project leaves farmers fuming",
+    "url": "https://www.dailymirror.lk/opinion/Mirihana-land-reclamation-project-leaves-farmers-fuming/172-239064",
+    "file_name": "/tmp/news_lk2/articles/1e/1e641e6b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -54,6 +96,13 @@
     "title": "Maxwell guides Australia to early series lead",
     "url": "https://www.dailymirror.lk/latest_news/Maxwell-guides-Australia-to-early-series-lead/342-239061",
     "file_name": "/tmp/news_lk2/articles/d6/d6f3dd1a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655233800,
+    "title": "Maxwell guides Australia to early series lead",
+    "url": "https://www.dailymirror.lk/mirror_sports_cricket/Maxwell-guides-Australia-to-early-series-lead/458-239061",
+    "file_name": "/tmp/news_lk2/articles/85/85ccf3cb.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -649,54 +698,5 @@
     "title": "Adani reacts to Sri Lanka controversy on PM Modi and energy project",
     "url": "https://www.dailymirror.lk/breaking_news/Adani-reacts-to-Sri-Lanka-controversy-on-PM-Modi-and-energy-project/108-239039",
     "file_name": "/tmp/news_lk2/articles/87/871f608b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655182200,
-    "title": "Adani reacts to Sri Lanka controversy on PM Modi and energy project",
-    "url": "https://www.dailymirror.lk/top_story/Adani-reacts-to-Sri-Lanka-controversy-on-PM-Modi-and-energy-project/155-239039",
-    "file_name": "/tmp/news_lk2/articles/84/84169dc5.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655180520,
-    "title": "Hospitalization of children on the rise",
-    "url": "https://www.newsfirst.lk/2022/06/14/hospitalization-of-children-on-the-rise/",
-    "file_name": "/tmp/news_lk2/articles/6f/6f7c946a.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655180460,
-    "title": "Cabinet postpones approving for 21st constitutional amendment",
-    "url": "http://www.adaderana.lk/news/83037/cabinet-postpones-approving-for-21st-constitutional-amendment-",
-    "file_name": "/tmp/news_lk2/articles/77/77c9f3e4.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655180460,
-    "title": "Cabinet postpones approval for 21st constitutional amendment",
-    "url": "http://www.adaderana.lk/news/83037/cabinet-postpones-approval-for-21st-constitutional-amendment",
-    "file_name": "/tmp/news_lk2/articles/56/5663335e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655180400,
-    "title": "Cabinet approves Friday to be declared a holiday for public servants",
-    "url": "https://www.dailymirror.lk/latest_news/Cabinet-approves-Friday-to-be-declared-a-holiday-for-public-servants/342-239040",
-    "file_name": "/tmp/news_lk2/articles/73/737530d9.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655180400,
-    "title": "Cabinet approves Friday to be declared a holiday for public servants",
-    "url": "https://www.dailymirror.lk/breaking_news/Cabinet-approves-Friday-to-be-declared-a-holiday-for-public-servants/108-239040",
-    "file_name": "/tmp/news_lk2/articles/03/03353b51.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655179920,
-    "title": "Friday Holiday for Public Sector, but NOT for essential services",
-    "url": "https://www.newsfirst.lk/2022/06/14/friday-holiday-for-public-sector-but-not-for-essential-services/",
-    "file_name": "/tmp/news_lk2/articles/8e/8e09c620.json"
   }
 ]
