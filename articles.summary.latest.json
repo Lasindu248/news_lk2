@@ -1,10 +1,38 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655270880,
+    "title": "20 new \u2018Sisu Seriya\u2019 buses added to fleet from today",
+    "url": "http://www.adaderana.lk/news/83053/20-new-sisu-seriya-buses-added-to-fleet-from-today",
+    "file_name": "/tmp/news_lk2/articles/c0/c0f86ec2.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655270880,
+    "title": "Woman abducted for ransom in northern Sri Lanka rescued by police",
+    "url": "https://economynext.com/woman-abducted-for-ransom-in-northern-sri-lanka-rescued-by-police-95801/",
+    "file_name": "/tmp/news_lk2/articles/70/70aa2352.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655269380,
+    "title": "Poson Bathi Gee...",
+    "url": "https://www.dailymirror.lk/latest_news/Poson-Bathi-Gee/342-239098",
+    "file_name": "/tmp/news_lk2/articles/32/329b8ed9.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655268720,
     "title": "STF arrests man for transporting over 1 kgs of ICE drugs in Wattala",
     "url": "https://www.dailymirror.lk/breaking_news/STF-arrests-man-for-transporting-over-1-kgs-of-ICE-drugs-in-Wattala/108-239097",
     "file_name": "/tmp/news_lk2/articles/2a/2a88c089.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655268720,
+    "title": "STF arrests man for transporting over 1 kg of ICE drugs in Wattala",
+    "url": "https://www.dailymirror.lk/breaking_news/STF-arrests-man-for-transporting-over-1-kg-of-ICE-drugs-in-Wattala/108-239097",
+    "file_name": "/tmp/news_lk2/articles/7a/7a1fca0b.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -670,33 +698,5 @@
     "title": "21A must be passed with positive changes, say Multi-disciplinary group of leading professionals",
     "url": "https://www.newsfirst.lk/2022/06/14/21a-must-be-passed-with-positive-changes-say-multi-disciplinary-group-of-leading-professionals/",
     "file_name": "/tmp/news_lk2/articles/3a/3afcf4b4.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655197620,
-    "title": "6 batches of Rice scheduled to arrive in SL under Chinese grant",
-    "url": "https://www.newsfirst.lk/2022/06/14/6-batches-of-rice-scheduled-to-arrive-in-sl-under-chinese-grant/",
-    "file_name": "/tmp/news_lk2/articles/d7/d741be45.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655197440,
-    "title": "Prisoners released under Poson pardon",
-    "url": "https://www.dailymirror.lk/caption_story/Prisoners-released-under-Poson-pardon/110-239045",
-    "file_name": "/tmp/news_lk2/articles/52/526ef846.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655197440,
-    "title": "Prisoners released under Poson pardon",
-    "url": "https://www.dailymirror.lk/latest_news/Prisoners-released-under-Poson-pardon/342-239045",
-    "file_name": "/tmp/news_lk2/articles/a6/a6177235.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655197140,
-    "title": "CBSL exchange rate for today (14)",
-    "url": "https://www.newsfirst.lk/2022/06/14/cbsl-exchange-rate-for-today-14/",
-    "file_name": "/tmp/news_lk2/articles/40/40ac2d1a.json"
   }
 ]
