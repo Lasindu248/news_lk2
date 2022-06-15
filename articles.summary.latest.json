@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655268720,
+    "title": "STF arrests man for transporting over 1 kgs of ICE drugs in Wattala",
+    "url": "https://www.dailymirror.lk/breaking_news/STF-arrests-man-for-transporting-over-1-kgs-of-ICE-drugs-in-Wattala/108-239097",
+    "file_name": "/tmp/news_lk2/articles/2a/2a88c089.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655268300,
+    "title": "Australia intercepts another asylum seeker boat",
+    "url": "https://www.newsfirst.lk/2022/06/15/australia-intercepts-another-asylum-seeker-boat/",
+    "file_name": "/tmp/news_lk2/articles/eb/eb652e77.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655268240,
+    "title": "Madras HC upholds fine on Sri Lankan family for trying to sneak in 1,594 g gold",
+    "url": "https://www.dailymirror.lk/breaking_news/Madras-HC-upholds-fine-on-Sri-Lankan-family-for-trying-to-sneak-in-1-594-g-gold/108-239096",
+    "file_name": "/tmp/news_lk2/articles/c1/c1423cc9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655267460,
+    "title": "NO LP Gas distribution on Wednesday (15)",
+    "url": "https://www.newsfirst.lk/2022/06/15/no-lp-gas-distribution-on-wednesday-15/",
+    "file_name": "/tmp/news_lk2/articles/06/065245de.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655267340,
     "title": "Litro resumes LP gas distribution after 11 days",
@@ -12,6 +40,27 @@
     "title": "Sri Lanka imports 103,000MT of fertilizer after ban lifted: Minister",
     "url": "https://economynext.com/sri-lanka-imports-103000mt-of-fertilizer-after-ban-lifted-minister-95797/",
     "file_name": "/tmp/news_lk2/articles/fc/fc42e970.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655266860,
+    "title": "Growth in tourist arrivals",
+    "url": "https://www.newsfirst.lk/2022/06/15/growth-in-tourist-arrivals/",
+    "file_name": "/tmp/news_lk2/articles/a6/a6d05a45.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655266440,
+    "title": "SriLankan Airlines recorded a LOSS of Rs. 45 Billion in 2021",
+    "url": "https://www.newsfirst.lk/2022/06/15/srilankan-airlines-recorded-a-loss-of-rs-45-billion-in-2021/",
+    "file_name": "/tmp/news_lk2/articles/b2/b2a6eec4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655265840,
+    "title": "Medicine shortage will end soon; Health Ministry",
+    "url": "https://www.newsfirst.lk/2022/06/15/medicine-shortage-will-end-soon-health-ministry/",
+    "file_name": "/tmp/news_lk2/articles/01/01eafabe.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -103,6 +152,13 @@
     "title": "Sri Lanka, world suffers from Fed\u2019s accidental discovery: Bellwether",
     "url": "https://economynext.com/sri-lanka-world-suffers-from-feds-accidental-discovery-bellwether-95761/",
     "file_name": "/tmp/news_lk2/articles/dc/dcdeb766.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655257500,
+    "title": "Sri Lanka trying to re-build relations with Japan: PM",
+    "url": "https://economynext.com/sri-lanka-trying-to-re-build-relations-with-japan-pm-95799/",
+    "file_name": "/tmp/news_lk2/articles/69/690046d7.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -208,6 +264,13 @@
     "title": "Maxwell guides Australia to early series lead",
     "url": "https://www.dailymirror.lk/top-story-sports-1/Maxwell-guides-Australia-to-early-series-lead/324-239061",
     "file_name": "/tmp/news_lk2/articles/a9/a9822221.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655233800,
+    "title": "Maxwell guides Australia to early series lead",
+    "url": "https://www.dailymirror.lk/breaking_news/Maxwell-guides-Australia-to-early-series-lead/108-239061",
+    "file_name": "/tmp/news_lk2/articles/20/2077b185.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -635,68 +698,5 @@
     "title": "CBSL exchange rate for today (14)",
     "url": "https://www.newsfirst.lk/2022/06/14/cbsl-exchange-rate-for-today-14/",
     "file_name": "/tmp/news_lk2/articles/40/40ac2d1a.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655196960,
-    "title": "Three including mother and son reported missing while sea bathing",
-    "url": "http://www.adaderana.lk/news/83042/three-including-mother-and-son-reported-missing-while-sea-bathing",
-    "file_name": "/tmp/news_lk2/articles/c3/c3013322.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655196960,
-    "title": "New Zealand amends travel warning for SL",
-    "url": "https://www.newsfirst.lk/2022/06/14/new-zealand-amends-travel-warning-for-sl/",
-    "file_name": "/tmp/news_lk2/articles/f3/f3f2982a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655196900,
-    "title": "Fuel delivery will continue: CPSTL",
-    "url": "https://www.newsfirst.lk/2022/06/14/fuel-delivery-will-continue-cpstl/",
-    "file_name": "/tmp/news_lk2/articles/a9/a9d132f0.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655196720,
-    "title": "Sri Lanka state workers to get 5-year no pay leave in soft-peg collapse",
-    "url": "https://economynext.com/sri-lanka-state-workers-to-get-5-year-no-pay-leave-in-soft-peg-collapse-95742/",
-    "file_name": "/tmp/news_lk2/articles/97/97711a40.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655195880,
-    "title": "World Blood Donor's Day",
-    "url": "https://www.dailymirror.lk/caption_story/World-Blood-Donor-s-Day/110-239044",
-    "file_name": "/tmp/news_lk2/articles/0d/0dbc22c5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655195880,
-    "title": "World Blood Donor's Day",
-    "url": "https://www.dailymirror.lk/latest_news/World-Blood-Donor-s-Day/342-239044",
-    "file_name": "/tmp/news_lk2/articles/23/23b088e1.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655195220,
-    "title": "Rescheduled time table for trains on Kelani Valley line",
-    "url": "https://www.dailymirror.lk/latest_news/Rescheduled-time-table-for-trains-on-Kelani-Valley-line/342-239043",
-    "file_name": "/tmp/news_lk2/articles/75/75a006e1.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655195220,
-    "title": "Rescheduled time table for trains on Kelani Valley line",
-    "url": "https://www.dailymirror.lk/breaking_news/Rescheduled-time-table-for-trains-on-Kelani-Valley-line/108-239043",
-    "file_name": "/tmp/news_lk2/articles/70/7053f307.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655192820,
-    "title": "Motorcycle Killers Are Back : One person shot dead in Wattala",
-    "url": "https://www.newsfirst.lk/2022/06/14/motorcycle-killers-are-back-one-person-shot-dead-in-wattala/",
-    "file_name": "/tmp/news_lk2/articles/9b/9b3f0006.json"
   }
 ]
