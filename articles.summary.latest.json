@@ -142,6 +142,13 @@
   {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655221680,
+    "title": "Sri Lanka to supply only half the fuel demand in the near future: PM",
+    "url": "https://economynext.com/sri-lanka-to-supply-only-half-the-fuel-demand-in-the-near-future-pm-95746/",
+    "file_name": "/tmp/news_lk2/articles/0b/0b28a000.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655221680,
     "title": "Sri Lanka to supply 50-pct of fuel demand : PM",
     "url": "https://economynext.com/sri-lanka-to-supply-50-pct-of-fuel-demand-pm-95746/",
     "file_name": "/tmp/news_lk2/articles/fe/fe56b1bf.json"
@@ -691,12 +698,5 @@
     "title": "Sri Lanka  continues to soft-peg in May intervening in both directions",
     "url": "https://economynext.com/sri-lanka-continues-to-soft-peg-in-may-intervening-in-both-directions-95725/",
     "file_name": "/tmp/news_lk2/articles/ac/ac85b807.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655179500,
-    "title": "Religious observances at Gangaramaya and Bellanwila",
-    "url": "https://www.dailymirror.lk/latest_news/Religious-observances-at-Gangaramaya-and-Bellanwila/342-239041",
-    "file_name": "/tmp/news_lk2/articles/ac/aca450b3.json"
   }
 ]
