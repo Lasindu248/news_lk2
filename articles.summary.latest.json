@@ -1,5 +1,40 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655280060,
+    "title": "WHO to determine if Monkeypox should be declared \u2018Emergency of International Concern\u2019",
+    "url": "https://www.dailymirror.lk/latest_news/WHO-to-determine-if-Monkeypox-should-be-declared-Emergency-of-International-Concern/342-239101",
+    "file_name": "/tmp/news_lk2/articles/70/708a7dff.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655279700,
+    "title": "SriLankan refutes reports on UL 504 avoiding possible mid-air collision",
+    "url": "http://www.adaderana.lk/news/83056/srilankan-refutes-reports-on-ul-504-avoiding-possible-mid-air-collision",
+    "file_name": "/tmp/news_lk2/articles/37/37b7cf9a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655278320,
+    "title": "64 people detained by Navy for illegal migration attempt",
+    "url": "https://www.newsfirst.lk/2022/06/15/64-people-detained-by-navy-for-illegal-migration-attempt/",
+    "file_name": "/tmp/news_lk2/articles/b3/b34cfe4c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655277660,
+    "title": "1 kg of ICE seized from Wattala; One suspect arrested",
+    "url": "https://www.newsfirst.lk/2022/06/15/1-kg-of-ice-seized-from-wattala-one-suspect-arrested/",
+    "file_name": "/tmp/news_lk2/articles/b5/b5822667.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655277600,
+    "title": "SriLankan clarifies UL 504 avoiding possible mid-air collision",
+    "url": "https://www.newsfirst.lk/2022/06/15/srilankan-clarifies-ul-504-avoiding-possible-mid-air-collision/",
+    "file_name": "/tmp/news_lk2/articles/72/72b31a3e.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655276460,
     "title": "Long wait for fuel: Filling Stations closed due to shortage",
@@ -320,6 +355,13 @@
     "title": "Mirihana land reclamation project leaves farmers fuming",
     "url": "https://www.dailymirror.lk/recomended-news/Mirihana-land-reclamation-project-leaves-farmers-fuming/277-239064",
     "file_name": "/tmp/news_lk2/articles/e0/e0387f63.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655238120,
+    "title": "Mirihana land reclamation project leaves farmers fuming",
+    "url": "https://www.dailymirror.lk/expose/Mirihana-land-reclamation-project-leaves-farmers-fuming/333-239064",
+    "file_name": "/tmp/news_lk2/articles/2e/2e65f84c.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -656,47 +698,5 @@
     "title": "Sri Lanka Maha 2021 rice harvest drop 40-pct crop due to fertilizer ban",
     "url": "https://economynext.com/sri-lanka-maha-2021-rice-harvest-drop-40-pct-crop-due-to-fertilizer-ban-95750/",
     "file_name": "/tmp/news_lk2/articles/c8/c8ea60a9.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655207160,
-    "title": "Litro pays USD 3.9 Mn for LP Gas",
-    "url": "https://www.newsfirst.lk/2022/06/14/litro-pays-usd-3-9-mn-for-lp-gas/",
-    "file_name": "/tmp/news_lk2/articles/d3/d3e2defb.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655205780,
-    "title": "Attract more tourists, resume Palaly operations: Prime Minister advises tourism stakeholders",
-    "url": "https://www.newsfirst.lk/2022/06/14/attract-more-tourists-resume-palaly-operations-prime-minister-advises-tourism-stakeholders/",
-    "file_name": "/tmp/news_lk2/articles/d3/d311735f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655205720,
-    "title": "WEATHER: Amber alert issued for severe lightning",
-    "url": "https://www.newsfirst.lk/2022/06/14/weather-amber-alert-issued-for-severe-lightning/",
-    "file_name": "/tmp/news_lk2/articles/b9/b93e4b96.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655204940,
-    "title": "Former Maldivian President refutes Harsha\u2019s remarks",
-    "url": "http://www.adaderana.lk/news/83044/former-maldivian-president-refutes-harshas-remarks",
-    "file_name": "/tmp/news_lk2/articles/0a/0afd751d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655203800,
-    "title": "Poson Dansala at Gangarama temple",
-    "url": "https://www.dailymirror.lk/caption_story/Poson-Dansala-at-Gangarama-temple/110-239048",
-    "file_name": "/tmp/news_lk2/articles/87/877c7c67.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655203800,
-    "title": "Poson Dansala at Gangarama temple",
-    "url": "https://www.dailymirror.lk/latest_news/Poson-Dansala-at-Gangarama-temple/342-239048",
-    "file_name": "/tmp/news_lk2/articles/20/20c80f03.json"
   }
 ]
