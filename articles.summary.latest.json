@@ -1,6 +1,41 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655286960,
+    "title": "Monitor banks\u2019 lending policies: PM instructs CB Treasury",
+    "url": "https://www.dailymirror.lk/latest_news/Monitor-banks-lending-policies-PM-instructs-CB-Treasury/342-239109",
+    "file_name": "/tmp/news_lk2/articles/6b/6bbe8add.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655286900,
+    "title": "GMOA gets new Head",
+    "url": "https://www.dailymirror.lk/latest_news/GMOA-gets-new-Head/342-239108",
+    "file_name": "/tmp/news_lk2/articles/1d/1d9f5ca8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655286660,
+    "title": "Requested to increase price by Rs.200: LITRO Chairman",
+    "url": "https://www.dailymirror.lk/latest_news/Requested-to-increase-price-by-Rs-200-LITRO-Chairman/342-239107",
+    "file_name": "/tmp/news_lk2/articles/91/91b969ad.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655285760,
+    "title": "Legislation to govern Rice Mill & Silo Owners to prevent food hoarding",
+    "url": "https://www.newsfirst.lk/2022/06/15/legislation-to-govern-rice-mill-silo-owners-to-prevent-food-hoarding/",
+    "file_name": "/tmp/news_lk2/articles/e3/e344cd7c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655285460,
+    "title": "Protesters block Galle Road from Dehiwala demanding fuel",
+    "url": "https://www.dailymirror.lk/breaking_news/Protesters-block-Galle-Road-from-Dehiwala-demanding-fuel/108-239106",
+    "file_name": "/tmp/news_lk2/articles/8a/8a8d9ce5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655285040,
     "title": "Galle Road blocked from Dehiwala...",
     "url": "https://www.dailymirror.lk/latest_news/Galle-Road-blocked-from-Dehiwala/342-239105",
@@ -12,6 +47,13 @@
     "title": "GMOA elects new president",
     "url": "http://www.adaderana.lk/news/83059/gmoa-elects-new-president",
     "file_name": "/tmp/news_lk2/articles/f7/f7a938e2.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655284980,
+    "title": "New president elected to GMOA",
+    "url": "http://www.adaderana.lk/news/83059/new-president-elected-to-gmoa",
+    "file_name": "/tmp/news_lk2/articles/fc/fc5fc19a.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -656,47 +698,5 @@
     "title": "Announcement on distribution priority of latest LP gas shipment",
     "url": "http://www.adaderana.lk/news/83048/announcement-on-distribution-priority-of-latest-lp-gas-shipment",
     "file_name": "/tmp/news_lk2/articles/60/60d6af1f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655217960,
-    "title": "Possible to meet 50%  demand for gas, fuel in coming weeks: PM",
-    "url": "https://www.dailymirror.lk/breaking_news/Possible-to-meet-50-demand-for-gas-fuel-in-coming-weeks-PM/108-239060",
-    "file_name": "/tmp/news_lk2/articles/aa/aa497dd5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655217960,
-    "title": "Possible to meet 50%  demand for gas, fuel in coming weeks: PM",
-    "url": "https://www.dailymirror.lk/latest_news/Possible-to-meet-50-demand-for-gas-fuel-in-coming-weeks-PM/342-239060",
-    "file_name": "/tmp/news_lk2/articles/2c/2c803034.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655217660,
-    "title": "Crisis-hit Sri Lanka aims for USD800 mln from tourism; India-led revival advised",
-    "url": "https://economynext.com/crisis-hit-sri-lanka-aims-for-usd800-mln-from-tourism-india-led-revival-advised-95748/",
-    "file_name": "/tmp/news_lk2/articles/ed/ed9332df.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655216400,
-    "title": "Mendis anchors Sri Lankan batting in first ODI against Australia",
-    "url": "https://www.dailymirror.lk/breaking_news/Mendis-anchors-Sri-Lankan-batting-in-first-ODI-against-Australia/108-239058",
-    "file_name": "/tmp/news_lk2/articles/05/05505c79.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655216400,
-    "title": "Mendis anchors Sri Lankan batting in first ODI against Australia",
-    "url": "https://www.dailymirror.lk/latest_news/Mendis-anchors-Sri-Lankan-batting-in-first-ODI-against-Australia/342-239058",
-    "file_name": "/tmp/news_lk2/articles/91/91e59186.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655216040,
-    "title": "CTB depots to provide fuel for school vans & buses",
-    "url": "https://www.newsfirst.lk/2022/06/14/ctb-depots-to-provide-fuel-for-school-vans-buses/",
-    "file_name": "/tmp/news_lk2/articles/b5/b5dee1bf.json"
   }
 ]
