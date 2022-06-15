@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655301300,
+    "title": "Sri Lanka to introduce anti-hoarding laws for food stocks\u00a0\u2013 PM",
+    "url": "https://economynext.com/sri-lanka-to-introduce-anti-hoarding-laws-for-food-stocks-pm-95851/",
+    "file_name": "/tmp/news_lk2/articles/4e/4e799034.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655299860,
     "title": "US approves USD 120 million new loan to support crisis-hit Sri Lankan economy",
@@ -691,12 +698,5 @@
     "title": "Mirihana land reclamation project leaves farmers fuming",
     "url": "https://www.dailymirror.lk/expose/Mirihana-land-reclamation-project-leaves-farmers-fuming/333-239064",
     "file_name": "/tmp/news_lk2/articles/2e/2e65f84c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655238120,
-    "title": "Mirihana land reclamation project leaves farmers fuming",
-    "url": "https://www.dailymirror.lk/opinion/Mirihana-land-reclamation-project-leaves-farmers-fuming/172-239064",
-    "file_name": "/tmp/news_lk2/articles/1e/1e641e6b.json"
   }
 ]
