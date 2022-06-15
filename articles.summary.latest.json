@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655290500,
+    "title": "US approves $120 mn in new loans to grow and support Sri Lankan economy.",
+    "url": "https://www.newsfirst.lk/2022/06/15/us-approves-120-mn-in-new-loans-to-grow-and-support-sri-lankan-economy/",
+    "file_name": "/tmp/news_lk2/articles/f9/f9090207.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655289540,
+    "title": "GL meets President of UNHRC, discusses current situation in Sri Lanka",
+    "url": "https://www.newsfirst.lk/2022/06/15/gl-meets-president-of-unhrc-discusses-current-situation-in-sri-lanka/",
+    "file_name": "/tmp/news_lk2/articles/3c/3c240cc1.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655288940,
     "title": "Govt to take policy decision to up train fares: GMR",
@@ -19,6 +33,13 @@
     "title": "Winding queues....still with hope",
     "url": "https://www.dailymirror.lk/caption_story/Winding-queues-still-with-hope/110-239111",
     "file_name": "/tmp/news_lk2/articles/18/18b03453.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655288460,
+    "title": "SLPPs Sanath Nishantha, Saman Lal Fernando granted bail in GotaGoGama attack case",
+    "url": "https://www.newsfirst.lk/2022/06/15/slpps-sanath-nishantha-saman-lal-fernando-granted-bail-in-gotagogama-attack-case/",
+    "file_name": "/tmp/news_lk2/articles/d0/d0430bf5.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -677,26 +698,5 @@
     "title": "CBK commends Dr. Shafi\u2019s noble gesture of donating past salary to buy essential medicine",
     "url": "https://www.ft.lk/news/CBK-commends-Dr-Shafi-s-noble-gesture-of-donating-past-salary-to-buy-essential-medicine/56-736168",
     "file_name": "/tmp/news_lk2/articles/b8/b8c89fab.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655231400,
-    "title": "Hayleys Chairman\u2019s Awards recognises inspiring teams\u2019 driving exports, social impact and innovation",
-    "url": "https://www.ft.lk/business/Hayleys-Chairman-s-Awards-recognises-inspiring-teams-driving-exports-social-impact-and-innovation/34-736174",
-    "file_name": "/tmp/news_lk2/articles/ed/eda38dd2.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655231400,
-    "title": "WCIC partners Alliance for Sustainable Infrastructure",
-    "url": "https://www.ft.lk/business/WCIC-partners-Alliance-for-Sustainable-Infrastructure/34-736166",
-    "file_name": "/tmp/news_lk2/articles/97/97fc0548.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655230620,
-    "title": "Sri Lanka to receive 6 batches of rice from China",
-    "url": "http://www.adaderana.lk/news/83050/sri-lanka-to-receive-6-batches-of-rice-from-china",
-    "file_name": "/tmp/news_lk2/articles/94/94509694.json"
   }
 ]
