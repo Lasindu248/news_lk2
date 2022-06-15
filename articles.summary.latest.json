@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655283540,
+    "title": "Sri Lanka to experience power cuts for three more years, warns CEB engineers union",
+    "url": "https://economynext.com/sri-lanka-to-experience-power-cuts-for-three-more-years-warns-ceb-engineers-union-95816/",
+    "file_name": "/tmp/news_lk2/articles/12/12dcaf5a.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655283540,
+    "title": "Speaker endorses certificate on Electricity (Amendment) Bill",
+    "url": "http://www.adaderana.lk/news/83058/speaker-endorses-certificate-on-electricity-amendment-bill",
+    "file_name": "/tmp/news_lk2/articles/ed/ede2ec83.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655282940,
+    "title": "Speaker endorses certificate on Electricity Bill",
+    "url": "https://www.dailymirror.lk/breaking_news/Speaker-endorses-certificate-on-Electricity-Bill/108-239104",
+    "file_name": "/tmp/news_lk2/articles/2a/2ae56e09.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655281080,
+    "title": "Two men nabbed for concealing Diesel",
+    "url": "https://www.newsfirst.lk/2022/06/15/two-men-nabbed-for-concealing-diesel/",
+    "file_name": "/tmp/news_lk2/articles/1e/1e0ad7c8.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655280300,
     "title": "16-hour water cut in parts of Gampaha",
@@ -7,11 +35,32 @@
     "file_name": "/tmp/news_lk2/articles/3c/3cde25e2.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655280300,
+    "title": "30,000 MT of Furnace Oil at Port; NO USD to release for shipment",
+    "url": "https://www.newsfirst.lk/2022/06/15/30000-mt-of-furnace-oil-at-port-no-usd-to-release-for-shipment/",
+    "file_name": "/tmp/news_lk2/articles/55/5557c0b5.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655280300,
     "title": "Another 64 illegal migrants arrested in Trincomalee",
     "url": "https://www.dailymirror.lk/breaking_news/Another-64-illegal-migrants-arrested-in-Trincomalee/108-239102",
     "file_name": "/tmp/news_lk2/articles/f8/f8aeb8ac.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655280060,
+    "title": "WHO to determine if Monkeypox should be declared \u2018Emergency of International Concern\u2019",
+    "url": "https://www.dailymirror.lk/breaking_news/WHO-to-determine-if-Monkeypox-should-be-declared-Emergency-of-International-Concern/108-239101",
+    "file_name": "/tmp/news_lk2/articles/8c/8c5ce560.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655280060,
+    "title": "Official report on UL504 filed, report confirms possible collision avoided",
+    "url": "https://www.dailymirror.lk/top_story/Official-report-on-UL504-filed-report-confirms-possible-collision-avoided/155-239103",
+    "file_name": "/tmp/news_lk2/articles/75/7582ec16.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -649,54 +698,5 @@
     "title": "173 inmates pardoned in view of Poson Poya",
     "url": "http://www.adaderana.lk/news/83047/173-inmates-pardoned-in-view-of-poson-poya",
     "file_name": "/tmp/news_lk2/articles/4c/4c816417.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655213940,
-    "title": "A breakthrough digital solution from Union Assurance to \u2018Get Fit\u2019",
-    "url": "http://island.lk/a-breakthrough-digital-solution-from-union-assurance-to-get-fit/",
-    "file_name": "/tmp/news_lk2/articles/3c/3c11a546.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655213820,
-    "title": "DFCC Bank collaborates with Mastercard to facilitate electronic payments via Mastercard Payment Gateway",
-    "url": "http://island.lk/dfcc-bank-collaborates-with-mastercard-to-facilitate-electronic-payments-via-mastercard-payment-gateway/",
-    "file_name": "/tmp/news_lk2/articles/00/00f195f4.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655212860,
-    "title": "Final diesel tanker under Indian LoC in two days",
-    "url": "https://www.newsfirst.lk/2022/06/14/final-diesel-tanker-under-indian-loc-in-two-days/",
-    "file_name": "/tmp/news_lk2/articles/d8/d81c28ae.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655212440,
-    "title": "Gazette to be issued lifting English colonial era ban",
-    "url": "https://www.dailymirror.lk/breaking_news/Gazette-to-be-issued-lifting-English-colonial-era-ban/108-239059",
-    "file_name": "/tmp/news_lk2/articles/7e/7e26bed4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655212440,
-    "title": "Gazette to be issued lifting English colonial era ban",
-    "url": "https://www.dailymirror.lk/latest_news/Gazette-to-be-issued-lifting-English-colonial-era-ban/342-239059",
-    "file_name": "/tmp/news_lk2/articles/97/971081a1.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655211780,
-    "title": "Payment for gas made today; distribution after tomorow",
-    "url": "https://www.dailymirror.lk/latest_news/Payment-for-gas-made-today-distribution-after-tomorow/342-239053",
-    "file_name": "/tmp/news_lk2/articles/9a/9a8179e4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655211780,
-    "title": "Payment for gas made today; distribution after tomorow",
-    "url": "https://www.dailymirror.lk/breaking_news/Payment-for-gas-made-today-distribution-after-tomorow/108-239053",
-    "file_name": "/tmp/news_lk2/articles/6a/6ad8bc0d.json"
   }
 ]
