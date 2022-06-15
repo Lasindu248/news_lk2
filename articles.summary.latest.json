@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655276460,
+    "title": "Long wait for fuel: Filling Stations closed due to shortage",
+    "url": "https://www.newsfirst.lk/2022/06/15/long-wait-for-fuel-filling-stations-closed-due-to-shortage/",
+    "file_name": "/tmp/news_lk2/articles/33/33ac64f0.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655276340,
+    "title": "Protesters block Panchikawatte Junction in Colombo",
+    "url": "http://www.adaderana.lk/news/83055/protesters-block-panchikawatte-junction-in-colombo",
+    "file_name": "/tmp/news_lk2/articles/8a/8ab9f282.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655274480,
     "title": "Sri Lanka CEB ex chair\u2019s letter to be tabled for discussion at next COPE meeting",
@@ -19,6 +33,13 @@
     "title": "Sri Lanka stocks slips over 1.5-pct in mid-day trade",
     "url": "https://economynext.com/sri-lanka-stocks-slips-over-1-5-pct-in-mid-day-trade-95806/",
     "file_name": "/tmp/news_lk2/articles/25/25e1bead.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655273280,
+    "title": "16-hour water cut for several areas in Gampaha",
+    "url": "https://www.newsfirst.lk/2022/06/15/16-hour-water-cut-for-several-areas-in-gampaha/",
+    "file_name": "/tmp/news_lk2/articles/d6/d671f5b8.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -677,26 +698,5 @@
     "title": "Sri Lanka to boost \u2018Agampora\u2019 traditional martial art by lifting 200-year ban",
     "url": "https://economynext.com/sri-lanka-to-boost-agampora-traditional-martial-art-by-lifting-200-year-ban-95743/",
     "file_name": "/tmp/news_lk2/articles/f0/f0f3b9b1.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655200380,
-    "title": "Indian High Commissioner delivers special message for Poson",
-    "url": "http://www.adaderana.lk/news/83043/indian-high-commissioner-delivers-special-message-for-poson",
-    "file_name": "/tmp/news_lk2/articles/98/98abd039.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655199900,
-    "title": "Private buses may grind to halt by Friday: Gemunu",
-    "url": "https://www.dailymirror.lk/latest_news/Private-buses-may-grind-to-halt-by-Friday-Gemunu/342-239047",
-    "file_name": "/tmp/news_lk2/articles/26/2673edf7.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655199900,
-    "title": "Private buses may grind to halt by Friday: Gemunu",
-    "url": "https://www.dailymirror.lk/breaking_news/Private-buses-may-grind-to-halt-by-Friday-Gemunu/108-239047",
-    "file_name": "/tmp/news_lk2/articles/7a/7a83c758.json"
   }
 ]
