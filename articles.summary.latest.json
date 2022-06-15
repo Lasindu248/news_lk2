@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655267340,
+    "title": "Litro resumes LP gas distribution after 11 days",
+    "url": "http://www.adaderana.lk/news/83052/litro-resumes-lp-gas-distribution-after-11-days",
+    "file_name": "/tmp/news_lk2/articles/f1/f113145a.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655267280,
+    "title": "Sri Lanka imports 103,000MT of fertilizer after ban lifted: Minister",
+    "url": "https://economynext.com/sri-lanka-imports-103000mt-of-fertilizer-after-ban-lifted-minister-95797/",
+    "file_name": "/tmp/news_lk2/articles/fc/fc42e970.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655264820,
     "title": "SL vs AUS: Maxwell blazing fifty helps visitors win in rain-curtailed first game",
@@ -26,6 +40,13 @@
     "title": "New rules to facilitate State employees seeking foreign employment",
     "url": "https://www.dailymirror.lk/business-news/New-rules-to-facilitate-State-employees-seeking-foreign-employment/273-239087",
     "file_name": "/tmp/news_lk2/articles/d6/d6670211.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655262720,
+    "title": "New rules to facilitate State employees seeking foreign employment",
+    "url": "https://www.dailymirror.lk/latest_news/New-rules-to-facilitate-State-employees-seeking-foreign-employment/342-239087",
+    "file_name": "/tmp/news_lk2/articles/1f/1f2d6ab4.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -677,26 +698,5 @@
     "title": "Motorcycle Killers Are Back : One person shot dead in Wattala",
     "url": "https://www.newsfirst.lk/2022/06/14/motorcycle-killers-are-back-one-person-shot-dead-in-wattala/",
     "file_name": "/tmp/news_lk2/articles/9b/9b3f0006.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655192820,
-    "title": "Motorcycle murderers Are Back : One person shot dead in Wattala",
-    "url": "https://www.newsfirst.lk/2022/06/14/motorcycle-murderers-are-back-one-person-shot-dead-in-wattala/",
-    "file_name": "/tmp/news_lk2/articles/33/33882cda.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655192160,
-    "title": "Sri Lanka state offices shut on Fridays for home garden leave",
-    "url": "https://economynext.com/sri-lanka-state-offices-shut-on-fridays-for-home-garden-leave-95738/",
-    "file_name": "/tmp/news_lk2/articles/2c/2c77849b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655191920,
-    "title": "Poson Dansala at Sirikotha",
-    "url": "https://www.dailymirror.lk/latest_news/Poson-Dansala-at-Sirikotha/342-239046",
-    "file_name": "/tmp/news_lk2/articles/fa/fa2df386.json"
   }
 ]
