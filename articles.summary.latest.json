@@ -1,6 +1,20 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655296680,
+    "title": "\u200bForeign Minister briefs President of UNHRC on Sri Lankan issues",
+    "url": "http://www.adaderana.lk/news/83065/8203foreign-minister-briefs-president-of-unhrc-on-sri-lankan-issues",
+    "file_name": "/tmp/news_lk2/articles/6c/6c6c39d5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655294580,
+    "title": "CPA files FR challenging Dhammika\u2019s appointment",
+    "url": "https://www.newsfirst.lk/2022/06/15/cpa-files-fr-challenging-dhammikas-appointment/",
+    "file_name": "/tmp/news_lk2/articles/b7/b7392cc2.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655293320,
     "title": "CPC to give daily updates on fuel stocks supplied to filling stations",
     "url": "http://www.adaderana.lk/news/83064/cpc-to-give-daily-updates-on-fuel-stocks-supplied-to-filling-stations",
@@ -684,19 +698,5 @@
     "title": "Maxwell guides Australia to early series lead",
     "url": "https://www.dailymirror.lk/mirror_sports_cricket/Maxwell-guides-Australia-to-early-series-lead/458-239061",
     "file_name": "/tmp/news_lk2/articles/85/85ccf3cb.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655231400,
-    "title": "US and Chinese envoys discuss assistance to Sri Lanka",
-    "url": "https://www.ft.lk/news/US-and-Chinese-envoys-discuss-assistance-to-Sri-Lanka/56-736171",
-    "file_name": "/tmp/news_lk2/articles/c1/c112cfd6.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655231400,
-    "title": "Asian Palm Oil Alliance offers support to oil palm industry in Sri Lanka",
-    "url": "https://www.ft.lk/business/Asian-Palm-Oil-Alliance-offers-support-to-oil-palm-industry-in-Sri-Lanka/34-736167",
-    "file_name": "/tmp/news_lk2/articles/99/99e8681d.json"
   }
 ]
