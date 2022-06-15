@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655274480,
+    "title": "Sri Lanka CEB ex chair\u2019s letter to be tabled for discussion at next COPE meeting",
+    "url": "https://economynext.com/sri-lanka-ceb-ex-chairs-letter-to-be-tabled-for-discussion-at-next-cope-meeting-95807/",
+    "file_name": "/tmp/news_lk2/articles/8d/8d55759e.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655273940,
+    "title": "Displaying of voters\u2019 register begins today",
+    "url": "http://www.adaderana.lk/news/83054/displaying-of-voters-register-begins-today",
+    "file_name": "/tmp/news_lk2/articles/e2/e2a5dcc1.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655273760,
+    "title": "Sri Lanka stocks slips over 1.5-pct in mid-day trade",
+    "url": "https://economynext.com/sri-lanka-stocks-slips-over-1-5-pct-in-mid-day-trade-95806/",
+    "file_name": "/tmp/news_lk2/articles/25/25e1bead.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655270880,
     "title": "20 new \u2018Sisu Seriya\u2019 buses added to fleet from today",
@@ -677,26 +698,5 @@
     "title": "Private buses may grind to halt by Friday: Gemunu",
     "url": "https://www.dailymirror.lk/breaking_news/Private-buses-may-grind-to-halt-by-Friday-Gemunu/108-239047",
     "file_name": "/tmp/news_lk2/articles/7a/7a83c758.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655199600,
-    "title": "Youngster shot dead in Wattala",
-    "url": "https://www.dailymirror.lk/breaking_news/Youngster-shot-dead-in-Wattala/108-239049",
-    "file_name": "/tmp/news_lk2/articles/e5/e54be0ef.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655199600,
-    "title": "Youngster shot dead in Wattala",
-    "url": "https://www.dailymirror.lk/latest_news/Youngster-shot-dead-in-Wattala/342-239049",
-    "file_name": "/tmp/news_lk2/articles/e4/e45f0280.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655199180,
-    "title": "21A must be passed with positive changes, say Multi-disciplinary group of leading professionals",
-    "url": "https://www.newsfirst.lk/2022/06/14/21a-must-be-passed-with-positive-changes-say-multi-disciplinary-group-of-leading-professionals/",
-    "file_name": "/tmp/news_lk2/articles/3a/3afcf4b4.json"
   }
 ]
