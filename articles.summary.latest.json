@@ -2,9 +2,51 @@
   {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1655317800,
+    "title": "COPA wants detailed report on ethanol imports into country",
+    "url": "https://www.ft.lk/news/COPA-wants-detailed-report-on-ethanol-imports-into-country/56-736238",
+    "file_name": "/tmp/news_lk2/articles/8d/8db52b8c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655317800,
     "title": "Lanka Accelerator debuts in Sri Lanka\u00a0with backing by award winning India Accelerator",
     "url": "https://www.ft.lk/business/Lanka-Accelerator-debuts-in-Sri-Lankawith-backing-by-award-winning-India-Accelerator/34-736223",
     "file_name": "/tmp/news_lk2/articles/a4/a44088b8.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655317800,
+    "title": "GL briefs Human Rights Council President on Sri Lankan Issues",
+    "url": "https://www.ft.lk/news/GL-briefs-Human-Rights-Council-President-on-Sri-Lankan-Issues/56-736239",
+    "file_name": "/tmp/news_lk2/articles/75/7589631e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655317800,
+    "title": "US Foreign relation Comm. Chairman calls on Quad countries to lead way in working to avoid an economic explosion in SL",
+    "url": "https://www.ft.lk/news/US-Foreign-relation-Comm-Chairman-calls-on-Quad-countries-to-lead-way-in-working-to-avoid-an-economic-explosion-in-SL/56-736235",
+    "file_name": "/tmp/news_lk2/articles/09/09285de7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655317800,
+    "title": "Fed hikes rates by 0.75 percentage point, flags slowing economy",
+    "url": "https://www.ft.lk/news/Fed-hikes-rates-by-0-75-percentage-point-flags-slowing-economy/56-736237",
+    "file_name": "/tmp/news_lk2/articles/b4/b4472fd9.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655317800,
+    "title": "Core Group urges Govt. to protect civil society space amidst challenges",
+    "url": "https://www.ft.lk/news/Core-Group-urges-Govt-to-protect-civil-society-space-amidst-challenges/56-736240",
+    "file_name": "/tmp/news_lk2/articles/d4/d424c144.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655317800,
+    "title": "UNFPA, with support from China, provides medical equipment worth $ 800,000",
+    "url": "https://www.ft.lk/news/UNFPA-with-support-from-China-provides-medical-equipment-worth-800-000/56-736236",
+    "file_name": "/tmp/news_lk2/articles/cf/cf1d60a4.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -656,47 +698,5 @@
     "title": "New rules to facilitate State employees seeking foreign employment",
     "url": "https://www.dailymirror.lk/business-news/New-rules-to-facilitate-State-employees-seeking-foreign-employment/273-239087",
     "file_name": "/tmp/news_lk2/articles/d6/d6670211.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655262720,
-    "title": "New rules to facilitate State employees seeking foreign employment",
-    "url": "https://www.dailymirror.lk/latest_news/New-rules-to-facilitate-State-employees-seeking-foreign-employment/342-239087",
-    "file_name": "/tmp/news_lk2/articles/1f/1f2d6ab4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655262720,
-    "title": "New rules to facilitate State employees seeking foreign employment",
-    "url": "https://www.dailymirror.lk/breaking_news/New-rules-to-facilitate-State-employees-seeking-foreign-employment/108-239087",
-    "file_name": "/tmp/news_lk2/articles/2b/2bd6c4b0.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655262540,
-    "title": "UNHRC core group express concern over attacks on peaceful protestors",
-    "url": "https://www.newsfirst.lk/2022/06/15/unhrc-core-group-express-concern-over-attacks-on-peaceful-protestors/",
-    "file_name": "/tmp/news_lk2/articles/9e/9e331122.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655262420,
-    "title": "Sarvodaya Executive Director Chamindha Rajakaruna passes away",
-    "url": "https://www.newsfirst.lk/2022/06/15/sarvodaya-executive-director-chamindha-rajakaruna-passes-away/",
-    "file_name": "/tmp/news_lk2/articles/3d/3de78482.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655262360,
-    "title": "UK govt. not party to training SL\u2019s STF personnel in 1980s \u2013 Britain",
-    "url": "https://www.dailymirror.lk/breaking_news/UK-govt-not-party-to-training-SLs-STF-personnel-in-1980s-Britain/108-239077",
-    "file_name": "/tmp/news_lk2/articles/ac/acf89bc1.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655260500,
-    "title": "Showers & thundershowers likely on Wednesday (15)",
-    "url": "https://www.newsfirst.lk/2022/06/15/showers-thundershowers-likely-on-wednesday-15/",
-    "file_name": "/tmp/news_lk2/articles/b4/b4fe005b.json"
   }
 ]
