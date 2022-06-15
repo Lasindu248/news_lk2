@@ -44,6 +44,13 @@
   {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1655231400,
+    "title": "US and Chinese envoys discuss assistance to Sri Lanka",
+    "url": "https://www.ft.lk/news/US-and-Chinese-envoys-discuss-assistance-to-Sri-Lanka/56-736171",
+    "file_name": "/tmp/news_lk2/articles/c1/c112cfd6.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655231400,
     "title": "Asian Palm Oil Alliance offers support to oil palm industry in Sri Lanka",
     "url": "https://www.ft.lk/business/Asian-Palm-Oil-Alliance-offers-support-to-oil-palm-industry-in-Sri-Lanka/34-736167",
     "file_name": "/tmp/news_lk2/articles/99/99e8681d.json"
@@ -51,9 +58,58 @@
   {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1655231400,
+    "title": "Cabinet approves to revise Circular on Grade 1 admissions for 2023",
+    "url": "https://www.ft.lk/news/Cabinet-approves-to-revise-Circular-on-Grade-1-admissions-for-2023/56-736170",
+    "file_name": "/tmp/news_lk2/articles/58/5884eed8.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655231400,
+    "title": "Social Security Contribution Tax Bill heading to Parliament",
+    "url": "https://www.ft.lk/news/Social-Security-Contribution-Tax-Bill-heading-to-Parliament/56-736173",
+    "file_name": "/tmp/news_lk2/articles/16/1662eba4.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655231400,
     "title": "Hemas Pharmaceuticals now certified for \u2018Good Distribution Practices\u2019 by Bureau Veritas",
     "url": "https://www.ft.lk/business/Hemas-Pharmaceuticals-now-certified-for-Good-Distribution-Practices-by-Bureau-Veritas/34-736165",
     "file_name": "/tmp/news_lk2/articles/6d/6d689b35.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655231400,
+    "title": "Govt. declares Friday holiday for non-essential State workers\u2019 for 3 months",
+    "url": "https://www.ft.lk/news/Govt-declares-Friday-holiday-for-non-essential-State-workers-for-3-months/56-736169",
+    "file_name": "/tmp/news_lk2/articles/39/391e8c02.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655231400,
+    "title": "Cabinet nod to amend Circular to send State workers for foreign jobs",
+    "url": "https://www.ft.lk/news/Cabinet-nod-to-amend-Circular-to-send-State-workers-for-foreign-jobs/56-736172",
+    "file_name": "/tmp/news_lk2/articles/5f/5fdd1071.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655231400,
+    "title": "Colombo-based start-up Duthaya launches pilot program to assist citizens with on-demand services",
+    "url": "https://www.ft.lk/business/Colombo-based-start-up-Duthaya-launches-pilot-program-to-assist-citizens-with-on-demand-services/34-736175",
+    "file_name": "/tmp/news_lk2/articles/1e/1ef75117.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655231400,
+    "title": "CBK commends Dr. Shafi\u2019s noble gesture of donating past salary to buy essential medicine",
+    "url": "https://www.ft.lk/news/CBK-commends-Dr-Shafi-s-noble-gesture-of-donating-past-salary-to-buy-essential-medicine/56-736168",
+    "file_name": "/tmp/news_lk2/articles/b8/b8c89fab.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655231400,
+    "title": "Hayleys Chairman\u2019s Awards recognises inspiring teams\u2019 driving exports, social impact and innovation",
+    "url": "https://www.ft.lk/business/Hayleys-Chairman-s-Awards-recognises-inspiring-teams-driving-exports-social-impact-and-innovation/34-736174",
+    "file_name": "/tmp/news_lk2/articles/ed/eda38dd2.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -187,6 +243,20 @@
     "title": "173 inmates pardoned in view of Poson Poya",
     "url": "http://www.adaderana.lk/news/83047/173-inmates-pardoned-in-view-of-poson-poya",
     "file_name": "/tmp/news_lk2/articles/4c/4c816417.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655213940,
+    "title": "A breakthrough digital solution from Union Assurance to \u2018Get Fit\u2019",
+    "url": "http://island.lk/a-breakthrough-digital-solution-from-union-assurance-to-get-fit/",
+    "file_name": "/tmp/news_lk2/articles/3c/3c11a546.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655213820,
+    "title": "DFCC Bank collaborates with Mastercard to facilitate electronic payments via Mastercard Payment Gateway",
+    "url": "http://island.lk/dfcc-bank-collaborates-with-mastercard-to-facilitate-electronic-payments-via-mastercard-payment-gateway/",
+    "file_name": "/tmp/news_lk2/articles/00/00f195f4.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -628,75 +698,5 @@
     "title": "Religious observances at Gangaramaya and Bellanwila",
     "url": "https://www.dailymirror.lk/latest_news/Religious-observances-at-Gangaramaya-and-Bellanwila/342-239041",
     "file_name": "/tmp/news_lk2/articles/ac/aca450b3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655179500,
-    "title": "Religious observances at Gangaramaya",
-    "url": "https://www.dailymirror.lk/latest_news/Religious-observances-at-Gangaramaya/342-239041",
-    "file_name": "/tmp/news_lk2/articles/a5/a565845e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655179500,
-    "title": "Religious observances at Gangaramaya and Bellanwila",
-    "url": "https://www.dailymirror.lk/caption_story/Religious-observances-at-Gangaramaya-and-Bellanwila/110-239041",
-    "file_name": "/tmp/news_lk2/articles/6f/6f128661.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655178960,
-    "title": "173 inmates to be released for Poson Poya",
-    "url": "https://www.newsfirst.lk/2022/06/14/173-inmates-to-be-released-for-poson-poya/",
-    "file_name": "/tmp/news_lk2/articles/bd/bd0b2799.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655178960,
-    "title": "Adani Reacts To Sri Lanka Controversy On PM Modi And Energy Project",
-    "url": "https://www.newsfirst.lk/2022/06/14/adani-reacts-to-sri-lanka-controversy-on-pm-modi-and-energy-project/",
-    "file_name": "/tmp/news_lk2/articles/85/85bd9cb8.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655177280,
-    "title": "Japan has lost complete faith in Sri Lanka, claims Harsha",
-    "url": "https://www.newsfirst.lk/2022/06/14/japan-has-lost-complete-faith-in-sri-lanka-claims-harsha/",
-    "file_name": "/tmp/news_lk2/articles/9c/9c379bef.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655172900,
-    "title": "Sri Lanka: Woman abducted for Ransom, Police swoop in to arrest abductors",
-    "url": "https://www.newsfirst.lk/2022/06/14/sri-lanka-woman-abducted-for-ransom-police-swoop-in-to-arrest-abductors/",
-    "file_name": "/tmp/news_lk2/articles/6a/6af1fa29.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655172720,
-    "title": "Special Transport services for Poson",
-    "url": "https://www.newsfirst.lk/2022/06/14/special-transport-services-for-poson/",
-    "file_name": "/tmp/news_lk2/articles/03/039b3193.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655172300,
-    "title": "Rice sales via Sathosa & Co-Op",
-    "url": "https://www.newsfirst.lk/2022/06/14/rice-sales-via-sathosa-co-op/",
-    "file_name": "/tmp/news_lk2/articles/f2/f2e39e21.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655172180,
-    "title": "Cycling to Work? Sri Lanka to introduce bicycle lanes, soon",
-    "url": "https://www.newsfirst.lk/2022/06/14/cycling-to-work-sri-lanka-to-introduce-bicycle-lanes-soon/",
-    "file_name": "/tmp/news_lk2/articles/3d/3dca3b30.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655171820,
-    "title": "Diesel shipment in two days \u2013 Ministry",
-    "url": "https://www.newsfirst.lk/2022/06/14/diesel-shipment-in-two-days-ministry/",
-    "file_name": "/tmp/news_lk2/articles/5f/5fe7d0ba.json"
   }
 ]
