@@ -1,10 +1,31 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655280300,
+    "title": "16-hour water cut in parts of Gampaha",
+    "url": "http://www.adaderana.lk/news/83057/16-hour-water-cut-in-parts-of-gampaha",
+    "file_name": "/tmp/news_lk2/articles/3c/3cde25e2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655280300,
+    "title": "Another 64 illegal migrants arrested in Trincomalee",
+    "url": "https://www.dailymirror.lk/breaking_news/Another-64-illegal-migrants-arrested-in-Trincomalee/108-239102",
+    "file_name": "/tmp/news_lk2/articles/f8/f8aeb8ac.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655280060,
     "title": "WHO to determine if Monkeypox should be declared \u2018Emergency of International Concern\u2019",
     "url": "https://www.dailymirror.lk/latest_news/WHO-to-determine-if-Monkeypox-should-be-declared-Emergency-of-International-Concern/342-239101",
     "file_name": "/tmp/news_lk2/articles/70/708a7dff.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655280060,
+    "title": "Official report on UL504 filed, report confirms possible collision avoided",
+    "url": "https://www.dailymirror.lk/latest_news/Official-report-on-UL504-filed-report-confirms-possible-collision-avoided/342-239103",
+    "file_name": "/tmp/news_lk2/articles/c4/c435432d.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -292,6 +313,13 @@
     "title": "UL 504 avoids biggest possible mid-air collision with British Airways",
     "url": "https://www.dailymirror.lk/top_story/UL-504-avoids-biggest-possible-mid-air-collision-with-British-Airways/155-239067",
     "file_name": "/tmp/news_lk2/articles/50/50045168.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655256240,
+    "title": "UL 504 avoids biggest possible mid-air collision with British Airways",
+    "url": "https://www.dailymirror.lk/breaking_news/UL-504-avoids-biggest-possible-mid-air-collision-with-British-Airways/108-239067",
+    "file_name": "/tmp/news_lk2/articles/6f/6ff1cfe1.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -670,33 +698,5 @@
     "title": "Payment for gas made today; distribution after tomorow",
     "url": "https://www.dailymirror.lk/breaking_news/Payment-for-gas-made-today-distribution-after-tomorow/108-239053",
     "file_name": "/tmp/news_lk2/articles/6a/6ad8bc0d.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655210640,
-    "title": "Cabinet approves Social Security Contribution Tax Bill",
-    "url": "http://www.adaderana.lk/news/83046/cabinet-approves-social-security-contribution-tax-bill",
-    "file_name": "/tmp/news_lk2/articles/7b/7bc9fe67.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655209200,
-    "title": "Public employees encouraged to take entitled no-pay leave",
-    "url": "http://www.adaderana.lk/news/83045/public-employees-encouraged-to-take-entitled-no-pay-leave",
-    "file_name": "/tmp/news_lk2/articles/52/5293d18e.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655209200,
-    "title": "Govt to encourage public employees to take entitled no-pay leave",
-    "url": "http://www.adaderana.lk/news/83045/govt-to-encourage-public-employees-to-take-entitled-no-pay-leave",
-    "file_name": "/tmp/news_lk2/articles/82/822fd35b.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655208480,
-    "title": "Sri Lanka Maha 2021 rice harvest drop 40-pct crop due to fertilizer ban",
-    "url": "https://economynext.com/sri-lanka-maha-2021-rice-harvest-drop-40-pct-crop-due-to-fertilizer-ban-95750/",
-    "file_name": "/tmp/news_lk2/articles/c8/c8ea60a9.json"
   }
 ]
