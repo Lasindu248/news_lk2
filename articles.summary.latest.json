@@ -205,6 +205,13 @@
   {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655301300,
+    "title": "Sri Lanka to introduce anti-hoarding laws for rice millers after official scaremongering",
+    "url": "https://economynext.com/sri-lanka-to-introduce-anti-hoarding-laws-for-rice-millers-after-official-scaremongering-95851/",
+    "file_name": "/tmp/news_lk2/articles/89/8982e842.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655301300,
     "title": "Sri Lanka to introduce anti-hoarding laws for food stocks\u00a0\u2013 PM",
     "url": "https://economynext.com/sri-lanka-to-introduce-anti-hoarding-laws-for-food-stocks-pm-95851/",
     "file_name": "/tmp/news_lk2/articles/4e/4e799034.json"
@@ -691,12 +698,5 @@
     "title": "Australia intercepts another asylum seeker boat",
     "url": "https://www.newsfirst.lk/2022/06/15/australia-intercepts-another-asylum-seeker-boat/",
     "file_name": "/tmp/news_lk2/articles/eb/eb652e77.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655268240,
-    "title": "Madras HC upholds fine on Sri Lankan family for trying to sneak in 1,594 g gold",
-    "url": "https://www.dailymirror.lk/breaking_news/Madras-HC-upholds-fine-on-Sri-Lankan-family-for-trying-to-sneak-in-1-594-g-gold/108-239096",
-    "file_name": "/tmp/news_lk2/articles/c1/c1423cc9.json"
   }
 ]
