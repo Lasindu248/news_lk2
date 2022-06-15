@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655285040,
+    "title": "Galle Road blocked from Dehiwala...",
+    "url": "https://www.dailymirror.lk/latest_news/Galle-Road-blocked-from-Dehiwala/342-239105",
+    "file_name": "/tmp/news_lk2/articles/03/0362570c.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655284980,
+    "title": "GMOA elects new president",
+    "url": "http://www.adaderana.lk/news/83059/gmoa-elects-new-president",
+    "file_name": "/tmp/news_lk2/articles/f7/f7a938e2.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655283540,
     "title": "Sri Lanka to experience power cuts for three more years, warns CEB engineers union",
@@ -12,6 +26,13 @@
     "title": "Speaker endorses certificate on Electricity (Amendment) Bill",
     "url": "http://www.adaderana.lk/news/83058/speaker-endorses-certificate-on-electricity-amendment-bill",
     "file_name": "/tmp/news_lk2/articles/ed/ede2ec83.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655282940,
+    "title": "Speaker endorses certificate on Electricity Bill",
+    "url": "https://www.dailymirror.lk/latest_news/Speaker-endorses-certificate-on-Electricity-Bill/342-239104",
+    "file_name": "/tmp/news_lk2/articles/33/33aa5b08.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -677,26 +698,5 @@
     "title": "CTB depots to provide fuel for school vans & buses",
     "url": "https://www.newsfirst.lk/2022/06/14/ctb-depots-to-provide-fuel-for-school-vans-buses/",
     "file_name": "/tmp/news_lk2/articles/b5/b5dee1bf.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655214660,
-    "title": "Fuel Crisis: Sri Lanka wants another USD 500 Mn from India",
-    "url": "https://www.newsfirst.lk/2022/06/14/fuel-crisis-sri-lanka-wants-another-usd-500-mn-from-india/",
-    "file_name": "/tmp/news_lk2/articles/f4/f426ab3e.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655214000,
-    "title": "Presidential pardon for 173 inmates for Poson Poya",
-    "url": "http://www.adaderana.lk/news/83047/presidential-pardon-for-173-inmates-for-poson-poya",
-    "file_name": "/tmp/news_lk2/articles/35/353d0ed2.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655214000,
-    "title": "173 inmates pardoned in view of Poson Poya",
-    "url": "http://www.adaderana.lk/news/83047/173-inmates-pardoned-in-view-of-poson-poya",
-    "file_name": "/tmp/news_lk2/articles/4c/4c816417.json"
   }
 ]
