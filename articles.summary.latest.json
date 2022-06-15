@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655264820,
+    "title": "SL vs AUS: Maxwell blazing fifty helps visitors win in rain-curtailed first game",
+    "url": "https://www.newsfirst.lk/2022/06/15/sl-vs-aus-maxwell-blazing-fifty-helps-visitors-win-in-rain-curtailed-first-game/",
+    "file_name": "/tmp/news_lk2/articles/44/4435d708.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655264760,
+    "title": "Schools open after a four-day holiday",
+    "url": "https://www.newsfirst.lk/2022/06/15/schools-open-after-a-four-day-holiday/",
+    "file_name": "/tmp/news_lk2/articles/86/8620f22f.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655263140,
     "title": "UK govt. not party to training SL\u2019S STF personnel in 1980s \u2013 Britain",
@@ -10,8 +24,29 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655262720,
     "title": "New rules to facilitate State employees seeking foreign employment",
+    "url": "https://www.dailymirror.lk/business-news/New-rules-to-facilitate-State-employees-seeking-foreign-employment/273-239087",
+    "file_name": "/tmp/news_lk2/articles/d6/d6670211.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655262720,
+    "title": "New rules to facilitate State employees seeking foreign employment",
     "url": "https://www.dailymirror.lk/breaking_news/New-rules-to-facilitate-State-employees-seeking-foreign-employment/108-239087",
     "file_name": "/tmp/news_lk2/articles/2b/2bd6c4b0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655262540,
+    "title": "UNHRC core group express concern over attacks on peaceful protestors",
+    "url": "https://www.newsfirst.lk/2022/06/15/unhrc-core-group-express-concern-over-attacks-on-peaceful-protestors/",
+    "file_name": "/tmp/news_lk2/articles/9e/9e331122.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655262420,
+    "title": "Sarvodaya Executive Director Chamindha Rajakaruna passes away",
+    "url": "https://www.newsfirst.lk/2022/06/15/sarvodaya-executive-director-chamindha-rajakaruna-passes-away/",
+    "file_name": "/tmp/news_lk2/articles/3d/3de78482.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -117,6 +152,13 @@
     "title": "Nasheed refutes Harsha\u2019s claims",
     "url": "https://www.dailymirror.lk/breaking_news/Nasheed-refutes-Harshas-claims/108-239069",
     "file_name": "/tmp/news_lk2/articles/22/224f60a5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655238120,
+    "title": "Mirihana land reclamation project leaves farmers fuming",
+    "url": "https://www.dailymirror.lk/recomended-news/Mirihana-land-reclamation-project-leaves-farmers-fuming/277-239064",
+    "file_name": "/tmp/news_lk2/articles/e0/e0387f63.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -656,47 +698,5 @@
     "title": "Poson Dansala at Sirikotha",
     "url": "https://www.dailymirror.lk/latest_news/Poson-Dansala-at-Sirikotha/342-239046",
     "file_name": "/tmp/news_lk2/articles/fa/fa2df386.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655191920,
-    "title": "Poson Dansala at Sirikotha",
-    "url": "https://www.dailymirror.lk/caption_story/Poson-Dansala-at-Sirikotha/110-239046",
-    "file_name": "/tmp/news_lk2/articles/9b/9baef7e5.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655191800,
-    "title": "One person shot dead in Wattala",
-    "url": "http://www.adaderana.lk/news/83041/one-person-shot-dead-in-wattala",
-    "file_name": "/tmp/news_lk2/articles/23/231cdfae.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655191320,
-    "title": "Fuel tanker owners\u2019 update on fuel distribution today",
-    "url": "http://www.adaderana.lk/news/83040/fuel-tanker-owners-update-on-fuel-distribution-today",
-    "file_name": "/tmp/news_lk2/articles/28/280cabb1.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655191020,
-    "title": "Multiple arrests for heroin possession on Monday (13)",
-    "url": "https://www.newsfirst.lk/2022/06/14/multiple-arrests-for-heroin-possession-on-monday-13/",
-    "file_name": "/tmp/news_lk2/articles/a0/a05900ff.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655189640,
-    "title": "Functions at National Blood Transfusion unit to turn critical in few weeks",
-    "url": "https://www.dailymirror.lk/latest_news/Functions-at-National-Blood-Transfusion-unit-to-turn-critical-in-few-weeks/342-239042",
-    "file_name": "/tmp/news_lk2/articles/5b/5b4925e3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655189640,
-    "title": "Functions at National Blood Transfusion unit to turn critical in few weeks",
-    "url": "https://www.dailymirror.lk/breaking_news/Functions-at-National-Blood-Transfusion-unit-to-turn-critical-in-few-weeks/108-239042",
-    "file_name": "/tmp/news_lk2/articles/2c/2cf7e134.json"
   }
 ]
