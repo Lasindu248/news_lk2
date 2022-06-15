@@ -7,6 +7,13 @@
     "file_name": "/tmp/news_lk2/articles/33/33ac64f0.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655276460,
+    "title": "Sri Lanka rupee slightly moves up against TT dollar",
+    "url": "https://economynext.com/sri-lanka-rupee-slightly-moves-up-against-tt-dollar-95810/",
+    "file_name": "/tmp/news_lk2/articles/53/536c57fd.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655276340,
     "title": "Protesters block Panchikawatte Junction in Colombo",
@@ -54,6 +61,13 @@
     "title": "Woman abducted for ransom in northern Sri Lanka rescued by police",
     "url": "https://economynext.com/woman-abducted-for-ransom-in-northern-sri-lanka-rescued-by-police-95801/",
     "file_name": "/tmp/news_lk2/articles/70/70aa2352.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655269380,
+    "title": "Poson Bathi Gee...",
+    "url": "https://www.dailymirror.lk/caption_story/Poson-Bathi-Gee/110-239098",
+    "file_name": "/tmp/news_lk2/articles/0d/0dd8b0a5.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -684,19 +698,5 @@
     "title": "Poson Dansala at Gangarama temple",
     "url": "https://www.dailymirror.lk/latest_news/Poson-Dansala-at-Gangarama-temple/342-239048",
     "file_name": "/tmp/news_lk2/articles/20/20c80f03.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655202600,
-    "title": "China\u2019s US$74 rice grant to reach Sri Lanka by end June",
-    "url": "https://economynext.com/chinas-us74-rice-grant-to-reach-sri-lanka-by-end-june-95747/",
-    "file_name": "/tmp/news_lk2/articles/ad/adec94d4.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655202360,
-    "title": "Sri Lanka to boost \u2018Agampora\u2019 traditional martial art by lifting 200-year ban",
-    "url": "https://economynext.com/sri-lanka-to-boost-agampora-traditional-martial-art-by-lifting-200-year-ban-95743/",
-    "file_name": "/tmp/news_lk2/articles/f0/f0f3b9b1.json"
   }
 ]
