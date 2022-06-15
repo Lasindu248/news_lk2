@@ -1,10 +1,24 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655291400,
+    "title": "U.S. DFC approves $120 Mn in new loans and investments for Sri Lanka",
+    "url": "http://www.adaderana.lk/news/83063/us-dfc-approves-120-mn-in-new-loans-and-investments-for-sri-lanka",
+    "file_name": "/tmp/news_lk2/articles/7f/7f98871e.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655290500,
     "title": "US approves $120 mn in new loans to grow and support Sri Lankan economy.",
     "url": "https://www.newsfirst.lk/2022/06/15/us-approves-120-mn-in-new-loans-to-grow-and-support-sri-lankan-economy/",
     "file_name": "/tmp/news_lk2/articles/f9/f9090207.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655290260,
+    "title": "China reaffirms its continual support to SL",
+    "url": "https://www.dailymirror.lk/latest_news/China-reaffirms-its-continual-support-to-SL/342-239113",
+    "file_name": "/tmp/news_lk2/articles/8d/8db295ce.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -21,11 +35,25 @@
     "file_name": "/tmp/news_lk2/articles/5f/5fc9e20f.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655288940,
+    "title": "Govt to take policy decision to up train fares: GMR",
+    "url": "https://www.dailymirror.lk/latest_news/Govt-to-take-policy-decision-to-up-train-fares-GMR/342-239112",
+    "file_name": "/tmp/news_lk2/articles/98/98bf9053.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655288820,
     "title": "MP Sanath Nishantha and Moratuwa Mayor granted bail",
     "url": "http://www.adaderana.lk/news/83061/mp-sanath-nishantha-and-moratuwa-mayor-granted-bail",
     "file_name": "/tmp/news_lk2/articles/c8/c884e092.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655288460,
+    "title": "Winding queues....still with hope",
+    "url": "https://www.dailymirror.lk/latest_news/Winding-queues-still-with-hope/342-239111",
+    "file_name": "/tmp/news_lk2/articles/db/db603f44.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -56,6 +84,13 @@
     "file_name": "/tmp/news_lk2/articles/7f/7fd8d97d.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655287800,
+    "title": "Sanath Nishantha, Moratuwa Mayor granted bail",
+    "url": "https://www.dailymirror.lk/latest_news/Sanath-Nishantha-Moratuwa-Mayor-granted-bail/342-239110",
+    "file_name": "/tmp/news_lk2/articles/f1/f1c70366.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655287020,
     "title": "UNFPA with China donates medical equipment to Sri Lanka worth 800,000 dollars",
@@ -66,15 +101,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655286960,
     "title": "Monitor banks\u2019 lending policies: PM instructs CB Treasury",
-    "url": "https://www.dailymirror.lk/latest_news/Monitor-banks-lending-policies-PM-instructs-CB-Treasury/342-239109",
-    "file_name": "/tmp/news_lk2/articles/6b/6bbe8add.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Monitor-banks-lending-policies-PM-instructs-CB-Treasury/108-239109",
+    "file_name": "/tmp/news_lk2/articles/e2/e2fcdc27.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655286960,
     "title": "Monitor banks\u2019 lending policies: PM instructs CB Treasury",
-    "url": "https://www.dailymirror.lk/breaking_news/Monitor-banks-lending-policies-PM-instructs-CB-Treasury/108-239109",
-    "file_name": "/tmp/news_lk2/articles/e2/e2fcdc27.json"
+    "url": "https://www.dailymirror.lk/latest_news/Monitor-banks-lending-policies-PM-instructs-CB-Treasury/342-239109",
+    "file_name": "/tmp/news_lk2/articles/6b/6bbe8add.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -126,6 +161,13 @@
     "file_name": "/tmp/news_lk2/articles/03/0362570c.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655285040,
+    "title": "Galle Road blocked from Dehiwala...",
+    "url": "https://www.dailymirror.lk/caption_story/Galle-Road-blocked-from-Dehiwala/110-239105",
+    "file_name": "/tmp/news_lk2/articles/19/1960e210.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655284980,
     "title": "GMOA elects new president",
@@ -140,18 +182,18 @@
     "file_name": "/tmp/news_lk2/articles/fc/fc5fc19a.json"
   },
   {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655283540,
-    "title": "Sri Lanka to experience power cuts for three more years, warns CEB engineers union",
-    "url": "https://economynext.com/sri-lanka-to-experience-power-cuts-for-three-more-years-warns-ceb-engineers-union-95816/",
-    "file_name": "/tmp/news_lk2/articles/12/12dcaf5a.json"
-  },
-  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655283540,
     "title": "Speaker endorses certificate on Electricity (Amendment) Bill",
     "url": "http://www.adaderana.lk/news/83058/speaker-endorses-certificate-on-electricity-amendment-bill",
     "file_name": "/tmp/news_lk2/articles/ed/ede2ec83.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655283540,
+    "title": "Sri Lanka to experience power cuts for three more years, warns CEB engineers union",
+    "url": "https://economynext.com/sri-lanka-to-experience-power-cuts-for-three-more-years-warns-ceb-engineers-union-95816/",
+    "file_name": "/tmp/news_lk2/articles/12/12dcaf5a.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -175,6 +217,13 @@
     "file_name": "/tmp/news_lk2/articles/1e/1e0ad7c8.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655280300,
+    "title": "Another 64 illegal migrants arrested in Trincomalee",
+    "url": "https://www.dailymirror.lk/breaking_news/Another-64-illegal-migrants-arrested-in-Trincomalee/108-239102",
+    "file_name": "/tmp/news_lk2/articles/f8/f8aeb8ac.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655280300,
     "title": "16-hour water cut in parts of Gampaha",
@@ -190,17 +239,10 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655280300,
-    "title": "Another 64 illegal migrants arrested in Trincomalee",
-    "url": "https://www.dailymirror.lk/breaking_news/Another-64-illegal-migrants-arrested-in-Trincomalee/108-239102",
-    "file_name": "/tmp/news_lk2/articles/f8/f8aeb8ac.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655280060,
-    "title": "WHO to determine if Monkeypox should be declared \u2018Emergency of International Concern\u2019",
-    "url": "https://www.dailymirror.lk/breaking_news/WHO-to-determine-if-Monkeypox-should-be-declared-Emergency-of-International-Concern/108-239101",
-    "file_name": "/tmp/news_lk2/articles/8c/8c5ce560.json"
+    "title": "Official report on UL504 filed, report confirms possible collision avoided",
+    "url": "https://www.dailymirror.lk/latest_news/Official-report-on-UL504-filed-report-confirms-possible-collision-avoided/342-239103",
+    "file_name": "/tmp/news_lk2/articles/c4/c435432d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -219,9 +261,9 @@
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655280060,
-    "title": "Official report on UL504 filed, report confirms possible collision avoided",
-    "url": "https://www.dailymirror.lk/latest_news/Official-report-on-UL504-filed-report-confirms-possible-collision-avoided/342-239103",
-    "file_name": "/tmp/news_lk2/articles/c4/c435432d.json"
+    "title": "WHO to determine if Monkeypox should be declared \u2018Emergency of International Concern\u2019",
+    "url": "https://www.dailymirror.lk/breaking_news/WHO-to-determine-if-Monkeypox-should-be-declared-Emergency-of-International-Concern/108-239101",
+    "file_name": "/tmp/news_lk2/articles/8c/8c5ce560.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -252,18 +294,18 @@
     "file_name": "/tmp/news_lk2/articles/72/72b31a3e.json"
   },
   {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655276460,
-    "title": "Long wait for fuel: Filling Stations closed due to shortage",
-    "url": "https://www.newsfirst.lk/2022/06/15/long-wait-for-fuel-filling-stations-closed-due-to-shortage/",
-    "file_name": "/tmp/news_lk2/articles/33/33ac64f0.json"
-  },
-  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655276460,
     "title": "Sri Lanka rupee slightly moves up against TT dollar",
     "url": "https://economynext.com/sri-lanka-rupee-slightly-moves-up-against-tt-dollar-95810/",
     "file_name": "/tmp/news_lk2/articles/53/536c57fd.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655276460,
+    "title": "Long wait for fuel: Filling Stations closed due to shortage",
+    "url": "https://www.newsfirst.lk/2022/06/15/long-wait-for-fuel-filling-stations-closed-due-to-shortage/",
+    "file_name": "/tmp/news_lk2/articles/33/33ac64f0.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -301,18 +343,18 @@
     "file_name": "/tmp/news_lk2/articles/d6/d671f5b8.json"
   },
   {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655270880,
-    "title": "20 new \u2018Sisu Seriya\u2019 buses added to fleet from today",
-    "url": "http://www.adaderana.lk/news/83053/20-new-sisu-seriya-buses-added-to-fleet-from-today",
-    "file_name": "/tmp/news_lk2/articles/c0/c0f86ec2.json"
-  },
-  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655270880,
     "title": "Woman abducted for ransom in northern Sri Lanka rescued by police",
     "url": "https://economynext.com/woman-abducted-for-ransom-in-northern-sri-lanka-rescued-by-police-95801/",
     "file_name": "/tmp/news_lk2/articles/70/70aa2352.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655270880,
+    "title": "20 new \u2018Sisu Seriya\u2019 buses added to fleet from today",
+    "url": "http://www.adaderana.lk/news/83053/20-new-sisu-seriya-buses-added-to-fleet-from-today",
+    "file_name": "/tmp/news_lk2/articles/c0/c0f86ec2.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -331,16 +373,16 @@
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655268720,
-    "title": "STF arrests man for transporting over 1 kgs of ICE drugs in Wattala",
-    "url": "https://www.dailymirror.lk/breaking_news/STF-arrests-man-for-transporting-over-1-kgs-of-ICE-drugs-in-Wattala/108-239097",
-    "file_name": "/tmp/news_lk2/articles/2a/2a88c089.json"
+    "title": "STF arrests man for transporting over 1 kg of ICE drugs in Wattala",
+    "url": "https://www.dailymirror.lk/breaking_news/STF-arrests-man-for-transporting-over-1-kg-of-ICE-drugs-in-Wattala/108-239097",
+    "file_name": "/tmp/news_lk2/articles/7a/7a1fca0b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655268720,
-    "title": "STF arrests man for transporting over 1 kg of ICE drugs in Wattala",
-    "url": "https://www.dailymirror.lk/breaking_news/STF-arrests-man-for-transporting-over-1-kg-of-ICE-drugs-in-Wattala/108-239097",
-    "file_name": "/tmp/news_lk2/articles/7a/7a1fca0b.json"
+    "title": "STF arrests man for transporting over 1 kgs of ICE drugs in Wattala",
+    "url": "https://www.dailymirror.lk/breaking_news/STF-arrests-man-for-transporting-over-1-kgs-of-ICE-drugs-in-Wattala/108-239097",
+    "file_name": "/tmp/news_lk2/articles/2a/2a88c089.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -423,13 +465,6 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655262720,
     "title": "New rules to facilitate State employees seeking foreign employment",
-    "url": "https://www.dailymirror.lk/business-news/New-rules-to-facilitate-State-employees-seeking-foreign-employment/273-239087",
-    "file_name": "/tmp/news_lk2/articles/d6/d6670211.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655262720,
-    "title": "New rules to facilitate State employees seeking foreign employment",
     "url": "https://www.dailymirror.lk/latest_news/New-rules-to-facilitate-State-employees-seeking-foreign-employment/342-239087",
     "file_name": "/tmp/news_lk2/articles/1f/1f2d6ab4.json"
   },
@@ -439,6 +474,13 @@
     "title": "New rules to facilitate State employees seeking foreign employment",
     "url": "https://www.dailymirror.lk/breaking_news/New-rules-to-facilitate-State-employees-seeking-foreign-employment/108-239087",
     "file_name": "/tmp/news_lk2/articles/2b/2bd6c4b0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655262720,
+    "title": "New rules to facilitate State employees seeking foreign employment",
+    "url": "https://www.dailymirror.lk/business-news/New-rules-to-facilitate-State-employees-seeking-foreign-employment/273-239087",
+    "file_name": "/tmp/news_lk2/articles/d6/d6670211.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -478,16 +520,16 @@
   {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655257980,
-    "title": "Sri Lanka, world\u2019s poor suffers from Fed\u2019s accidental discovery: Bellwether",
-    "url": "https://economynext.com/sri-lanka-worlds-poor-suffers-from-feds-accidental-discovery-bellwether-95761/",
-    "file_name": "/tmp/news_lk2/articles/87/8722eb62.json"
+    "title": "Sri Lanka, world suffers from Fed\u2019s accidental discovery: Bellwether",
+    "url": "https://economynext.com/sri-lanka-world-suffers-from-feds-accidental-discovery-bellwether-95761/",
+    "file_name": "/tmp/news_lk2/articles/dc/dcdeb766.json"
   },
   {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655257980,
-    "title": "Sri Lanka, world suffers from Fed\u2019s accidental discovery: Bellwether",
-    "url": "https://economynext.com/sri-lanka-world-suffers-from-feds-accidental-discovery-bellwether-95761/",
-    "file_name": "/tmp/news_lk2/articles/dc/dcdeb766.json"
+    "title": "Sri Lanka, world\u2019s poor suffers from Fed\u2019s accidental discovery: Bellwether",
+    "url": "https://economynext.com/sri-lanka-worlds-poor-suffers-from-feds-accidental-discovery-bellwether-95761/",
+    "file_name": "/tmp/news_lk2/articles/87/8722eb62.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -507,15 +549,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655256240,
     "title": "UL 504 avoids biggest possible mid-air collision with British Airways",
-    "url": "https://www.dailymirror.lk/top_story/UL-504-avoids-biggest-possible-mid-air-collision-with-British-Airways/155-239067",
-    "file_name": "/tmp/news_lk2/articles/50/50045168.json"
+    "url": "https://www.dailymirror.lk/breaking_news/UL-504-avoids-biggest-possible-mid-air-collision-with-British-Airways/108-239067",
+    "file_name": "/tmp/news_lk2/articles/6f/6ff1cfe1.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655256240,
     "title": "UL 504 avoids biggest possible mid-air collision with British Airways",
-    "url": "https://www.dailymirror.lk/breaking_news/UL-504-avoids-biggest-possible-mid-air-collision-with-British-Airways/108-239067",
-    "file_name": "/tmp/news_lk2/articles/6f/6ff1cfe1.json"
+    "url": "https://www.dailymirror.lk/top_story/UL-504-avoids-biggest-possible-mid-air-collision-with-British-Airways/155-239067",
+    "file_name": "/tmp/news_lk2/articles/50/50045168.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -563,15 +605,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655238780,
     "title": "Nasheed refutes Harsha\u2019s claims",
-    "url": "https://www.dailymirror.lk/latest_news/Nasheed-refutes-Harshas-claims/342-239069",
-    "file_name": "/tmp/news_lk2/articles/24/2442fb17.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Nasheed-refutes-Harshas-claims/108-239069",
+    "file_name": "/tmp/news_lk2/articles/22/224f60a5.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655238780,
     "title": "Nasheed refutes Harsha\u2019s claims",
-    "url": "https://www.dailymirror.lk/breaking_news/Nasheed-refutes-Harshas-claims/108-239069",
-    "file_name": "/tmp/news_lk2/articles/22/224f60a5.json"
+    "url": "https://www.dailymirror.lk/latest_news/Nasheed-refutes-Harshas-claims/342-239069",
+    "file_name": "/tmp/news_lk2/articles/24/2442fb17.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -584,8 +626,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655238120,
     "title": "Mirihana land reclamation project leaves farmers fuming",
-    "url": "https://www.dailymirror.lk/expose/Mirihana-land-reclamation-project-leaves-farmers-fuming/333-239064",
-    "file_name": "/tmp/news_lk2/articles/2e/2e65f84c.json"
+    "url": "https://www.dailymirror.lk/opinion/Mirihana-land-reclamation-project-leaves-farmers-fuming/231-239064",
+    "file_name": "/tmp/news_lk2/articles/93/93db3d53.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -598,22 +640,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655238120,
     "title": "Mirihana land reclamation project leaves farmers fuming",
-    "url": "https://www.dailymirror.lk/opinion/Mirihana-land-reclamation-project-leaves-farmers-fuming/231-239064",
-    "file_name": "/tmp/news_lk2/articles/93/93db3d53.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655233800,
-    "title": "Maxwell guides Australia to early series lead",
-    "url": "https://www.dailymirror.lk/headline/Maxwell-guides-Australia-to-early-series-lead/419-239061",
-    "file_name": "/tmp/news_lk2/articles/2f/2f5916e3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655233800,
-    "title": "Maxwell guides Australia to early series lead",
-    "url": "https://www.dailymirror.lk/top-story-sports-1/Maxwell-guides-Australia-to-early-series-lead/324-239061",
-    "file_name": "/tmp/news_lk2/articles/a9/a9822221.json"
+    "url": "https://www.dailymirror.lk/expose/Mirihana-land-reclamation-project-leaves-farmers-fuming/333-239064",
+    "file_name": "/tmp/news_lk2/articles/2e/2e65f84c.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -626,8 +654,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655233800,
     "title": "Maxwell guides Australia to early series lead",
-    "url": "https://www.dailymirror.lk/latest_news/Maxwell-guides-Australia-to-early-series-lead/342-239061",
-    "file_name": "/tmp/news_lk2/articles/d6/d6f3dd1a.json"
+    "url": "https://www.dailymirror.lk/top-story-sports-1/Maxwell-guides-Australia-to-early-series-lead/324-239061",
+    "file_name": "/tmp/news_lk2/articles/a9/a9822221.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -637,25 +665,18 @@
     "file_name": "/tmp/news_lk2/articles/85/85ccf3cb.json"
   },
   {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655231400,
-    "title": "US and Chinese envoys discuss assistance to Sri Lanka",
-    "url": "https://www.ft.lk/news/US-and-Chinese-envoys-discuss-assistance-to-Sri-Lanka/56-736171",
-    "file_name": "/tmp/news_lk2/articles/c1/c112cfd6.json"
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655233800,
+    "title": "Maxwell guides Australia to early series lead",
+    "url": "https://www.dailymirror.lk/headline/Maxwell-guides-Australia-to-early-series-lead/419-239061",
+    "file_name": "/tmp/news_lk2/articles/2f/2f5916e3.json"
   },
   {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655231400,
-    "title": "Asian Palm Oil Alliance offers support to oil palm industry in Sri Lanka",
-    "url": "https://www.ft.lk/business/Asian-Palm-Oil-Alliance-offers-support-to-oil-palm-industry-in-Sri-Lanka/34-736167",
-    "file_name": "/tmp/news_lk2/articles/99/99e8681d.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655231400,
-    "title": "Cabinet approves to revise Circular on Grade 1 admissions for 2023",
-    "url": "https://www.ft.lk/news/Cabinet-approves-to-revise-Circular-on-Grade-1-admissions-for-2023/56-736170",
-    "file_name": "/tmp/news_lk2/articles/58/5884eed8.json"
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655233800,
+    "title": "Maxwell guides Australia to early series lead",
+    "url": "https://www.dailymirror.lk/latest_news/Maxwell-guides-Australia-to-early-series-lead/342-239061",
+    "file_name": "/tmp/news_lk2/articles/d6/d6f3dd1a.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -667,36 +688,15 @@
   {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1655231400,
-    "title": "Hemas Pharmaceuticals now certified for \u2018Good Distribution Practices\u2019 by Bureau Veritas",
-    "url": "https://www.ft.lk/business/Hemas-Pharmaceuticals-now-certified-for-Good-Distribution-Practices-by-Bureau-Veritas/34-736165",
-    "file_name": "/tmp/news_lk2/articles/6d/6d689b35.json"
+    "title": "US and Chinese envoys discuss assistance to Sri Lanka",
+    "url": "https://www.ft.lk/news/US-and-Chinese-envoys-discuss-assistance-to-Sri-Lanka/56-736171",
+    "file_name": "/tmp/news_lk2/articles/c1/c112cfd6.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1655231400,
-    "title": "Govt. declares Friday holiday for non-essential State workers\u2019 for 3 months",
-    "url": "https://www.ft.lk/news/Govt-declares-Friday-holiday-for-non-essential-State-workers-for-3-months/56-736169",
-    "file_name": "/tmp/news_lk2/articles/39/391e8c02.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655231400,
-    "title": "Cabinet nod to amend Circular to send State workers for foreign jobs",
-    "url": "https://www.ft.lk/news/Cabinet-nod-to-amend-Circular-to-send-State-workers-for-foreign-jobs/56-736172",
-    "file_name": "/tmp/news_lk2/articles/5f/5fdd1071.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655231400,
-    "title": "Colombo-based start-up Duthaya launches pilot program to assist citizens with on-demand services",
-    "url": "https://www.ft.lk/business/Colombo-based-start-up-Duthaya-launches-pilot-program-to-assist-citizens-with-on-demand-services/34-736175",
-    "file_name": "/tmp/news_lk2/articles/1e/1ef75117.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655231400,
-    "title": "CBK commends Dr. Shafi\u2019s noble gesture of donating past salary to buy essential medicine",
-    "url": "https://www.ft.lk/news/CBK-commends-Dr-Shafi-s-noble-gesture-of-donating-past-salary-to-buy-essential-medicine/56-736168",
-    "file_name": "/tmp/news_lk2/articles/b8/b8c89fab.json"
+    "title": "Hayleys Chairman\u2019s Awards recognises inspiring teams\u2019 driving exports, social impact and innovation",
+    "url": "https://www.ft.lk/business/Hayleys-Chairman-s-Awards-recognises-inspiring-teams-driving-exports-social-impact-and-innovation/34-736174",
+    "file_name": "/tmp/news_lk2/articles/ed/eda38dd2.json"
   }
 ]
