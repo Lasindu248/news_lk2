@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655316540,
+    "title": "President stresses need to decentralize all public services",
+    "url": "http://www.adaderana.lk/news/83069/president-stresses-need-to-decentralize-all-public-services",
+    "file_name": "/tmp/news_lk2/articles/35/350d787a.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655311500,
     "title": "Probe on attack on Galle Face protesters: Law and Order Ministry Secretary noticed to show cause",
@@ -691,12 +698,5 @@
     "title": "Several areas to receive spells of showers today",
     "url": "http://www.adaderana.lk/news/83051/several-areas-to-receive-spells-of-showers-today",
     "file_name": "/tmp/news_lk2/articles/05/05758234.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655257980,
-    "title": "Sri Lanka, world suffers from Fed\u2019s accidental discovery: Bellwether",
-    "url": "https://economynext.com/sri-lanka-world-suffers-from-feds-accidental-discovery-bellwether-95761/",
-    "file_name": "/tmp/news_lk2/articles/dc/dcdeb766.json"
   }
 ]
