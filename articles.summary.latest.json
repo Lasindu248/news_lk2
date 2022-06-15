@@ -1,6 +1,20 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655256240,
+    "title": "UL 504 avoids biggest possible mid-air collision with British Airways",
+    "url": "https://www.dailymirror.lk/latest_news/UL-504-avoids-biggest-possible-mid-air-collision-with-British-Airways/342-239067",
+    "file_name": "/tmp/news_lk2/articles/58/58faadf3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655245800,
+    "title": "I stand by what I said: Harsha",
+    "url": "https://www.dailymirror.lk/latest_news/I-stand-by-what-I-said-Harsha/342-239068",
+    "file_name": "/tmp/news_lk2/articles/55/550bf65d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655241540,
     "title": "Loving families create a just and fair society - EDITORIAL",
     "url": "https://www.dailymirror.lk/opinion/Loving-families-create-a-just-and-fair-society-EDITORIAL/231-239066",
@@ -684,19 +698,5 @@
     "title": "Friday Holiday for Public Sector, but NOT for essential services",
     "url": "https://www.newsfirst.lk/2022/06/14/friday-holiday-for-public-sector-but-not-for-essential-services/",
     "file_name": "/tmp/news_lk2/articles/8e/8e09c620.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655179740,
-    "title": "Sri Lanka  pegs rupee in May intervening in both directions amid \u2018float\u2019",
-    "url": "https://economynext.com/sri-lanka-pegs-rupee-in-may-intervening-in-both-directions-amid-float-95725/",
-    "file_name": "/tmp/news_lk2/articles/62/6277ddef.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655179740,
-    "title": "Sri Lanka  continues to soft-peg in May intervening in both directions",
-    "url": "https://economynext.com/sri-lanka-continues-to-soft-peg-in-may-intervening-in-both-directions-95725/",
-    "file_name": "/tmp/news_lk2/articles/ac/ac85b807.json"
   }
 ]
