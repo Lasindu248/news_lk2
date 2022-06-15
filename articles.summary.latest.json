@@ -56,11 +56,25 @@
     "file_name": "/tmp/news_lk2/articles/35/350d787a.json"
   },
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655316540,
+    "title": "President emphasizes decentralizing all public services at district, divisional levels",
+    "url": "http://www.adaderana.lk/news/83069/president-emphasizes-decentralizing-all-public-services-at-district-divisional-levels",
+    "file_name": "/tmp/news_lk2/articles/48/48c5b820.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655311500,
     "title": "Probe on attack on Galle Face protesters: Law and Order Ministry Secretary noticed to show cause",
     "url": "https://www.dailymirror.lk/latest_news/Probe-on-attack-on-Galle-Face-protesters-Law-and-Order-Ministry-Secretary-noticed-to-show-cause/342-239123",
     "file_name": "/tmp/news_lk2/articles/03/03e0687c.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655310540,
+    "title": "New laws to be introduced to prevent hoarding food",
+    "url": "http://www.adaderana.lk/news/83068/new-laws-to-be-introduced-to-prevent-hoarding-food",
+    "file_name": "/tmp/news_lk2/articles/44/445d45a5.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -684,19 +698,5 @@
     "title": "Schools open after a four-day holiday",
     "url": "https://www.newsfirst.lk/2022/06/15/schools-open-after-a-four-day-holiday/",
     "file_name": "/tmp/news_lk2/articles/86/8620f22f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655263140,
-    "title": "UK govt. not party to training SL\u2019S STF personnel in 1980s \u2013 Britain",
-    "url": "https://www.dailymirror.lk/breaking_news/UK-govt-not-party-to-training-SLS-STF-personnel-in-1980s-Britain/108-239094",
-    "file_name": "/tmp/news_lk2/articles/3d/3d962fc8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655262720,
-    "title": "New rules to facilitate State employees seeking foreign employment",
-    "url": "https://www.dailymirror.lk/business-news/New-rules-to-facilitate-State-employees-seeking-foreign-employment/273-239087",
-    "file_name": "/tmp/news_lk2/articles/d6/d6670211.json"
   }
 ]
