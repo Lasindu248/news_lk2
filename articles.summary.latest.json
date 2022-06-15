@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655298540,
+    "title": "Sri Lanka shares fall to 1-wk low on margin calls, uncertainties",
+    "url": "https://economynext.com/sri-lanka-shares-fall-to-1-wk-low-on-margin-calls-uncertainties-95850/",
+    "file_name": "/tmp/news_lk2/articles/7b/7b30a376.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655298420,
+    "title": "Methodology of licensing for ethanol import discussed in COPA",
+    "url": "http://www.adaderana.lk/news/83066/methodology-of-licensing-for-ethanol-import-discussed-in-copa",
+    "file_name": "/tmp/news_lk2/articles/54/54fb2cb2.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655297640,
+    "title": "US\u2019 DFC lends USD120 mln for crisis-hit Sri Lanka\u2019s SME sector",
+    "url": "https://economynext.com/us-dfc-lends-usd120-mln-for-crisis-hit-sri-lankas-sme-sector-95848/",
+    "file_name": "/tmp/news_lk2/articles/ad/ad344fa4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655297280,
+    "title": "Gammanpila sets out proposals to overcome fuel shortage; Online work & seat-less buses among proposals",
+    "url": "https://www.newsfirst.lk/2022/06/15/gammanpila-sets-out-proposals-to-overcome-fuel-shortage-online-work-seat-less-buses-among-proposals/",
+    "file_name": "/tmp/news_lk2/articles/b0/b06a10c2.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655296680,
     "title": "\u200bForeign Minister briefs President of UNHRC on Sri Lankan issues",
@@ -670,33 +698,5 @@
     "title": "Maxwell guides Australia to early series lead",
     "url": "https://www.dailymirror.lk/headline/Maxwell-guides-Australia-to-early-series-lead/419-239061",
     "file_name": "/tmp/news_lk2/articles/2f/2f5916e3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655233800,
-    "title": "Maxwell guides Australia to early series lead",
-    "url": "https://www.dailymirror.lk/top-story-sports-1/Maxwell-guides-Australia-to-early-series-lead/324-239061",
-    "file_name": "/tmp/news_lk2/articles/a9/a9822221.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655233800,
-    "title": "Maxwell guides Australia to early series lead",
-    "url": "https://www.dailymirror.lk/breaking_news/Maxwell-guides-Australia-to-early-series-lead/108-239061",
-    "file_name": "/tmp/news_lk2/articles/20/2077b185.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655233800,
-    "title": "Maxwell guides Australia to early series lead",
-    "url": "https://www.dailymirror.lk/latest_news/Maxwell-guides-Australia-to-early-series-lead/342-239061",
-    "file_name": "/tmp/news_lk2/articles/d6/d6f3dd1a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655233800,
-    "title": "Maxwell guides Australia to early series lead",
-    "url": "https://www.dailymirror.lk/mirror_sports_cricket/Maxwell-guides-Australia-to-early-series-lead/458-239061",
-    "file_name": "/tmp/news_lk2/articles/85/85ccf3cb.json"
   }
 ]
