@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655387580,
+    "title": "Sri Lanka shares drop for 3rd session; uncertainties weigh",
+    "url": "https://economynext.com/sri-lanka-shares-drop-for-3rd-session-uncertainties-weigh-95908/",
+    "file_name": "/tmp/news_lk2/articles/fb/fb547c50.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655386740,
     "title": "Govt to import 50,000 MT of rice to avert possible shortage",
@@ -539,6 +546,13 @@
     "file_name": "/tmp/news_lk2/articles/7e/7ed9f28b.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655355180,
+    "title": "Sila program for Poson",
+    "url": "https://www.dailymirror.lk/caption_story/Sila-program-for-Poson/110-239180",
+    "file_name": "/tmp/news_lk2/articles/8e/8ea051a7.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655355060,
     "title": "Engine Oil Shortage threatens future train travel",
@@ -684,19 +698,5 @@
     "title": "Showery conditions to slightly enhance during next few days",
     "url": "http://www.adaderana.lk/news/83071/showery-conditions-to-slightly-enhance-during-next-few-days",
     "file_name": "/tmp/news_lk2/articles/83/83fe1938.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655344800,
-    "title": "Woman arrested for throwing son from bridge",
-    "url": "https://www.newsfirst.lk/2022/06/16/woman-arrested-for-throwing-son-from-bridge/",
-    "file_name": "/tmp/news_lk2/articles/92/92930f5a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655343660,
-    "title": "Army, CDF, & 3,000 Prisoners for Agri Campaign",
-    "url": "https://www.newsfirst.lk/2022/06/16/army-cdf-3000-prisoners-for-agri-campaign/",
-    "file_name": "/tmp/news_lk2/articles/0d/0d049155.json"
   }
 ]
