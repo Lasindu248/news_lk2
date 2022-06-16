@@ -1,5 +1,54 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655371860,
+    "title": "Centre has helped release of 2,977 Indian fishermen from Sri Lanka: Union Minister",
+    "url": "https://www.dailymirror.lk/breaking_news/Centre-has-helped-release-of-2-977-Indian-fishermen-from-Sri-Lanka-Union-Minister/108-239171",
+    "file_name": "/tmp/news_lk2/articles/78/780623a2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655370840,
+    "title": "Fuel supply has become extremely challenging - Kanchana",
+    "url": "https://www.dailymirror.lk/breaking_news/Fuel-supply-has-become-extremely-challenging-Kanchana/108-239170",
+    "file_name": "/tmp/news_lk2/articles/e8/e80d5d7c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655370840,
+    "title": "Road Map from PM to mitigate crisis",
+    "url": "https://www.newsfirst.lk/2022/06/16/road-map-from-pm-to-mitigate-crisis/",
+    "file_name": "/tmp/news_lk2/articles/70/7037a731.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655370540,
+    "title": "Eight million Australians urged to turn off lights in face of energy crisis",
+    "url": "https://www.newsfirst.lk/2022/06/16/eight-million-australians-urged-to-turn-off-lights-in-face-of-energy-crisis/",
+    "file_name": "/tmp/news_lk2/articles/ff/ffc657d5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655369700,
+    "title": "USD 6 Mn Emergency Assistance from US",
+    "url": "https://www.newsfirst.lk/2022/06/16/usd-6-mn-emergency-assistance-from-us/",
+    "file_name": "/tmp/news_lk2/articles/01/0155002b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655369100,
+    "title": "Sri Lanka stresses importance of relations with Japan",
+    "url": "https://www.newsfirst.lk/2022/06/16/sri-lanka-stresses-importance-of-relations-with-japan/",
+    "file_name": "/tmp/news_lk2/articles/4f/4f29d4ea.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655368200,
+    "title": "Norochcholai at risk of shutdown, warn CEB Engineers",
+    "url": "https://www.newsfirst.lk/2022/06/16/norochchoali-at-risk-of-shutdown-warn-ceb-engineers/",
+    "file_name": "/tmp/news_lk2/articles/fb/fb4d05c9.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655367600,
     "title": "Ceylon Biscuits founder Mineka Wickramasinghe has passed away",
@@ -649,54 +698,5 @@
     "title": "CEB chairman drama will have dire consequences",
     "url": "https://www.dailymirror.lk/breaking_news/CEB-chairman-drama-will-have-dire-consequences/108-239119",
     "file_name": "/tmp/news_lk2/articles/29/29759746.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655301900,
-    "title": "New Litro chairman says request made for price increase",
-    "url": "http://www.adaderana.lk/news/83067/new-litro-chairman-says-request-made-for-price-increase",
-    "file_name": "/tmp/news_lk2/articles/d2/d282ff37.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655301300,
-    "title": "Sri Lanka to introduce anti-hoarding laws for rice millers after official scaremongering",
-    "url": "https://economynext.com/sri-lanka-to-introduce-anti-hoarding-laws-for-rice-millers-after-official-scaremongering-95851/",
-    "file_name": "/tmp/news_lk2/articles/89/8982e842.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655301300,
-    "title": "Sri Lanka to introduce anti-hoarding laws for rice millers after scaremongering",
-    "url": "https://economynext.com/sri-lanka-to-introduce-anti-hoarding-laws-for-rice-millers-after-scaremongering-95851/",
-    "file_name": "/tmp/news_lk2/articles/56/56c4c6b8.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655301300,
-    "title": "Sri Lanka to introduce anti-hoarding laws for food stocks\u00a0\u2013 PM",
-    "url": "https://economynext.com/sri-lanka-to-introduce-anti-hoarding-laws-for-food-stocks-pm-95851/",
-    "file_name": "/tmp/news_lk2/articles/4e/4e799034.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655300940,
-    "title": "Apparel industry addresses impact of crisis on their workers",
-    "url": "http://island.lk/apparel-industry-addresses-impact-of-crisis-on-their-workers/",
-    "file_name": "/tmp/news_lk2/articles/0a/0a61c253.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655300760,
-    "title": "CSE\u2019s dollar-earning companies likely to be hit by global recession",
-    "url": "http://island.lk/cses-dollar-earning-companies-likely-to-be-hit-by-global-recession/",
-    "file_name": "/tmp/news_lk2/articles/12/128b0dcc.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655299860,
-    "title": "US approves USD 120 million new loan to support crisis-hit Sri Lankan economy",
-    "url": "https://www.dailymirror.lk/breaking_news/US-approves-USD-120-million-new-loan-to-support-crisis-hit-Sri-Lankan-economy/108-239117",
-    "file_name": "/tmp/news_lk2/articles/93/930b2ce0.json"
   }
 ]
