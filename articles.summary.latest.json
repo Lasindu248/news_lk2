@@ -99,6 +99,13 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655393460,
+    "title": "Water bills amounting to Rs.7,500 mn unpaid : Water Board",
+    "url": "https://www.dailymirror.lk/latest_news/Water-bills-amounting-to-Rs-7-500-mn-unpaid-Water-Board/342-239186",
+    "file_name": "/tmp/news_lk2/articles/02/0246a26d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655391120,
     "title": "Applications called for 2023 Grade One admissions",
     "url": "https://www.dailymirror.lk/latest_news/Applications-called-for-2023-Grade-One-admissions/342-239184",
@@ -292,6 +299,13 @@
     "title": "Applications for admission of Grade 1 students in govt schools",
     "url": "http://www.adaderana.lk/news/83085/applications-for-admission-of-grade-1-students-in-govt-schools",
     "file_name": "/tmp/news_lk2/articles/0b/0bbbdf38.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655375760,
+    "title": "US Senate foreign panel head asks QUAD memebers to help SL",
+    "url": "https://www.dailymirror.lk/latest_news/US-Senate-foreign-panel-head-asks-QUAD-memebers-to-help-SL/342-239191",
+    "file_name": "/tmp/news_lk2/articles/c9/c9d98595.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -684,19 +698,5 @@
     "title": "Another man dies in petrol queue",
     "url": "https://www.dailymirror.lk/breaking_news/Another-man-dies-in-petrol-queue/108-239164",
     "file_name": "/tmp/news_lk2/articles/5e/5e3549c2.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655356200,
-    "title": "Another man dies in petrol queue",
-    "url": "https://www.dailymirror.lk/latest_news/Another-man-dies-in-petrol-queue/342-239164",
-    "file_name": "/tmp/news_lk2/articles/7e/7ed9f28b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655355180,
-    "title": "Sila program for Poson",
-    "url": "https://www.dailymirror.lk/latest_news/Sila-program-for-Poson/342-239180",
-    "file_name": "/tmp/news_lk2/articles/ba/ba1ba945.json"
   }
 ]
