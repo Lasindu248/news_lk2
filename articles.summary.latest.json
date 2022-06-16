@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655391120,
+    "title": "Applications called for 2023 Grade One admissions",
+    "url": "https://www.dailymirror.lk/latest_news/Applications-called-for-2023-Grade-One-admissions/342-239184",
+    "file_name": "/tmp/news_lk2/articles/75/75e9a156.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655389740,
     "title": "Ceylon Biscuits founder passes away",
     "url": "https://www.dailymirror.lk/latest_news/Ceylon-Biscuits-founder-passes-away/342-239182",
@@ -691,12 +698,5 @@
     "title": "Heavy showers likely on Thursday (16)",
     "url": "https://www.newsfirst.lk/2022/06/16/heavy-showers-likely-on-thursday-16/",
     "file_name": "/tmp/news_lk2/articles/0e/0e5ee3fe.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655346840,
-    "title": "US makes biggest interest rate rise in almost 30 years",
-    "url": "http://www.adaderana.lk/news/83073/us-makes-biggest-interest-rate-rise-in-almost-30-years",
-    "file_name": "/tmp/news_lk2/articles/44/44554aa0.json"
   }
 ]
