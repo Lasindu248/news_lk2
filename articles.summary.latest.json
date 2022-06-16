@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655389740,
+    "title": "Ceylon Biscuits founder passes away",
+    "url": "https://www.dailymirror.lk/latest_news/Ceylon-Biscuits-founder-passes-away/342-239182",
+    "file_name": "/tmp/news_lk2/articles/70/70ebd62d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655388480,
+    "title": "Sri Lanka rupee\u2019s commercial bank quoted rate down; 1-yr t-bill yield up",
+    "url": "https://economynext.com/sri-lanka-rupees-commercial-bank-quoted-rate-down-1-yr-t-bill-yield-up-95909/",
+    "file_name": "/tmp/news_lk2/articles/1b/1bd1cae7.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655387580,
     "title": "Sri Lanka shares drop for 3rd session; uncertainties weigh",
@@ -131,6 +145,13 @@
     "title": "RMB to release 10,000 MT of rice per month",
     "url": "https://www.newsfirst.lk/2022/06/16/rmb-to-release-10000-mt-of-rice-per-month/",
     "file_name": "/tmp/news_lk2/articles/2c/2cc5f9fd.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655379120,
+    "title": "PMB to release 10,000 MT of rice per month",
+    "url": "https://www.newsfirst.lk/2022/06/16/pmb-to-release-10000-mt-of-rice-per-month/",
+    "file_name": "/tmp/news_lk2/articles/b9/b91c0a68.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -549,6 +570,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655355180,
     "title": "Sila program for Poson",
+    "url": "https://www.dailymirror.lk/latest_news/Sila-program-for-Poson/342-239180",
+    "file_name": "/tmp/news_lk2/articles/ba/ba1ba945.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655355180,
+    "title": "Sila program for Poson",
     "url": "https://www.dailymirror.lk/caption_story/Sila-program-for-Poson/110-239180",
     "file_name": "/tmp/news_lk2/articles/8e/8ea051a7.json"
   },
@@ -670,33 +698,5 @@
     "title": "US makes biggest interest rate rise in almost 30 years",
     "url": "http://www.adaderana.lk/news/83073/us-makes-biggest-interest-rate-rise-in-almost-30-years",
     "file_name": "/tmp/news_lk2/articles/44/44554aa0.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655346180,
-    "title": "Woman throws child into Kelani River, attempts suicide",
-    "url": "http://www.adaderana.lk/news/83072/woman-throws-child-into-kelani-river-attempts-suicide",
-    "file_name": "/tmp/news_lk2/articles/86/86c46a7c.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655345700,
-    "title": "Sri Lanka manufacturing PMI up in May, services continue down",
-    "url": "https://economynext.com/sri-lanka-manufacturing-pmi-up-in-may-services-continue-down-95871/",
-    "file_name": "/tmp/news_lk2/articles/4b/4b8f5db7.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655345400,
-    "title": "Fed hikes rates 75bp as Powell Bubble pushes up food prices hurting the poor",
-    "url": "https://economynext.com/fed-hikes-rates-75bp-as-powell-bubble-pushes-up-food-prices-hurting-the-poor-95873/",
-    "file_name": "/tmp/news_lk2/articles/83/8392a72d.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655345280,
-    "title": "Showery conditions to slightly enhance during next few days",
-    "url": "http://www.adaderana.lk/news/83071/showery-conditions-to-slightly-enhance-during-next-few-days",
-    "file_name": "/tmp/news_lk2/articles/83/83fe1938.json"
   }
 ]
