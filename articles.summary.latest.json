@@ -10,6 +10,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655402220,
     "title": "US announces $6 million in emergency assistance to SL",
+    "url": "https://www.dailymirror.lk/breaking_news/US-announces-6-million-in-emergency-assistance-to-SL/108-239192",
+    "file_name": "/tmp/news_lk2/articles/0d/0dd2022f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655402220,
+    "title": "US announces $6 million in emergency assistance to SL",
     "url": "https://www.dailymirror.lk/latest_news/US-announces-6-million-in-emergency-assistance-to-SL/342-239192",
     "file_name": "/tmp/news_lk2/articles/fe/fe35ebac.json"
   },
@@ -122,6 +129,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655393460,
     "title": "Water bills amounting to Rs.7,500 mn unpaid : Water Board",
+    "url": "https://www.dailymirror.lk/breaking_news/Water-bills-amounting-to-Rs-7-500-mn-unpaid-Water-Board/108-239186",
+    "file_name": "/tmp/news_lk2/articles/66/66dea866.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655393460,
+    "title": "Water bills amounting to Rs.7,500 mn unpaid : Water Board",
     "url": "https://www.dailymirror.lk/latest_news/Water-bills-amounting-to-Rs-7-500-mn-unpaid-Water-Board/342-239186",
     "file_name": "/tmp/news_lk2/articles/02/0246a26d.json"
   },
@@ -131,6 +145,13 @@
     "title": "Applications called for 2023 Grade One admissions",
     "url": "https://www.dailymirror.lk/latest_news/Applications-called-for-2023-Grade-One-admissions/342-239184",
     "file_name": "/tmp/news_lk2/articles/75/75e9a156.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655391120,
+    "title": "Applications called for 2023 Grade One admissions",
+    "url": "https://www.dailymirror.lk/breaking_news/Applications-called-for-2023-Grade-One-admissions/108-239184",
+    "file_name": "/tmp/news_lk2/articles/4c/4c5815f8.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -677,26 +698,5 @@
     "title": "Another suspect arrested over killing of MP Amarakeerthi Athukorala",
     "url": "http://www.adaderana.lk/news/83077/another-suspect-arrested-over-killing-of-mp-amarakeerthi-athukorala",
     "file_name": "/tmp/news_lk2/articles/50/50ad8b45.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655358300,
-    "title": "Dengue on the rise: 74 High-Risk Zones identified",
-    "url": "https://www.newsfirst.lk/2022/06/16/dengue-on-the-rise-74-high-risk-zones-identified/",
-    "file_name": "/tmp/news_lk2/articles/44/44c147a7.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655358060,
-    "title": "Three-wheeler driver dies while waiting in fuel queue",
-    "url": "http://www.adaderana.lk/news/83076/three-wheeler-driver-dies-while-waiting-in-fuel-queue",
-    "file_name": "/tmp/news_lk2/articles/10/10a7d8b6.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655357580,
-    "title": "Navy intercepts fishing trawler with 64 persons attempting to illegally migrate",
-    "url": "http://www.adaderana.lk/news/83075/navy-intercepts-fishing-trawler-with-64-persons-attempting-to-illegally-migrate",
-    "file_name": "/tmp/news_lk2/articles/03/03beb6a3.json"
   }
 ]
