@@ -1,10 +1,59 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655375580,
+    "title": "Tomorrow declared holiday for schools",
+    "url": "http://www.adaderana.lk/news/83084/tomorrow-declared-holiday-for-schools",
+    "file_name": "/tmp/news_lk2/articles/a8/a8b6f637.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655375220,
+    "title": "Sri Lanka selects new suppliers for fuel",
+    "url": "http://www.adaderana.lk/news/83083/sri-lanka-selects-new-suppliers-for-fuel",
+    "file_name": "/tmp/news_lk2/articles/bd/bd8a169d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655375040,
+    "title": "School holiday for tomorrow",
+    "url": "https://www.dailymirror.lk/latest_news/School-holiday-for-tomorrow/342-239174",
+    "file_name": "/tmp/news_lk2/articles/16/1659aa11.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655375040,
+    "title": "Sri Lanka Paddy Marketing Board to issue 10,000MT of rice monthly to \u201cdestroy\u201d monopoly",
+    "url": "https://economynext.com/sri-lanka-paddy-marketing-board-to-issue-10000mt-of-rice-monthly-to-destroy-monopoly-95899/",
+    "file_name": "/tmp/news_lk2/articles/be/bed11834.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655374500,
+    "title": "Biden administration announces additional $1 billion in military aid for Ukraine",
+    "url": "https://www.newsfirst.lk/2022/06/16/biden-administration-announces-additional-1-billion-in-military-aid-for-ukraine/",
+    "file_name": "/tmp/news_lk2/articles/f2/f28bf3a1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655374020,
+    "title": "Norochcholai down again for 70 days",
+    "url": "https://www.dailymirror.lk/breaking_news/Norochcholai-down-again-for-70-days/108-239173",
+    "file_name": "/tmp/news_lk2/articles/bc/bc6a1c39.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655373540,
     "title": "Circular issued declaring Friday a holiday for public sector employees",
     "url": "http://www.adaderana.lk/news/83082/circular-issued-declaring-friday-a-holiday-for-public-sector-employees",
     "file_name": "/tmp/news_lk2/articles/9f/9f631627.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655373420,
+    "title": "Heavy showers expected tonight (16)",
+    "url": "https://www.newsfirst.lk/2022/06/16/heavy-showers-expected-tonight-16/",
+    "file_name": "/tmp/news_lk2/articles/48/487c5d49.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -19,6 +68,13 @@
     "title": "Centre has helped release of 2,977 Indian fishermen from Sri Lanka: Union Minister",
     "url": "https://www.dailymirror.lk/breaking_news/Centre-has-helped-release-of-2-977-Indian-fishermen-from-Sri-Lanka-Union-Minister/108-239171",
     "file_name": "/tmp/news_lk2/articles/78/780623a2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655371680,
+    "title": "Delay in opening LCs cause for fuel rush \u2013 Minister",
+    "url": "https://www.newsfirst.lk/2022/06/16/delay-in-opening-lcs-cause-for-fuel-rush-minister/",
+    "file_name": "/tmp/news_lk2/articles/7c/7c3b35f3.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -40,6 +96,13 @@
     "title": "Eight million Australians urged to turn off lights in face of energy crisis",
     "url": "https://www.newsfirst.lk/2022/06/16/eight-million-australians-urged-to-turn-off-lights-in-face-of-energy-crisis/",
     "file_name": "/tmp/news_lk2/articles/ff/ffc657d5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655370060,
+    "title": "Fuel distribution will streamline after price revision on June 24 : Ananda Palitha",
+    "url": "https://www.dailymirror.lk/latest_news/Fuel-distribution-will-streamline-after-price-revision-on-June-24-Ananda-Palitha/342-239175",
+    "file_name": "/tmp/news_lk2/articles/75/75ee9a90.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -96,6 +159,13 @@
     "title": "Man who attacked a disabled soldier at Galle Face identified as ruggerite Sajith Saranga- CID",
     "url": "https://www.dailymirror.lk/breaking_news/Man-who-attacked-a-disabled-soldier-at-Galle-Face-identified-as-ruggerite-Sajith-Saranga-CID/108-239169",
     "file_name": "/tmp/news_lk2/articles/22/22a9c7ee.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655365980,
+    "title": "Man who attacked a disabled soldier at Galle Face identified as ruggerite Sajith Saranga- CID",
+    "url": "https://www.dailymirror.lk/latest_news/Man-who-attacked-a-disabled-soldier-at-Galle-Face-identified-as-ruggerite-Sajith-Saranga-CID/342-239169",
+    "file_name": "/tmp/news_lk2/articles/7c/7cafc6fd.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -628,75 +698,5 @@
     "title": "New laws to be introduced to prevent hoarding",
     "url": "http://www.adaderana.lk/news/83068/new-laws-to-be-introduced-to-prevent-hoarding",
     "file_name": "/tmp/news_lk2/articles/cb/cb74c788.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655309880,
-    "title": "Appointment of Dhammika Perera as a MP challenged in SC",
-    "url": "https://www.dailymirror.lk/latest_news/Appointment-of-Dhammika-Perera-as-a-MP-challenged-in-SC/342-239121",
-    "file_name": "/tmp/news_lk2/articles/08/0891de11.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655309880,
-    "title": "Appointment of Dhammika Perera as a MP challenged in SC",
-    "url": "https://www.dailymirror.lk/breaking_news/Appointment-of-Dhammika-Perera-as-a-MP-challenged-in-SC/108-239121",
-    "file_name": "/tmp/news_lk2/articles/0c/0ca88224.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655309100,
-    "title": "Steps to decentralize all govt. services at district, divisional levels: President",
-    "url": "https://www.dailymirror.lk/breaking_news/Steps-to-decentralize-all-govt-services-at-district-divisional-levels-President/108-239122",
-    "file_name": "/tmp/news_lk2/articles/1b/1bdc9913.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655309100,
-    "title": "Steps to decentralize all govt. services at district, divisional levels: President",
-    "url": "https://www.dailymirror.lk/latest_news/Steps-to-decentralize-all-govt-services-at-district-divisional-levels-President/342-239122",
-    "file_name": "/tmp/news_lk2/articles/df/df7953ae.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655308380,
-    "title": "Pelicans dive at Beria Lake...",
-    "url": "https://www.dailymirror.lk/caption_story/Pelicans-dive-at-Beria-Lake/110-239114",
-    "file_name": "/tmp/news_lk2/articles/18/186a4b5c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655308380,
-    "title": "Pelicans dive at Beria Lake...",
-    "url": "https://www.dailymirror.lk/latest_news/Pelicans-dive-at-Beria-Lake/342-239114",
-    "file_name": "/tmp/news_lk2/articles/78/7887ccfb.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655308380,
-    "title": "Pelicans dive at Beira Lake...",
-    "url": "https://www.dailymirror.lk/caption_story/Pelicans-dive-at-Beira-Lake/110-239114",
-    "file_name": "/tmp/news_lk2/articles/f0/f0aa323d.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655306760,
-    "title": "Sri Lanka Treasury bill yields down",
-    "url": "https://economynext.com/sri-lanka-treasury-bill-yields-down-95853/",
-    "file_name": "/tmp/news_lk2/articles/ca/ca16c102.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655305560,
-    "title": "People in Pakistan urged to drink fewer cups of tea",
-    "url": "https://www.dailymirror.lk/breaking_news/People-in-Pakistan-urged-to-drink-fewer-cups-of-tea/108-239120",
-    "file_name": "/tmp/news_lk2/articles/da/da7489aa.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655305560,
-    "title": "People in Pakistan urged to drink fewer cups of tea",
-    "url": "https://www.dailymirror.lk/latest_news/People-in-Pakistan-urged-to-drink-fewer-cups-of-tea/342-239120",
-    "file_name": "/tmp/news_lk2/articles/dd/dd9a3196.json"
   }
 ]
