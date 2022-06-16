@@ -1,10 +1,45 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655378280,
+    "title": "QUAD could lead way to avoid SL\u2019s economic implosion: Chairman of US Committee on Foreign Relations",
+    "url": "https://www.newsfirst.lk/2022/06/16/quad-could-lead-way-to-avoid-sls-economic-implosion-chairman-of-us-committee-on-foreign-relations/",
+    "file_name": "/tmp/news_lk2/articles/ad/ad0aca8e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655378100,
+    "title": "16-hour water cut on Saturday (18)",
+    "url": "https://www.newsfirst.lk/2022/06/16/16-hour-water-cut-on-saturday-18/",
+    "file_name": "/tmp/news_lk2/articles/06/06822094.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655377560,
+    "title": "Holiday declared for all Govt schools tomorrow (17)",
+    "url": "https://www.newsfirst.lk/2022/06/16/holiday-declared-for-all-govt-schools-tomorrow-17/",
+    "file_name": "/tmp/news_lk2/articles/9f/9fd74afb.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655377440,
+    "title": "Applications for admission of Grade 1 students in govt schools",
+    "url": "http://www.adaderana.lk/news/83085/applications-for-admission-of-grade-1-students-in-govt-schools",
+    "file_name": "/tmp/news_lk2/articles/0b/0bbbdf38.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655375580,
     "title": "Tomorrow declared holiday for schools",
     "url": "http://www.adaderana.lk/news/83084/tomorrow-declared-holiday-for-schools",
     "file_name": "/tmp/news_lk2/articles/a8/a8b6f637.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655375520,
+    "title": "#AdaniOut: Sri Lankans protest against Indian pressure on energy projects",
+    "url": "https://www.newsfirst.lk/2022/06/16/adaniout-sri-lankans-protest-against-indian-pressure-on-energy-projects/",
+    "file_name": "/tmp/news_lk2/articles/5b/5b1c9902.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -663,40 +698,5 @@
     "title": "President stresses need to decentralize all public services",
     "url": "http://www.adaderana.lk/news/83069/president-stresses-need-to-decentralize-all-public-services",
     "file_name": "/tmp/news_lk2/articles/35/350d787a.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655316540,
-    "title": "President emphasizes decentralizing all public services at district, divisional levels",
-    "url": "http://www.adaderana.lk/news/83069/president-emphasizes-decentralizing-all-public-services-at-district-divisional-levels",
-    "file_name": "/tmp/news_lk2/articles/48/48c5b820.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655311500,
-    "title": "Probe on attack on Galle Face protesters: Law and Order Ministry Secretary noticed to show cause",
-    "url": "https://www.dailymirror.lk/breaking_news/Probe-on-attack-on-Galle-Face-protesters-Law-and-Order-Ministry-Secretary-noticed-to-show-cause/108-239123",
-    "file_name": "/tmp/news_lk2/articles/31/3190a66e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655311500,
-    "title": "Probe on attack on Galle Face protesters: Law and Order Ministry Secretary noticed to show cause",
-    "url": "https://www.dailymirror.lk/latest_news/Probe-on-attack-on-Galle-Face-protesters-Law-and-Order-Ministry-Secretary-noticed-to-show-cause/342-239123",
-    "file_name": "/tmp/news_lk2/articles/03/03e0687c.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655310540,
-    "title": "New laws to be introduced to prevent hoarding food",
-    "url": "http://www.adaderana.lk/news/83068/new-laws-to-be-introduced-to-prevent-hoarding-food",
-    "file_name": "/tmp/news_lk2/articles/44/445d45a5.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655310540,
-    "title": "New laws to be introduced to prevent hoarding",
-    "url": "http://www.adaderana.lk/news/83068/new-laws-to-be-introduced-to-prevent-hoarding",
-    "file_name": "/tmp/news_lk2/articles/cb/cb74c788.json"
   }
 ]
