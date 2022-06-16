@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655366520,
+    "title": "Final fuel shipment under Indian credit line arrives at Colombo Port",
+    "url": "http://www.adaderana.lk/news/83081/final-fuel-shipment-under-indian-credit-line-arrives-at-colombo-port",
+    "file_name": "/tmp/news_lk2/articles/d6/d6da9abe.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655364300,
     "title": "Sri Lankan woman throws five-year-old son into river, attempts suicide",
@@ -14,6 +21,13 @@
     "file_name": "/tmp/news_lk2/articles/fb/fb2a838d.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655362680,
+    "title": "Sri Lanka: Family loses breadwinner as fuel crisis worsens",
+    "url": "https://www.newsfirst.lk/2022/06/16/sri-lanka-family-loses-breadwinner-as-fuel-crisis-worsens/",
+    "file_name": "/tmp/news_lk2/articles/e3/e335d2c5.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655362680,
     "title": "16-hour water cut in Colombo",
@@ -21,11 +35,11 @@
     "file_name": "/tmp/news_lk2/articles/90/90320c62.json"
   },
   {
-    "newspaper_id": "news-first-lk",
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655362680,
-    "title": "Sri Lanka: Family loses breadwinner as fuel crisis worsens",
-    "url": "https://www.newsfirst.lk/2022/06/16/sri-lanka-family-loses-breadwinner-as-fuel-crisis-worsens/",
-    "file_name": "/tmp/news_lk2/articles/e3/e335d2c5.json"
+    "title": "16-hour water cut in Colombo",
+    "url": "https://www.dailymirror.lk/breaking_news/16-hour-water-cut-in-Colombo/108-239167",
+    "file_name": "/tmp/news_lk2/articles/7a/7abecd0d.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -35,18 +49,18 @@
     "file_name": "/tmp/news_lk2/articles/77/77807730.json"
   },
   {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655361900,
-    "title": "Crisis management roadmap for MP input on the way, Sri Lanka PM tells key MPs",
-    "url": "https://economynext.com/crisis-management-roadmap-for-mp-input-on-the-way-sri-lanka-pm-tells-key-mps-95893/",
-    "file_name": "/tmp/news_lk2/articles/ba/bafb32e8.json"
-  },
-  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655361900,
     "title": "#FuelCrisis: Public Transport in critical State",
     "url": "https://www.newsfirst.lk/2022/06/16/fuelcrisis-public-transport-in-critical-state/",
     "file_name": "/tmp/news_lk2/articles/6e/6ed1a282.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655361900,
+    "title": "Crisis management roadmap for MP input on the way, Sri Lanka PM tells key MPs",
+    "url": "https://economynext.com/crisis-management-roadmap-for-mp-input-on-the-way-sri-lanka-pm-tells-key-mps-95893/",
+    "file_name": "/tmp/news_lk2/articles/ba/bafb32e8.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -154,18 +168,25 @@
     "file_name": "/tmp/news_lk2/articles/dc/dcaf0ca4.json"
   },
   {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655356200,
-    "title": "Another man dies in petrol queue",
-    "url": "https://www.dailymirror.lk/latest_news/Another-man-dies-in-petrol-queue/342-239164",
-    "file_name": "/tmp/news_lk2/articles/7e/7ed9f28b.json"
-  },
-  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655356200,
     "title": "Political party representatives to be briefed on 21st Amendment",
     "url": "http://www.adaderana.lk/news/83074/political-party-representatives-to-be-briefed-on-21st-amendment",
     "file_name": "/tmp/news_lk2/articles/ec/ec5ab12a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655356200,
+    "title": "Another man dies in petrol queue",
+    "url": "https://www.dailymirror.lk/breaking_news/Another-man-dies-in-petrol-queue/108-239164",
+    "file_name": "/tmp/news_lk2/articles/5e/5e3549c2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655356200,
+    "title": "Another man dies in petrol queue",
+    "url": "https://www.dailymirror.lk/latest_news/Another-man-dies-in-petrol-queue/342-239164",
+    "file_name": "/tmp/news_lk2/articles/7e/7ed9f28b.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -199,6 +220,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655352660,
     "title": "Plans afoot to expedite final stage water supply projects: PMD",
+    "url": "https://www.dailymirror.lk/breaking_news/Plans-afoot-to-expedite-final-stage-water-supply-projects-PMD/108-239156",
+    "file_name": "/tmp/news_lk2/articles/b0/b0003f22.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655352660,
+    "title": "Plans afoot to expedite final stage water supply projects: PMD",
     "url": "https://www.dailymirror.lk/latest_news/Plans-afoot-to-expedite-final-stage-water-supply-projects-PMD/342-239156",
     "file_name": "/tmp/news_lk2/articles/d8/d8258f06.json"
   },
@@ -206,15 +234,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655351220,
     "title": "SL looks towards India to boost forex income via tourism",
-    "url": "https://www.dailymirror.lk/business-news/SL-looks-towards-India-to-boost-forex-income-via-tourism/273-239152",
-    "file_name": "/tmp/news_lk2/articles/14/14a797f4.json"
+    "url": "https://www.dailymirror.lk/breaking_news/SL-looks-towards-India-to-boost-forex-income-via-tourism/108-239152",
+    "file_name": "/tmp/news_lk2/articles/e7/e71ff0c2.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655351220,
     "title": "SL looks towards India to boost forex income via tourism",
-    "url": "https://www.dailymirror.lk/breaking_news/SL-looks-towards-India-to-boost-forex-income-via-tourism/108-239152",
-    "file_name": "/tmp/news_lk2/articles/e7/e71ff0c2.json"
+    "url": "https://www.dailymirror.lk/business-news/SL-looks-towards-India-to-boost-forex-income-via-tourism/273-239152",
+    "file_name": "/tmp/news_lk2/articles/14/14a797f4.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -227,15 +255,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655350920,
     "title": "Digital banking platform Revolut launches in Sri Lanka",
-    "url": "https://www.dailymirror.lk/business-news/Digital-banking-platform-Revolut-launches-in-Sri-Lanka/273-239149",
-    "file_name": "/tmp/news_lk2/articles/17/17b11815.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Digital-banking-platform-Revolut-launches-in-Sri-Lanka/108-239149",
+    "file_name": "/tmp/news_lk2/articles/ef/ef2f7459.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655350920,
     "title": "Digital banking platform Revolut launches in Sri Lanka",
-    "url": "https://www.dailymirror.lk/breaking_news/Digital-banking-platform-Revolut-launches-in-Sri-Lanka/108-239149",
-    "file_name": "/tmp/news_lk2/articles/ef/ef2f7459.json"
+    "url": "https://www.dailymirror.lk/business-news/Digital-banking-platform-Revolut-launches-in-Sri-Lanka/273-239149",
+    "file_name": "/tmp/news_lk2/articles/17/17b11815.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -325,6 +353,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655340540,
     "title": "SL requests China to amend agreement",
+    "url": "https://www.dailymirror.lk/breaking_news/SL-requests-China-to-amend-agreement/108-239129",
+    "file_name": "/tmp/news_lk2/articles/6a/6a80014c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655340540,
+    "title": "SL requests China to amend agreement",
     "url": "https://www.dailymirror.lk/latest_news/SL-requests-China-to-amend-agreement/342-239129",
     "file_name": "/tmp/news_lk2/articles/f7/f76c5f79.json"
   },
@@ -334,13 +369,6 @@
     "title": "SL requests China to amend agreement",
     "url": "https://www.dailymirror.lk/top_story/SL-requests-China-to-amend-agreement/155-239129",
     "file_name": "/tmp/news_lk2/articles/cb/cbde9162.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655340540,
-    "title": "SL requests China to amend agreement",
-    "url": "https://www.dailymirror.lk/breaking_news/SL-requests-China-to-amend-agreement/108-239129",
-    "file_name": "/tmp/news_lk2/articles/6a/6a80014c.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -360,6 +388,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655329440,
     "title": "Four-day work week: Can Govt. reap what it sows?",
+    "url": "https://www.dailymirror.lk/recomended-news/Four-day-work-week-Can-Govt-reap-what-it-sows/277-239126",
+    "file_name": "/tmp/news_lk2/articles/42/427625c8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655329440,
+    "title": "Four-day work week: Can Govt. reap what it sows?",
     "url": "https://www.dailymirror.lk/plus/Four-day-work-week-Can-Govt-reap-what-it-sows/352-239126",
     "file_name": "/tmp/news_lk2/articles/2f/2f90d7ec.json"
   },
@@ -369,20 +404,6 @@
     "title": "Four-day work week: Can Govt. reap what it sows?",
     "url": "https://www.dailymirror.lk/insight/Four-day-work-week-Can-Govt-reap-what-it-sows/374-239126",
     "file_name": "/tmp/news_lk2/articles/14/14181b16.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655329440,
-    "title": "Four-day work week: Can Govt. reap what it sows?",
-    "url": "https://www.dailymirror.lk/recomended-news/Four-day-work-week-Can-Govt-reap-what-it-sows/277-239126",
-    "file_name": "/tmp/news_lk2/articles/42/427625c8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655328900,
-    "title": "Sri Lanka\u2019s Al Capone Syndrome threatens human security",
-    "url": "https://www.dailymirror.lk/opinion/Sri-Lankas-Al-Capone-Syndrome-threatens-human-security/231-239125",
-    "file_name": "/tmp/news_lk2/articles/8e/8eff8a3c.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -397,6 +418,13 @@
     "title": "Sri Lanka\u2019s Al Capone Syndrome threatens human security",
     "url": "https://www.dailymirror.lk/plus/Sri-Lankas-Al-Capone-Syndrome-threatens-human-security/352-239125",
     "file_name": "/tmp/news_lk2/articles/1e/1ebb5524.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655328900,
+    "title": "Sri Lanka\u2019s Al Capone Syndrome threatens human security",
+    "url": "https://www.dailymirror.lk/opinion/Sri-Lankas-Al-Capone-Syndrome-threatens-human-security/231-239125",
+    "file_name": "/tmp/news_lk2/articles/8e/8eff8a3c.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -422,6 +450,20 @@
   {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1655317800,
+    "title": "UNFPA, with support from China, provides medical equipment worth $ 800,000",
+    "url": "https://www.ft.lk/news/UNFPA-with-support-from-China-provides-medical-equipment-worth-800-000/56-736236",
+    "file_name": "/tmp/news_lk2/articles/cf/cf1d60a4.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655317800,
+    "title": "Fed hikes rates by 0.75 percentage point, flags slowing economy",
+    "url": "https://www.ft.lk/news/Fed-hikes-rates-by-0-75-percentage-point-flags-slowing-economy/56-736237",
+    "file_name": "/tmp/news_lk2/articles/b4/b4472fd9.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655317800,
     "title": "GL briefs Human Rights Council President on Sri Lankan Issues",
     "url": "https://www.ft.lk/news/GL-briefs-Human-Rights-Council-President-on-Sri-Lankan-Issues/56-736239",
     "file_name": "/tmp/news_lk2/articles/75/7589631e.json"
@@ -436,23 +478,9 @@
   {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1655317800,
-    "title": "Fed hikes rates by 0.75 percentage point, flags slowing economy",
-    "url": "https://www.ft.lk/news/Fed-hikes-rates-by-0-75-percentage-point-flags-slowing-economy/56-736237",
-    "file_name": "/tmp/news_lk2/articles/b4/b4472fd9.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655317800,
     "title": "Core Group urges Govt. to protect civil society space amidst challenges",
     "url": "https://www.ft.lk/news/Core-Group-urges-Govt-to-protect-civil-society-space-amidst-challenges/56-736240",
     "file_name": "/tmp/news_lk2/articles/d4/d424c144.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655317800,
-    "title": "UNFPA, with support from China, provides medical equipment worth $ 800,000",
-    "url": "https://www.ft.lk/news/UNFPA-with-support-from-China-provides-medical-equipment-worth-800-000/56-736236",
-    "file_name": "/tmp/news_lk2/articles/cf/cf1d60a4.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -472,15 +500,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655311500,
     "title": "Probe on attack on Galle Face protesters: Law and Order Ministry Secretary noticed to show cause",
-    "url": "https://www.dailymirror.lk/latest_news/Probe-on-attack-on-Galle-Face-protesters-Law-and-Order-Ministry-Secretary-noticed-to-show-cause/342-239123",
-    "file_name": "/tmp/news_lk2/articles/03/03e0687c.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Probe-on-attack-on-Galle-Face-protesters-Law-and-Order-Ministry-Secretary-noticed-to-show-cause/108-239123",
+    "file_name": "/tmp/news_lk2/articles/31/3190a66e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655311500,
     "title": "Probe on attack on Galle Face protesters: Law and Order Ministry Secretary noticed to show cause",
-    "url": "https://www.dailymirror.lk/breaking_news/Probe-on-attack-on-Galle-Face-protesters-Law-and-Order-Ministry-Secretary-noticed-to-show-cause/108-239123",
-    "file_name": "/tmp/news_lk2/articles/31/3190a66e.json"
+    "url": "https://www.dailymirror.lk/latest_news/Probe-on-attack-on-Galle-Face-protesters-Law-and-Order-Ministry-Secretary-noticed-to-show-cause/342-239123",
+    "file_name": "/tmp/news_lk2/articles/03/03e0687c.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -500,15 +528,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655309880,
     "title": "Appointment of Dhammika Perera as a MP challenged in SC",
-    "url": "https://www.dailymirror.lk/breaking_news/Appointment-of-Dhammika-Perera-as-a-MP-challenged-in-SC/108-239121",
-    "file_name": "/tmp/news_lk2/articles/0c/0ca88224.json"
+    "url": "https://www.dailymirror.lk/latest_news/Appointment-of-Dhammika-Perera-as-a-MP-challenged-in-SC/342-239121",
+    "file_name": "/tmp/news_lk2/articles/08/0891de11.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655309880,
     "title": "Appointment of Dhammika Perera as a MP challenged in SC",
-    "url": "https://www.dailymirror.lk/latest_news/Appointment-of-Dhammika-Perera-as-a-MP-challenged-in-SC/342-239121",
-    "file_name": "/tmp/news_lk2/articles/08/0891de11.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Appointment-of-Dhammika-Perera-as-a-MP-challenged-in-SC/108-239121",
+    "file_name": "/tmp/news_lk2/articles/0c/0ca88224.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -563,15 +591,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655304720,
     "title": "CEB chairman drama will have dire consequences",
-    "url": "https://www.dailymirror.lk/breaking_news/CEB-chairman-drama-will-have-dire-consequences/108-239119",
-    "file_name": "/tmp/news_lk2/articles/29/29759746.json"
+    "url": "https://www.dailymirror.lk/latest_news/CEB-chairman-drama-will-have-dire-consequences/342-239119",
+    "file_name": "/tmp/news_lk2/articles/ce/ce7c4dbf.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655304720,
     "title": "CEB chairman drama will have dire consequences",
-    "url": "https://www.dailymirror.lk/latest_news/CEB-chairman-drama-will-have-dire-consequences/342-239119",
-    "file_name": "/tmp/news_lk2/articles/ce/ce7c4dbf.json"
+    "url": "https://www.dailymirror.lk/breaking_news/CEB-chairman-drama-will-have-dire-consequences/108-239119",
+    "file_name": "/tmp/news_lk2/articles/29/29759746.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -590,16 +618,16 @@
   {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655301300,
-    "title": "Sri Lanka to introduce anti-hoarding laws for food stocks\u00a0\u2013 PM",
-    "url": "https://economynext.com/sri-lanka-to-introduce-anti-hoarding-laws-for-food-stocks-pm-95851/",
-    "file_name": "/tmp/news_lk2/articles/4e/4e799034.json"
+    "title": "Sri Lanka to introduce anti-hoarding laws for rice millers after scaremongering",
+    "url": "https://economynext.com/sri-lanka-to-introduce-anti-hoarding-laws-for-rice-millers-after-scaremongering-95851/",
+    "file_name": "/tmp/news_lk2/articles/56/56c4c6b8.json"
   },
   {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655301300,
-    "title": "Sri Lanka to introduce anti-hoarding laws for rice millers after scaremongering",
-    "url": "https://economynext.com/sri-lanka-to-introduce-anti-hoarding-laws-for-rice-millers-after-scaremongering-95851/",
-    "file_name": "/tmp/news_lk2/articles/56/56c4c6b8.json"
+    "title": "Sri Lanka to introduce anti-hoarding laws for food stocks\u00a0\u2013 PM",
+    "url": "https://economynext.com/sri-lanka-to-introduce-anti-hoarding-laws-for-food-stocks-pm-95851/",
+    "file_name": "/tmp/news_lk2/articles/4e/4e799034.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -626,8 +654,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655298780,
     "title": "National Policy for Tourism final draft unveiled",
-    "url": "https://www.dailymirror.lk/business_247/National-Policy-for-Tourism-final-draft-unveiled/395-239116",
-    "file_name": "/tmp/news_lk2/articles/ba/ba3465ec.json"
+    "url": "https://www.dailymirror.lk/mirror_business/National-Policy-for-Tourism-final-draft-unveiled/241-239116",
+    "file_name": "/tmp/news_lk2/articles/d8/d834068f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -640,8 +668,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655298780,
     "title": "National Policy for Tourism final draft unveiled",
-    "url": "https://www.dailymirror.lk/mirror_business/National-Policy-for-Tourism-final-draft-unveiled/241-239116",
-    "file_name": "/tmp/news_lk2/articles/d8/d834068f.json"
+    "url": "https://www.dailymirror.lk/business_247/National-Policy-for-Tourism-final-draft-unveiled/395-239116",
+    "file_name": "/tmp/news_lk2/articles/ba/ba3465ec.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -670,33 +698,5 @@
     "title": "US\u2019 DFC lends USD120 mln for crisis-hit Sri Lanka\u2019s SME sector",
     "url": "https://economynext.com/us-dfc-lends-usd120-mln-for-crisis-hit-sri-lankas-sme-sector-95848/",
     "file_name": "/tmp/news_lk2/articles/ad/ad344fa4.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655297280,
-    "title": "Gammanpila sets out proposals to overcome fuel shortage; Online work & seat-less buses among proposals",
-    "url": "https://www.newsfirst.lk/2022/06/15/gammanpila-sets-out-proposals-to-overcome-fuel-shortage-online-work-seat-less-buses-among-proposals/",
-    "file_name": "/tmp/news_lk2/articles/b0/b06a10c2.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655296680,
-    "title": "\u200bForeign Minister briefs President of UNHRC on Sri Lankan issues",
-    "url": "http://www.adaderana.lk/news/83065/8203foreign-minister-briefs-president-of-unhrc-on-sri-lankan-issues",
-    "file_name": "/tmp/news_lk2/articles/6c/6c6c39d5.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655294580,
-    "title": "CPA files FR challenging Dhammika\u2019s appointment",
-    "url": "https://www.newsfirst.lk/2022/06/15/cpa-files-fr-challenging-dhammikas-appointment/",
-    "file_name": "/tmp/news_lk2/articles/b7/b7392cc2.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655293320,
-    "title": "CPC to give daily updates on fuel stocks supplied to filling stations",
-    "url": "http://www.adaderana.lk/news/83064/cpc-to-give-daily-updates-on-fuel-stocks-supplied-to-filling-stations",
-    "file_name": "/tmp/news_lk2/articles/16/16b14a4c.json"
   }
 ]
