@@ -1,6 +1,27 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655358840,
+    "title": "High Level Road blocked due to protest demanding fuel",
+    "url": "http://www.adaderana.lk/news/83078/high-level-road-blocked-due-to-protest-demanding-fuel",
+    "file_name": "/tmp/news_lk2/articles/6a/6a7ab6f9.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655358480,
+    "title": "Another suspect arrested over killing of MP Amarakeerthi Athukorala",
+    "url": "http://www.adaderana.lk/news/83077/another-suspect-arrested-over-killing-of-mp-amarakeerthi-athukorala",
+    "file_name": "/tmp/news_lk2/articles/50/50ad8b45.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655358060,
+    "title": "Three-wheeler driver dies while waiting in fuel queue",
+    "url": "http://www.adaderana.lk/news/83076/three-wheeler-driver-dies-while-waiting-in-fuel-queue",
+    "file_name": "/tmp/news_lk2/articles/10/10a7d8b6.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655357580,
     "title": "Navy intercepts fishing trawler with 64 persons attempting to illegally migrate",
     "url": "http://www.adaderana.lk/news/83075/navy-intercepts-fishing-trawler-with-64-persons-attempting-to-illegally-migrate",
@@ -677,26 +698,5 @@
     "title": "Legislation to govern Rice Mill & Silo Owners to prevent food hoarding",
     "url": "https://www.newsfirst.lk/2022/06/15/legislation-to-govern-rice-mill-silo-owners-to-prevent-food-hoarding/",
     "file_name": "/tmp/news_lk2/articles/e3/e344cd7c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655285460,
-    "title": "Protesters block Galle Road from Dehiwala demanding fuel",
-    "url": "https://www.dailymirror.lk/breaking_news/Protesters-block-Galle-Road-from-Dehiwala-demanding-fuel/108-239106",
-    "file_name": "/tmp/news_lk2/articles/8a/8a8d9ce5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655285040,
-    "title": "Galle Road blocked from Dehiwala...",
-    "url": "https://www.dailymirror.lk/caption_story/Galle-Road-blocked-from-Dehiwala/110-239105",
-    "file_name": "/tmp/news_lk2/articles/19/1960e210.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655285040,
-    "title": "Galle Road blocked from Dehiwala...",
-    "url": "https://www.dailymirror.lk/latest_news/Galle-Road-blocked-from-Dehiwala/342-239105",
-    "file_name": "/tmp/news_lk2/articles/03/0362570c.json"
   }
 ]
