@@ -1,10 +1,59 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655386740,
+    "title": "Govt to import 50,000 MT of rice to avert possible shortage",
+    "url": "http://www.adaderana.lk/news/83088/govt-to-import-50000-mt-of-rice-to-avert-possible-shortage",
+    "file_name": "/tmp/news_lk2/articles/b7/b79cff91.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655386020,
+    "title": "New chairman appointed to National Housing Development Authority",
+    "url": "http://www.adaderana.lk/news/83087/new-chairman-appointed-to-national-housing-development-authority",
+    "file_name": "/tmp/news_lk2/articles/48/48b03220.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655385480,
+    "title": "US announces $6 million in emergency assistance to respond to Sri Lanka\u2019s economic crisis",
+    "url": "http://www.adaderana.lk/news/83086/us-announces-6-million-in-emergency-assistance-to-respond-to-sri-lankas-economic-crisis",
+    "file_name": "/tmp/news_lk2/articles/64/64eb4766.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655385060,
+    "title": "Crisis-hit Sri Lanka in process to mend Japanese ties after cancelling LRT, ECT projects",
+    "url": "https://economynext.com/crisis-hit-sri-lanka-in-process-to-mend-japanese-ties-after-cancelling-lrt-ect-projects-95901/",
+    "file_name": "/tmp/news_lk2/articles/bc/bca84eff.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655384280,
     "title": "SL to import 50,000 metric tons of rice under Indian loan",
     "url": "https://www.dailymirror.lk/breaking_news/SL-to-import-50-000-metric-tons-of-rice-under-Indian-loan/108-239179",
     "file_name": "/tmp/news_lk2/articles/51/51f7c39a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655384280,
+    "title": "50,000 MT of rice from India to avert rice shortage",
+    "url": "https://www.newsfirst.lk/2022/06/16/50000-mt-of-rice-from-india-to-avert-rice-shortage/",
+    "file_name": "/tmp/news_lk2/articles/a2/a2802eaa.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655384160,
+    "title": "AIA\u2019s national safety initiative, the Poson Safety Programme continues for the 27th year",
+    "url": "https://www.newsfirst.lk/2022/06/16/aias-national-safety-initiative-the-poson-safety-programme-continues-for-the-27th-year/",
+    "file_name": "/tmp/news_lk2/articles/99/998623fd.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655383620,
+    "title": "Protest against awarding  projects to Adani Group",
+    "url": "https://www.dailymirror.lk/caption_story/Protest-against-awarding-projects-to-Adani-Group/110-239178",
+    "file_name": "/tmp/news_lk2/articles/22/223b3f12.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -47,6 +96,13 @@
     "title": "31,000 passports issued from 1st to 10th June",
     "url": "https://www.newsfirst.lk/2022/06/16/31000-passports-issued-from-1st-to-10th-june/",
     "file_name": "/tmp/news_lk2/articles/da/da281691.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655380200,
+    "title": "Legalise employee conditions",
+    "url": "https://www.dailymirror.lk/caption_story/Legalise-employee-conditions/110-239177",
+    "file_name": "/tmp/news_lk2/articles/01/012ec7a9.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -145,6 +201,20 @@
     "title": "Sri Lanka Paddy Marketing Board to issue 10,000MT of rice monthly to combat oligopoly",
     "url": "https://economynext.com/sri-lanka-paddy-marketing-board-to-issue-10000mt-of-rice-monthly-to-combat-oligopoly-95899/",
     "file_name": "/tmp/news_lk2/articles/9e/9ea83568.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655375040,
+    "title": "School holiday for tomorrow",
+    "url": "https://www.dailymirror.lk/breaking_news/School-holiday-for-tomorrow/108-239174",
+    "file_name": "/tmp/news_lk2/articles/32/32e2fd9d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655374500,
+    "title": "Fuel distribution will streamline after price revision on June 24: Ananda Palitha",
+    "url": "https://www.dailymirror.lk/breaking_news/Fuel-distribution-will-streamline-after-price-revision-on-June-24-Ananda-Palitha/108-239175",
+    "file_name": "/tmp/news_lk2/articles/a2/a2f877ad.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -628,75 +698,5 @@
     "title": "Army, CDF, & 3,000 Prisoners for Agri Campaign",
     "url": "https://www.newsfirst.lk/2022/06/16/army-cdf-3000-prisoners-for-agri-campaign/",
     "file_name": "/tmp/news_lk2/articles/0d/0d049155.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655342820,
-    "title": "COPA probes into Ethanol imports",
-    "url": "https://www.newsfirst.lk/2022/06/16/copa-probes-into-ethanol-imports/",
-    "file_name": "/tmp/news_lk2/articles/01/0195900a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655341680,
-    "title": "The Speaker endorses Electricity (Amendment) Bill",
-    "url": "https://www.newsfirst.lk/2022/06/16/the-speaker-endorses-electricity-amendment-bill/",
-    "file_name": "/tmp/news_lk2/articles/01/018de110.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655340540,
-    "title": "SL requests China to amend agreement",
-    "url": "https://www.dailymirror.lk/breaking_news/SL-requests-China-to-amend-agreement/108-239129",
-    "file_name": "/tmp/news_lk2/articles/6a/6a80014c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655340540,
-    "title": "SL requests China to amend agreement",
-    "url": "https://www.dailymirror.lk/latest_news/SL-requests-China-to-amend-agreement/342-239129",
-    "file_name": "/tmp/news_lk2/articles/f7/f76c5f79.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655340540,
-    "title": "SL requests China to amend agreement",
-    "url": "https://www.dailymirror.lk/top_story/SL-requests-China-to-amend-agreement/155-239129",
-    "file_name": "/tmp/news_lk2/articles/cb/cbde9162.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655329680,
-    "title": "The\u00a0\u2018ada davase mahanakama\u2019",
-    "url": "https://www.dailymirror.lk/opinion/Theada-davase-mahanakama/172-239128",
-    "file_name": "/tmp/news_lk2/articles/81/81b618be.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655329620,
-    "title": "Corrupt politicos and personal agendas",
-    "url": "https://www.dailymirror.lk/opinion/Corrupt-politicos-and-personal-agendas/172-239127",
-    "file_name": "/tmp/news_lk2/articles/9a/9ad844cf.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655329440,
-    "title": "Four-day work week: Can Govt. reap what it sows?",
-    "url": "https://www.dailymirror.lk/recomended-news/Four-day-work-week-Can-Govt-reap-what-it-sows/277-239126",
-    "file_name": "/tmp/news_lk2/articles/42/427625c8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655329440,
-    "title": "Four-day work week: Can Govt. reap what it sows?",
-    "url": "https://www.dailymirror.lk/plus/Four-day-work-week-Can-Govt-reap-what-it-sows/352-239126",
-    "file_name": "/tmp/news_lk2/articles/2f/2f90d7ec.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655329440,
-    "title": "Four-day work week: Can Govt. reap what it sows?",
-    "url": "https://www.dailymirror.lk/insight/Four-day-work-week-Can-Govt-reap-what-it-sows/374-239126",
-    "file_name": "/tmp/news_lk2/articles/14/14181b16.json"
   }
 ]
