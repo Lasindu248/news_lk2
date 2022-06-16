@@ -1,6 +1,20 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655402220,
+    "title": "US announces $6 million in emergency assistance to SL",
+    "url": "https://www.dailymirror.lk/latest_news/US-announces-6-million-in-emergency-assistance-to-SL/342-239192",
+    "file_name": "/tmp/news_lk2/articles/fe/fe35ebac.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655401560,
+    "title": "Sri Lanka beat Australia: Level series 1-1",
+    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-beat-Australia-Level-series-1-1/108-239194",
+    "file_name": "/tmp/news_lk2/articles/b0/b0e016f8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655397540,
     "title": "Cashew galore at Colombo Port kitchen even amid crisis",
     "url": "https://www.dailymirror.lk/latest_news/Cashew-galore-at-Colombo-Port-kitchen-even-amid-crisis/342-239190",
@@ -684,19 +698,5 @@
     "title": "Chicken & Egg prices likely to increase",
     "url": "https://www.newsfirst.lk/2022/06/16/chicken-egg-prices-likely-to-increase/",
     "file_name": "/tmp/news_lk2/articles/dc/dcaf0ca4.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655356200,
-    "title": "Political party representatives to be briefed on 21st Amendment",
-    "url": "http://www.adaderana.lk/news/83074/political-party-representatives-to-be-briefed-on-21st-amendment",
-    "file_name": "/tmp/news_lk2/articles/ec/ec5ab12a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655356200,
-    "title": "Another man dies in petrol queue",
-    "url": "https://www.dailymirror.lk/breaking_news/Another-man-dies-in-petrol-queue/108-239164",
-    "file_name": "/tmp/news_lk2/articles/5e/5e3549c2.json"
   }
 ]
