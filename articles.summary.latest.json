@@ -1,5 +1,47 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655360520,
+    "title": "Sri Lanka stocks down in mid-day trade",
+    "url": "https://economynext.com/sri-lanka-stocks-down-in-mid-day-trade-95891/",
+    "file_name": "/tmp/news_lk2/articles/d8/d89480be.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655360340,
+    "title": "Suspicious package found near Katuwapitiya Church",
+    "url": "https://www.dailymirror.lk/breaking_news/Suspicious-package-found-near-Katuwapitiya-Church/108-239166",
+    "file_name": "/tmp/news_lk2/articles/55/555c687c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655360280,
+    "title": "Final Diesel Shipment from India, today (16)",
+    "url": "https://www.newsfirst.lk/2022/06/16/final-diesel-shipment-from-india-today-16/",
+    "file_name": "/tmp/news_lk2/articles/43/43ecf517.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655359920,
+    "title": "FAO to provide Urea, cash for crisis-hit Sri Lankan small-hold farmers",
+    "url": "https://economynext.com/fao-to-provide-urea-cash-for-crisis-hit-sri-lankan-small-hold-farmers-95882/",
+    "file_name": "/tmp/news_lk2/articles/f1/f1550f7b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655359320,
+    "title": "53-year-old man dies while waiting in line for fuel",
+    "url": "https://www.newsfirst.lk/2022/06/16/53-year-old-man-dies-while-waiting-in-line-for-fuel/",
+    "file_name": "/tmp/news_lk2/articles/1b/1bfab80e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655358960,
+    "title": "Motor Traffic Dept revenue drops by 40%",
+    "url": "https://www.newsfirst.lk/2022/06/16/motor-traffic-dept-revenue-drops-by-40/",
+    "file_name": "/tmp/news_lk2/articles/1c/1c47d162.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655358840,
     "title": "High Level Road blocked due to protest demanding fuel",
@@ -14,6 +56,13 @@
     "file_name": "/tmp/news_lk2/articles/50/50ad8b45.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655358300,
+    "title": "Dengue on the rise: 74 High-Risk Zones identified",
+    "url": "https://www.newsfirst.lk/2022/06/16/dengue-on-the-rise-74-high-risk-zones-identified/",
+    "file_name": "/tmp/news_lk2/articles/44/44c147a7.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655358060,
     "title": "Three-wheeler driver dies while waiting in fuel queue",
@@ -26,6 +75,13 @@
     "title": "Navy intercepts fishing trawler with 64 persons attempting to illegally migrate",
     "url": "http://www.adaderana.lk/news/83075/navy-intercepts-fishing-trawler-with-64-persons-attempting-to-illegally-migrate",
     "file_name": "/tmp/news_lk2/articles/03/03beb6a3.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655357340,
+    "title": "Chicken & Egg prices likely to increase",
+    "url": "https://www.newsfirst.lk/2022/06/16/chicken-egg-prices-likely-to-increase/",
+    "file_name": "/tmp/news_lk2/articles/dc/dcaf0ca4.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -180,6 +236,13 @@
     "title": "SL requests China to amend agreement",
     "url": "https://www.dailymirror.lk/latest_news/SL-requests-China-to-amend-agreement/342-239129",
     "file_name": "/tmp/news_lk2/articles/f7/f76c5f79.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655340540,
+    "title": "SL requests China to amend agreement",
+    "url": "https://www.dailymirror.lk/top_story/SL-requests-China-to-amend-agreement/155-239129",
+    "file_name": "/tmp/news_lk2/articles/cb/cbde9162.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -635,68 +698,5 @@
     "title": "Sanath Nishantha, Moratuwa Mayor granted bail",
     "url": "https://www.dailymirror.lk/latest_news/Sanath-Nishantha-Moratuwa-Mayor-granted-bail/342-239110",
     "file_name": "/tmp/news_lk2/articles/f1/f1c70366.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655287800,
-    "title": "Sanath Nishantha, Moratuwa Mayor granted bail",
-    "url": "https://www.dailymirror.lk/breaking_news/Sanath-Nishantha-Moratuwa-Mayor-granted-bail/108-239110",
-    "file_name": "/tmp/news_lk2/articles/7f/7fd8d97d.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655287020,
-    "title": "UNFPA with China donates medical equipment to Sri Lanka worth 800,000 dollars",
-    "url": "https://economynext.com/unfpa-with-china-donates-medical-equipment-to-sri-lanka-worth-800000-dollars-95830/",
-    "file_name": "/tmp/news_lk2/articles/ac/acc51531.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655286960,
-    "title": "Monitor banks\u2019 lending policies: PM instructs CB Treasury",
-    "url": "https://www.dailymirror.lk/latest_news/Monitor-banks-lending-policies-PM-instructs-CB-Treasury/342-239109",
-    "file_name": "/tmp/news_lk2/articles/6b/6bbe8add.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655286960,
-    "title": "Monitor banks\u2019 lending policies: PM instructs CB Treasury",
-    "url": "https://www.dailymirror.lk/breaking_news/Monitor-banks-lending-policies-PM-instructs-CB-Treasury/108-239109",
-    "file_name": "/tmp/news_lk2/articles/e2/e2fcdc27.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655286900,
-    "title": "GMOA gets new Head",
-    "url": "https://www.dailymirror.lk/breaking_news/GMOA-gets-new-Head/108-239108",
-    "file_name": "/tmp/news_lk2/articles/d9/d9adeea8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655286900,
-    "title": "GMOA gets new Head",
-    "url": "https://www.dailymirror.lk/latest_news/GMOA-gets-new-Head/342-239108",
-    "file_name": "/tmp/news_lk2/articles/1d/1d9f5ca8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655286660,
-    "title": "Requested to increase price by Rs.200: LITRO Chairman",
-    "url": "https://www.dailymirror.lk/breaking_news/Requested-to-increase-price-by-Rs-200-LITRO-Chairman/108-239107",
-    "file_name": "/tmp/news_lk2/articles/1b/1b9ec037.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655286660,
-    "title": "Requested to increase price by Rs.200: LITRO Chairman",
-    "url": "https://www.dailymirror.lk/latest_news/Requested-to-increase-price-by-Rs-200-LITRO-Chairman/342-239107",
-    "file_name": "/tmp/news_lk2/articles/91/91b969ad.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655285760,
-    "title": "Legislation to govern Rice Mill & Silo Owners to prevent food hoarding",
-    "url": "https://www.newsfirst.lk/2022/06/15/legislation-to-govern-rice-mill-silo-owners-to-prevent-food-hoarding/",
-    "file_name": "/tmp/news_lk2/articles/e3/e344cd7c.json"
   }
 ]
