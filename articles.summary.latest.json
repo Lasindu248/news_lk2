@@ -8,10 +8,31 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655397540,
+    "title": "Cashew galore at Colombo Port kitchen even amid crisis",
+    "url": "https://www.dailymirror.lk/breaking_news/Cashew-galore-at-Colombo-Port-kitchen-even-amid-crisis/108-239190",
+    "file_name": "/tmp/news_lk2/articles/b9/b9a27b0e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655395920,
     "title": "S. Korea to support SL to overcome current economic crisis",
     "url": "https://www.dailymirror.lk/latest_news/S-Korea-to-support-SL-to-overcome-current-economic-crisis/342-239189",
     "file_name": "/tmp/news_lk2/articles/11/119ca26a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655395920,
+    "title": "S. Korea to support SL to overcome current economic crisis",
+    "url": "https://www.dailymirror.lk/breaking_news/S-Korea-to-support-SL-to-overcome-current-economic-crisis/108-239189",
+    "file_name": "/tmp/news_lk2/articles/74/74b62c7a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655395500,
+    "title": "US partners with VEGA to promote green energy, electric vehicles in SL",
+    "url": "https://www.dailymirror.lk/breaking_news/US-partners-with-VEGA-to-promote-green-energy-electric-vehicles-in-SL/108-239187",
+    "file_name": "/tmp/news_lk2/articles/29/295b94a8.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -89,6 +110,13 @@
     "title": "Ceylon Biscuits founder passes away",
     "url": "https://www.dailymirror.lk/latest_news/Ceylon-Biscuits-founder-passes-away/342-239182",
     "file_name": "/tmp/news_lk2/articles/70/70ebd62d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655389740,
+    "title": "Ceylon Biscuits founder passes away",
+    "url": "https://www.dailymirror.lk/breaking_news/Ceylon-Biscuits-founder-passes-away/108-239182",
+    "file_name": "/tmp/news_lk2/articles/3f/3f74e0a1.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -264,6 +292,13 @@
     "title": "Applications for admission of Grade 1 students in govt schools",
     "url": "http://www.adaderana.lk/news/83085/applications-for-admission-of-grade-1-students-in-govt-schools",
     "file_name": "/tmp/news_lk2/articles/0b/0bbbdf38.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655375760,
+    "title": "US Senate foreign panel head asks QUAD memebers to help SL",
+    "url": "https://www.dailymirror.lk/breaking_news/US-Senate-foreign-panel-head-asks-QUAD-memebers-to-help-SL/108-239191",
+    "file_name": "/tmp/news_lk2/articles/cb/cb2d7219.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -663,40 +698,5 @@
     "title": "Sila program for Poson",
     "url": "https://www.dailymirror.lk/latest_news/Sila-program-for-Poson/342-239180",
     "file_name": "/tmp/news_lk2/articles/ba/ba1ba945.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655355180,
-    "title": "Sila program for Poson",
-    "url": "https://www.dailymirror.lk/caption_story/Sila-program-for-Poson/110-239180",
-    "file_name": "/tmp/news_lk2/articles/8e/8ea051a7.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655355060,
-    "title": "Engine Oil Shortage threatens future train travel",
-    "url": "https://www.newsfirst.lk/2022/06/16/engine-oil-shortage-threatens-future-train-travel/",
-    "file_name": "/tmp/news_lk2/articles/47/47b8dab8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655354700,
-    "title": "Harsha meets Ranil; says ready to help",
-    "url": "https://www.dailymirror.lk/latest_news/Harsha-meets-Ranil-says-ready-to-help/342-239160",
-    "file_name": "/tmp/news_lk2/articles/02/02b96544.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655354700,
-    "title": "Harsha meets Ranil; says ready to help",
-    "url": "https://www.dailymirror.lk/breaking_news/Harsha-meets-Ranil-says-ready-to-help/108-239160",
-    "file_name": "/tmp/news_lk2/articles/d4/d4fb7e2a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655353740,
-    "title": "Open Account Permitted For Essential Imports",
-    "url": "https://www.newsfirst.lk/2022/06/16/open-account-permitted-for-essential-imports/",
-    "file_name": "/tmp/news_lk2/articles/a9/a9d70ae9.json"
   }
 ]
