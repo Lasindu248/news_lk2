@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655403000,
+    "title": "UN begins food relief for Sri Lanka\u2019s pregnant women",
+    "url": "http://www.adaderana.lk/news/83090/un-begins-food-relief-for-sri-lankas-pregnant-women",
+    "file_name": "/tmp/news_lk2/articles/5f/5f547184.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655402220,
     "title": "US announces $6 million in emergency assistance to SL",
@@ -691,12 +698,5 @@
     "title": "Navy intercepts fishing trawler with 64 persons attempting to illegally migrate",
     "url": "http://www.adaderana.lk/news/83075/navy-intercepts-fishing-trawler-with-64-persons-attempting-to-illegally-migrate",
     "file_name": "/tmp/news_lk2/articles/03/03beb6a3.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655357340,
-    "title": "Chicken & Egg prices likely to increase",
-    "url": "https://www.newsfirst.lk/2022/06/16/chicken-egg-prices-likely-to-increase/",
-    "file_name": "/tmp/news_lk2/articles/dc/dcaf0ca4.json"
   }
 ]
