@@ -115,6 +115,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655329440,
     "title": "Four-day work week: Can Govt. reap what it sows?",
+    "url": "https://www.dailymirror.lk/insight/Four-day-work-week-Can-Govt-reap-what-it-sows/374-239126",
+    "file_name": "/tmp/news_lk2/articles/14/14181b16.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655329440,
+    "title": "Four-day work week: Can Govt. reap what it sows?",
     "url": "https://www.dailymirror.lk/recomended-news/Four-day-work-week-Can-Govt-reap-what-it-sows/277-239126",
     "file_name": "/tmp/news_lk2/articles/42/427625c8.json"
   },
@@ -691,12 +698,5 @@
     "title": "Official report on UL504 filed, report confirms possible collision avoided",
     "url": "https://www.dailymirror.lk/top_story/Official-report-on-UL504-filed-report-confirms-possible-collision-avoided/155-239103",
     "file_name": "/tmp/news_lk2/articles/75/7582ec16.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655280060,
-    "title": "WHO to determine if Monkeypox should be declared \u2018Emergency of International Concern\u2019",
-    "url": "https://www.dailymirror.lk/latest_news/WHO-to-determine-if-Monkeypox-should-be-declared-Emergency-of-International-Concern/342-239101",
-    "file_name": "/tmp/news_lk2/articles/70/708a7dff.json"
   }
 ]
