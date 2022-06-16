@@ -281,6 +281,13 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655350980,
+    "title": "Progress of Hambantota Port industrial park slows down amid current crisis",
+    "url": "https://www.dailymirror.lk/breaking_news/Progress-of-Hambantota-Port-industrial-park-slows-down-amid-current-crisis/108-239150",
+    "file_name": "/tmp/news_lk2/articles/98/989f27cd.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655350920,
     "title": "Digital banking platform Revolut launches in Sri Lanka",
     "url": "https://www.dailymirror.lk/breaking_news/Digital-banking-platform-Revolut-launches-in-Sri-Lanka/108-239149",
@@ -299,6 +306,13 @@
     "title": "Mother throws 5-year-old child into Kelani River",
     "url": "https://www.dailymirror.lk/latest_news/Mother-throws-5-year-old-child-into-Kelani-River/342-239157",
     "file_name": "/tmp/news_lk2/articles/88/8891843a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655350800,
+    "title": "Mother throws 5-year-old child into Kelani River",
+    "url": "https://www.dailymirror.lk/breaking_news/Mother-throws-5-year-old-child-into-Kelani-River/108-239157",
+    "file_name": "/tmp/news_lk2/articles/f4/f4e4aef1.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -595,6 +609,13 @@
     "file_name": "/tmp/news_lk2/articles/78/7887ccfb.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655308380,
+    "title": "Pelicans dive at Beira Lake...",
+    "url": "https://www.dailymirror.lk/caption_story/Pelicans-dive-at-Beira-Lake/110-239114",
+    "file_name": "/tmp/news_lk2/articles/f0/f0aa323d.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655306760,
     "title": "Sri Lanka Treasury bill yields down",
@@ -677,26 +698,5 @@
     "title": "US approves USD 120 million new loan to support crisis-hit Sri Lankan economy",
     "url": "https://www.dailymirror.lk/breaking_news/US-approves-USD-120-million-new-loan-to-support-crisis-hit-Sri-Lankan-economy/108-239117",
     "file_name": "/tmp/news_lk2/articles/93/930b2ce0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655298780,
-    "title": "National Policy for Tourism final draft unveiled",
-    "url": "https://www.dailymirror.lk/mirror_business/National-Policy-for-Tourism-final-draft-unveiled/241-239116",
-    "file_name": "/tmp/news_lk2/articles/d8/d834068f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655298780,
-    "title": "National Policy for Tourism final draft unveiled",
-    "url": "https://www.dailymirror.lk/business/National-Policy-for-Tourism-final-draft-unveiled/215-239116",
-    "file_name": "/tmp/news_lk2/articles/64/64474de9.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655298780,
-    "title": "National Policy for Tourism final draft unveiled",
-    "url": "https://www.dailymirror.lk/business_247/National-Policy-for-Tourism-final-draft-unveiled/395-239116",
-    "file_name": "/tmp/news_lk2/articles/ba/ba3465ec.json"
   }
 ]
