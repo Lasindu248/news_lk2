@@ -1,10 +1,45 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655357580,
+    "title": "Navy intercepts fishing trawler with 64 persons attempting to illegally migrate",
+    "url": "http://www.adaderana.lk/news/83075/navy-intercepts-fishing-trawler-with-64-persons-attempting-to-illegally-migrate",
+    "file_name": "/tmp/news_lk2/articles/03/03beb6a3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655356200,
+    "title": "Another man dies in petrol queue",
+    "url": "https://www.dailymirror.lk/latest_news/Another-man-dies-in-petrol-queue/342-239164",
+    "file_name": "/tmp/news_lk2/articles/7e/7ed9f28b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655356200,
+    "title": "Political party representatives to be briefed on 21st Amendment",
+    "url": "http://www.adaderana.lk/news/83074/political-party-representatives-to-be-briefed-on-21st-amendment",
+    "file_name": "/tmp/news_lk2/articles/ec/ec5ab12a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655355060,
+    "title": "Engine Oil Shortage threatens future train travel",
+    "url": "https://www.newsfirst.lk/2022/06/16/engine-oil-shortage-threatens-future-train-travel/",
+    "file_name": "/tmp/news_lk2/articles/47/47b8dab8.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655354700,
     "title": "Harsha meets Ranil; says ready to help",
     "url": "https://www.dailymirror.lk/latest_news/Harsha-meets-Ranil-says-ready-to-help/342-239160",
     "file_name": "/tmp/news_lk2/articles/02/02b96544.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655353740,
+    "title": "Open Account Permitted For Essential Imports",
+    "url": "https://www.newsfirst.lk/2022/06/16/open-account-permitted-for-essential-imports/",
+    "file_name": "/tmp/news_lk2/articles/a9/a9d70ae9.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -122,15 +157,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655340540,
     "title": "SL requests China to amend agreement",
-    "url": "https://www.dailymirror.lk/breaking_news/SL-requests-China-to-amend-agreement/108-239129",
-    "file_name": "/tmp/news_lk2/articles/6a/6a80014c.json"
+    "url": "https://www.dailymirror.lk/latest_news/SL-requests-China-to-amend-agreement/342-239129",
+    "file_name": "/tmp/news_lk2/articles/f7/f76c5f79.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655340540,
     "title": "SL requests China to amend agreement",
-    "url": "https://www.dailymirror.lk/latest_news/SL-requests-China-to-amend-agreement/342-239129",
-    "file_name": "/tmp/news_lk2/articles/f7/f76c5f79.json"
+    "url": "https://www.dailymirror.lk/breaking_news/SL-requests-China-to-amend-agreement/108-239129",
+    "file_name": "/tmp/news_lk2/articles/6a/6a80014c.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -150,13 +185,6 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655329440,
     "title": "Four-day work week: Can Govt. reap what it sows?",
-    "url": "https://www.dailymirror.lk/recomended-news/Four-day-work-week-Can-Govt-reap-what-it-sows/277-239126",
-    "file_name": "/tmp/news_lk2/articles/42/427625c8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655329440,
-    "title": "Four-day work week: Can Govt. reap what it sows?",
     "url": "https://www.dailymirror.lk/plus/Four-day-work-week-Can-Govt-reap-what-it-sows/352-239126",
     "file_name": "/tmp/news_lk2/articles/2f/2f90d7ec.json"
   },
@@ -166,6 +194,20 @@
     "title": "Four-day work week: Can Govt. reap what it sows?",
     "url": "https://www.dailymirror.lk/insight/Four-day-work-week-Can-Govt-reap-what-it-sows/374-239126",
     "file_name": "/tmp/news_lk2/articles/14/14181b16.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655329440,
+    "title": "Four-day work week: Can Govt. reap what it sows?",
+    "url": "https://www.dailymirror.lk/recomended-news/Four-day-work-week-Can-Govt-reap-what-it-sows/277-239126",
+    "file_name": "/tmp/news_lk2/articles/42/427625c8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655328900,
+    "title": "Sri Lanka\u2019s Al Capone Syndrome threatens human security",
+    "url": "https://www.dailymirror.lk/opinion/Sri-Lankas-Al-Capone-Syndrome-threatens-human-security/231-239125",
+    "file_name": "/tmp/news_lk2/articles/8e/8eff8a3c.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -180,13 +222,6 @@
     "title": "Sri Lanka\u2019s Al Capone Syndrome threatens human security",
     "url": "https://www.dailymirror.lk/plus/Sri-Lankas-Al-Capone-Syndrome-threatens-human-security/352-239125",
     "file_name": "/tmp/news_lk2/articles/1e/1ebb5524.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655328900,
-    "title": "Sri Lanka\u2019s Al Capone Syndrome threatens human security",
-    "url": "https://www.dailymirror.lk/opinion/Sri-Lankas-Al-Capone-Syndrome-threatens-human-security/231-239125",
-    "file_name": "/tmp/news_lk2/articles/8e/8eff8a3c.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -212,20 +247,6 @@
   {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1655317800,
-    "title": "UNFPA, with support from China, provides medical equipment worth $ 800,000",
-    "url": "https://www.ft.lk/news/UNFPA-with-support-from-China-provides-medical-equipment-worth-800-000/56-736236",
-    "file_name": "/tmp/news_lk2/articles/cf/cf1d60a4.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655317800,
-    "title": "Fed hikes rates by 0.75 percentage point, flags slowing economy",
-    "url": "https://www.ft.lk/news/Fed-hikes-rates-by-0-75-percentage-point-flags-slowing-economy/56-736237",
-    "file_name": "/tmp/news_lk2/articles/b4/b4472fd9.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655317800,
     "title": "GL briefs Human Rights Council President on Sri Lankan Issues",
     "url": "https://www.ft.lk/news/GL-briefs-Human-Rights-Council-President-on-Sri-Lankan-Issues/56-736239",
     "file_name": "/tmp/news_lk2/articles/75/7589631e.json"
@@ -240,9 +261,23 @@
   {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1655317800,
+    "title": "Fed hikes rates by 0.75 percentage point, flags slowing economy",
+    "url": "https://www.ft.lk/news/Fed-hikes-rates-by-0-75-percentage-point-flags-slowing-economy/56-736237",
+    "file_name": "/tmp/news_lk2/articles/b4/b4472fd9.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655317800,
     "title": "Core Group urges Govt. to protect civil society space amidst challenges",
     "url": "https://www.ft.lk/news/Core-Group-urges-Govt-to-protect-civil-society-space-amidst-challenges/56-736240",
     "file_name": "/tmp/news_lk2/articles/d4/d424c144.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655317800,
+    "title": "UNFPA, with support from China, provides medical equipment worth $ 800,000",
+    "url": "https://www.ft.lk/news/UNFPA-with-support-from-China-provides-medical-equipment-worth-800-000/56-736236",
+    "file_name": "/tmp/news_lk2/articles/cf/cf1d60a4.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -262,15 +297,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655311500,
     "title": "Probe on attack on Galle Face protesters: Law and Order Ministry Secretary noticed to show cause",
-    "url": "https://www.dailymirror.lk/breaking_news/Probe-on-attack-on-Galle-Face-protesters-Law-and-Order-Ministry-Secretary-noticed-to-show-cause/108-239123",
-    "file_name": "/tmp/news_lk2/articles/31/3190a66e.json"
+    "url": "https://www.dailymirror.lk/latest_news/Probe-on-attack-on-Galle-Face-protesters-Law-and-Order-Ministry-Secretary-noticed-to-show-cause/342-239123",
+    "file_name": "/tmp/news_lk2/articles/03/03e0687c.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655311500,
     "title": "Probe on attack on Galle Face protesters: Law and Order Ministry Secretary noticed to show cause",
-    "url": "https://www.dailymirror.lk/latest_news/Probe-on-attack-on-Galle-Face-protesters-Law-and-Order-Ministry-Secretary-noticed-to-show-cause/342-239123",
-    "file_name": "/tmp/news_lk2/articles/03/03e0687c.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Probe-on-attack-on-Galle-Face-protesters-Law-and-Order-Ministry-Secretary-noticed-to-show-cause/108-239123",
+    "file_name": "/tmp/news_lk2/articles/31/3190a66e.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -290,15 +325,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655309880,
     "title": "Appointment of Dhammika Perera as a MP challenged in SC",
-    "url": "https://www.dailymirror.lk/latest_news/Appointment-of-Dhammika-Perera-as-a-MP-challenged-in-SC/342-239121",
-    "file_name": "/tmp/news_lk2/articles/08/0891de11.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Appointment-of-Dhammika-Perera-as-a-MP-challenged-in-SC/108-239121",
+    "file_name": "/tmp/news_lk2/articles/0c/0ca88224.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655309880,
     "title": "Appointment of Dhammika Perera as a MP challenged in SC",
-    "url": "https://www.dailymirror.lk/breaking_news/Appointment-of-Dhammika-Perera-as-a-MP-challenged-in-SC/108-239121",
-    "file_name": "/tmp/news_lk2/articles/0c/0ca88224.json"
+    "url": "https://www.dailymirror.lk/latest_news/Appointment-of-Dhammika-Perera-as-a-MP-challenged-in-SC/342-239121",
+    "file_name": "/tmp/news_lk2/articles/08/0891de11.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -353,15 +388,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655304720,
     "title": "CEB chairman drama will have dire consequences",
-    "url": "https://www.dailymirror.lk/latest_news/CEB-chairman-drama-will-have-dire-consequences/342-239119",
-    "file_name": "/tmp/news_lk2/articles/ce/ce7c4dbf.json"
+    "url": "https://www.dailymirror.lk/breaking_news/CEB-chairman-drama-will-have-dire-consequences/108-239119",
+    "file_name": "/tmp/news_lk2/articles/29/29759746.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655304720,
     "title": "CEB chairman drama will have dire consequences",
-    "url": "https://www.dailymirror.lk/breaking_news/CEB-chairman-drama-will-have-dire-consequences/108-239119",
-    "file_name": "/tmp/news_lk2/articles/29/29759746.json"
+    "url": "https://www.dailymirror.lk/latest_news/CEB-chairman-drama-will-have-dire-consequences/342-239119",
+    "file_name": "/tmp/news_lk2/articles/ce/ce7c4dbf.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -380,16 +415,16 @@
   {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655301300,
-    "title": "Sri Lanka to introduce anti-hoarding laws for rice millers after scaremongering",
-    "url": "https://economynext.com/sri-lanka-to-introduce-anti-hoarding-laws-for-rice-millers-after-scaremongering-95851/",
-    "file_name": "/tmp/news_lk2/articles/56/56c4c6b8.json"
+    "title": "Sri Lanka to introduce anti-hoarding laws for food stocks\u00a0\u2013 PM",
+    "url": "https://economynext.com/sri-lanka-to-introduce-anti-hoarding-laws-for-food-stocks-pm-95851/",
+    "file_name": "/tmp/news_lk2/articles/4e/4e799034.json"
   },
   {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655301300,
-    "title": "Sri Lanka to introduce anti-hoarding laws for food stocks\u00a0\u2013 PM",
-    "url": "https://economynext.com/sri-lanka-to-introduce-anti-hoarding-laws-for-food-stocks-pm-95851/",
-    "file_name": "/tmp/news_lk2/articles/4e/4e799034.json"
+    "title": "Sri Lanka to introduce anti-hoarding laws for rice millers after scaremongering",
+    "url": "https://economynext.com/sri-lanka-to-introduce-anti-hoarding-laws-for-rice-millers-after-scaremongering-95851/",
+    "file_name": "/tmp/news_lk2/articles/56/56c4c6b8.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -416,8 +451,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655298780,
     "title": "National Policy for Tourism final draft unveiled",
-    "url": "https://www.dailymirror.lk/mirror_business/National-Policy-for-Tourism-final-draft-unveiled/241-239116",
-    "file_name": "/tmp/news_lk2/articles/d8/d834068f.json"
+    "url": "https://www.dailymirror.lk/business_247/National-Policy-for-Tourism-final-draft-unveiled/395-239116",
+    "file_name": "/tmp/news_lk2/articles/ba/ba3465ec.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -430,8 +465,8 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655298780,
     "title": "National Policy for Tourism final draft unveiled",
-    "url": "https://www.dailymirror.lk/business_247/National-Policy-for-Tourism-final-draft-unveiled/395-239116",
-    "file_name": "/tmp/news_lk2/articles/ba/ba3465ec.json"
+    "url": "https://www.dailymirror.lk/mirror_business/National-Policy-for-Tourism-final-draft-unveiled/241-239116",
+    "file_name": "/tmp/news_lk2/articles/d8/d834068f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -528,15 +563,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655288940,
     "title": "Govt to take policy decision to up train fares: GMR",
-    "url": "https://www.dailymirror.lk/breaking_news/Govt-to-take-policy-decision-to-up-train-fares-GMR/108-239112",
-    "file_name": "/tmp/news_lk2/articles/5f/5fc9e20f.json"
+    "url": "https://www.dailymirror.lk/latest_news/Govt-to-take-policy-decision-to-up-train-fares-GMR/342-239112",
+    "file_name": "/tmp/news_lk2/articles/98/98bf9053.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655288940,
     "title": "Govt to take policy decision to up train fares: GMR",
-    "url": "https://www.dailymirror.lk/latest_news/Govt-to-take-policy-decision-to-up-train-fares-GMR/342-239112",
-    "file_name": "/tmp/news_lk2/articles/98/98bf9053.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-to-take-policy-decision-to-up-train-fares-GMR/108-239112",
+    "file_name": "/tmp/news_lk2/articles/5f/5fc9e20f.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -549,15 +584,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655288460,
     "title": "Winding queues....still with hope",
-    "url": "https://www.dailymirror.lk/latest_news/Winding-queues-still-with-hope/342-239111",
-    "file_name": "/tmp/news_lk2/articles/db/db603f44.json"
+    "url": "https://www.dailymirror.lk/caption_story/Winding-queues-still-with-hope/110-239111",
+    "file_name": "/tmp/news_lk2/articles/18/18b03453.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655288460,
     "title": "Winding queues....still with hope",
-    "url": "https://www.dailymirror.lk/caption_story/Winding-queues-still-with-hope/110-239111",
-    "file_name": "/tmp/news_lk2/articles/18/18b03453.json"
+    "url": "https://www.dailymirror.lk/latest_news/Winding-queues-still-with-hope/342-239111",
+    "file_name": "/tmp/news_lk2/articles/db/db603f44.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -577,15 +612,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655287800,
     "title": "Sanath Nishantha, Moratuwa Mayor granted bail",
-    "url": "https://www.dailymirror.lk/breaking_news/Sanath-Nishantha-Moratuwa-Mayor-granted-bail/108-239110",
-    "file_name": "/tmp/news_lk2/articles/7f/7fd8d97d.json"
+    "url": "https://www.dailymirror.lk/latest_news/Sanath-Nishantha-Moratuwa-Mayor-granted-bail/342-239110",
+    "file_name": "/tmp/news_lk2/articles/f1/f1c70366.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655287800,
     "title": "Sanath Nishantha, Moratuwa Mayor granted bail",
-    "url": "https://www.dailymirror.lk/latest_news/Sanath-Nishantha-Moratuwa-Mayor-granted-bail/342-239110",
-    "file_name": "/tmp/news_lk2/articles/f1/f1c70366.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Sanath-Nishantha-Moratuwa-Mayor-granted-bail/108-239110",
+    "file_name": "/tmp/news_lk2/articles/7f/7fd8d97d.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -598,15 +633,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655286960,
     "title": "Monitor banks\u2019 lending policies: PM instructs CB Treasury",
-    "url": "https://www.dailymirror.lk/breaking_news/Monitor-banks-lending-policies-PM-instructs-CB-Treasury/108-239109",
-    "file_name": "/tmp/news_lk2/articles/e2/e2fcdc27.json"
+    "url": "https://www.dailymirror.lk/latest_news/Monitor-banks-lending-policies-PM-instructs-CB-Treasury/342-239109",
+    "file_name": "/tmp/news_lk2/articles/6b/6bbe8add.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655286960,
     "title": "Monitor banks\u2019 lending policies: PM instructs CB Treasury",
-    "url": "https://www.dailymirror.lk/latest_news/Monitor-banks-lending-policies-PM-instructs-CB-Treasury/342-239109",
-    "file_name": "/tmp/news_lk2/articles/6b/6bbe8add.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Monitor-banks-lending-policies-PM-instructs-CB-Treasury/108-239109",
+    "file_name": "/tmp/news_lk2/articles/e2/e2fcdc27.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -654,49 +689,14 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655285040,
     "title": "Galle Road blocked from Dehiwala...",
-    "url": "https://www.dailymirror.lk/latest_news/Galle-Road-blocked-from-Dehiwala/342-239105",
-    "file_name": "/tmp/news_lk2/articles/03/0362570c.json"
+    "url": "https://www.dailymirror.lk/caption_story/Galle-Road-blocked-from-Dehiwala/110-239105",
+    "file_name": "/tmp/news_lk2/articles/19/1960e210.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655285040,
     "title": "Galle Road blocked from Dehiwala...",
-    "url": "https://www.dailymirror.lk/caption_story/Galle-Road-blocked-from-Dehiwala/110-239105",
-    "file_name": "/tmp/news_lk2/articles/19/1960e210.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655284980,
-    "title": "GMOA elects new president",
-    "url": "http://www.adaderana.lk/news/83059/gmoa-elects-new-president",
-    "file_name": "/tmp/news_lk2/articles/f7/f7a938e2.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655284980,
-    "title": "New president elected to GMOA",
-    "url": "http://www.adaderana.lk/news/83059/new-president-elected-to-gmoa",
-    "file_name": "/tmp/news_lk2/articles/fc/fc5fc19a.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655283540,
-    "title": "Speaker endorses certificate on Electricity (Amendment) Bill",
-    "url": "http://www.adaderana.lk/news/83058/speaker-endorses-certificate-on-electricity-amendment-bill",
-    "file_name": "/tmp/news_lk2/articles/ed/ede2ec83.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655283540,
-    "title": "Sri Lanka to experience power cuts for three more years, warns CEB engineers union",
-    "url": "https://economynext.com/sri-lanka-to-experience-power-cuts-for-three-more-years-warns-ceb-engineers-union-95816/",
-    "file_name": "/tmp/news_lk2/articles/12/12dcaf5a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655282940,
-    "title": "Speaker endorses certificate on Electricity Bill",
-    "url": "https://www.dailymirror.lk/latest_news/Speaker-endorses-certificate-on-Electricity-Bill/342-239104",
-    "file_name": "/tmp/news_lk2/articles/33/33aa5b08.json"
+    "url": "https://www.dailymirror.lk/latest_news/Galle-Road-blocked-from-Dehiwala/342-239105",
+    "file_name": "/tmp/news_lk2/articles/03/0362570c.json"
   }
 ]
