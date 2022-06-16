@@ -1,10 +1,38 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655367600,
+    "title": "Ceylon Biscuits founder Mineka Wickramasinghe has passed away",
+    "url": "https://www.newsfirst.lk/2022/06/16/ceylon-biscuits-founder-mineka-wickramasinghe-has-passed-away/",
+    "file_name": "/tmp/news_lk2/articles/8b/8b1c48cf.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655367300,
+    "title": "CBSL Daily Exchange Rate",
+    "url": "https://www.newsfirst.lk/2022/06/16/cbsl-daily-exchange-rate/",
+    "file_name": "/tmp/news_lk2/articles/3d/3d9f1954.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655367000,
+    "title": "Rs. 7.5 Bn in unpaid water bills from consumers",
+    "url": "https://www.newsfirst.lk/2022/06/16/rs-7-5-bn-in-unpaid-water-bills-from-consumers/",
+    "file_name": "/tmp/news_lk2/articles/48/485807b8.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655366520,
     "title": "Final fuel shipment under Indian credit line arrives at Colombo Port",
     "url": "http://www.adaderana.lk/news/83081/final-fuel-shipment-under-indian-credit-line-arrives-at-colombo-port",
     "file_name": "/tmp/news_lk2/articles/d6/d6da9abe.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655365980,
+    "title": "Man who attacked a disabled soldier at Galle Face identified as ruggerite Sajith Saranga- CID",
+    "url": "https://www.dailymirror.lk/breaking_news/Man-who-attacked-a-disabled-soldier-at-Galle-Face-identified-as-ruggerite-Sajith-Saranga-CID/108-239169",
+    "file_name": "/tmp/news_lk2/articles/22/22a9c7ee.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -670,33 +698,5 @@
     "title": "National Policy for Tourism final draft unveiled",
     "url": "https://www.dailymirror.lk/business_247/National-Policy-for-Tourism-final-draft-unveiled/395-239116",
     "file_name": "/tmp/news_lk2/articles/ba/ba3465ec.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655298780,
-    "title": "National Policy for Tourism final draft unveiled",
-    "url": "https://www.dailymirror.lk/breaking_news/National-Policy-for-Tourism-final-draft-unveiled/108-239116",
-    "file_name": "/tmp/news_lk2/articles/3f/3f443832.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655298540,
-    "title": "Sri Lanka shares fall to 1-wk low on margin calls, uncertainties",
-    "url": "https://economynext.com/sri-lanka-shares-fall-to-1-wk-low-on-margin-calls-uncertainties-95850/",
-    "file_name": "/tmp/news_lk2/articles/7b/7b30a376.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655298420,
-    "title": "Methodology of licensing for ethanol import discussed in COPA",
-    "url": "http://www.adaderana.lk/news/83066/methodology-of-licensing-for-ethanol-import-discussed-in-copa",
-    "file_name": "/tmp/news_lk2/articles/54/54fb2cb2.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655297640,
-    "title": "US\u2019 DFC lends USD120 mln for crisis-hit Sri Lanka\u2019s SME sector",
-    "url": "https://economynext.com/us-dfc-lends-usd120-mln-for-crisis-hit-sri-lankas-sme-sector-95848/",
-    "file_name": "/tmp/news_lk2/articles/ad/ad344fa4.json"
   }
 ]
