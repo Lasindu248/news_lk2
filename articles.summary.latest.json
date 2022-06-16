@@ -1,10 +1,31 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655364300,
+    "title": "Sri Lankan woman throws five-year-old son into river, attempts suicide",
+    "url": "https://economynext.com/sri-lankan-woman-throws-five-year-old-son-into-river-attempts-suicide-95897/",
+    "file_name": "/tmp/news_lk2/articles/6f/6ff394de.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655363580,
+    "title": "Founder of CBL Group Mineka Wickramasingha passes away",
+    "url": "http://www.adaderana.lk/news/83080/founder-of-cbl-group-mineka-wickramasingha-passes-away",
+    "file_name": "/tmp/news_lk2/articles/fb/fb2a838d.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655362680,
     "title": "16-hour water cut in Colombo",
     "url": "https://www.dailymirror.lk/latest_news/16-hour-water-cut-in-Colombo/342-239167",
     "file_name": "/tmp/news_lk2/articles/90/90320c62.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655362680,
+    "title": "Sri Lanka: Family loses breadwinner as fuel crisis worsens",
+    "url": "https://www.newsfirst.lk/2022/06/16/sri-lanka-family-loses-breadwinner-as-fuel-crisis-worsens/",
+    "file_name": "/tmp/news_lk2/articles/e3/e335d2c5.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -21,11 +42,32 @@
     "file_name": "/tmp/news_lk2/articles/ba/bafb32e8.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655361900,
+    "title": "#FuelCrisis: Public Transport in critical State",
+    "url": "https://www.newsfirst.lk/2022/06/16/fuelcrisis-public-transport-in-critical-state/",
+    "file_name": "/tmp/news_lk2/articles/6e/6ed1a282.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655361660,
     "title": "Sri Lanka commercial banks\u2019 rupee quote edges down amid dull trade",
     "url": "https://economynext.com/sri-lanka-commercial-banks-rupee-quote-edges-down-amid-dull-trade-95880/",
     "file_name": "/tmp/news_lk2/articles/b5/b5e4d7c9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655361420,
+    "title": "Sri Lanka: Multiple protests in Colombo & suburbs demanding fuel",
+    "url": "https://www.newsfirst.lk/2022/06/16/sri-lanka-multiple-protests-in-colombo-suburbs-demanding-fuel/",
+    "file_name": "/tmp/news_lk2/articles/4a/4ae2a94a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655361060,
+    "title": "NO LP Gas distribution today (16)",
+    "url": "https://www.newsfirst.lk/2022/06/16/no-lp-gas-distribution-today-16/",
+    "file_name": "/tmp/news_lk2/articles/59/59a2d534.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -656,47 +698,5 @@
     "title": "CPC to give daily updates on fuel stocks supplied to filling stations",
     "url": "http://www.adaderana.lk/news/83064/cpc-to-give-daily-updates-on-fuel-stocks-supplied-to-filling-stations",
     "file_name": "/tmp/news_lk2/articles/16/16b14a4c.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655291400,
-    "title": "U.S. DFC approves $120 Mn in new loans and investments for Sri Lanka",
-    "url": "http://www.adaderana.lk/news/83063/us-dfc-approves-120-mn-in-new-loans-and-investments-for-sri-lanka",
-    "file_name": "/tmp/news_lk2/articles/7f/7f98871e.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655290500,
-    "title": "US approves $120 mn in new loans to grow and support Sri Lankan economy.",
-    "url": "https://www.newsfirst.lk/2022/06/15/us-approves-120-mn-in-new-loans-to-grow-and-support-sri-lankan-economy/",
-    "file_name": "/tmp/news_lk2/articles/f9/f9090207.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655290260,
-    "title": "China reaffirms its continual support to SL",
-    "url": "https://www.dailymirror.lk/latest_news/China-reaffirms-its-continual-support-to-SL/342-239113",
-    "file_name": "/tmp/news_lk2/articles/8d/8db295ce.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655290260,
-    "title": "China reaffirms its continual support to SL",
-    "url": "https://www.dailymirror.lk/breaking_news/China-reaffirms-its-continual-support-to-SL/108-239113",
-    "file_name": "/tmp/news_lk2/articles/5e/5eca734b.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655289540,
-    "title": "GL meets President of UNHRC, discusses current situation in Sri Lanka",
-    "url": "https://www.newsfirst.lk/2022/06/15/gl-meets-president-of-unhrc-discusses-current-situation-in-sri-lanka/",
-    "file_name": "/tmp/news_lk2/articles/3c/3c240cc1.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655288940,
-    "title": "Govt to take policy decision to up train fares: GMR",
-    "url": "https://www.dailymirror.lk/latest_news/Govt-to-take-policy-decision-to-up-train-fares-GMR/342-239112",
-    "file_name": "/tmp/news_lk2/articles/98/98bf9053.json"
   }
 ]
