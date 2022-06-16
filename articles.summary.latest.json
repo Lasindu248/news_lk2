@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655373540,
+    "title": "Circular issued declaring Friday a holiday for public sector employees",
+    "url": "http://www.adaderana.lk/news/83082/circular-issued-declaring-friday-a-holiday-for-public-sector-employees",
+    "file_name": "/tmp/news_lk2/articles/9f/9f631627.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655372100,
+    "title": "Several areas plunged in chaos without fuel, gas",
+    "url": "https://www.dailymirror.lk/top_story/Several-areas-plunged-in-chaos-without-fuel-gas/155-239172",
+    "file_name": "/tmp/news_lk2/articles/f8/f83da1b5.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655371860,
     "title": "Centre has helped release of 2,977 Indian fishermen from Sri Lanka: Union Minister",
@@ -684,19 +698,5 @@
     "title": "People in Pakistan urged to drink fewer cups of tea",
     "url": "https://www.dailymirror.lk/latest_news/People-in-Pakistan-urged-to-drink-fewer-cups-of-tea/342-239120",
     "file_name": "/tmp/news_lk2/articles/dd/dd9a3196.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655304720,
-    "title": "CEB chairman drama will have dire consequences",
-    "url": "https://www.dailymirror.lk/latest_news/CEB-chairman-drama-will-have-dire-consequences/342-239119",
-    "file_name": "/tmp/news_lk2/articles/ce/ce7c4dbf.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655304720,
-    "title": "CEB chairman drama will have dire consequences",
-    "url": "https://www.dailymirror.lk/breaking_news/CEB-chairman-drama-will-have-dire-consequences/108-239119",
-    "file_name": "/tmp/news_lk2/articles/29/29759746.json"
   }
 ]
