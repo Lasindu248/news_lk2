@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655393460,
+    "title": "7,500 Mn water bills defaulted by April 2022: Water Board",
+    "url": "https://www.dailymirror.lk/breaking_news/7-500-Mn-water-bills-defaulted-by-April-2022-Water-Board/108-239186",
+    "file_name": "/tmp/news_lk2/articles/51/514d43ed.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655391120,
     "title": "Applications called for 2023 Grade One admissions",
     "url": "https://www.dailymirror.lk/latest_news/Applications-called-for-2023-Grade-One-admissions/342-239184",
@@ -691,12 +698,5 @@
     "title": "A-PAD Bangladesh delivers Essential Medical Supplies",
     "url": "https://www.newsfirst.lk/2022/06/16/a-pad-bangladesh-delivers-essential-medical-supplies/",
     "file_name": "/tmp/news_lk2/articles/f0/f0e9be9b.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655348760,
-    "title": "Heavy showers likely on Thursday (16)",
-    "url": "https://www.newsfirst.lk/2022/06/16/heavy-showers-likely-on-thursday-16/",
-    "file_name": "/tmp/news_lk2/articles/0e/0e5ee3fe.json"
   }
 ]
