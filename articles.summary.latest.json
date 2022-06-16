@@ -1,6 +1,27 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655412720,
+    "title": "Private buses will operate according to fuel they get: Bus owners",
+    "url": "https://www.dailymirror.lk/latest_news/Private-buses-will-operate-according-to-fuel-they-get-Bus-owners/342-239193",
+    "file_name": "/tmp/news_lk2/articles/16/16198604.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655411940,
+    "title": "How far should you go to ensure election of \u2018good  MPs\u2019?",
+    "url": "https://www.dailymirror.lk/opinion/How-far-should-you-go-to-ensure-election-of-good-MPs/172-239223",
+    "file_name": "/tmp/news_lk2/articles/5a/5a6f29de.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655411820,
+    "title": "Sri Lanka hears the faint noise inside community kitchens - EDITORIAL",
+    "url": "https://www.dailymirror.lk/opinion/Sri-Lanka-hears-the-faint-noise-inside-community-kitchens-EDITORIAL/172-239222",
+    "file_name": "/tmp/news_lk2/articles/78/78987175.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655411400,
     "title": "Breakdown of society as economic crisis and Ukraine war continue",
     "url": "https://www.dailymirror.lk/opinion/Breakdown-of-society-as-economic-crisis-and-Ukraine-war-continue/172-239221",
@@ -677,26 +698,5 @@
     "title": "16-hour water cut in Colombo",
     "url": "https://www.dailymirror.lk/breaking_news/16-hour-water-cut-in-Colombo/108-239167",
     "file_name": "/tmp/news_lk2/articles/7a/7abecd0d.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655361960,
-    "title": "French, German, Italian leaders arrive in Kyiv",
-    "url": "http://www.adaderana.lk/news/83079/french-german-italian-leaders-arrive-in-kyiv",
-    "file_name": "/tmp/news_lk2/articles/77/77807730.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655361900,
-    "title": "#FuelCrisis: Public Transport in critical State",
-    "url": "https://www.newsfirst.lk/2022/06/16/fuelcrisis-public-transport-in-critical-state/",
-    "file_name": "/tmp/news_lk2/articles/6e/6ed1a282.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655361900,
-    "title": "Crisis management roadmap for MP input on the way, Sri Lanka PM tells key MPs",
-    "url": "https://economynext.com/crisis-management-roadmap-for-mp-input-on-the-way-sri-lanka-pm-tells-key-mps-95893/",
-    "file_name": "/tmp/news_lk2/articles/ba/bafb32e8.json"
   }
 ]
