@@ -1,5 +1,75 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655411400,
+    "title": "Breakdown of society as economic crisis and Ukraine war continue",
+    "url": "https://www.dailymirror.lk/opinion/Breakdown-of-society-as-economic-crisis-and-Ukraine-war-continue/172-239221",
+    "file_name": "/tmp/news_lk2/articles/d1/d1f95454.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655410620,
+    "title": "Political stability fundamental to economic revival: AKD",
+    "url": "https://www.dailymirror.lk/opinion/Political-stability-fundamental-to-economic-revival-AKD/172-239219",
+    "file_name": "/tmp/news_lk2/articles/58/58c94248.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655404200,
+    "title": "Manusha appoints new Chairman and Directors to Foreign Employment Agency",
+    "url": "https://www.ft.lk/business/Manusha-appoints-new-Chairman-and-Directors-to-Foreign-Employment-Agency/34-736296",
+    "file_name": "/tmp/news_lk2/articles/ce/ce046e93.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655404200,
+    "title": "Gem and jewellery industry commits to boost forex via higher exports to support economic crisis",
+    "url": "https://www.ft.lk/business/Gem-and-jewellery-industry-commits-to-boost-forex-via-higher-exports-to-support-economic-crisis/34-736295",
+    "file_name": "/tmp/news_lk2/articles/a7/a73650fb.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655404200,
+    "title": "Sri Lanka stresses importance of relations with Japan",
+    "url": "https://www.ft.lk/news/Sri-Lanka-stresses-importance-of-relations-with-Japan/56-736300",
+    "file_name": "/tmp/news_lk2/articles/f3/f3c8751d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655404200,
+    "title": "Asia Siyaka Group announces new appointments",
+    "url": "https://www.ft.lk/business/Asia-Siyaka-Group-announces-new-appointments/34-736298",
+    "file_name": "/tmp/news_lk2/articles/b2/b2aa48c7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655404200,
+    "title": "Govt. issues circular on special Friday holiday for 3 months",
+    "url": "https://www.ft.lk/news/Govt-issues-circular-on-special-Friday-holiday-for-3-months/56-736302",
+    "file_name": "/tmp/news_lk2/articles/9b/9bf498bd.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655404200,
+    "title": "Japan, Switzerland elected to UN Security council for two years",
+    "url": "https://www.ft.lk/news/Japan-Switzerland-elected-to-UN-Security-council-for-two-years/56-736301",
+    "file_name": "/tmp/news_lk2/articles/84/84eda835.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655404200,
+    "title": "SLKBC hosts Lankan Ambassador-Designate to Korea",
+    "url": "https://www.ft.lk/business/SLKBC-hosts-Lankan-Ambassador-Designate-to-Korea/34-736299",
+    "file_name": "/tmp/news_lk2/articles/84/847de6a7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655404200,
+    "title": "Pioneering industrialist Micky Wickramasingha no more",
+    "url": "https://www.ft.lk/business/Pioneering-industrialist-Micky-Wickramasingha-no-more/34-736297",
+    "file_name": "/tmp/news_lk2/articles/19/194a1b1b.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655403000,
     "title": "UN begins food relief for Sri Lanka\u2019s pregnant women",
@@ -26,6 +96,13 @@
     "title": "Sri Lanka beat Australia: Level series 1-1",
     "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-beat-Australia-Level-series-1-1/108-239194",
     "file_name": "/tmp/news_lk2/articles/b0/b0e016f8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655401560,
+    "title": "Chamika triggers collapse, Sri Lanka draw level with Australia",
+    "url": "https://www.dailymirror.lk/headline/Chamika-triggers-collapse-Sri-Lanka-draw-level-with-Australia/419-239194",
+    "file_name": "/tmp/news_lk2/articles/6d/6d62249a.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -621,82 +698,5 @@
     "title": "Crisis management roadmap for MP input on the way, Sri Lanka PM tells key MPs",
     "url": "https://economynext.com/crisis-management-roadmap-for-mp-input-on-the-way-sri-lanka-pm-tells-key-mps-95893/",
     "file_name": "/tmp/news_lk2/articles/ba/bafb32e8.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655361660,
-    "title": "Sri Lanka commercial banks\u2019 rupee quote edges down amid dull trade",
-    "url": "https://economynext.com/sri-lanka-commercial-banks-rupee-quote-edges-down-amid-dull-trade-95880/",
-    "file_name": "/tmp/news_lk2/articles/b5/b5e4d7c9.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655361420,
-    "title": "Sri Lanka: Multiple protests in Colombo & suburbs demanding fuel",
-    "url": "https://www.newsfirst.lk/2022/06/16/sri-lanka-multiple-protests-in-colombo-suburbs-demanding-fuel/",
-    "file_name": "/tmp/news_lk2/articles/4a/4ae2a94a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655361060,
-    "title": "NO LP Gas distribution today (16)",
-    "url": "https://www.newsfirst.lk/2022/06/16/no-lp-gas-distribution-today-16/",
-    "file_name": "/tmp/news_lk2/articles/59/59a2d534.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655360520,
-    "title": "Sri Lanka stocks down in mid-day trade",
-    "url": "https://economynext.com/sri-lanka-stocks-down-in-mid-day-trade-95891/",
-    "file_name": "/tmp/news_lk2/articles/d8/d89480be.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655360340,
-    "title": "Suspicious package found near Katuwapitiya Church",
-    "url": "https://www.dailymirror.lk/breaking_news/Suspicious-package-found-near-Katuwapitiya-Church/108-239166",
-    "file_name": "/tmp/news_lk2/articles/55/555c687c.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655360280,
-    "title": "Final Diesel Shipment from India, today (16)",
-    "url": "https://www.newsfirst.lk/2022/06/16/final-diesel-shipment-from-india-today-16/",
-    "file_name": "/tmp/news_lk2/articles/43/43ecf517.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655359920,
-    "title": "FAO to provide Urea, cash for crisis-hit Sri Lankan small-hold farmers",
-    "url": "https://economynext.com/fao-to-provide-urea-cash-for-crisis-hit-sri-lankan-small-hold-farmers-95882/",
-    "file_name": "/tmp/news_lk2/articles/f1/f1550f7b.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655359320,
-    "title": "53-year-old man dies while waiting in line for fuel",
-    "url": "https://www.newsfirst.lk/2022/06/16/53-year-old-man-dies-while-waiting-in-line-for-fuel/",
-    "file_name": "/tmp/news_lk2/articles/1b/1bfab80e.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655358960,
-    "title": "Motor Traffic Dept revenue drops by 40%",
-    "url": "https://www.newsfirst.lk/2022/06/16/motor-traffic-dept-revenue-drops-by-40/",
-    "file_name": "/tmp/news_lk2/articles/1c/1c47d162.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655358840,
-    "title": "High Level Road blocked due to protest demanding fuel",
-    "url": "http://www.adaderana.lk/news/83078/high-level-road-blocked-due-to-protest-demanding-fuel",
-    "file_name": "/tmp/news_lk2/articles/6a/6a7ab6f9.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655358480,
-    "title": "Another suspect arrested over killing of MP Amarakeerthi Athukorala",
-    "url": "http://www.adaderana.lk/news/83077/another-suspect-arrested-over-killing-of-mp-amarakeerthi-athukorala",
-    "file_name": "/tmp/news_lk2/articles/50/50ad8b45.json"
   }
 ]
