@@ -8,6 +8,13 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655412720,
+    "title": "Private buses will operate according to fuel they get: Bus owners",
+    "url": "https://www.dailymirror.lk/breaking_news/Private-buses-will-operate-according-to-fuel-they-get-Bus-owners/108-239193",
+    "file_name": "/tmp/news_lk2/articles/1f/1f61f294.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655411940,
     "title": "How far should you go to ensure election of \u2018good  MPs\u2019?",
     "url": "https://www.dailymirror.lk/opinion/How-far-should-you-go-to-ensure-election-of-good-MPs/172-239223",
@@ -117,6 +124,13 @@
     "title": "Sri Lanka beat Australia: Level series 1-1",
     "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-beat-Australia-Level-series-1-1/108-239194",
     "file_name": "/tmp/news_lk2/articles/b0/b0e016f8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655401560,
+    "title": "Chamika triggers collapse, Sri Lanka draw level with Australia",
+    "url": "https://www.dailymirror.lk/top-story-sports-1/Chamika-triggers-collapse-Sri-Lanka-draw-level-with-Australia/324-239194",
+    "file_name": "/tmp/news_lk2/articles/bf/bfba6bf3.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -684,19 +698,5 @@
     "title": "Sri Lanka: Family loses breadwinner as fuel crisis worsens",
     "url": "https://www.newsfirst.lk/2022/06/16/sri-lanka-family-loses-breadwinner-as-fuel-crisis-worsens/",
     "file_name": "/tmp/news_lk2/articles/e3/e335d2c5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655362680,
-    "title": "16-hour water cut in Colombo",
-    "url": "https://www.dailymirror.lk/latest_news/16-hour-water-cut-in-Colombo/342-239167",
-    "file_name": "/tmp/news_lk2/articles/90/90320c62.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655362680,
-    "title": "16-hour water cut in Colombo",
-    "url": "https://www.dailymirror.lk/breaking_news/16-hour-water-cut-in-Colombo/108-239167",
-    "file_name": "/tmp/news_lk2/articles/7a/7abecd0d.json"
   }
 ]
