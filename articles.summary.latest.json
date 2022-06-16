@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655384280,
+    "title": "SL to import 50,000 metric tons of rice under Indian loan",
+    "url": "https://www.dailymirror.lk/breaking_news/SL-to-import-50-000-metric-tons-of-rice-under-Indian-loan/108-239179",
+    "file_name": "/tmp/news_lk2/articles/51/51f7c39a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655383620,
+    "title": "Protest against awarding  projects to Adani Group",
+    "url": "https://www.dailymirror.lk/latest_news/Protest-against-awarding-projects-to-Adani-Group/342-239178",
+    "file_name": "/tmp/news_lk2/articles/e7/e7b9e38a.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655383500,
+    "title": "Sri Lanka to import 50,000MT of rice under Indian credit line signed in March",
+    "url": "https://economynext.com/sri-lanka-to-import-50000mt-of-rice-under-indian-credit-line-signed-in-march-95903/",
+    "file_name": "/tmp/news_lk2/articles/0d/0da1e675.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655381760,
     "title": "Sri Lanka\u2019s fuel, gas queue death toll goes up to 10 as two men die waiting for essentials",
@@ -677,26 +698,5 @@
     "title": "Four-day work week: Can Govt. reap what it sows?",
     "url": "https://www.dailymirror.lk/insight/Four-day-work-week-Can-Govt-reap-what-it-sows/374-239126",
     "file_name": "/tmp/news_lk2/articles/14/14181b16.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655328900,
-    "title": "Sri Lanka\u2019s Al Capone Syndrome threatens human security",
-    "url": "https://www.dailymirror.lk/recomended-news/Sri-Lankas-Al-Capone-Syndrome-threatens-human-security/277-239125",
-    "file_name": "/tmp/news_lk2/articles/40/406c063f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655328900,
-    "title": "Sri Lanka\u2019s Al Capone Syndrome threatens human security",
-    "url": "https://www.dailymirror.lk/plus/Sri-Lankas-Al-Capone-Syndrome-threatens-human-security/352-239125",
-    "file_name": "/tmp/news_lk2/articles/1e/1ebb5524.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655328900,
-    "title": "Sri Lanka\u2019s Al Capone Syndrome threatens human security",
-    "url": "https://www.dailymirror.lk/opinion/Sri-Lankas-Al-Capone-Syndrome-threatens-human-security/231-239125",
-    "file_name": "/tmp/news_lk2/articles/8e/8eff8a3c.json"
   }
 ]
