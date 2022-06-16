@@ -49,6 +49,13 @@
     "file_name": "/tmp/news_lk2/articles/bd/bd8a169d.json"
   },
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655375220,
+    "title": "Sri Lanka selects new suppliers to import fuel",
+    "url": "http://www.adaderana.lk/news/83083/sri-lanka-selects-new-suppliers-to-import-fuel",
+    "file_name": "/tmp/news_lk2/articles/f6/f62882f0.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655375040,
     "title": "School holiday for tomorrow",
@@ -691,12 +698,5 @@
     "title": "Core Group urges Govt. to protect civil society space amidst challenges",
     "url": "https://www.ft.lk/news/Core-Group-urges-Govt-to-protect-civil-society-space-amidst-challenges/56-736240",
     "file_name": "/tmp/news_lk2/articles/d4/d424c144.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655316540,
-    "title": "President stresses need to decentralize all public services",
-    "url": "http://www.adaderana.lk/news/83069/president-stresses-need-to-decentralize-all-public-services",
-    "file_name": "/tmp/news_lk2/articles/35/350d787a.json"
   }
 ]
