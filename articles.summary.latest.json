@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655444460,
+    "title": "Letter of Credit opened to purchase 300,000 barrels of petrol",
+    "url": "http://www.adaderana.lk/news/83095/letter-of-credit-opened-to-purchase-300000-barrels-of-petrol",
+    "file_name": "/tmp/news_lk2/articles/34/347a6a64.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655443620,
     "title": "Sri Lanka stresses importance of expanding bilateral ties with Japan",
     "url": "http://www.adaderana.lk/news/83094/sri-lanka-stresses-importance-of-expanding-bilateral-ties-with-japan",
@@ -420,6 +427,13 @@
     "file_name": "/tmp/news_lk2/articles/3c/3c24813b.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655395500,
+    "title": "President, PM says no curfew or lockdown",
+    "url": "https://www.dailymirror.lk/breaking_news/President-PM-says-no-curfew-or-lockdown/108-239188",
+    "file_name": "/tmp/news_lk2/articles/e2/e2d5695a.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655394900,
     "title": "New strategies need to be formulated for industrial sector to earn foreign exchange rapidly \u2013 President",
@@ -684,19 +698,5 @@
     "title": "QUAD could lead way to avoid SL\u2019s economic implosion: Chairman of US Committee on Foreign Relations",
     "url": "https://www.newsfirst.lk/2022/06/16/quad-could-lead-way-to-avoid-sls-economic-implosion-chairman-of-us-committee-on-foreign-relations/",
     "file_name": "/tmp/news_lk2/articles/ad/ad0aca8e.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655378100,
-    "title": "16-hour water cut on Saturday (18)",
-    "url": "https://www.newsfirst.lk/2022/06/16/16-hour-water-cut-on-saturday-18/",
-    "file_name": "/tmp/news_lk2/articles/06/06822094.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655377560,
-    "title": "Holiday declared for all Govt schools tomorrow (17)",
-    "url": "https://www.newsfirst.lk/2022/06/16/holiday-declared-for-all-govt-schools-tomorrow-17/",
-    "file_name": "/tmp/news_lk2/articles/9f/9fd74afb.json"
   }
 ]
