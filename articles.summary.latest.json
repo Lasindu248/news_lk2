@@ -1,5 +1,40 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655490600,
+    "title": "Aeroflot willing to resume flights to Colombo  if SL gives assurance",
+    "url": "https://www.dailymirror.lk/breaking_news/Aeroflot-willing-to-resume-flights-to-Colombo-if-SL-gives-assurance/108-239278",
+    "file_name": "/tmp/news_lk2/articles/cb/cb527f50.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655490540,
+    "title": "University of Moratuwa and Dhammika and Priscilla Perera Foundation to boost skilled workforce",
+    "url": "https://www.ft.lk/business/University-of-Moratuwa-and-Dhammika-and-Priscilla-Perera-Foundation-to-boost-skilled-workforce/34-736348",
+    "file_name": "/tmp/news_lk2/articles/3f/3f0fdc9a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655490480,
+    "title": "Dialog SmartLife app for Three Sinha roller doors",
+    "url": "https://www.ft.lk/business/Dialog-SmartLife-app-for-Three-Sinha-roller-doors/34-736347",
+    "file_name": "/tmp/news_lk2/articles/08/081e89a0.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655490420,
+    "title": "COMBank unveils new rewards to Q+ Payment App users",
+    "url": "https://www.ft.lk/business/COMBank-unveils-new-rewards-to-Q-Payment-App-users/34-736346",
+    "file_name": "/tmp/news_lk2/articles/5d/5d1d8626.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655490420,
+    "title": "CEAT pits its motorcycle tyres against competitors at Indian test track",
+    "url": "https://www.ft.lk/business/CEAT-pits-its-motorcycle-tyres-against-competitors-at-Indian-test-track/34-736345",
+    "file_name": "/tmp/news_lk2/articles/74/740a692e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655488740,
     "title": "Court orders arrest of 9 protesters including \u2018Ratta\u2019",
@@ -663,40 +698,5 @@
     "title": "Four arrested for unruly behaviour at Pallekelle Stadium",
     "url": "http://www.adaderana.lk/news/83092/four-arrested-for-unruly-behaviour-at-pallekelle-stadium",
     "file_name": "/tmp/news_lk2/articles/59/598b1523.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655431800,
-    "title": "Four Peradeniya Undergrads arrested during 2nd Aus-SL ODI",
-    "url": "https://www.dailymirror.lk/breaking_news/Four-Peradeniya-Undergrads-arrested-during-2nd-Aus-SL-ODI/108-239225",
-    "file_name": "/tmp/news_lk2/articles/1c/1cdc0a97.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655430780,
-    "title": "Sri Lanka economy grinding to a halt as monetary meltdown bites fuel imports",
-    "url": "https://economynext.com/sri-lanka-economy-grinding-to-a-halt-as-monetary-meltdown-bites-fuel-imports-95911/",
-    "file_name": "/tmp/news_lk2/articles/e7/e78ad382.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655430780,
-    "title": "Sri Lanka economy slowly grinding to a halt as monetary instability hits fuel imports",
-    "url": "https://economynext.com/sri-lanka-economy-slowly-grinding-to-a-halt-as-monetary-instability-hits-fuel-imports-95911/",
-    "file_name": "/tmp/news_lk2/articles/95/95c5daf6.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655430780,
-    "title": "Sri Lanka economy hitting roadblock as monetary instability disrupts fuel imports",
-    "url": "https://economynext.com/sri-lanka-economy-hitting-roadblock-as-monetary-instability-disrupts-fuel-imports-95911/",
-    "file_name": "/tmp/news_lk2/articles/92/92a4d302.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655430780,
-    "title": "Sri Lanka economy hitting roadblock as monetary meldown bites fuel imports",
-    "url": "https://economynext.com/sri-lanka-economy-hitting-roadblock-as-monetary-meldown-bites-fuel-imports-95911/",
-    "file_name": "/tmp/news_lk2/articles/87/87681924.json"
   }
 ]
