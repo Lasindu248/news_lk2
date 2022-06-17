@@ -1,6 +1,41 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655451060,
+    "title": "Police sergeant shoots himself in Tangalle",
+    "url": "https://www.dailymirror.lk/breaking_news/Police-sergeant-shoots-himself-in-Tangalle/108-239256",
+    "file_name": "/tmp/news_lk2/articles/61/610ad031.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655450460,
+    "title": "Lack of coordination between Sri Lanka president, PM: former President Sirisena",
+    "url": "https://economynext.com/lack-of-coordination-between-sri-lanka-president-pm-former-president-sirisena-95957/",
+    "file_name": "/tmp/news_lk2/articles/50/50295b64.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655449680,
+    "title": "Police officer dies after shooting himself",
+    "url": "http://www.adaderana.lk/news/83096/police-officer-dies-after-shooting-himself",
+    "file_name": "/tmp/news_lk2/articles/3d/3dc15624.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655449500,
+    "title": "Parliament to meet from 21st to 24th June",
+    "url": "https://www.newsfirst.lk/2022/06/17/parliament-to-meet-from-21st-to-24th-june/",
+    "file_name": "/tmp/news_lk2/articles/f1/f1d4f6ee.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655448840,
+    "title": "P\u2019ment Committee approves Criminal & Civil procedure Bills",
+    "url": "https://www.newsfirst.lk/2022/06/17/pment-committee-approves-criminal-civil-procedure-bills/",
+    "file_name": "/tmp/news_lk2/articles/e7/e7080947.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655448720,
     "title": "Agnipath Row: Violent protests in Bihar, train set on fire in Secunderabad - unrest across India",
     "url": "https://www.dailymirror.lk/breaking_news/Agnipath-Row-Violent-protests-in-Bihar-train-set-on-fire-in-Secunderabad-unrest-across-India/108-239255",
@@ -260,6 +295,13 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655416920,
+    "title": "Yupun finishes fifth at Oslo Diamond League",
+    "url": "https://www.dailymirror.lk/sports/Yupun-finishes-fifth-at-Oslo-Diamond-League/322-239224",
+    "file_name": "/tmp/news_lk2/articles/2a/2ab2a770.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655412720,
     "title": "Private buses will operate according to fuel they get: Bus owners",
     "url": "https://www.dailymirror.lk/latest_news/Private-buses-will-operate-according-to-fuel-they-get-Bus-owners/342-239193",
@@ -472,6 +514,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655401560,
     "title": "Chamika triggers collapse, Sri Lanka draw level with Australia",
+    "url": "https://www.dailymirror.lk/sports/Chamika-triggers-collapse-Sri-Lanka-draw-level-with-Australia/322-239194",
+    "file_name": "/tmp/news_lk2/articles/db/db50ac84.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655401560,
+    "title": "Chamika triggers collapse, Sri Lanka draw level with Australia",
     "url": "https://www.dailymirror.lk/top-story-sports-1/Chamika-triggers-collapse-Sri-Lanka-draw-level-with-Australia/324-239194",
     "file_name": "/tmp/news_lk2/articles/bf/bfba6bf3.json"
   },
@@ -649,54 +698,5 @@
     "title": "Sri Lanka rupee\u2019s commercial bank quoted rate down; 1-yr t-bill yield up",
     "url": "https://economynext.com/sri-lanka-rupees-commercial-bank-quoted-rate-down-1-yr-t-bill-yield-up-95909/",
     "file_name": "/tmp/news_lk2/articles/1b/1bd1cae7.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655387580,
-    "title": "Sri Lanka shares drop for 3rd session; uncertainties weigh",
-    "url": "https://economynext.com/sri-lanka-shares-drop-for-3rd-session-uncertainties-weigh-95908/",
-    "file_name": "/tmp/news_lk2/articles/fb/fb547c50.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655386740,
-    "title": "Govt to import 50,000 MT of rice to avert possible shortage",
-    "url": "http://www.adaderana.lk/news/83088/govt-to-import-50000-mt-of-rice-to-avert-possible-shortage",
-    "file_name": "/tmp/news_lk2/articles/b7/b79cff91.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655386020,
-    "title": "New chairman appointed to National Housing Development Authority",
-    "url": "http://www.adaderana.lk/news/83087/new-chairman-appointed-to-national-housing-development-authority",
-    "file_name": "/tmp/news_lk2/articles/48/48b03220.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655385480,
-    "title": "US announces $6 million in emergency assistance to respond to Sri Lanka\u2019s economic crisis",
-    "url": "http://www.adaderana.lk/news/83086/us-announces-6-million-in-emergency-assistance-to-respond-to-sri-lankas-economic-crisis",
-    "file_name": "/tmp/news_lk2/articles/64/64eb4766.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655385060,
-    "title": "Crisis-hit Sri Lanka in process to mend Japanese ties after cancelling LRT, ECT projects",
-    "url": "https://economynext.com/crisis-hit-sri-lanka-in-process-to-mend-japanese-ties-after-cancelling-lrt-ect-projects-95901/",
-    "file_name": "/tmp/news_lk2/articles/bc/bca84eff.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655384280,
-    "title": "SL to import 50,000 metric tons of rice under Indian loan",
-    "url": "https://www.dailymirror.lk/breaking_news/SL-to-import-50-000-metric-tons-of-rice-under-Indian-loan/108-239179",
-    "file_name": "/tmp/news_lk2/articles/51/51f7c39a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655384280,
-    "title": "50,000 MT of rice from India to avert rice shortage",
-    "url": "https://www.newsfirst.lk/2022/06/16/50000-mt-of-rice-from-india-to-avert-rice-shortage/",
-    "file_name": "/tmp/news_lk2/articles/a2/a2802eaa.json"
   }
 ]
