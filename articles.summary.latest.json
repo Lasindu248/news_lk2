@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655452260,
+    "title": "16-hour water cut in parts of Colombo this weekend",
+    "url": "http://www.adaderana.lk/news/83098/16-hour-water-cut-in-parts-of-colombo-this-weekend",
+    "file_name": "/tmp/news_lk2/articles/97/97092032.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655451060,
     "title": "Police sergeant shoots himself in Tangalle",
@@ -691,12 +698,5 @@
     "title": "Macro-economic constraints bring down CSE; fuel crisis a factor",
     "url": "http://island.lk/macro-economic-constraints-bring-down-cse-fuel-crisis-a-factor/",
     "file_name": "/tmp/news_lk2/articles/1b/1b36e882.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655388480,
-    "title": "Sri Lanka rupee\u2019s commercial bank quoted rate down; 1-yr t-bill yield up",
-    "url": "https://economynext.com/sri-lanka-rupees-commercial-bank-quoted-rate-down-1-yr-t-bill-yield-up-95909/",
-    "file_name": "/tmp/news_lk2/articles/1b/1bd1cae7.json"
   }
 ]
