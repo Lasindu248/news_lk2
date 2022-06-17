@@ -1,10 +1,66 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655465580,
+    "title": "Sri Lankan police sergeant shoots himself dead with service weapon",
+    "url": "https://economynext.com/sri-lankan-police-sergeant-shoots-himself-dead-with-service-weapon-95960/",
+    "file_name": "/tmp/news_lk2/articles/3f/3f788b98.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655465160,
+    "title": "Sri Lanka: Two week work from home program for public sector from Monday (20)",
+    "url": "https://www.newsfirst.lk/2022/06/17/sri-lanka-two-week-work-from-home-program-for-public-sector-from-monday-20/",
+    "file_name": "/tmp/news_lk2/articles/67/67122529.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655464920,
+    "title": "Teachers to be given temporary transfers to nearest school",
+    "url": "http://www.adaderana.lk/news/83102/teachers-to-be-given-temporary-transfers-to-nearest-school",
+    "file_name": "/tmp/news_lk2/articles/ff/ff3b9b96.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655464200,
+    "title": "Pakistan extends full support to resolve SL economic crisis: High Commissioner",
+    "url": "https://www.newsfirst.lk/2022/06/17/pakistan-extends-full-support-to-resolve-sl-economic-crisis-high-commissioner/",
+    "file_name": "/tmp/news_lk2/articles/d6/d6165f3b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655464020,
+    "title": "MRI to conduct survey on Nutrition Levels",
+    "url": "https://www.newsfirst.lk/2022/06/17/mri-to-conduct-survey-on-nutrition-levels/",
+    "file_name": "/tmp/news_lk2/articles/e5/e51c87c4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655463720,
+    "title": "Ekneligoda Disappearance: Army Intel personnel granted bail; Witness remanded",
+    "url": "https://www.newsfirst.lk/2022/06/17/ekneligoda-disappearance-army-intel-personnel-granted-bail-witness-remanded/",
+    "file_name": "/tmp/news_lk2/articles/d6/d6184a45.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655462760,
+    "title": "Schools to re-open on Monday (20)",
+    "url": "https://www.newsfirst.lk/2022/06/17/schools-to-re-open-on-monday-20/",
+    "file_name": "/tmp/news_lk2/articles/1e/1ee0cc29.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655462340,
     "title": "Chairman of CAA tenders resignation",
     "url": "http://www.adaderana.lk/news/83101/chairman-of-caa-tenders-resignation",
     "file_name": "/tmp/news_lk2/articles/d7/d7afb790.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655462220,
+    "title": "CAA Chairman resigns",
+    "url": "https://www.newsfirst.lk/2022/06/17/caa-chairman-resigns/",
+    "file_name": "/tmp/news_lk2/articles/6a/6a031030.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -642,61 +698,5 @@
     "title": "Govt. issues circular on special Friday holiday for 3 months",
     "url": "https://www.ft.lk/news/Govt-issues-circular-on-special-Friday-holiday-for-3-months/56-736302",
     "file_name": "/tmp/news_lk2/articles/9b/9bf498bd.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655404200,
-    "title": "Japan, Switzerland elected to UN Security council for two years",
-    "url": "https://www.ft.lk/news/Japan-Switzerland-elected-to-UN-Security-council-for-two-years/56-736301",
-    "file_name": "/tmp/news_lk2/articles/84/84eda835.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655404200,
-    "title": "SLKBC hosts Lankan Ambassador-Designate to Korea",
-    "url": "https://www.ft.lk/business/SLKBC-hosts-Lankan-Ambassador-Designate-to-Korea/34-736299",
-    "file_name": "/tmp/news_lk2/articles/84/847de6a7.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655404200,
-    "title": "Pioneering industrialist Micky Wickramasingha no more",
-    "url": "https://www.ft.lk/business/Pioneering-industrialist-Micky-Wickramasingha-no-more/34-736297",
-    "file_name": "/tmp/news_lk2/articles/19/194a1b1b.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655403000,
-    "title": "UN begins food relief for Sri Lanka\u2019s pregnant women",
-    "url": "http://www.adaderana.lk/news/83090/un-begins-food-relief-for-sri-lankas-pregnant-women",
-    "file_name": "/tmp/news_lk2/articles/5f/5f547184.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655402220,
-    "title": "US announces $6 million in emergency assistance to SL",
-    "url": "https://www.dailymirror.lk/breaking_news/US-announces-6-million-in-emergency-assistance-to-SL/108-239192",
-    "file_name": "/tmp/news_lk2/articles/0d/0dd2022f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655402220,
-    "title": "US announces $6 million in emergency assistance to SL",
-    "url": "https://www.dailymirror.lk/latest_news/US-announces-6-million-in-emergency-assistance-to-SL/342-239192",
-    "file_name": "/tmp/news_lk2/articles/fe/fe35ebac.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655401560,
-    "title": "Chamika triggers collapse, Sri Lanka draw level with Australia",
-    "url": "https://www.dailymirror.lk/breaking_news/Chamika-triggers-collapse-Sri-Lanka-draw-level-with-Australia/108-239194",
-    "file_name": "/tmp/news_lk2/articles/31/3101acef.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655401560,
-    "title": "Sri Lanka beat Australia: Level series 1-1",
-    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-beat-Australia-Level-series-1-1/108-239194",
-    "file_name": "/tmp/news_lk2/articles/b0/b0e016f8.json"
   }
 ]
