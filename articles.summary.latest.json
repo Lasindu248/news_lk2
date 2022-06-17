@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655496600,
+    "title": "Food crisis can directly affect 4-5 Mn people in Sri Lanka \u2013 PM",
+    "url": "http://www.adaderana.lk/news/83109/food-crisis-can-directly-affect-4-5-mn-people-in-sri-lanka-pm-",
+    "file_name": "/tmp/news_lk2/articles/61/6136482b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655491260,
     "title": "Port City to be showcased at CHOGM 2022",
     "url": "http://www.adaderana.lk/news/83108/port-city-to-be-showcased-at-chogm-2022",
@@ -691,12 +698,5 @@
     "title": "Sri Lanka entertain roaring Pallekele crowd with series-levelling win",
     "url": "https://www.newsfirst.lk/2022/06/17/sri-lanka-entertain-roaring-pallekele-crowd-with-series-levelling-win/",
     "file_name": "/tmp/news_lk2/articles/05/05a2aeea.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655439180,
-    "title": "It\u2019s selfie time",
-    "url": "https://www.dailymirror.lk/caption_story/Its-selfie-time/110-239241",
-    "file_name": "/tmp/news_lk2/articles/95/95002821.json"
   }
 ]
