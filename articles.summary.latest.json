@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655437260,
+    "title": "Spend \u2019Friday holiday\u2019 cleaning up your backyard: GMOA",
+    "url": "https://www.dailymirror.lk/latest_news/Spend-Friday-holiday-cleaning-up-your-backyard-GMOA/342-239240",
+    "file_name": "/tmp/news_lk2/articles/38/3821fce1.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655436840,
+    "title": "Makumbura Multimodal Centre blocked by protesters",
+    "url": "http://www.adaderana.lk/news/83093/makumbura-multimodal-centre-blocked-by-protesters",
+    "file_name": "/tmp/news_lk2/articles/22/22ef3505.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655436480,
+    "title": "Fuel Crisis: Private bus workers protest in Kottawa; State transport services operating in full capacity",
+    "url": "https://www.newsfirst.lk/2022/06/17/fuel-crisis-private-bus-workers-protest-in-kottawa-state-transport-services-operating-in-full-capacity/",
+    "file_name": "/tmp/news_lk2/articles/c5/c58670b4.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655434560,
     "title": "Four arrested for unruly behaviour at Pallekelle Stadium",
@@ -28,6 +49,13 @@
     "file_name": "/tmp/news_lk2/articles/92/92a4d302.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655430780,
+    "title": "Sri Lanka economy hitting roadblock as monetary meldown bites fuel imports",
+    "url": "https://economynext.com/sri-lanka-economy-hitting-roadblock-as-monetary-meldown-bites-fuel-imports-95911/",
+    "file_name": "/tmp/news_lk2/articles/87/87681924.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655430240,
     "title": "Showery condition expected to enhance in some areas",
@@ -40,6 +68,13 @@
     "title": "Yupun finishes fifth at Oslo Diamond League",
     "url": "https://www.dailymirror.lk/headline/Yupun-finishes-fifth-at-Oslo-Diamond-League/419-239224",
     "file_name": "/tmp/news_lk2/articles/21/21abb8a6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655416920,
+    "title": "Yupun finishes fifth at Oslo Diamond League",
+    "url": "https://www.dailymirror.lk/top-story-sports-2/Yupun-finishes-fifth-at-Oslo-Diamond-League/326-239224",
+    "file_name": "/tmp/news_lk2/articles/75/7550601f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -663,40 +698,5 @@
     "title": "Biden administration announces additional $1 billion in military aid for Ukraine",
     "url": "https://www.newsfirst.lk/2022/06/16/biden-administration-announces-additional-1-billion-in-military-aid-for-ukraine/",
     "file_name": "/tmp/news_lk2/articles/f2/f28bf3a1.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655374020,
-    "title": "Norochcholai down again for 70 days",
-    "url": "https://www.dailymirror.lk/breaking_news/Norochcholai-down-again-for-70-days/108-239173",
-    "file_name": "/tmp/news_lk2/articles/bc/bc6a1c39.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655373540,
-    "title": "Circular issued declaring Friday a holiday for public sector employees",
-    "url": "http://www.adaderana.lk/news/83082/circular-issued-declaring-friday-a-holiday-for-public-sector-employees",
-    "file_name": "/tmp/news_lk2/articles/9f/9f631627.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655373420,
-    "title": "Heavy showers expected tonight (16)",
-    "url": "https://www.newsfirst.lk/2022/06/16/heavy-showers-expected-tonight-16/",
-    "file_name": "/tmp/news_lk2/articles/48/487c5d49.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655372100,
-    "title": "Several areas plunged in chaos without fuel, gas",
-    "url": "https://www.dailymirror.lk/top_story/Several-areas-plunged-in-chaos-without-fuel-gas/155-239172",
-    "file_name": "/tmp/news_lk2/articles/f8/f83da1b5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655372100,
-    "title": "Several areas plunged in chaos without fuel, gas",
-    "url": "https://www.dailymirror.lk/breaking_news/Several-areas-plunged-in-chaos-without-fuel-gas/108-239172",
-    "file_name": "/tmp/news_lk2/articles/64/64d753e9.json"
   }
 ]
