@@ -1,10 +1,38 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655453760,
+    "title": "Sri Lanka should have gone to IMF sooner, delay was a mistake \u2013 CBSL Governor",
+    "url": "https://www.newsfirst.lk/2022/06/17/sri-lanka-should-have-gone-to-imf-sooner-delay-was-a-mistake-cbsl-governor/",
+    "file_name": "/tmp/news_lk2/articles/ac/ac626908.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655453460,
+    "title": "Police officer takes his own life in Tangalle",
+    "url": "https://www.newsfirst.lk/2022/06/17/police-officer-takes-his-own-life-in-tangalle/",
+    "file_name": "/tmp/news_lk2/articles/f9/f9baa2e4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655453400,
+    "title": "Basil hospitalised",
+    "url": "https://www.dailymirror.lk/latest_news/Basil-hospitalised/342-239257",
+    "file_name": "/tmp/news_lk2/articles/1e/1ea944f9.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655452260,
     "title": "16-hour water cut in parts of Colombo this weekend",
     "url": "http://www.adaderana.lk/news/83098/16-hour-water-cut-in-parts-of-colombo-this-weekend",
     "file_name": "/tmp/news_lk2/articles/97/97092032.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655451540,
+    "title": "New Bill to solve labor concerns, soon",
+    "url": "https://www.newsfirst.lk/2022/06/17/new-bill-to-solve-labor-concerns-soon/",
+    "file_name": "/tmp/news_lk2/articles/4f/4fa0aef1.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -59,6 +87,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655447940,
     "title": "Prosecutors drop case over death of detained Sri Lankan in Japan",
+    "url": "https://www.dailymirror.lk/latest_news/Prosecutors-drop-case-over-death-of-detained-Sri-Lankan-in-Japan/342-239254",
+    "file_name": "/tmp/news_lk2/articles/68/6894edd2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655447940,
+    "title": "Prosecutors drop case over death of detained Sri Lankan in Japan",
     "url": "https://www.dailymirror.lk/breaking_news/Prosecutors-drop-case-over-death-of-detained-Sri-Lankan-in-Japan/108-239254",
     "file_name": "/tmp/news_lk2/articles/ed/ed53beae.json"
   },
@@ -75,6 +110,13 @@
     "title": "Policy for industries to bring in foreign exchange",
     "url": "https://www.newsfirst.lk/2022/06/17/policy-for-industries-to-bring-in-foreign-exchange/",
     "file_name": "/tmp/news_lk2/articles/8a/8ad99cb7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655446920,
+    "title": "Special Jaffna-Colombo express train service from today",
+    "url": "https://www.dailymirror.lk/latest_news/Special-Jaffna-Colombo-express-train-service-from-today/342-239252",
+    "file_name": "/tmp/news_lk2/articles/67/67cf1c26.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -656,47 +698,5 @@
     "title": "Water bills amounting to Rs.7,500 mn unpaid : Water Board",
     "url": "https://www.dailymirror.lk/latest_news/Water-bills-amounting-to-Rs-7-500-mn-unpaid-Water-Board/342-239186",
     "file_name": "/tmp/news_lk2/articles/02/0246a26d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655391120,
-    "title": "Applications called for 2023 Grade One admissions",
-    "url": "https://www.dailymirror.lk/latest_news/Applications-called-for-2023-Grade-One-admissions/342-239184",
-    "file_name": "/tmp/news_lk2/articles/75/75e9a156.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655391120,
-    "title": "Applications called for 2023 Grade One admissions",
-    "url": "https://www.dailymirror.lk/breaking_news/Applications-called-for-2023-Grade-One-admissions/108-239184",
-    "file_name": "/tmp/news_lk2/articles/4c/4c5815f8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655389740,
-    "title": "Ceylon Biscuits founder passes away",
-    "url": "https://www.dailymirror.lk/latest_news/Ceylon-Biscuits-founder-passes-away/342-239182",
-    "file_name": "/tmp/news_lk2/articles/70/70ebd62d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655389740,
-    "title": "Ceylon Biscuits founder passes away",
-    "url": "https://www.dailymirror.lk/breaking_news/Ceylon-Biscuits-founder-passes-away/108-239182",
-    "file_name": "/tmp/news_lk2/articles/3f/3f74e0a1.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655389200,
-    "title": "Virtusa appoints Naresha Supramaniam as Country Head for Sri Lanka",
-    "url": "http://island.lk/virtusa-appoints-naresha-supramaniam-as-country-head-for-sri-lanka/",
-    "file_name": "/tmp/news_lk2/articles/e4/e42518f8.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655389080,
-    "title": "Macro-economic constraints bring down CSE; fuel crisis a factor",
-    "url": "http://island.lk/macro-economic-constraints-bring-down-cse-fuel-crisis-a-factor/",
-    "file_name": "/tmp/news_lk2/articles/1b/1b36e882.json"
   }
 ]
