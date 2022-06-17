@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655469660,
+    "title": "Sri Lanka shares end at six-week close on concerns over fuel-shortage led closure",
+    "url": "https://economynext.com/sri-lanka-shares-end-at-six-week-close-on-concerns-over-fuel-shortage-led-closure-95961/",
+    "file_name": "/tmp/news_lk2/articles/bb/bbdfad7c.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655468580,
     "title": "Plans to attach children to nearest schools due to crisis \u2013 Education Secretary",
@@ -691,12 +698,5 @@
     "title": "Sri Lanka hears the faint noise inside community kitchens - EDITORIAL",
     "url": "https://www.dailymirror.lk/opinion/Sri-Lanka-hears-the-faint-noise-inside-community-kitchens-EDITORIAL/172-239222",
     "file_name": "/tmp/news_lk2/articles/78/78987175.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655411400,
-    "title": "Breakdown of society as economic crisis and Ukraine war continue",
-    "url": "https://www.dailymirror.lk/opinion/Breakdown-of-society-as-economic-crisis-and-Ukraine-war-continue/172-239221",
-    "file_name": "/tmp/news_lk2/articles/d1/d1f95454.json"
   }
 ]
