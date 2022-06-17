@@ -1,10 +1,66 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655491260,
+    "title": "Port City to be showcased at CHOGM 2022",
+    "url": "http://www.adaderana.lk/news/83108/port-city-to-be-showcased-at-chogm-2022",
+    "file_name": "/tmp/news_lk2/articles/75/75396ffd.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655490600,
+    "title": "Aeroflot willing to resume flights to Colombo  if SL gives assurance",
+    "url": "https://www.dailymirror.lk/front_page/Aeroflot-willing-to-resume-flights-to-Colombo-if-SL-gives-assurance/238-239278",
+    "file_name": "/tmp/news_lk2/articles/e0/e051913b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655490600,
+    "title": "Ambassador-designate to Republic of Korea assumes duties",
+    "url": "https://www.ft.lk/news/Ambassador-designate-to-Republic-of-Korea-assumes-duties/56-736340",
+    "file_name": "/tmp/news_lk2/articles/a6/a6aa9bc9.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655490600,
+    "title": "Education sector facing serious crisis in present climate, senior officials tells COPA",
+    "url": "https://www.ft.lk/news/Education-sector-facing-serious-crisis-in-present-climate-senior-officials-tells-COPA/56-736344",
+    "file_name": "/tmp/news_lk2/articles/28/2849b45d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655490600,
+    "title": "WFP launches emergency response in Sri Lanka  amid escalating food crisis",
+    "url": "https://www.ft.lk/news/WFP-launches-emergency-response-in-Sri-Lanka-amid-escalating-food-crisis/56-736342",
+    "file_name": "/tmp/news_lk2/articles/28/288ebfd7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655490600,
+    "title": "Premajayantha leads\u00a0delegation to Asia Pacific Regional Education Minister\u2019s parley",
+    "url": "https://www.ft.lk/news/Premajayantha-leadsdelegation-to-Asia-Pacific-Regional-Education-Minister-s-parley/56-736341",
+    "file_name": "/tmp/news_lk2/articles/89/89e15e4a.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655490600,
     "title": "Aeroflot willing to resume flights to Colombo  if SL gives assurance",
     "url": "https://www.dailymirror.lk/breaking_news/Aeroflot-willing-to-resume-flights-to-Colombo-if-SL-gives-assurance/108-239278",
     "file_name": "/tmp/news_lk2/articles/cb/cb527f50.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655490600,
+    "title": "Sri Lanka\u2019s tri-forces participate at Queen\u2019s Platinum Jubilee pageant",
+    "url": "https://www.ft.lk/news/Sri-Lanka-s-tri-forces-participate-at-Queen-s-Platinum-Jubilee-pageant/56-736339",
+    "file_name": "/tmp/news_lk2/articles/14/1480ccde.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655490600,
+    "title": "Major creditors willing to discuss 2020-defaulter Zambia\u2019s debt restructuring",
+    "url": "https://www.ft.lk/news/Major-creditors-willing-to-discuss-2020-defaulter-Zambia-s-debt-restructuring/56-736343",
+    "file_name": "/tmp/news_lk2/articles/c8/c8ea2a5f.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -642,61 +698,5 @@
     "title": "It\u2019s selfie time",
     "url": "https://www.dailymirror.lk/caption_story/Its-selfie-time/110-239241",
     "file_name": "/tmp/news_lk2/articles/95/95002821.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655438880,
-    "title": "Four university students arrested for threatening cops in Pallekele",
-    "url": "https://www.newsfirst.lk/2022/06/17/four-university-students-arrested-for-threatening-cops-in-pallekele/",
-    "file_name": "/tmp/news_lk2/articles/e0/e0390ad5.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655437380,
-    "title": "STF arrests four men for money laundering",
-    "url": "https://www.newsfirst.lk/2022/06/17/stf-arrests-four-men-for-money-laundering/",
-    "file_name": "/tmp/news_lk2/articles/8f/8fd40e33.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655437260,
-    "title": "Spend \u2019Friday holiday\u2019 cleaning up your backyard: GMOA",
-    "url": "https://www.dailymirror.lk/latest_news/Spend-Friday-holiday-cleaning-up-your-backyard-GMOA/342-239240",
-    "file_name": "/tmp/news_lk2/articles/38/3821fce1.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655437260,
-    "title": "Spend \u2019Friday holiday\u2019 cleaning up your backyard: GMOA",
-    "url": "https://www.dailymirror.lk/breaking_news/Spend-Friday-holiday-cleaning-up-your-backyard-GMOA/108-239240",
-    "file_name": "/tmp/news_lk2/articles/91/91314077.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655436840,
-    "title": "Makumbura Multimodal Centre blocked by protesters",
-    "url": "http://www.adaderana.lk/news/83093/makumbura-multimodal-centre-blocked-by-protesters",
-    "file_name": "/tmp/news_lk2/articles/22/22ef3505.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655436480,
-    "title": "Fuel Crisis: Private bus workers protest in Kottawa; State transport services operating in full capacity",
-    "url": "https://www.newsfirst.lk/2022/06/17/fuel-crisis-private-bus-workers-protest-in-kottawa-state-transport-services-operating-in-full-capacity/",
-    "file_name": "/tmp/news_lk2/articles/c5/c58670b4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655436360,
-    "title": "India and Sri Lanka to strengthen connectivity in order to enhance people-to-people linkage",
-    "url": "https://www.dailymirror.lk/breaking_news/India-and-Sri-Lanka-to-strengthen-connectivity-in-order-to-enhance-people-to-people-linkage/108-239253",
-    "file_name": "/tmp/news_lk2/articles/30/306a4cb8.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655434560,
-    "title": "Four arrested for unruly behaviour at Pallekelle Stadium",
-    "url": "http://www.adaderana.lk/news/83092/four-arrested-for-unruly-behaviour-at-pallekelle-stadium",
-    "file_name": "/tmp/news_lk2/articles/59/598b1523.json"
   }
 ]
