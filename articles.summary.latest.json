@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655441580,
+    "title": "Heavy showers forecast in most parts of island today: Met. Dept.",
+    "url": "https://www.dailymirror.lk/latest_news/Heavy-showers-forecast-in-most-parts-of-island-today-Met-Dept/342-239248",
+    "file_name": "/tmp/news_lk2/articles/12/124f259b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655441460,
+    "title": "Report finalised; await submission to President soon",
+    "url": "https://www.dailymirror.lk/latest_news/Report-finalised-await-submission-to-President-soon/342-239247",
+    "file_name": "/tmp/news_lk2/articles/c3/c3c7fabb.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655441220,
+    "title": "Four nabbed for money laundering with over Rs. 19Mn local, foreign currencies",
+    "url": "https://www.dailymirror.lk/breaking_news/Four-nabbed-for-money-laundering-with-over-Rs-19Mn-local-foreign-currencies/108-239246",
+    "file_name": "/tmp/news_lk2/articles/23/23c70fec.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655439360,
     "title": "Sri Lanka entertain roaring Pallekele crowd with series-levelling win",
@@ -677,26 +698,5 @@
     "title": "US Senate foreign panel head asks QUAD memebers to help SL",
     "url": "https://www.dailymirror.lk/latest_news/US-Senate-foreign-panel-head-asks-QUAD-memebers-to-help-SL/342-239191",
     "file_name": "/tmp/news_lk2/articles/c9/c9d98595.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655375760,
-    "title": "US Senate foreign panel head asks QUAD memebers to help SL",
-    "url": "https://www.dailymirror.lk/breaking_news/US-Senate-foreign-panel-head-asks-QUAD-memebers-to-help-SL/108-239191",
-    "file_name": "/tmp/news_lk2/articles/cb/cb2d7219.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655375580,
-    "title": "Tomorrow declared holiday for schools",
-    "url": "http://www.adaderana.lk/news/83084/tomorrow-declared-holiday-for-schools",
-    "file_name": "/tmp/news_lk2/articles/a8/a8b6f637.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655375520,
-    "title": "#AdaniOut: Sri Lankans protest against Indian pressure on energy projects",
-    "url": "https://www.newsfirst.lk/2022/06/16/adaniout-sri-lankans-protest-against-indian-pressure-on-energy-projects/",
-    "file_name": "/tmp/news_lk2/articles/5b/5b1c9902.json"
   }
 ]
