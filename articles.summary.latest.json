@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655455260,
+    "title": "Sri Lanka facing its longest queues ever today",
+    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-facing-its-longest-queues-ever-today/342-239258",
+    "file_name": "/tmp/news_lk2/articles/ff/ff28e983.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655453760,
     "title": "Sri Lanka should have gone to IMF sooner, delay was a mistake \u2013 CBSL Governor",
@@ -131,6 +138,13 @@
     "title": "Sri Lanka stocks down in mid-day trade",
     "url": "https://economynext.com/sri-lanka-stocks-down-in-mid-day-trade-95945/",
     "file_name": "/tmp/news_lk2/articles/21/21fdac37.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655446500,
+    "title": "LC opened to purchase 300,000 barrels of Petrol",
+    "url": "https://www.dailymirror.lk/latest_news/LC-opened-to-purchase-300-000-barrels-of-Petrol/342-239251",
+    "file_name": "/tmp/news_lk2/articles/e7/e7a3929a.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -684,19 +698,5 @@
     "title": "7,500 Mn water bills defaulted by April 2022: Water Board",
     "url": "https://www.dailymirror.lk/breaking_news/7-500-Mn-water-bills-defaulted-by-April-2022-Water-Board/108-239186",
     "file_name": "/tmp/news_lk2/articles/51/514d43ed.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655393460,
-    "title": "Water bills amounting to Rs.7,500 mn unpaid : Water Board",
-    "url": "https://www.dailymirror.lk/breaking_news/Water-bills-amounting-to-Rs-7-500-mn-unpaid-Water-Board/108-239186",
-    "file_name": "/tmp/news_lk2/articles/66/66dea866.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655393460,
-    "title": "Water bills amounting to Rs.7,500 mn unpaid : Water Board",
-    "url": "https://www.dailymirror.lk/latest_news/Water-bills-amounting-to-Rs-7-500-mn-unpaid-Water-Board/342-239186",
-    "file_name": "/tmp/news_lk2/articles/02/0246a26d.json"
   }
 ]
