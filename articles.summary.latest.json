@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655480280,
+    "title": "Sri Lanka rupee dollar \u2018guidance rate\u2019 edges up; bond yields up",
+    "url": "https://economynext.com/sri-lanka-rupee-dollar-guidance-rate-edges-up-bond-yields-up-95998/",
+    "file_name": "/tmp/news_lk2/articles/7e/7e9a5d3c.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655478660,
     "title": "Protests & Road Closures demanding fuel",
@@ -691,12 +698,5 @@
     "title": "Yupun finishes fifth at Oslo Diamond League",
     "url": "https://www.dailymirror.lk/breaking_news/Yupun-finishes-fifth-at-Oslo-Diamond-League/108-239224",
     "file_name": "/tmp/news_lk2/articles/5c/5c36c95f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655416920,
-    "title": "Yupun finishes fifth at Oslo Diamond League",
-    "url": "https://www.dailymirror.lk/sports/Yupun-finishes-fifth-at-Oslo-Diamond-League/322-239224",
-    "file_name": "/tmp/news_lk2/articles/2a/2ab2a770.json"
   }
 ]
