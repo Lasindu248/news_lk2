@@ -21,6 +21,13 @@
     "file_name": "/tmp/news_lk2/articles/82/822ca276.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655476800,
+    "title": "Two-week \u2019work from home\u2019 for public servants from next week",
+    "url": "https://www.dailymirror.lk/breaking_news/Two-week-work-from-home-for-public-servants-from-next-week/108-239280",
+    "file_name": "/tmp/news_lk2/articles/87/87dac9cd.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655476620,
     "title": "Opposition Leader says election only option for change",
@@ -691,12 +698,5 @@
     "title": "Yupun finishes fifth at Oslo Diamond League",
     "url": "https://www.dailymirror.lk/top-story-sports-3/Yupun-finishes-fifth-at-Oslo-Diamond-League/327-239224",
     "file_name": "/tmp/news_lk2/articles/ba/bab0e9a5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655416920,
-    "title": "Yupun finishes fifth at Oslo Diamond League",
-    "url": "https://www.dailymirror.lk/latest_news/Yupun-finishes-fifth-at-Oslo-Diamond-League/342-239224",
-    "file_name": "/tmp/news_lk2/articles/95/9542510e.json"
   }
 ]
