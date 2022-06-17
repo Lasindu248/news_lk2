@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655443620,
+    "title": "Sri Lanka stresses importance of expanding bilateral ties with Japan",
+    "url": "http://www.adaderana.lk/news/83094/sri-lanka-stresses-importance-of-expanding-bilateral-ties-with-japan",
+    "file_name": "/tmp/news_lk2/articles/bb/bb3a133a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655442300,
+    "title": "SLR President Rizly Illyas suspended from rugby duties",
+    "url": "https://www.dailymirror.lk/latest_news/SLR-President-Rizly-Illyas-suspended-from-rugby-duties/342-239249",
+    "file_name": "/tmp/news_lk2/articles/24/244bd036.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655441580,
     "title": "Heavy showers forecast in most parts of island today: Met. Dept.",
@@ -684,19 +698,5 @@
     "title": "Holiday declared for all Govt schools tomorrow (17)",
     "url": "https://www.newsfirst.lk/2022/06/16/holiday-declared-for-all-govt-schools-tomorrow-17/",
     "file_name": "/tmp/news_lk2/articles/9f/9fd74afb.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655377440,
-    "title": "Applications for admission of Grade 1 students in govt schools",
-    "url": "http://www.adaderana.lk/news/83085/applications-for-admission-of-grade-1-students-in-govt-schools",
-    "file_name": "/tmp/news_lk2/articles/0b/0bbbdf38.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655375760,
-    "title": "US Senate foreign panel head asks QUAD memebers to help SL",
-    "url": "https://www.dailymirror.lk/latest_news/US-Senate-foreign-panel-head-asks-QUAD-memebers-to-help-SL/342-239191",
-    "file_name": "/tmp/news_lk2/articles/c9/c9d98595.json"
   }
 ]
