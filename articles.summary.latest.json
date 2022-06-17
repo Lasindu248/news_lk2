@@ -1,10 +1,66 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655468580,
+    "title": "Plans to attach children to nearest schools due to crisis \u2013 Education Secretary",
+    "url": "https://www.newsfirst.lk/2022/06/17/plans-to-attach-children-to-nearest-schools-due-to-crisis-education-secretary/",
+    "file_name": "/tmp/news_lk2/articles/ae/aee57f28.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655467920,
+    "title": "Two-week work from home period introduced for public sector employees",
+    "url": "http://www.adaderana.lk/news/83104/two-week-work-from-home-period-introduced-for-public-sector-employees",
+    "file_name": "/tmp/news_lk2/articles/b7/b75822f9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655467380,
+    "title": "Will not leave anyone hungry in face of food crisis: PM",
+    "url": "https://www.newsfirst.lk/2022/06/17/will-not-leave-anyone-hungry-in-face-of-food-crisis-pm/",
+    "file_name": "/tmp/news_lk2/articles/88/88026895.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655467260,
+    "title": "Zoo Transfer : From Dehiwala to Pinnawala",
+    "url": "https://www.newsfirst.lk/2022/06/17/zoo-transfer-from-dehiwala-to-pinnawala/",
+    "file_name": "/tmp/news_lk2/articles/0d/0d7642c1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655467020,
+    "title": "Public Sector Work From Home circular issued",
+    "url": "https://www.newsfirst.lk/2022/06/17/public-sector-work-from-home-circular-issued/",
+    "file_name": "/tmp/news_lk2/articles/21/214068cf.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655466900,
+    "title": "Distribute existing fuel stocks in a systematic manner: President",
+    "url": "https://www.dailymirror.lk/latest_news/Distribute-existing-fuel-stocks-in-a-systematic-manner-President/342-239263",
+    "file_name": "/tmp/news_lk2/articles/62/625085d6.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655466900,
     "title": "Distribute existing fuel stocks in a systematic manner: President",
     "url": "https://www.dailymirror.lk/breaking_news/Distribute-existing-fuel-stocks-in-a-systematic-manner-President/108-239263",
     "file_name": "/tmp/news_lk2/articles/7f/7f77492d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655466480,
+    "title": "Six people arrested for filling station melee",
+    "url": "https://www.newsfirst.lk/2022/06/17/six-people-arrested-for-filling-station-melee/",
+    "file_name": "/tmp/news_lk2/articles/fc/fc9c6444.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655466000,
+    "title": "Island wide troops to be deployed for Army food security program",
+    "url": "https://www.newsfirst.lk/2022/06/17/island-wide-troops-to-be-deployed-for-army-food-security-program/",
+    "file_name": "/tmp/news_lk2/articles/24/248c8cdd.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -612,6 +668,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655411940,
     "title": "How far should you go to ensure election of \u2018good  MPs\u2019?",
+    "url": "https://www.dailymirror.lk/breaking_news/How-far-should-you-go-to-ensure-election-of-good-MPs/108-239223",
+    "file_name": "/tmp/news_lk2/articles/95/95f4902f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655411940,
+    "title": "How far should you go to ensure election of \u2018good  MPs\u2019?",
     "url": "https://www.dailymirror.lk/opinion/How-far-should-you-go-to-ensure-election-of-good-MPs/172-239223",
     "file_name": "/tmp/news_lk2/articles/5a/5a6f29de.json"
   },
@@ -635,68 +698,5 @@
     "title": "Breakdown of society as economic crisis and Ukraine war continue",
     "url": "https://www.dailymirror.lk/opinion/Breakdown-of-society-as-economic-crisis-and-Ukraine-war-continue/172-239221",
     "file_name": "/tmp/news_lk2/articles/d1/d1f95454.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655411400,
-    "title": "Breakdown of society as economic crisis and Ukraine war continue",
-    "url": "https://www.dailymirror.lk/opinion/Breakdown-of-society-as-economic-crisis-and-Ukraine-war-continue/231-239221",
-    "file_name": "/tmp/news_lk2/articles/82/8248d799.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655410620,
-    "title": "Political stability fundamental to economic revival: AKD",
-    "url": "https://www.dailymirror.lk/opinion/Political-stability-fundamental-to-economic-revival-AKD/231-239219",
-    "file_name": "/tmp/news_lk2/articles/ff/ffdcd7b7.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655410620,
-    "title": "Political stability fundamental to economic revival: AKD",
-    "url": "https://www.dailymirror.lk/opinion/Political-stability-fundamental-to-economic-revival-AKD/172-239219",
-    "file_name": "/tmp/news_lk2/articles/58/58c94248.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655410620,
-    "title": "Political stability fundamental to economic revival: AKD",
-    "url": "https://www.dailymirror.lk/hard-talk/Political-stability-fundamental-to-economic-revival-AKD/334-239219",
-    "file_name": "/tmp/news_lk2/articles/2e/2eadcd67.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655407440,
-    "title": "Sri Lanka has one of the slowest roads in the world: IMF study",
-    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-has-one-of-the-slowest-roads-in-the-world-IMF-study/108-239206",
-    "file_name": "/tmp/news_lk2/articles/e8/e8a93482.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655407440,
-    "title": "Sri Lanka has one of the slowest roads in the world: IMF study",
-    "url": "https://www.dailymirror.lk/business-news/Sri-Lanka-has-one-of-the-slowest-roads-in-the-world-IMF-study/273-239206",
-    "file_name": "/tmp/news_lk2/articles/81/81ca620a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655407440,
-    "title": "Sri Lanka has one of the slowest roads in the world: IMF study",
-    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-has-one-of-the-slowest-roads-in-the-world-IMF-study/342-239206",
-    "file_name": "/tmp/news_lk2/articles/30/30a1b3f0.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655404200,
-    "title": "Manusha appoints new Chairman and Directors to Foreign Employment Agency",
-    "url": "https://www.ft.lk/business/Manusha-appoints-new-Chairman-and-Directors-to-Foreign-Employment-Agency/34-736296",
-    "file_name": "/tmp/news_lk2/articles/ce/ce046e93.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655404200,
-    "title": "Gem and jewellery industry commits to boost forex via higher exports to support economic crisis",
-    "url": "https://www.ft.lk/business/Gem-and-jewellery-industry-commits-to-boost-forex-via-higher-exports-to-support-economic-crisis/34-736295",
-    "file_name": "/tmp/news_lk2/articles/a7/a73650fb.json"
   }
 ]
