@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655448720,
+    "title": "Agnipath Row: Violent protests in Bihar, train set on fire in Secunderabad - unrest across India",
+    "url": "https://www.dailymirror.lk/breaking_news/Agnipath-Row-Violent-protests-in-Bihar-train-set-on-fire-in-Secunderabad-unrest-across-India/108-239255",
+    "file_name": "/tmp/news_lk2/articles/57/57ce8d49.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655448720,
+    "title": "Sri Lanka rupee dollar \u2018guidance rate\u2019 appreciates despite severe forex shortages",
+    "url": "https://economynext.com/sri-lanka-rupee-dollar-guidance-rate-appreciates-despite-severe-forex-shortages-95956/",
+    "file_name": "/tmp/news_lk2/articles/49/49d97da1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655447940,
+    "title": "Prosecutors drop case over death of detained Sri Lankan in Japan",
+    "url": "https://www.dailymirror.lk/breaking_news/Prosecutors-drop-case-over-death-of-detained-Sri-Lankan-in-Japan/108-239254",
+    "file_name": "/tmp/news_lk2/articles/ed/ed53beae.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655447760,
     "title": "Sri Lanka protesters oppose Indian Adani\u2019s USD 500 mn unsolicited wind power deal",
@@ -262,6 +283,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655411940,
     "title": "How far should you go to ensure election of \u2018good  MPs\u2019?",
+    "url": "https://www.dailymirror.lk/latest_news/How-far-should-you-go-to-ensure-election-of-good-MPs/342-239223",
+    "file_name": "/tmp/news_lk2/articles/93/931a4792.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655411940,
+    "title": "How far should you go to ensure election of \u2018good  MPs\u2019?",
     "url": "https://www.dailymirror.lk/opinion/How-far-should-you-go-to-ensure-election-of-good-MPs/231-239223",
     "file_name": "/tmp/news_lk2/articles/5f/5fc5e74a.json"
   },
@@ -334,6 +362,13 @@
     "title": "Sri Lanka has one of the slowest roads in the world: IMF study",
     "url": "https://www.dailymirror.lk/business-news/Sri-Lanka-has-one-of-the-slowest-roads-in-the-world-IMF-study/273-239206",
     "file_name": "/tmp/news_lk2/articles/81/81ca620a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655407440,
+    "title": "Sri Lanka has one of the slowest roads in the world: IMF study",
+    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-has-one-of-the-slowest-roads-in-the-world-IMF-study/342-239206",
+    "file_name": "/tmp/news_lk2/articles/30/30a1b3f0.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -663,40 +698,5 @@
     "title": "50,000 MT of rice from India to avert rice shortage",
     "url": "https://www.newsfirst.lk/2022/06/16/50000-mt-of-rice-from-india-to-avert-rice-shortage/",
     "file_name": "/tmp/news_lk2/articles/a2/a2802eaa.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655384160,
-    "title": "AIA\u2019s national safety initiative, the Poson Safety Programme continues for the 27th year",
-    "url": "https://www.newsfirst.lk/2022/06/16/aias-national-safety-initiative-the-poson-safety-programme-continues-for-the-27th-year/",
-    "file_name": "/tmp/news_lk2/articles/99/998623fd.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655383620,
-    "title": "Protest against awarding  projects to Adani Group",
-    "url": "https://www.dailymirror.lk/caption_story/Protest-against-awarding-projects-to-Adani-Group/110-239178",
-    "file_name": "/tmp/news_lk2/articles/22/223b3f12.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655383620,
-    "title": "Protest against awarding  projects to Adani Group",
-    "url": "https://www.dailymirror.lk/latest_news/Protest-against-awarding-projects-to-Adani-Group/342-239178",
-    "file_name": "/tmp/news_lk2/articles/e7/e7b9e38a.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655383500,
-    "title": "Sri Lanka to import 50,000MT of rice under Indian credit line signed in March",
-    "url": "https://economynext.com/sri-lanka-to-import-50000mt-of-rice-under-indian-credit-line-signed-in-march-95903/",
-    "file_name": "/tmp/news_lk2/articles/0d/0da1e675.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655381760,
-    "title": "Sri Lanka fuel queues claim two new deaths, taking total to 10",
-    "url": "https://economynext.com/sri-lanka-fuel-queues-claim-two-new-deaths-taking-total-to-10-95902/",
-    "file_name": "/tmp/news_lk2/articles/1c/1c7b60fc.json"
   }
 ]
