@@ -1,6 +1,34 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655431800,
+    "title": "Four Peradeniya Undergrads arrested during 2nd Aus-SL ODI",
+    "url": "https://www.dailymirror.lk/breaking_news/Four-Peradeniya-Undergrads-arrested-during-2nd-Aus-SL-ODI/108-239225",
+    "file_name": "/tmp/news_lk2/articles/1c/1cdc0a97.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655430780,
+    "title": "Sri Lanka economy slowly grinding to a halt as monetary instability hits fuel imports",
+    "url": "https://economynext.com/sri-lanka-economy-slowly-grinding-to-a-halt-as-monetary-instability-hits-fuel-imports-95911/",
+    "file_name": "/tmp/news_lk2/articles/95/95c5daf6.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655430240,
+    "title": "Showery condition expected to enhance in some areas",
+    "url": "http://www.adaderana.lk/news/83091/showery-condition-expected-to-enhance-in-some-areas",
+    "file_name": "/tmp/news_lk2/articles/21/2156f6bd.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655416920,
+    "title": "Yupun finishes fifth at Oslo Diamond League",
+    "url": "https://www.dailymirror.lk/headline/Yupun-finishes-fifth-at-Oslo-Diamond-League/419-239224",
+    "file_name": "/tmp/news_lk2/articles/21/21abb8a6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655412720,
     "title": "Private buses will operate according to fuel they get: Bus owners",
     "url": "https://www.dailymirror.lk/latest_news/Private-buses-will-operate-according-to-fuel-they-get-Bus-owners/342-239193",
@@ -17,8 +45,22 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655411940,
     "title": "How far should you go to ensure election of \u2018good  MPs\u2019?",
+    "url": "https://www.dailymirror.lk/opinion/How-far-should-you-go-to-ensure-election-of-good-MPs/231-239223",
+    "file_name": "/tmp/news_lk2/articles/5f/5fc5e74a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655411940,
+    "title": "How far should you go to ensure election of \u2018good  MPs\u2019?",
     "url": "https://www.dailymirror.lk/opinion/How-far-should-you-go-to-ensure-election-of-good-MPs/172-239223",
     "file_name": "/tmp/news_lk2/articles/5a/5a6f29de.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655411820,
+    "title": "Sri Lanka hears the faint noise inside community kitchens - EDITORIAL",
+    "url": "https://www.dailymirror.lk/opinion/Sri-Lanka-hears-the-faint-noise-inside-community-kitchens-EDITORIAL/231-239222",
+    "file_name": "/tmp/news_lk2/articles/00/00505aa1.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -36,10 +78,31 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655411400,
+    "title": "Breakdown of society as economic crisis and Ukraine war continue",
+    "url": "https://www.dailymirror.lk/opinion/Breakdown-of-society-as-economic-crisis-and-Ukraine-war-continue/231-239221",
+    "file_name": "/tmp/news_lk2/articles/82/8248d799.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655410620,
     "title": "Political stability fundamental to economic revival: AKD",
     "url": "https://www.dailymirror.lk/opinion/Political-stability-fundamental-to-economic-revival-AKD/172-239219",
     "file_name": "/tmp/news_lk2/articles/58/58c94248.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655410620,
+    "title": "Political stability fundamental to economic revival: AKD",
+    "url": "https://www.dailymirror.lk/hard-talk/Political-stability-fundamental-to-economic-revival-AKD/334-239219",
+    "file_name": "/tmp/news_lk2/articles/2e/2eadcd67.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655407440,
+    "title": "Sri Lanka has one of the slowest roads in the world: IMF study",
+    "url": "https://www.dailymirror.lk/business-news/Sri-Lanka-has-one-of-the-slowest-roads-in-the-world-IMF-study/273-239206",
+    "file_name": "/tmp/news_lk2/articles/81/81ca620a.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -124,6 +187,13 @@
     "title": "Sri Lanka beat Australia: Level series 1-1",
     "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-beat-Australia-Level-series-1-1/108-239194",
     "file_name": "/tmp/news_lk2/articles/b0/b0e016f8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655401560,
+    "title": "Chamika triggers collapse, Sri Lanka draw level with Australia",
+    "url": "https://www.dailymirror.lk/mirror_sports_cricket/Chamika-triggers-collapse-Sri-Lanka-draw-level-with-Australia/458-239194",
+    "file_name": "/tmp/news_lk2/articles/51/5101bedf.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -380,6 +450,13 @@
   {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655381760,
+    "title": "Sri Lanka fuel queues claim two new deaths, taking total to 10",
+    "url": "https://economynext.com/sri-lanka-fuel-queues-claim-two-new-deaths-taking-total-to-10-95902/",
+    "file_name": "/tmp/news_lk2/articles/1c/1c7b60fc.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655381760,
     "title": "Sri Lanka\u2019s fuel, gas queue death toll goes up to 10 as two men die waiting for essentials",
     "url": "https://economynext.com/sri-lankas-fuel-gas-queue-death-toll-goes-up-to-10-as-two-men-die-waiting-for-essentials-95902/",
     "file_name": "/tmp/news_lk2/articles/fc/fc14c7c3.json"
@@ -621,82 +698,5 @@
     "title": "Eight million Australians urged to turn off lights in face of energy crisis",
     "url": "https://www.newsfirst.lk/2022/06/16/eight-million-australians-urged-to-turn-off-lights-in-face-of-energy-crisis/",
     "file_name": "/tmp/news_lk2/articles/ff/ffc657d5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655370060,
-    "title": "Fuel distribution will streamline after price revision on June 24 : Ananda Palitha",
-    "url": "https://www.dailymirror.lk/latest_news/Fuel-distribution-will-streamline-after-price-revision-on-June-24-Ananda-Palitha/342-239175",
-    "file_name": "/tmp/news_lk2/articles/75/75ee9a90.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655369700,
-    "title": "USD 6 Mn Emergency Assistance from US",
-    "url": "https://www.newsfirst.lk/2022/06/16/usd-6-mn-emergency-assistance-from-us/",
-    "file_name": "/tmp/news_lk2/articles/01/0155002b.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655369100,
-    "title": "Sri Lanka stresses importance of relations with Japan",
-    "url": "https://www.newsfirst.lk/2022/06/16/sri-lanka-stresses-importance-of-relations-with-japan/",
-    "file_name": "/tmp/news_lk2/articles/4f/4f29d4ea.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655368200,
-    "title": "Norochcholai at risk of shutdown, warn CEB Engineers",
-    "url": "https://www.newsfirst.lk/2022/06/16/norochchoali-at-risk-of-shutdown-warn-ceb-engineers/",
-    "file_name": "/tmp/news_lk2/articles/fb/fb4d05c9.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655367600,
-    "title": "Ceylon Biscuits founder Mineka Wickramasinghe has passed away",
-    "url": "https://www.newsfirst.lk/2022/06/16/ceylon-biscuits-founder-mineka-wickramasinghe-has-passed-away/",
-    "file_name": "/tmp/news_lk2/articles/8b/8b1c48cf.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655367300,
-    "title": "CBSL Daily Exchange Rate",
-    "url": "https://www.newsfirst.lk/2022/06/16/cbsl-daily-exchange-rate/",
-    "file_name": "/tmp/news_lk2/articles/3d/3d9f1954.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655367000,
-    "title": "Rs. 7.5 Bn in unpaid water bills from consumers",
-    "url": "https://www.newsfirst.lk/2022/06/16/rs-7-5-bn-in-unpaid-water-bills-from-consumers/",
-    "file_name": "/tmp/news_lk2/articles/48/485807b8.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655366520,
-    "title": "Final fuel shipment under Indian credit line arrives at Colombo Port",
-    "url": "http://www.adaderana.lk/news/83081/final-fuel-shipment-under-indian-credit-line-arrives-at-colombo-port",
-    "file_name": "/tmp/news_lk2/articles/d6/d6da9abe.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655365980,
-    "title": "Man who attacked a disabled soldier at Galle Face identified as ruggerite Sajith Saranga- CID",
-    "url": "https://www.dailymirror.lk/breaking_news/Man-who-attacked-a-disabled-soldier-at-Galle-Face-identified-as-ruggerite-Sajith-Saranga-CID/108-239169",
-    "file_name": "/tmp/news_lk2/articles/22/22a9c7ee.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655365980,
-    "title": "Man who attacked a disabled soldier at Galle Face identified as ruggerite Sajith Saranga- CID",
-    "url": "https://www.dailymirror.lk/latest_news/Man-who-attacked-a-disabled-soldier-at-Galle-Face-identified-as-ruggerite-Sajith-Saranga-CID/342-239169",
-    "file_name": "/tmp/news_lk2/articles/7c/7cafc6fd.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655364300,
-    "title": "Sri Lankan woman throws five-year-old son into river, attempts suicide",
-    "url": "https://economynext.com/sri-lankan-woman-throws-five-year-old-son-into-river-attempts-suicide-95897/",
-    "file_name": "/tmp/news_lk2/articles/6f/6ff394de.json"
   }
 ]
