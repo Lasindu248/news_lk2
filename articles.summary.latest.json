@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655466900,
+    "title": "Distribute existing fuel stocks in a systematic manner: President",
+    "url": "https://www.dailymirror.lk/breaking_news/Distribute-existing-fuel-stocks-in-a-systematic-manner-President/108-239263",
+    "file_name": "/tmp/news_lk2/articles/7f/7f77492d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655465880,
+    "title": "Prioritize officials engaged in paper marking when dispensing fuel: Exams chief",
+    "url": "http://www.adaderana.lk/news/83103/prioritize-officials-engaged-in-paper-marking-when-dispensing-fuel-exams-chief",
+    "file_name": "/tmp/news_lk2/articles/b3/b3290a48.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655465580,
     "title": "Sri Lankan police sergeant shoots himself dead with service weapon",
@@ -535,6 +549,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655416920,
     "title": "Yupun finishes fifth at Oslo Diamond League",
+    "url": "https://www.dailymirror.lk/top-story-sports-3/Yupun-finishes-fifth-at-Oslo-Diamond-League/327-239224",
+    "file_name": "/tmp/news_lk2/articles/ba/bab0e9a5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655416920,
+    "title": "Yupun finishes fifth at Oslo Diamond League",
     "url": "https://www.dailymirror.lk/latest_news/Yupun-finishes-fifth-at-Oslo-Diamond-League/342-239224",
     "file_name": "/tmp/news_lk2/articles/95/9542510e.json"
   },
@@ -677,26 +698,5 @@
     "title": "Gem and jewellery industry commits to boost forex via higher exports to support economic crisis",
     "url": "https://www.ft.lk/business/Gem-and-jewellery-industry-commits-to-boost-forex-via-higher-exports-to-support-economic-crisis/34-736295",
     "file_name": "/tmp/news_lk2/articles/a7/a73650fb.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655404200,
-    "title": "Sri Lanka stresses importance of relations with Japan",
-    "url": "https://www.ft.lk/news/Sri-Lanka-stresses-importance-of-relations-with-Japan/56-736300",
-    "file_name": "/tmp/news_lk2/articles/f3/f3c8751d.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655404200,
-    "title": "Asia Siyaka Group announces new appointments",
-    "url": "https://www.ft.lk/business/Asia-Siyaka-Group-announces-new-appointments/34-736298",
-    "file_name": "/tmp/news_lk2/articles/b2/b2aa48c7.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655404200,
-    "title": "Govt. issues circular on special Friday holiday for 3 months",
-    "url": "https://www.ft.lk/news/Govt-issues-circular-on-special-Friday-holiday-for-3-months/56-736302",
-    "file_name": "/tmp/news_lk2/articles/9b/9bf498bd.json"
   }
 ]
