@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655460060,
+    "title": "Distribute fuel stocks to filling stations methodically - President",
+    "url": "http://www.adaderana.lk/news/83100/distribute-fuel-stocks-to-filling-stations-methodically-president",
+    "file_name": "/tmp/news_lk2/articles/46/46a49724.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655458440,
     "title": "CBSL governor expresses desire to serve full six-year term",
     "url": "http://www.adaderana.lk/news/83099/cbsl-governor-expresses-desire-to-serve-full-six-year-term",
@@ -691,12 +698,5 @@
     "title": "President, PM says no curfew or lockdown",
     "url": "https://www.dailymirror.lk/top_story/President-PM-says-no-curfew-or-lockdown/155-239188",
     "file_name": "/tmp/news_lk2/articles/3c/3c24813b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655395500,
-    "title": "President, PM says no curfew or lockdown",
-    "url": "https://www.dailymirror.lk/breaking_news/President-PM-says-no-curfew-or-lockdown/108-239188",
-    "file_name": "/tmp/news_lk2/articles/e2/e2d5695a.json"
   }
 ]
