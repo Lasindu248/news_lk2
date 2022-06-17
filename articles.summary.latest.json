@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655472360,
+    "title": "Special night express from Mount Lavinia to Kankesanturai launched",
+    "url": "http://www.adaderana.lk/news/83105/special-night-express-from-mount-lavinia-to-kankesanturai-launched",
+    "file_name": "/tmp/news_lk2/articles/a8/a8df9317.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655470080,
+    "title": "Teachers to be temporarily re-assigned to nearest schools based on requirement \u2013 Education Ministry",
+    "url": "https://www.newsfirst.lk/2022/06/17/teachers-to-be-temporarily-re-assigned-to-nearest-schools-based-on-requirement-education-ministry/",
+    "file_name": "/tmp/news_lk2/articles/db/db4ce6e5.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655469660,
     "title": "Sri Lanka shares end at six-week close on concerns over fuel-shortage led closure",
@@ -684,19 +698,5 @@
     "title": "How far should you go to ensure election of \u2018good  MPs\u2019?",
     "url": "https://www.dailymirror.lk/opinion/How-far-should-you-go-to-ensure-election-of-good-MPs/172-239223",
     "file_name": "/tmp/news_lk2/articles/5a/5a6f29de.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655411820,
-    "title": "Sri Lanka hears the faint noise inside community kitchens - EDITORIAL",
-    "url": "https://www.dailymirror.lk/opinion/Sri-Lanka-hears-the-faint-noise-inside-community-kitchens-EDITORIAL/231-239222",
-    "file_name": "/tmp/news_lk2/articles/00/00505aa1.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655411820,
-    "title": "Sri Lanka hears the faint noise inside community kitchens - EDITORIAL",
-    "url": "https://www.dailymirror.lk/opinion/Sri-Lanka-hears-the-faint-noise-inside-community-kitchens-EDITORIAL/172-239222",
-    "file_name": "/tmp/news_lk2/articles/78/78987175.json"
   }
 ]
