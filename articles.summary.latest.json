@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655462340,
+    "title": "Chairman of CAA tenders resignation",
+    "url": "http://www.adaderana.lk/news/83101/chairman-of-caa-tenders-resignation",
+    "file_name": "/tmp/news_lk2/articles/d7/d7afb790.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655461740,
     "title": "Yala season harvesting begins",
@@ -691,12 +698,5 @@
     "title": "Sri Lanka beat Australia: Level series 1-1",
     "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-beat-Australia-Level-series-1-1/108-239194",
     "file_name": "/tmp/news_lk2/articles/b0/b0e016f8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655401560,
-    "title": "Chamika triggers collapse, Sri Lanka draw level with Australia",
-    "url": "https://www.dailymirror.lk/mirror_sports_cricket/Chamika-triggers-collapse-Sri-Lanka-draw-level-with-Australia/458-239194",
-    "file_name": "/tmp/news_lk2/articles/51/5101bedf.json"
   }
 ]
