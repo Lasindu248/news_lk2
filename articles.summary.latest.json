@@ -1,5 +1,40 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655447760,
+    "title": "Sri Lanka protesters oppose Indian Adani\u2019s USD 500 mn unsolicited wind power deal",
+    "url": "https://economynext.com/sri-lanka-protesters-oppose-indian-adanis-usd-500-mn-unsolicited-wind-power-deal-95910/",
+    "file_name": "/tmp/news_lk2/articles/73/7373dd4a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655447100,
+    "title": "Policy for industries to bring in foreign exchange",
+    "url": "https://www.newsfirst.lk/2022/06/17/policy-for-industries-to-bring-in-foreign-exchange/",
+    "file_name": "/tmp/news_lk2/articles/8a/8ad99cb7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655446920,
+    "title": "Special Jaffna-Colombo express train service from today",
+    "url": "https://www.dailymirror.lk/breaking_news/Special-Jaffna-Colombo-express-train-service-from-today/108-239252",
+    "file_name": "/tmp/news_lk2/articles/49/49cd9fbb.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655446680,
+    "title": "Sri Lanka stocks down in mid-day trade",
+    "url": "https://economynext.com/sri-lanka-stocks-down-in-mid-day-trade-95945/",
+    "file_name": "/tmp/news_lk2/articles/21/21fdac37.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655446500,
+    "title": "LC opened to purchase 300,000 barrels of Petrol",
+    "url": "https://www.dailymirror.lk/breaking_news/LC-opened-to-purchase-300-000-barrels-of-Petrol/108-239251",
+    "file_name": "/tmp/news_lk2/articles/3f/3ff72da4.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655444460,
     "title": "Letter of Credit opened to purchase 300,000 barrels of petrol",
@@ -17,6 +52,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655442300,
     "title": "SLR President Rizly Illyas suspended from rugby duties",
+    "url": "https://www.dailymirror.lk/breaking_news/SLR-President-Rizly-Illyas-suspended-from-rugby-duties/108-239249",
+    "file_name": "/tmp/news_lk2/articles/8d/8d59c6c9.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655442300,
+    "title": "SLR President Rizly Illyas suspended from rugby duties",
     "url": "https://www.dailymirror.lk/latest_news/SLR-President-Rizly-Illyas-suspended-from-rugby-duties/342-239249",
     "file_name": "/tmp/news_lk2/articles/24/244bd036.json"
   },
@@ -29,10 +71,24 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655441580,
+    "title": "Heavy showers forecast in most parts of island today: Met. Dept.",
+    "url": "https://www.dailymirror.lk/breaking_news/Heavy-showers-forecast-in-most-parts-of-island-today-Met-Dept/108-239248",
+    "file_name": "/tmp/news_lk2/articles/1a/1abf0851.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655441460,
     "title": "Report finalised; await submission to President soon",
     "url": "https://www.dailymirror.lk/latest_news/Report-finalised-await-submission-to-President-soon/342-239247",
     "file_name": "/tmp/news_lk2/articles/c3/c3c7fabb.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655441460,
+    "title": "Report finalised; await submission to President soon",
+    "url": "https://www.dailymirror.lk/breaking_news/Report-finalised-await-submission-to-President-soon/108-239247",
+    "file_name": "/tmp/news_lk2/articles/c5/c5cddd62.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -96,6 +152,13 @@
     "title": "Fuel Crisis: Private bus workers protest in Kottawa; State transport services operating in full capacity",
     "url": "https://www.newsfirst.lk/2022/06/17/fuel-crisis-private-bus-workers-protest-in-kottawa-state-transport-services-operating-in-full-capacity/",
     "file_name": "/tmp/news_lk2/articles/c5/c58670b4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655436360,
+    "title": "India and Sri Lanka to strengthen connectivity in order to enhance people-to-people linkage",
+    "url": "https://www.dailymirror.lk/breaking_news/India-and-Sri-Lanka-to-strengthen-connectivity-in-order-to-enhance-people-to-people-linkage/108-239253",
+    "file_name": "/tmp/news_lk2/articles/30/306a4cb8.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -187,6 +250,13 @@
     "title": "Private buses will operate according to fuel they get: Bus owners",
     "url": "https://www.dailymirror.lk/breaking_news/Private-buses-will-operate-according-to-fuel-they-get-Bus-owners/108-239193",
     "file_name": "/tmp/news_lk2/articles/1f/1f61f294.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655411940,
+    "title": "How far should you go to ensure election of \u2018good  MPs\u2019?",
+    "url": "https://www.dailymirror.lk/top_story/How-far-should-you-go-to-ensure-election-of-good-MPs/155-239223",
+    "file_name": "/tmp/news_lk2/articles/c2/c2a8df4a.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -628,75 +698,5 @@
     "title": "Sri Lanka fuel queues claim two new deaths, taking total to 10",
     "url": "https://economynext.com/sri-lanka-fuel-queues-claim-two-new-deaths-taking-total-to-10-95902/",
     "file_name": "/tmp/news_lk2/articles/1c/1c7b60fc.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655381760,
-    "title": "Sri Lanka\u2019s fuel, gas queue death toll goes up to 10 as two men die waiting for essentials",
-    "url": "https://economynext.com/sri-lankas-fuel-gas-queue-death-toll-goes-up-to-10-as-two-men-die-waiting-for-essentials-95902/",
-    "file_name": "/tmp/news_lk2/articles/fc/fc14c7c3.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655380680,
-    "title": "Circular for four-day work week, issued",
-    "url": "https://www.newsfirst.lk/2022/06/16/circular-for-four-day-work-week-issued/",
-    "file_name": "/tmp/news_lk2/articles/00/0041edd1.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655380500,
-    "title": "Function as usual with minimum staff: JSC advises Courts",
-    "url": "https://www.newsfirst.lk/2022/06/16/function-as-usual-with-minimum-staff-jsc-advises-courts/",
-    "file_name": "/tmp/news_lk2/articles/33/337bcea5.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655380380,
-    "title": "31,000 passports issued from 1st to 10th June",
-    "url": "https://www.newsfirst.lk/2022/06/16/31000-passports-issued-from-1st-to-10th-june/",
-    "file_name": "/tmp/news_lk2/articles/da/da281691.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655380200,
-    "title": "Legalise employee conditions",
-    "url": "https://www.dailymirror.lk/caption_story/Legalise-employee-conditions/110-239177",
-    "file_name": "/tmp/news_lk2/articles/01/012ec7a9.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655380200,
-    "title": "Legalise employee conditions",
-    "url": "https://www.dailymirror.lk/latest_news/Legalise-employee-conditions/342-239177",
-    "file_name": "/tmp/news_lk2/articles/25/253ddd46.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655380140,
-    "title": "WFP initiates food voucher program in Colombo",
-    "url": "https://www.newsfirst.lk/2022/06/16/wfp-initiates-food-voucher-program-in-colombo/",
-    "file_name": "/tmp/news_lk2/articles/31/311e3049.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655379120,
-    "title": "RMB to release 10,000 MT of rice per month",
-    "url": "https://www.newsfirst.lk/2022/06/16/rmb-to-release-10000-mt-of-rice-per-month/",
-    "file_name": "/tmp/news_lk2/articles/2c/2cc5f9fd.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655379120,
-    "title": "PMB to release 10,000 MT of rice per month",
-    "url": "https://www.newsfirst.lk/2022/06/16/pmb-to-release-10000-mt-of-rice-per-month/",
-    "file_name": "/tmp/news_lk2/articles/b9/b91c0a68.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655378280,
-    "title": "QUAD could lead way to avoid SL\u2019s economic implosion: Chairman of US Committee on Foreign Relations",
-    "url": "https://www.newsfirst.lk/2022/06/16/quad-could-lead-way-to-avoid-sls-economic-implosion-chairman-of-us-committee-on-foreign-relations/",
-    "file_name": "/tmp/news_lk2/articles/ad/ad0aca8e.json"
   }
 ]
