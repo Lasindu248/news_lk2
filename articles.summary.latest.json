@@ -1,10 +1,45 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655439360,
+    "title": "Sri Lanka entertain roaring Pallekele crowd with series-levelling win",
+    "url": "https://www.newsfirst.lk/2022/06/17/sri-lanka-entertain-roaring-pallekele-crowd-with-series-levelling-win/",
+    "file_name": "/tmp/news_lk2/articles/05/05a2aeea.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655439180,
+    "title": "It\u2019s selfie time",
+    "url": "https://www.dailymirror.lk/caption_story/Its-selfie-time/110-239241",
+    "file_name": "/tmp/news_lk2/articles/95/95002821.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655438880,
+    "title": "Four university students arrested for threatening cops in Pallekele",
+    "url": "https://www.newsfirst.lk/2022/06/17/four-university-students-arrested-for-threatening-cops-in-pallekele/",
+    "file_name": "/tmp/news_lk2/articles/e0/e0390ad5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655437380,
+    "title": "STF arrests four men for money laundering",
+    "url": "https://www.newsfirst.lk/2022/06/17/stf-arrests-four-men-for-money-laundering/",
+    "file_name": "/tmp/news_lk2/articles/8f/8fd40e33.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655437260,
     "title": "Spend \u2019Friday holiday\u2019 cleaning up your backyard: GMOA",
     "url": "https://www.dailymirror.lk/latest_news/Spend-Friday-holiday-cleaning-up-your-backyard-GMOA/342-239240",
     "file_name": "/tmp/news_lk2/articles/38/3821fce1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655437260,
+    "title": "Spend \u2019Friday holiday\u2019 cleaning up your backyard: GMOA",
+    "url": "https://www.dailymirror.lk/breaking_news/Spend-Friday-holiday-cleaning-up-your-backyard-GMOA/108-239240",
+    "file_name": "/tmp/news_lk2/articles/91/91314077.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -33,6 +68,13 @@
     "title": "Four Peradeniya Undergrads arrested during 2nd Aus-SL ODI",
     "url": "https://www.dailymirror.lk/breaking_news/Four-Peradeniya-Undergrads-arrested-during-2nd-Aus-SL-ODI/108-239225",
     "file_name": "/tmp/news_lk2/articles/1c/1cdc0a97.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655430780,
+    "title": "Sri Lanka economy grinding to a halt as monetary meltdown bites fuel imports",
+    "url": "https://economynext.com/sri-lanka-economy-grinding-to-a-halt-as-monetary-meltdown-bites-fuel-imports-95911/",
+    "file_name": "/tmp/news_lk2/articles/e7/e78ad382.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -82,6 +124,13 @@
     "title": "Yupun finishes fifth at Oslo Diamond League",
     "url": "https://www.dailymirror.lk/latest_news/Yupun-finishes-fifth-at-Oslo-Diamond-League/342-239224",
     "file_name": "/tmp/news_lk2/articles/95/9542510e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655416920,
+    "title": "Yupun finishes fifth at Oslo Diamond League",
+    "url": "https://www.dailymirror.lk/breaking_news/Yupun-finishes-fifth-at-Oslo-Diamond-League/108-239224",
+    "file_name": "/tmp/news_lk2/articles/5c/5c36c95f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -250,6 +299,13 @@
     "title": "US announces $6 million in emergency assistance to SL",
     "url": "https://www.dailymirror.lk/latest_news/US-announces-6-million-in-emergency-assistance-to-SL/342-239192",
     "file_name": "/tmp/news_lk2/articles/fe/fe35ebac.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655401560,
+    "title": "Chamika triggers collapse, Sri Lanka draw level with Australia",
+    "url": "https://www.dailymirror.lk/breaking_news/Chamika-triggers-collapse-Sri-Lanka-draw-level-with-Australia/108-239194",
+    "file_name": "/tmp/news_lk2/articles/31/3101acef.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -642,61 +698,5 @@
     "title": "#AdaniOut: Sri Lankans protest against Indian pressure on energy projects",
     "url": "https://www.newsfirst.lk/2022/06/16/adaniout-sri-lankans-protest-against-indian-pressure-on-energy-projects/",
     "file_name": "/tmp/news_lk2/articles/5b/5b1c9902.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655375220,
-    "title": "Sri Lanka selects new suppliers for fuel",
-    "url": "http://www.adaderana.lk/news/83083/sri-lanka-selects-new-suppliers-for-fuel",
-    "file_name": "/tmp/news_lk2/articles/bd/bd8a169d.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655375220,
-    "title": "Sri Lanka selects new suppliers to import fuel",
-    "url": "http://www.adaderana.lk/news/83083/sri-lanka-selects-new-suppliers-to-import-fuel",
-    "file_name": "/tmp/news_lk2/articles/f6/f62882f0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655375040,
-    "title": "School holiday for tomorrow",
-    "url": "https://www.dailymirror.lk/latest_news/School-holiday-for-tomorrow/342-239174",
-    "file_name": "/tmp/news_lk2/articles/16/1659aa11.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655375040,
-    "title": "Sri Lanka Paddy Marketing Board to issue 10,000MT of rice monthly to \u201cdestroy\u201d monopoly",
-    "url": "https://economynext.com/sri-lanka-paddy-marketing-board-to-issue-10000mt-of-rice-monthly-to-destroy-monopoly-95899/",
-    "file_name": "/tmp/news_lk2/articles/be/bed11834.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655375040,
-    "title": "Sri Lanka Paddy Marketing Board to issue 10,000MT of rice monthly to combat oligopoly",
-    "url": "https://economynext.com/sri-lanka-paddy-marketing-board-to-issue-10000mt-of-rice-monthly-to-combat-oligopoly-95899/",
-    "file_name": "/tmp/news_lk2/articles/9e/9ea83568.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655375040,
-    "title": "School holiday for tomorrow",
-    "url": "https://www.dailymirror.lk/breaking_news/School-holiday-for-tomorrow/108-239174",
-    "file_name": "/tmp/news_lk2/articles/32/32e2fd9d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655374500,
-    "title": "Fuel distribution will streamline after price revision on June 24: Ananda Palitha",
-    "url": "https://www.dailymirror.lk/breaking_news/Fuel-distribution-will-streamline-after-price-revision-on-June-24-Ananda-Palitha/108-239175",
-    "file_name": "/tmp/news_lk2/articles/a2/a2f877ad.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655374500,
-    "title": "Biden administration announces additional $1 billion in military aid for Ukraine",
-    "url": "https://www.newsfirst.lk/2022/06/16/biden-administration-announces-additional-1-billion-in-military-aid-for-ukraine/",
-    "file_name": "/tmp/news_lk2/articles/f2/f28bf3a1.json"
   }
 ]
