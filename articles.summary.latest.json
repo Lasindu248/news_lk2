@@ -1,10 +1,59 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655458440,
+    "title": "CBSL governor expresses desire to serve full six-year term",
+    "url": "http://www.adaderana.lk/news/83099/cbsl-governor-expresses-desire-to-serve-full-six-year-term",
+    "file_name": "/tmp/news_lk2/articles/9b/9b6d0a19.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655458020,
+    "title": "Growing animosity between Prez, PM: Maithri",
+    "url": "https://www.dailymirror.lk/latest_news/Growing-animosity-between-Prez-PM-Maithri/342-239260",
+    "file_name": "/tmp/news_lk2/articles/1d/1da151e0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655457720,
+    "title": "Let economic development continue without political hindrance: COPA",
+    "url": "https://www.newsfirst.lk/2022/06/17/let-economic-development-continue-without-political-hindrance-copa/",
+    "file_name": "/tmp/news_lk2/articles/88/880350b4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655457660,
+    "title": "Army Commander vows to work for betterment of Nation in maiden troop address",
+    "url": "https://www.newsfirst.lk/2022/06/17/army-commander-vows-to-work-for-betterment-of-nation-in-maiden-troop-address/",
+    "file_name": "/tmp/news_lk2/articles/94/945bed68.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655457420,
+    "title": "Inadequate diesel supply may lead to extended powercuts: CEB",
+    "url": "https://www.dailymirror.lk/latest_news/Inadequate-diesel-supply-may-lead-to-extended-powercuts-CEB/342-239259",
+    "file_name": "/tmp/news_lk2/articles/bd/bd76a53f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655455320,
+    "title": "Daily Exchange Rate from CBSL",
+    "url": "https://www.newsfirst.lk/2022/06/17/daily-exchange-rate-from-cbsl/",
+    "file_name": "/tmp/news_lk2/articles/65/65cf30ff.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655455260,
     "title": "Sri Lanka facing its longest queues ever today",
     "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-facing-its-longest-queues-ever-today/342-239258",
     "file_name": "/tmp/news_lk2/articles/ff/ff28e983.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655454540,
+    "title": "Health Officials warn of rise in Dengue",
+    "url": "https://www.newsfirst.lk/2022/06/17/health-officials-warn-of-rise-in-dengue/",
+    "file_name": "/tmp/news_lk2/articles/44/4444c42f.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -649,54 +698,5 @@
     "title": "President, PM says no curfew or lockdown",
     "url": "https://www.dailymirror.lk/breaking_news/President-PM-says-no-curfew-or-lockdown/108-239188",
     "file_name": "/tmp/news_lk2/articles/e2/e2d5695a.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655394900,
-    "title": "New strategies need to be formulated for industrial sector to earn foreign exchange rapidly \u2013 President",
-    "url": "http://www.adaderana.lk/news/83089/new-strategies-need-to-be-formulated-for-industrial-sector-to-earn-foreign-exchange-rapidly-president",
-    "file_name": "/tmp/news_lk2/articles/f4/f4824b3e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655394840,
-    "title": "PMB plans to increase supplying 10,000 MT rice to market monthly: Amaraweera",
-    "url": "https://www.dailymirror.lk/latest_news/PMB-plans-to-increase-supplying-10-000-MT-rice-to-market-monthly-Amaraweera/342-239185",
-    "file_name": "/tmp/news_lk2/articles/a5/a53d0027.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655394840,
-    "title": "PMB plans to increase supplying 10,000 MT rice to market monthly: Amaraweera",
-    "url": "https://www.dailymirror.lk/breaking_news/PMB-plans-to-increase-supplying-10-000-MT-rice-to-market-monthly-Amaraweera/108-239185",
-    "file_name": "/tmp/news_lk2/articles/b8/b8fb2638.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655394300,
-    "title": "Government would let no one suffer in hunger: Minister Amaraweera",
-    "url": "https://www.newsfirst.lk/2022/06/16/government-would-let-no-one-suffer-in-hunger-minister-amaraweera/",
-    "file_name": "/tmp/news_lk2/articles/8a/8a0a3a14.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655394300,
-    "title": "Chinese President Xi directs birthday letter to President Gotabaya",
-    "url": "https://www.newsfirst.lk/2022/06/16/chinese-president-xi-directs-birthday-letter-to-president-gotabaya/",
-    "file_name": "/tmp/news_lk2/articles/60/60c4c87c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655393460,
-    "title": "7,500 Mn water bills defaulted by April 2022: Water Board",
-    "url": "https://www.dailymirror.lk/latest_news/7-500-Mn-water-bills-defaulted-by-April-2022-Water-Board/342-239186",
-    "file_name": "/tmp/news_lk2/articles/0d/0d355bf9.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655393460,
-    "title": "7,500 Mn water bills defaulted by April 2022: Water Board",
-    "url": "https://www.dailymirror.lk/breaking_news/7-500-Mn-water-bills-defaulted-by-April-2022-Water-Board/108-239186",
-    "file_name": "/tmp/news_lk2/articles/51/514d43ed.json"
   }
 ]
