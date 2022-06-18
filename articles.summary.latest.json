@@ -8,6 +8,20 @@
   },
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655537340,
+    "title": "Unit 2 of Norochcholai power plant out of operation",
+    "url": "http://www.adaderana.lk/news/83117/unit-2-of-norochcholai-power-plant-out-of-operation",
+    "file_name": "/tmp/news_lk2/articles/b5/b5602571.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655535480,
+    "title": "12 deaths so far due to Rabies, vets encourage vaccinating pets",
+    "url": "https://www.newsfirst.lk/2022/06/18/12-deaths-so-far-due-to-rabies-vets-encourage-vaccinating-pets/",
+    "file_name": "/tmp/news_lk2/articles/e4/e478723b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655533680,
     "title": "Education sector facing more challenges at present, officials tell COPA",
     "url": "http://www.adaderana.lk/news/83116/education-sector-facing-more-challenges-at-present-officials-tell-copa",
@@ -684,19 +698,5 @@
     "title": "Chairman of CAA tenders resignation",
     "url": "http://www.adaderana.lk/news/83101/chairman-of-caa-tenders-resignation",
     "file_name": "/tmp/news_lk2/articles/d7/d7afb790.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655462220,
-    "title": "CAA Chairman resigns",
-    "url": "https://www.newsfirst.lk/2022/06/17/caa-chairman-resigns/",
-    "file_name": "/tmp/news_lk2/articles/6a/6a031030.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655461740,
-    "title": "Yala season harvesting begins",
-    "url": "https://www.newsfirst.lk/2022/06/17/yala-season-harvesting-begins/",
-    "file_name": "/tmp/news_lk2/articles/b1/b1e51071.json"
   }
 ]
