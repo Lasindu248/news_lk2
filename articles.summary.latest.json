@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655573100,
+    "title": "Suspect killed when police officer\u2019s pistol discharged during raid in Neluwa",
+    "url": "https://www.dailymirror.lk/breaking_news/Suspect-killed-when-police-officers-pistol-discharged-during-raid-in-Neluwa/108-239326",
+    "file_name": "/tmp/news_lk2/articles/7f/7fba4b99.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655572020,
     "title": "Tense situation near army checkpoint at Vishvamadu, two arrested",
@@ -89,6 +96,13 @@
     "title": "Licences of three fuel trucks suspended",
     "url": "https://www.dailymirror.lk/breaking_news/Licences-of-three-fuel-trucks-suspended/108-239325",
     "file_name": "/tmp/news_lk2/articles/9c/9c4b5859.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655556480,
+    "title": "Licences of three fuel trucks suspended",
+    "url": "https://www.dailymirror.lk/latest_news/Licences-of-three-fuel-trucks-suspended/342-239325",
+    "file_name": "/tmp/news_lk2/articles/23/2327c439.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -684,19 +698,5 @@
     "title": "Ambassador-designate to Republic of Korea assumes duties",
     "url": "https://www.ft.lk/news/Ambassador-designate-to-Republic-of-Korea-assumes-duties/56-736340",
     "file_name": "/tmp/news_lk2/articles/a6/a6aa9bc9.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655490600,
-    "title": "Education sector facing serious crisis in present climate, senior officials tells COPA",
-    "url": "https://www.ft.lk/news/Education-sector-facing-serious-crisis-in-present-climate-senior-officials-tells-COPA/56-736344",
-    "file_name": "/tmp/news_lk2/articles/28/2849b45d.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655490600,
-    "title": "WFP launches emergency response in Sri Lanka  amid escalating food crisis",
-    "url": "https://www.ft.lk/news/WFP-launches-emergency-response-in-Sri-Lanka-amid-escalating-food-crisis/56-736342",
-    "file_name": "/tmp/news_lk2/articles/28/288ebfd7.json"
   }
 ]
