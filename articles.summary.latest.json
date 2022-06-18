@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655569620,
+    "title": "KALUBOWITIYANA TEA FACTORY ACHIEVES EQUAL ALL TIME RECORD  PRICE AT E-AUCTION IN SRI LANKA",
+    "url": "https://www.ft.lk/business/KALUBOWITIYANA-TEA-FACTORY-ACHIEVES-EQUAL-ALL-TIME-RECORD-PRICE-AT-E-AUCTION-IN-SRI-LANKA/34-736367",
+    "file_name": "/tmp/news_lk2/articles/59/596d3265.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655569560,
+    "title": "NEW MAHENDRA TEA FACTORY ESTABLISHES EQUAL ALL TIME RECORD  PRICE FOR PEK GRADE",
+    "url": "https://www.ft.lk/business/NEW-MAHENDRA-TEA-FACTORY-ESTABLISHES-EQUAL-ALL-TIME-RECORD-PRICE-FOR-PEK-GRADE/34-736366",
+    "file_name": "/tmp/news_lk2/articles/e7/e738a8c6.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655569380,
+    "title": "Makandura Tea Factory Sets an All-Time Record Price.",
+    "url": "https://www.ft.lk/business/Makandura-Tea-Factory-Sets-an-All-Time-Record-Price/34-736365",
+    "file_name": "/tmp/news_lk2/articles/86/8629ae03.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655568540,
+    "title": "Sri Lanka agricultural experts warn of seed paddy shortage",
+    "url": "https://economynext.com/sri-lanka-agricultural-experts-warn-of-seed-paddy-shortage-96014/",
+    "file_name": "/tmp/news_lk2/articles/1e/1e8a56fb.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655565360,
     "title": "Suspect arrested with five foreign-made firearms in Mabola",
@@ -670,33 +698,5 @@
     "title": "Aeroflot willing to resume flights to Colombo  if SL gives assurance",
     "url": "https://www.dailymirror.lk/breaking_news/Aeroflot-willing-to-resume-flights-to-Colombo-if-SL-gives-assurance/108-239278",
     "file_name": "/tmp/news_lk2/articles/cb/cb527f50.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655490600,
-    "title": "Sri Lanka\u2019s tri-forces participate at Queen\u2019s Platinum Jubilee pageant",
-    "url": "https://www.ft.lk/news/Sri-Lanka-s-tri-forces-participate-at-Queen-s-Platinum-Jubilee-pageant/56-736339",
-    "file_name": "/tmp/news_lk2/articles/14/1480ccde.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655490600,
-    "title": "Major creditors willing to discuss 2020-defaulter Zambia\u2019s debt restructuring",
-    "url": "https://www.ft.lk/news/Major-creditors-willing-to-discuss-2020-defaulter-Zambia-s-debt-restructuring/56-736343",
-    "file_name": "/tmp/news_lk2/articles/c8/c8ea2a5f.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655490540,
-    "title": "University of Moratuwa and Dhammika and Priscilla Perera Foundation to boost skilled workforce",
-    "url": "https://www.ft.lk/business/University-of-Moratuwa-and-Dhammika-and-Priscilla-Perera-Foundation-to-boost-skilled-workforce/34-736348",
-    "file_name": "/tmp/news_lk2/articles/3f/3f0fdc9a.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655490480,
-    "title": "Dialog SmartLife app for Three Sinha roller doors",
-    "url": "https://www.ft.lk/business/Dialog-SmartLife-app-for-Three-Sinha-roller-doors/34-736347",
-    "file_name": "/tmp/news_lk2/articles/08/081e89a0.json"
   }
 ]
