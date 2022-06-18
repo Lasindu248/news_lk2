@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655545740,
+    "title": "COPA proposes setting up of Cabinet sub-committee for on food security",
+    "url": "http://www.adaderana.lk/news/83119/copa-proposes-setting-up-of-cabinet-sub-committee-for-on-food-security",
+    "file_name": "/tmp/news_lk2/articles/23/23cd84ba.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655543880,
+    "title": "(VIDEO) Young man falls off Beliatte-bound train at station filled with passengers due to fuel crisis",
+    "url": "https://www.newsfirst.lk/2022/06/18/video-young-man-falls-off-beliatte-bound-train-at-station-filled-with-passengers-due-to-fuel-crisis/",
+    "file_name": "/tmp/news_lk2/articles/27/27dfddfa.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655543640,
     "title": "Website to check fuel availability shut down temporarily",
@@ -684,19 +698,5 @@
     "title": "Six people arrested for filling station melee",
     "url": "https://www.newsfirst.lk/2022/06/17/six-people-arrested-for-filling-station-melee/",
     "file_name": "/tmp/news_lk2/articles/fc/fc9c6444.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655466000,
-    "title": "Island wide troops to be deployed for Army food security program",
-    "url": "https://www.newsfirst.lk/2022/06/17/island-wide-troops-to-be-deployed-for-army-food-security-program/",
-    "file_name": "/tmp/news_lk2/articles/24/248c8cdd.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655465880,
-    "title": "Prioritize officials engaged in paper marking when dispensing fuel: Exams chief",
-    "url": "http://www.adaderana.lk/news/83103/prioritize-officials-engaged-in-paper-marking-when-dispensing-fuel-exams-chief",
-    "file_name": "/tmp/news_lk2/articles/b3/b3290a48.json"
   }
 ]
