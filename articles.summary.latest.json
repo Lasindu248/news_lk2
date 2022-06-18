@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655529960,
+    "title": "Financial losses loom for Sri Lanka apparel sector",
+    "url": "https://www.dailymirror.lk/business-news/Financial-losses-loom-for-Sri-Lanka-apparel-sector/273-239305",
+    "file_name": "/tmp/news_lk2/articles/a4/a4f7f7ba.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655527560,
     "title": "Sri Lanka shares post worst weekly loss in seven weeks on economic, political woes",
@@ -691,12 +698,5 @@
     "title": "Sri Lanka facing its longest queues ever today",
     "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-facing-its-longest-queues-ever-today/342-239258",
     "file_name": "/tmp/news_lk2/articles/ff/ff28e983.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655454540,
-    "title": "Health Officials warn of rise in Dengue",
-    "url": "https://www.newsfirst.lk/2022/06/17/health-officials-warn-of-rise-in-dengue/",
-    "file_name": "/tmp/news_lk2/articles/44/4444c42f.json"
   }
 ]
