@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655559240,
+    "title": "University closure will only further disrupt education: FUTA",
+    "url": "https://www.newsfirst.lk/2022/06/18/university-closure-will-only-further-disrupt-education-futa/",
+    "file_name": "/tmp/news_lk2/articles/e9/e95c4e85.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655559240,
+    "title": "Athurugiriya Clash : Seven suspects remanded; Two released",
+    "url": "https://www.newsfirst.lk/2022/06/18/athurugiriya-clash-seven-suspects-remanded-two-released/",
+    "file_name": "/tmp/news_lk2/articles/89/89ada4a2.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655558340,
+    "title": "Seven arrested over brawl at filling station remanded",
+    "url": "http://www.adaderana.lk/news/83124/seven-arrested-over-brawl-at-filling-station-remanded",
+    "file_name": "/tmp/news_lk2/articles/c6/c6bb8c6a.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655556480,
     "title": "Licences of three fuel trucks suspended",
@@ -677,26 +698,5 @@
     "title": "Court orders arrest of 9 protesters including \u2018Ratta\u2019",
     "url": "http://www.adaderana.lk/news/83107/court-orders-arrest-of-9-protesters-including-ratta",
     "file_name": "/tmp/news_lk2/articles/f6/f65a64c3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655487960,
-    "title": "Watchful visiting Galle Face, Protest site due to rising crimes: Police urge public",
-    "url": "https://www.dailymirror.lk/breaking_news/Watchful-visiting-Galle-Face-Protest-site-due-to-rising-crimes-Police-urge-public/108-239281",
-    "file_name": "/tmp/news_lk2/articles/f6/f62ac235.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655485320,
-    "title": "Nine key suspects involved in violent acts ordered to be arrested",
-    "url": "https://www.newsfirst.lk/2022/06/17/nine-key-suspects-involved-in-violent-acts-ordered-to-be-arrested/",
-    "file_name": "/tmp/news_lk2/articles/e9/e9a5f4cd.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655483760,
-    "title": "UK govt orders WikiLeaks founder Julian Assange\u2019s extradition",
-    "url": "http://www.adaderana.lk/news/83106/uk-govt-orders-wikileaks-founder-julian-assanges-extradition",
-    "file_name": "/tmp/news_lk2/articles/7d/7d432a43.json"
   }
 ]
