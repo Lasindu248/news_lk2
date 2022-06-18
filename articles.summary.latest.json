@@ -210,6 +210,13 @@
     "file_name": "/tmp/news_lk2/articles/fa/fac1eb24.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655476320,
+    "title": "Sri Lanka sees more boat people events as economic crisis worsens",
+    "url": "https://economynext.com/sri-lanka-sees-more-boat-people-events-as-economic-crisis-worsens-95940/",
+    "file_name": "/tmp/news_lk2/articles/9a/9a64f030.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655474760,
     "title": "(Video) Cop manhandles unhappy motorcyclist at Kurunegala filling station",
@@ -691,12 +698,5 @@
     "title": "SLR President Rizly Illyas suspended from rugby duties",
     "url": "https://www.dailymirror.lk/latest_news/SLR-President-Rizly-Illyas-suspended-from-rugby-duties/342-239249",
     "file_name": "/tmp/news_lk2/articles/24/244bd036.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655441580,
-    "title": "Heavy showers forecast in most parts of island today: Met. Dept.",
-    "url": "https://www.dailymirror.lk/latest_news/Heavy-showers-forecast-in-most-parts-of-island-today-Met-Dept/342-239248",
-    "file_name": "/tmp/news_lk2/articles/12/124f259b.json"
   }
 ]
