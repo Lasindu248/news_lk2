@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655548080,
+    "title": "SLC clarifies rumours on selling fuel at R. Premadasa Stadium premises",
+    "url": "http://www.adaderana.lk/news/83120/slc-clarifies-rumours-on-selling-fuel-at-r-premadasa-stadium-premises",
+    "file_name": "/tmp/news_lk2/articles/41/418fc435.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655545740,
     "title": "COPA proposes setting up of Cabinet sub-committee for on food security",
     "url": "http://www.adaderana.lk/news/83119/copa-proposes-setting-up-of-cabinet-sub-committee-for-on-food-security",
@@ -19,6 +26,13 @@
     "title": "Website to check fuel availability shut down temporarily",
     "url": "https://www.dailymirror.lk/latest_news/Website-to-check-fuel-availability-shut-down-temporarily/342-239319",
     "file_name": "/tmp/news_lk2/articles/bb/bbd3c55e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655541960,
+    "title": "Online education for schools in Colombo City limits next week: Ministry",
+    "url": "https://www.dailymirror.lk/latest_news/Online-education-for-schools-in-Colombo-City-limits-next-week-Ministry/342-239320",
+    "file_name": "/tmp/news_lk2/articles/d2/d20ce132.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -684,19 +698,5 @@
     "title": "Distribute existing fuel stocks in a systematic manner: President",
     "url": "https://www.dailymirror.lk/latest_news/Distribute-existing-fuel-stocks-in-a-systematic-manner-President/342-239263",
     "file_name": "/tmp/news_lk2/articles/62/625085d6.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655466900,
-    "title": "Distribute existing fuel stocks in a systematic manner: President",
-    "url": "https://www.dailymirror.lk/breaking_news/Distribute-existing-fuel-stocks-in-a-systematic-manner-President/108-239263",
-    "file_name": "/tmp/news_lk2/articles/7f/7f77492d.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655466480,
-    "title": "Six people arrested for filling station melee",
-    "url": "https://www.newsfirst.lk/2022/06/17/six-people-arrested-for-filling-station-melee/",
-    "file_name": "/tmp/news_lk2/articles/fc/fc9c6444.json"
   }
 ]
