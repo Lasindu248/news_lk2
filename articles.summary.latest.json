@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655525160,
+    "title": "Sri Lanka\u2019s inflated car prices plunge as interest rates rise",
+    "url": "https://economynext.com/sri-lankas-inflated-car-prices-plunge-as-interest-rates-rise-96009/",
+    "file_name": "/tmp/news_lk2/articles/55/55e05f94.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655524800,
     "title": "Prevailing crisis situation led to closure of Peradeniya University",
@@ -691,12 +698,5 @@
     "title": "Basil hospitalised",
     "url": "https://www.dailymirror.lk/breaking_news/Basil-hospitalised/108-239257",
     "file_name": "/tmp/news_lk2/articles/41/41901e0c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655453400,
-    "title": "Basil hospitalised",
-    "url": "https://www.dailymirror.lk/latest_news/Basil-hospitalised/342-239257",
-    "file_name": "/tmp/news_lk2/articles/1e/1ea944f9.json"
   }
 ]
