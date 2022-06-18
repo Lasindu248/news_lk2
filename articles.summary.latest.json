@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655523900,
+    "title": "Six cops injured in Athurugiriya petrol shed clash: Nine arrested",
+    "url": "https://www.dailymirror.lk/breaking_news/Six-cops-injured-in-Athurugiriya-petrol-shed-clash-Nine-arrested/108-239314",
+    "file_name": "/tmp/news_lk2/articles/0e/0eca09d4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655520660,
+    "title": "(VIDEO) What happened in Athurugiriya leading to arrests of people in queues ?",
+    "url": "https://www.newsfirst.lk/2022/06/18/video-what-happened-in-athurugiriya-leading-to-arrests-of-people-in-queues/",
+    "file_name": "/tmp/news_lk2/articles/d5/d5bb693c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655520120,
+    "title": "Court orders nine suspects including \u2019Ratta\u2019  arrested",
+    "url": "https://www.dailymirror.lk/breaking_news/Court-orders-nine-suspects-including-Ratta-arrested/108-239313",
+    "file_name": "/tmp/news_lk2/articles/5e/5eff7190.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655520060,
     "title": "Pakistan assures fullest support for Sri Lanka to overcome economic crisis",
@@ -50,10 +71,24 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655513400,
+    "title": "Negombo Hospital murder case CA affirms death sentence for the Doctor",
+    "url": "https://www.dailymirror.lk/breaking_news/Negombo-Hospital-murder-case-CA-affirms-death-sentence-for-the-Doctor/108-239271",
+    "file_name": "/tmp/news_lk2/articles/19/198a6071.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655510100,
     "title": "Food crisis likely to affect around four to five million people - PM",
     "url": "https://www.dailymirror.lk/main_image/Food-crisis-likely-to-affect-around-four-to-five-million-people-PM/346-239279",
     "file_name": "/tmp/news_lk2/articles/ba/ba1f9e39.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655510100,
+    "title": "Food crisis likely to affect around four to five million people - PM",
+    "url": "https://www.dailymirror.lk/top_story/Food-crisis-likely-to-affect-around-four-to-five-million-people-PM/155-239279",
+    "file_name": "/tmp/news_lk2/articles/4a/4a0e923b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -663,40 +698,5 @@
     "title": "P\u2019ment Committee approves Criminal & Civil procedure Bills",
     "url": "https://www.newsfirst.lk/2022/06/17/pment-committee-approves-criminal-civil-procedure-bills/",
     "file_name": "/tmp/news_lk2/articles/e7/e7080947.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655448720,
-    "title": "Agnipath Row: Violent protests in Bihar, train set on fire in Secunderabad - unrest across India",
-    "url": "https://www.dailymirror.lk/breaking_news/Agnipath-Row-Violent-protests-in-Bihar-train-set-on-fire-in-Secunderabad-unrest-across-India/108-239255",
-    "file_name": "/tmp/news_lk2/articles/57/57ce8d49.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655448720,
-    "title": "Sri Lanka rupee dollar \u2018guidance rate\u2019 appreciates despite severe forex shortages",
-    "url": "https://economynext.com/sri-lanka-rupee-dollar-guidance-rate-appreciates-despite-severe-forex-shortages-95956/",
-    "file_name": "/tmp/news_lk2/articles/49/49d97da1.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655447940,
-    "title": "Prosecutors drop case over death of detained Sri Lankan in Japan",
-    "url": "https://www.dailymirror.lk/latest_news/Prosecutors-drop-case-over-death-of-detained-Sri-Lankan-in-Japan/342-239254",
-    "file_name": "/tmp/news_lk2/articles/68/6894edd2.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655447940,
-    "title": "Prosecutors drop case over death of detained Sri Lankan in Japan",
-    "url": "https://www.dailymirror.lk/breaking_news/Prosecutors-drop-case-over-death-of-detained-Sri-Lankan-in-Japan/108-239254",
-    "file_name": "/tmp/news_lk2/articles/ed/ed53beae.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655447760,
-    "title": "Sri Lanka protesters oppose Indian Adani\u2019s USD 500 mn unsolicited wind power deal",
-    "url": "https://economynext.com/sri-lanka-protesters-oppose-indian-adanis-usd-500-mn-unsolicited-wind-power-deal-95910/",
-    "file_name": "/tmp/news_lk2/articles/73/7373dd4a.json"
   }
 ]
