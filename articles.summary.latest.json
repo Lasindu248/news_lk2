@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655570580,
+    "title": "30-year-old shot dead during drug raid in Neluwa",
+    "url": "http://www.adaderana.lk/news/83126/30-year-old-shot-dead-during-drug-raid-in-neluwa",
+    "file_name": "/tmp/news_lk2/articles/14/142dcc23.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1655569620,
     "title": "KALUBOWITIYANA TEA FACTORY ACHIEVES EQUAL ALL TIME RECORD  PRICE AT E-AUCTION IN SRI LANKA",
@@ -691,12 +698,5 @@
     "title": "Premajayantha leads\u00a0delegation to Asia Pacific Regional Education Minister\u2019s parley",
     "url": "https://www.ft.lk/news/Premajayantha-leadsdelegation-to-Asia-Pacific-Regional-Education-Minister-s-parley/56-736341",
     "file_name": "/tmp/news_lk2/articles/89/89e15e4a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655490600,
-    "title": "Aeroflot willing to resume flights to Colombo  if SL gives assurance",
-    "url": "https://www.dailymirror.lk/breaking_news/Aeroflot-willing-to-resume-flights-to-Colombo-if-SL-gives-assurance/108-239278",
-    "file_name": "/tmp/news_lk2/articles/cb/cb527f50.json"
   }
 ]
