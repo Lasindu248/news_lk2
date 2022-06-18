@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655565360,
+    "title": "Suspect arrested with five foreign-made firearms in Mabola",
+    "url": "http://www.adaderana.lk/news/83125/suspect-arrested-with-five-foreign-made-firearms-in-mabola",
+    "file_name": "/tmp/news_lk2/articles/4b/4bd01d90.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655564040,
+    "title": "Suspect dies during drug raid, Police says accidental discharge",
+    "url": "https://www.newsfirst.lk/2022/06/18/suspect-dies-during-drug-raid-police-says-accidental-discharge/",
+    "file_name": "/tmp/news_lk2/articles/25/25c2a9bf.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655560620,
     "title": "Sri Lanka Army to cultivate barren lands to prevent food crisis",
@@ -684,19 +698,5 @@
     "title": "Dialog SmartLife app for Three Sinha roller doors",
     "url": "https://www.ft.lk/business/Dialog-SmartLife-app-for-Three-Sinha-roller-doors/34-736347",
     "file_name": "/tmp/news_lk2/articles/08/081e89a0.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655490420,
-    "title": "COMBank unveils new rewards to Q+ Payment App users",
-    "url": "https://www.ft.lk/business/COMBank-unveils-new-rewards-to-Q-Payment-App-users/34-736346",
-    "file_name": "/tmp/news_lk2/articles/5d/5d1d8626.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655490420,
-    "title": "CEAT pits its motorcycle tyres against competitors at Indian test track",
-    "url": "https://www.ft.lk/business/CEAT-pits-its-motorcycle-tyres-against-competitors-at-Indian-test-track/34-736345",
-    "file_name": "/tmp/news_lk2/articles/74/740a692e.json"
   }
 ]
