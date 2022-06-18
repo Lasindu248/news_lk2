@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655556480,
+    "title": "Licences of three fuel trucks suspended",
+    "url": "https://www.dailymirror.lk/breaking_news/Licences-of-three-fuel-trucks-suspended/108-239325",
+    "file_name": "/tmp/news_lk2/articles/9c/9c4b5859.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655556300,
+    "title": "Permits of three bowsers suspended for illegally unloading fuel",
+    "url": "http://www.adaderana.lk/news/83123/permits-of-three-bowsers-suspended-for-illegally-unloading-fuel",
+    "file_name": "/tmp/news_lk2/articles/87/87799aea.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655554440,
     "title": "Licenses of three fuel trucks suspended for illegally unloading fuel",
@@ -26,6 +40,13 @@
     "title": "Private sector should also Work From Home : Labour Ministry",
     "url": "https://www.newsfirst.lk/2022/06/18/private-sector-should-also-work-from-home-labour-ministry/",
     "file_name": "/tmp/news_lk2/articles/db/db92ffa3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655552820,
+    "title": "Schools in main cities to be closed for a week",
+    "url": "https://www.dailymirror.lk/breaking_news/Schools-in-main-cities-to-be-closed-for-a-week/108-239324",
+    "file_name": "/tmp/news_lk2/articles/ff/ff2f504a.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -138,6 +159,13 @@
     "title": "Online education for schools in Colombo City limits next week: Ministry",
     "url": "https://www.dailymirror.lk/breaking_news/Online-education-for-schools-in-Colombo-City-limits-next-week-Ministry/108-239320",
     "file_name": "/tmp/news_lk2/articles/a1/a18881a1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655541060,
+    "title": "Sapugaskanda may shut down if govt. unable to bring crude oil shipment: Union",
+    "url": "https://www.dailymirror.lk/breaking_news/Sapugaskanda-may-shut-down-if-govt-unable-to-bring-crude-oil-shipment-Union/108-239318",
+    "file_name": "/tmp/news_lk2/articles/71/719a5bd3.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -670,33 +698,5 @@
     "title": "UK govt orders WikiLeaks founder Julian Assange\u2019s extradition",
     "url": "http://www.adaderana.lk/news/83106/uk-govt-orders-wikileaks-founder-julian-assanges-extradition",
     "file_name": "/tmp/news_lk2/articles/7d/7d432a43.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655480280,
-    "title": "Sri Lanka rupee dollar \u2018guidance rate\u2019 edges up; bond yields up",
-    "url": "https://economynext.com/sri-lanka-rupee-dollar-guidance-rate-edges-up-bond-yields-up-95998/",
-    "file_name": "/tmp/news_lk2/articles/7e/7e9a5d3c.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655478660,
-    "title": "Protests & Road Closures demanding fuel",
-    "url": "https://www.newsfirst.lk/2022/06/17/protests-road-closures-demanding-fuel/",
-    "file_name": "/tmp/news_lk2/articles/82/822ca276.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655476800,
-    "title": "Two-week \u2019work from home\u2019 for public servants from next week",
-    "url": "https://www.dailymirror.lk/latest_news/Two-week-work-from-home-for-public-servants-from-next-week/342-239280",
-    "file_name": "/tmp/news_lk2/articles/4a/4a4a6b41.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655476800,
-    "title": "Two-week \u2019work from home\u2019 for public servants from next week",
-    "url": "https://www.dailymirror.lk/breaking_news/Two-week-work-from-home-for-public-servants-from-next-week/108-239280",
-    "file_name": "/tmp/news_lk2/articles/87/87dac9cd.json"
   }
 ]
