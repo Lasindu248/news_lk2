@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655551200,
+    "title": "Sikh temple in Afghanistan\u2019s capital of Kabul attacked",
+    "url": "http://www.adaderana.lk/news/83121/sikh-temple-in-afghanistans-capital-of-kabul-attacked",
+    "file_name": "/tmp/news_lk2/articles/e5/e53bd5a7.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655549760,
     "title": "Rice must be sold under controlled price from tonight: Dudley Sirisena",
@@ -691,12 +698,5 @@
     "title": "Teachers to be temporarily re-assigned to nearest schools based on requirement \u2013 Education Ministry",
     "url": "https://www.newsfirst.lk/2022/06/17/teachers-to-be-temporarily-re-assigned-to-nearest-schools-based-on-requirement-education-ministry/",
     "file_name": "/tmp/news_lk2/articles/db/db4ce6e5.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655469660,
-    "title": "Sri Lanka shares end at six-week close on concerns over fuel-shortage led closure",
-    "url": "https://economynext.com/sri-lanka-shares-end-at-six-week-close-on-concerns-over-fuel-shortage-led-closure-95961/",
-    "file_name": "/tmp/news_lk2/articles/bb/bbdfad7c.json"
   }
 ]
