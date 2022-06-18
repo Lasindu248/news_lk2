@@ -1,6 +1,20 @@
 [
   {
     "newspaper_id": "economy-next-com",
+    "time_ut": 1655527560,
+    "title": "Sri Lanka shares post worst weekly loss in seven weeks on economic, political woes",
+    "url": "https://economynext.com/sri-lanka-shares-post-worst-weekly-loss-in-seven-weeks-on-economic-political-woes-96011/",
+    "file_name": "/tmp/news_lk2/articles/db/dbdebb14.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655526720,
+    "title": "Sri Lanka should have gone to IMF sooner, says Central Bank Governor",
+    "url": "https://www.dailymirror.lk/business-news/Sri-Lanka-should-have-gone-to-IMF-sooner-says-Central-Bank-Governor/273-239311",
+    "file_name": "/tmp/news_lk2/articles/e2/e269fbb1.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "time_ut": 1655525160,
     "title": "Sri Lanka\u2019s inflated car prices plunge as interest rates rise",
     "url": "https://economynext.com/sri-lankas-inflated-car-prices-plunge-as-interest-rates-rise-96009/",
@@ -26,6 +40,13 @@
     "title": "Peradeniya University closed from today",
     "url": "http://www.adaderana.lk/news/83115/peradeniya-university-closed-from-today",
     "file_name": "/tmp/news_lk2/articles/27/27340617.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655524260,
+    "title": "Peradeniya University temporarily closed",
+    "url": "http://www.adaderana.lk/news/83115/peradeniya-university-temporarily-closed",
+    "file_name": "/tmp/news_lk2/articles/df/df9dcbaa.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -677,26 +698,5 @@
     "title": "Health Officials warn of rise in Dengue",
     "url": "https://www.newsfirst.lk/2022/06/17/health-officials-warn-of-rise-in-dengue/",
     "file_name": "/tmp/news_lk2/articles/44/4444c42f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655453760,
-    "title": "Sri Lanka should have gone to IMF sooner, delay was a mistake \u2013 CBSL Governor",
-    "url": "https://www.newsfirst.lk/2022/06/17/sri-lanka-should-have-gone-to-imf-sooner-delay-was-a-mistake-cbsl-governor/",
-    "file_name": "/tmp/news_lk2/articles/ac/ac626908.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655453460,
-    "title": "Police officer takes his own life in Tangalle",
-    "url": "https://www.newsfirst.lk/2022/06/17/police-officer-takes-his-own-life-in-tangalle/",
-    "file_name": "/tmp/news_lk2/articles/f9/f9baa2e4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655453400,
-    "title": "Basil hospitalised",
-    "url": "https://www.dailymirror.lk/breaking_news/Basil-hospitalised/108-239257",
-    "file_name": "/tmp/news_lk2/articles/41/41901e0c.json"
   }
 ]
