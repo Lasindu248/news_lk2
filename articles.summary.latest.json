@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655576760,
+    "title": "Sri Lanka energy minister suspends 3 fuel bowsers after viral social media video",
+    "url": "https://economynext.com/sri-lanka-energy-minister-suspends-3-fuel-bowsers-after-viral-social-media-video-96016/",
+    "file_name": "/tmp/news_lk2/articles/39/394a9707.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655575380,
+    "title": "Sri Lanka sees signs of fuel riots as motorists wait for days in queues",
+    "url": "https://economynext.com/sri-lanka-sees-signs-of-fuel-riots-as-motorists-wait-for-days-in-queues-96015/",
+    "file_name": "/tmp/news_lk2/articles/7b/7bcac29a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655575140,
+    "title": "Shots fired into air as tension flared up in Vishwamadu",
+    "url": "https://www.dailymirror.lk/breaking_news/Shots-fired-into-air-as-tension-flared-up-in-Vishwamadu/108-239327",
+    "file_name": "/tmp/news_lk2/articles/22/2215a4bc.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655573100,
     "title": "Suspect killed when police officer\u2019s pistol discharged during raid in Neluwa",
@@ -677,26 +698,5 @@
     "title": "Port City to be showcased at CHOGM 2022",
     "url": "http://www.adaderana.lk/news/83108/port-city-to-be-showcased-at-chogm-2022",
     "file_name": "/tmp/news_lk2/articles/75/75396ffd.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655490960,
-    "title": "Lanka Hospitals Academy partners NSBM Green University to offer clinical training for nursing undergraduates",
-    "url": "https://www.ft.lk/business/Lanka-Hospitals-Academy-partners-NSBM-Green-University-to-offer-clinical-training-for-nursing-undergraduates/34-736361",
-    "file_name": "/tmp/news_lk2/articles/d1/d1f7c50e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655490600,
-    "title": "Aeroflot willing to resume flights to Colombo  if SL gives assurance",
-    "url": "https://www.dailymirror.lk/front_page/Aeroflot-willing-to-resume-flights-to-Colombo-if-SL-gives-assurance/238-239278",
-    "file_name": "/tmp/news_lk2/articles/e0/e051913b.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655490600,
-    "title": "Ambassador-designate to Republic of Korea assumes duties",
-    "url": "https://www.ft.lk/news/Ambassador-designate-to-Republic-of-Korea-assumes-duties/56-736340",
-    "file_name": "/tmp/news_lk2/articles/a6/a6aa9bc9.json"
   }
 ]
