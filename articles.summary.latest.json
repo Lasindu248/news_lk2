@@ -1,10 +1,24 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655552580,
+    "title": "Latest announcement on closure of schools next week",
+    "url": "http://www.adaderana.lk/news/83122/latest-announcement-on-closure-of-schools-next-week",
+    "file_name": "/tmp/news_lk2/articles/75/755d68fd.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655551200,
     "title": "Sikh temple in Afghanistan\u2019s capital of Kabul attacked",
     "url": "http://www.adaderana.lk/news/83121/sikh-temple-in-afghanistans-capital-of-kabul-attacked",
     "file_name": "/tmp/news_lk2/articles/e5/e53bd5a7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655551140,
+    "title": "Public mistrust on Government & law enforcement will have dire consequences \u2013 BASL",
+    "url": "https://www.newsfirst.lk/2022/06/18/public-mistrust-on-government-law-enforcement-will-have-dire-consequences-basl/",
+    "file_name": "/tmp/news_lk2/articles/a9/a90ba7bc.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -26,6 +40,13 @@
     "title": "Sri Lanka\u2019s Economic crisis is unlike any other \u2013 UNICEF",
     "url": "https://www.newsfirst.lk/2022/06/18/sri-lankas-economic-crisis-is-unlike-any-other-unicef/",
     "file_name": "/tmp/news_lk2/articles/57/57876f5e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655548260,
+    "title": "Sri Lanka: Second-highest in child malnutrition in South Asia, says UNICEF",
+    "url": "https://www.newsfirst.lk/2022/06/18/sri-lanka-second-highest-in-child-malnutrition-in-south-asia-says-unicef/",
+    "file_name": "/tmp/news_lk2/articles/36/36b7334d.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -677,26 +698,5 @@
     "title": "Sri Lanka president, PM, opposition leader support proposed UN-monitored reforms: Victor Ivan",
     "url": "https://economynext.com/sri-lanka-president-pm-opposition-leader-support-proposed-un-monitored-reforms-victor-ivan-95963/",
     "file_name": "/tmp/news_lk2/articles/2a/2a71ad78.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655472360,
-    "title": "Special night express from Mount Lavinia to Kankesanturai launched",
-    "url": "http://www.adaderana.lk/news/83105/special-night-express-from-mount-lavinia-to-kankesanturai-launched",
-    "file_name": "/tmp/news_lk2/articles/a8/a8df9317.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655470620,
-    "title": "SLT drives sustainable green initiatives to fight climate change and generate long term value for Sri Lanka",
-    "url": "http://island.lk/slt-drives-sustainable-green-initiatives-to-fight-climate-change-and-generate-long-term-value-for-sri-lanka/",
-    "file_name": "/tmp/news_lk2/articles/0f/0f1eecd3.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655470080,
-    "title": "Teachers to be temporarily re-assigned to nearest schools based on requirement \u2013 Education Ministry",
-    "url": "https://www.newsfirst.lk/2022/06/17/teachers-to-be-temporarily-re-assigned-to-nearest-schools-based-on-requirement-education-ministry/",
-    "file_name": "/tmp/news_lk2/articles/db/db4ce6e5.json"
   }
 ]
