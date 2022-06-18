@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655572020,
+    "title": "Tense situation near army checkpoint at Vishvamadu, two arrested",
+    "url": "http://www.adaderana.lk/news/83127/tense-situation-near-army-checkpoint-at-vishvamadu-two-arrested",
+    "file_name": "/tmp/news_lk2/articles/93/9344efa2.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655570580,
     "title": "30-year-old shot dead during drug raid in Neluwa",
     "url": "http://www.adaderana.lk/news/83126/30-year-old-shot-dead-during-drug-raid-in-neluwa",
@@ -691,12 +698,5 @@
     "title": "WFP launches emergency response in Sri Lanka  amid escalating food crisis",
     "url": "https://www.ft.lk/news/WFP-launches-emergency-response-in-Sri-Lanka-amid-escalating-food-crisis/56-736342",
     "file_name": "/tmp/news_lk2/articles/28/288ebfd7.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655490600,
-    "title": "Premajayantha leads\u00a0delegation to Asia Pacific Regional Education Minister\u2019s parley",
-    "url": "https://www.ft.lk/news/Premajayantha-leadsdelegation-to-Asia-Pacific-Regional-Education-Minister-s-parley/56-736341",
-    "file_name": "/tmp/news_lk2/articles/89/89e15e4a.json"
   }
 ]
