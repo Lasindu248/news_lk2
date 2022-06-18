@@ -1,10 +1,52 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655530440,
+    "title": "Only 30% of Fuel Bowsers in use",
+    "url": "https://www.newsfirst.lk/2022/06/18/only-30-of-fuel-bowsers-in-use/",
+    "file_name": "/tmp/news_lk2/articles/9a/9ac87ed2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655530380,
+    "title": "Body of Kadirana child, recovered",
+    "url": "https://www.newsfirst.lk/2022/06/18/body-of-kadirana-child-recovered/",
+    "file_name": "/tmp/news_lk2/articles/2d/2d58e996.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655530260,
+    "title": "Apeksha Hospital affected by fuel shortage",
+    "url": "https://www.newsfirst.lk/2022/06/18/apeksha-hospital-affected-by-fuel-shortage/",
+    "file_name": "/tmp/news_lk2/articles/2c/2c64a305.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655529960,
     "title": "Financial losses loom for Sri Lanka apparel sector",
     "url": "https://www.dailymirror.lk/business-news/Financial-losses-loom-for-Sri-Lanka-apparel-sector/273-239305",
     "file_name": "/tmp/news_lk2/articles/a4/a4f7f7ba.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655529840,
+    "title": "Vice Chancellors to decide on University operations",
+    "url": "https://www.newsfirst.lk/2022/06/18/vice-chancellors-to-decide-on-university-operations/",
+    "file_name": "/tmp/news_lk2/articles/60/6062c053.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655529720,
+    "title": "Peradeniya University closes, informs students to leave premises",
+    "url": "https://www.newsfirst.lk/2022/06/18/peradeniya-university-closes-informs-students-to-leave-premises/",
+    "file_name": "/tmp/news_lk2/articles/e5/e5724fef.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655528760,
+    "title": "Showers to occur at times today (18)",
+    "url": "https://www.newsfirst.lk/2022/06/18/showers-to-occur-at-times-today-18/",
+    "file_name": "/tmp/news_lk2/articles/f5/f507ebcf.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -656,47 +698,5 @@
     "title": "Army Commander vows to work for betterment of Nation in maiden troop address",
     "url": "https://www.newsfirst.lk/2022/06/17/army-commander-vows-to-work-for-betterment-of-nation-in-maiden-troop-address/",
     "file_name": "/tmp/news_lk2/articles/94/945bed68.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655457420,
-    "title": "Inadequate diesel supply may lead to extended powercuts: CEB",
-    "url": "https://www.dailymirror.lk/breaking_news/Inadequate-diesel-supply-may-lead-to-extended-powercuts-CEB/108-239259",
-    "file_name": "/tmp/news_lk2/articles/63/6391b49a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655457420,
-    "title": "Inadequate diesel supply may lead to extended powercuts: CEB",
-    "url": "https://www.dailymirror.lk/latest_news/Inadequate-diesel-supply-may-lead-to-extended-powercuts-CEB/342-239259",
-    "file_name": "/tmp/news_lk2/articles/bd/bd76a53f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655455320,
-    "title": "Daily Exchange Rate from CBSL",
-    "url": "https://www.newsfirst.lk/2022/06/17/daily-exchange-rate-from-cbsl/",
-    "file_name": "/tmp/news_lk2/articles/65/65cf30ff.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655455260,
-    "title": "Sri Lanka facing its longest queues ever today",
-    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-facing-its-longest-queues-ever-today/108-239258",
-    "file_name": "/tmp/news_lk2/articles/fe/fe43dac5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655455260,
-    "title": "Sri Lanka facing its longest queues ever today",
-    "url": "https://www.dailymirror.lk/top_story/Sri-Lanka-facing-its-longest-queues-ever-today/155-239258",
-    "file_name": "/tmp/news_lk2/articles/a3/a3b34f5e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655455260,
-    "title": "Sri Lanka facing its longest queues ever today",
-    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-facing-its-longest-queues-ever-today/342-239258",
-    "file_name": "/tmp/news_lk2/articles/ff/ff28e983.json"
   }
 ]
