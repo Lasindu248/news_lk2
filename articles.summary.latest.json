@@ -1,10 +1,24 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655541060,
+    "title": "Sapugaskanda may shut down if govt. unable to bring crude oil shipment: Union",
+    "url": "https://www.dailymirror.lk/latest_news/Sapugaskanda-may-shut-down-if-govt-unable-to-bring-crude-oil-shipment-Union/342-239318",
+    "file_name": "/tmp/news_lk2/articles/1e/1e863a7d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655540280,
     "title": "Cardiac surgeons, anesthetics to limit operations from Monday",
     "url": "https://www.dailymirror.lk/latest_news/Cardiac-surgeons-anesthetics-to-limit-operations-from-Monday/342-239317",
     "file_name": "/tmp/news_lk2/articles/3e/3e9744a1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655539800,
+    "title": "Schools within Colombo closed next week",
+    "url": "https://www.newsfirst.lk/2022/06/18/schools-within-colombo-closed-next-week/",
+    "file_name": "/tmp/news_lk2/articles/e2/e2ffee1c.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -684,19 +698,5 @@
     "title": "Sri Lankan police sergeant shoots himself dead with service weapon",
     "url": "https://economynext.com/sri-lankan-police-sergeant-shoots-himself-dead-with-service-weapon-95960/",
     "file_name": "/tmp/news_lk2/articles/3f/3f788b98.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655465160,
-    "title": "Sri Lanka: Two week work from home program for public sector from Monday (20)",
-    "url": "https://www.newsfirst.lk/2022/06/17/sri-lanka-two-week-work-from-home-program-for-public-sector-from-monday-20/",
-    "file_name": "/tmp/news_lk2/articles/67/67122529.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655464920,
-    "title": "Teachers to be given temporary transfers to nearest school",
-    "url": "http://www.adaderana.lk/news/83102/teachers-to-be-given-temporary-transfers-to-nearest-school",
-    "file_name": "/tmp/news_lk2/articles/ff/ff3b9b96.json"
   }
 ]
