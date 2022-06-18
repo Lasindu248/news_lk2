@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655543640,
+    "title": "Website to check fuel availability shut down temporarily",
+    "url": "https://www.dailymirror.lk/latest_news/Website-to-check-fuel-availability-shut-down-temporarily/342-239319",
+    "file_name": "/tmp/news_lk2/articles/bb/bbd3c55e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655541060,
     "title": "Sapugaskanda may shut down if govt. unable to bring crude oil shipment: Union",
     "url": "https://www.dailymirror.lk/latest_news/Sapugaskanda-may-shut-down-if-govt-unable-to-bring-crude-oil-shipment-Union/342-239318",
@@ -691,12 +698,5 @@
     "title": "Prioritize officials engaged in paper marking when dispensing fuel: Exams chief",
     "url": "http://www.adaderana.lk/news/83103/prioritize-officials-engaged-in-paper-marking-when-dispensing-fuel-exams-chief",
     "file_name": "/tmp/news_lk2/articles/b3/b3290a48.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655465580,
-    "title": "Sri Lankan police sergeant shoots himself dead with service weapon",
-    "url": "https://economynext.com/sri-lankan-police-sergeant-shoots-himself-dead-with-service-weapon-95960/",
-    "file_name": "/tmp/news_lk2/articles/3f/3f788b98.json"
   }
 ]
