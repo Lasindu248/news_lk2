@@ -1,5 +1,40 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655520000,
+    "title": "New secretaries appointed to two ministries",
+    "url": "http://www.adaderana.lk/news/83113/new-secretaries-appointed-to-two-ministries",
+    "file_name": "/tmp/news_lk2/articles/1c/1c575bb4.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655519580,
+    "title": "Nine arrested over unruly behaviour at filling station",
+    "url": "http://www.adaderana.lk/news/83112/nine-arrested-over-unruly-behaviour-at-filling-station",
+    "file_name": "/tmp/news_lk2/articles/8c/8c2537ce.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655519220,
+    "title": "COPA instructs to prepare 10-year Economic Development Plan",
+    "url": "https://www.dailymirror.lk/breaking_news/COPA-instructs-to-prepare-10-year-Economic-Development-Plan/108-239294",
+    "file_name": "/tmp/news_lk2/articles/13/13c8d283.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655517060,
+    "title": "Showers expected in several provinces including Western",
+    "url": "http://www.adaderana.lk/news/83110/showers-expected-in-several-provinces-including-western",
+    "file_name": "/tmp/news_lk2/articles/3f/3fcc18c3.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655516280,
+    "title": "IMF team in Sri Lanka from June 20-30; reaffirms support within its policies",
+    "url": "https://economynext.com/imf-team-in-sri-lanka-from-june-20-30-reaffirms-support-within-its-policies-96008/",
+    "file_name": "/tmp/news_lk2/articles/b2/b2864386.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655503920,
     "title": "Gotabaya, Ranil and the Frog and Scorpion Fable",
@@ -40,6 +75,13 @@
     "title": "Port City to be showcased at CHOGM 2022",
     "url": "http://www.adaderana.lk/news/83108/port-city-to-be-showcased-at-chogm-2022",
     "file_name": "/tmp/news_lk2/articles/75/75396ffd.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655490960,
+    "title": "Lanka Hospitals Academy partners NSBM Green University to offer clinical training for nursing undergraduates",
+    "url": "https://www.ft.lk/business/Lanka-Hospitals-Academy-partners-NSBM-Green-University-to-offer-clinical-training-for-nursing-undergraduates/34-736361",
+    "file_name": "/tmp/news_lk2/articles/d1/d1f7c50e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -656,47 +698,5 @@
     "title": "Sri Lanka stocks down in mid-day trade",
     "url": "https://economynext.com/sri-lanka-stocks-down-in-mid-day-trade-95945/",
     "file_name": "/tmp/news_lk2/articles/21/21fdac37.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655446500,
-    "title": "LC opened to purchase 300,000 barrels of Petrol",
-    "url": "https://www.dailymirror.lk/latest_news/LC-opened-to-purchase-300-000-barrels-of-Petrol/342-239251",
-    "file_name": "/tmp/news_lk2/articles/e7/e7a3929a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655446500,
-    "title": "LC opened to purchase 300,000 barrels of Petrol",
-    "url": "https://www.dailymirror.lk/breaking_news/LC-opened-to-purchase-300-000-barrels-of-Petrol/108-239251",
-    "file_name": "/tmp/news_lk2/articles/3f/3ff72da4.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655444460,
-    "title": "Letter of Credit opened to purchase 300,000 barrels of petrol",
-    "url": "http://www.adaderana.lk/news/83095/letter-of-credit-opened-to-purchase-300000-barrels-of-petrol",
-    "file_name": "/tmp/news_lk2/articles/34/347a6a64.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655443620,
-    "title": "Sri Lanka stresses importance of expanding bilateral ties with Japan",
-    "url": "http://www.adaderana.lk/news/83094/sri-lanka-stresses-importance-of-expanding-bilateral-ties-with-japan",
-    "file_name": "/tmp/news_lk2/articles/bb/bb3a133a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655442300,
-    "title": "SLR President Rizly Illyas suspended from rugby duties",
-    "url": "https://www.dailymirror.lk/breaking_news/SLR-President-Rizly-Illyas-suspended-from-rugby-duties/108-239249",
-    "file_name": "/tmp/news_lk2/articles/8d/8d59c6c9.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655442300,
-    "title": "SLR President Rizly Illyas suspended from rugby duties",
-    "url": "https://www.dailymirror.lk/latest_news/SLR-President-Rizly-Illyas-suspended-from-rugby-duties/342-239249",
-    "file_name": "/tmp/news_lk2/articles/24/244bd036.json"
   }
 ]
