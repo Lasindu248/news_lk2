@@ -231,6 +231,13 @@
     "file_name": "/tmp/news_lk2/articles/a8/a8df9317.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655470620,
+    "title": "SLT drives sustainable green initiatives to fight climate change and generate long term value for Sri Lanka",
+    "url": "http://island.lk/slt-drives-sustainable-green-initiatives-to-fight-climate-change-and-generate-long-term-value-for-sri-lanka/",
+    "file_name": "/tmp/news_lk2/articles/0f/0f1eecd3.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655470080,
     "title": "Teachers to be temporarily re-assigned to nearest schools based on requirement \u2013 Education Ministry",
@@ -691,12 +698,5 @@
     "title": "Heavy showers forecast in most parts of island today: Met. Dept.",
     "url": "https://www.dailymirror.lk/latest_news/Heavy-showers-forecast-in-most-parts-of-island-today-Met-Dept/342-239248",
     "file_name": "/tmp/news_lk2/articles/12/124f259b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655441580,
-    "title": "Heavy showers forecast in most parts of island today: Met. Dept.",
-    "url": "https://www.dailymirror.lk/breaking_news/Heavy-showers-forecast-in-most-parts-of-island-today-Met-Dept/108-239248",
-    "file_name": "/tmp/news_lk2/articles/1a/1abf0851.json"
   }
 ]
