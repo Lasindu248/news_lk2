@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655549760,
+    "title": "Rice must be sold under controlled price from tonight: Dudley Sirisena",
+    "url": "https://www.dailymirror.lk/breaking_news/Rice-must-be-sold-under-controlled-price-from-tonight-Dudley-Sirisena/108-239322",
+    "file_name": "/tmp/news_lk2/articles/1c/1c317906.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655548860,
+    "title": "Unanimous support on need to stand with Lanka in difficult time, says S. Jaishankar  Indian External",
+    "url": "https://www.dailymirror.lk/breaking_news/Unanimous-support-on-need-to-stand-with-Lanka-in-difficult-time-says-S-Jaishankar-Indian-External/108-239321",
+    "file_name": "/tmp/news_lk2/articles/e6/e6fdf3ee.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655548260,
+    "title": "Sri Lanka\u2019s Economic crisis is unlike any other \u2013 UNICEF",
+    "url": "https://www.newsfirst.lk/2022/06/18/sri-lankas-economic-crisis-is-unlike-any-other-unicef/",
+    "file_name": "/tmp/news_lk2/articles/57/57876f5e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655548080,
     "title": "SLC clarifies rumours on selling fuel at R. Premadasa Stadium premises",
@@ -29,10 +50,24 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655543640,
+    "title": "Website to check fuel availability shut down temporarily",
+    "url": "https://www.dailymirror.lk/breaking_news/Website-to-check-fuel-availability-shut-down-temporarily/108-239319",
+    "file_name": "/tmp/news_lk2/articles/cb/cbdcc095.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655541960,
     "title": "Online education for schools in Colombo City limits next week: Ministry",
     "url": "https://www.dailymirror.lk/latest_news/Online-education-for-schools-in-Colombo-City-limits-next-week-Ministry/342-239320",
     "file_name": "/tmp/news_lk2/articles/d2/d20ce132.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655541960,
+    "title": "Online education for schools in Colombo City limits next week: Ministry",
+    "url": "https://www.dailymirror.lk/breaking_news/Online-education-for-schools-in-Colombo-City-limits-next-week-Ministry/108-239320",
+    "file_name": "/tmp/news_lk2/articles/a1/a18881a1.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -47,6 +82,13 @@
     "title": "Cardiac surgeons, anesthetics to limit operations from Monday",
     "url": "https://www.dailymirror.lk/latest_news/Cardiac-surgeons-anesthetics-to-limit-operations-from-Monday/342-239317",
     "file_name": "/tmp/news_lk2/articles/3e/3e9744a1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655540280,
+    "title": "Cardiac surgeons, anesthetics to limit operations from Monday",
+    "url": "https://www.dailymirror.lk/top_story/Cardiac-surgeons-anesthetics-to-limit-operations-from-Monday/155-239317",
+    "file_name": "/tmp/news_lk2/articles/b2/b20fd5b4.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -656,47 +698,5 @@
     "title": "Sri Lanka shares end at six-week close on concerns over fuel-shortage led closure",
     "url": "https://economynext.com/sri-lanka-shares-end-at-six-week-close-on-concerns-over-fuel-shortage-led-closure-95961/",
     "file_name": "/tmp/news_lk2/articles/bb/bbdfad7c.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655468580,
-    "title": "Plans to attach children to nearest schools due to crisis \u2013 Education Secretary",
-    "url": "https://www.newsfirst.lk/2022/06/17/plans-to-attach-children-to-nearest-schools-due-to-crisis-education-secretary/",
-    "file_name": "/tmp/news_lk2/articles/ae/aee57f28.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655467920,
-    "title": "Two-week work from home period introduced for public sector employees",
-    "url": "http://www.adaderana.lk/news/83104/two-week-work-from-home-period-introduced-for-public-sector-employees",
-    "file_name": "/tmp/news_lk2/articles/b7/b75822f9.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655467380,
-    "title": "Will not leave anyone hungry in face of food crisis: PM",
-    "url": "https://www.newsfirst.lk/2022/06/17/will-not-leave-anyone-hungry-in-face-of-food-crisis-pm/",
-    "file_name": "/tmp/news_lk2/articles/88/88026895.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655467260,
-    "title": "Zoo Transfer : From Dehiwala to Pinnawala",
-    "url": "https://www.newsfirst.lk/2022/06/17/zoo-transfer-from-dehiwala-to-pinnawala/",
-    "file_name": "/tmp/news_lk2/articles/0d/0d7642c1.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655467020,
-    "title": "Public Sector Work From Home circular issued",
-    "url": "https://www.newsfirst.lk/2022/06/17/public-sector-work-from-home-circular-issued/",
-    "file_name": "/tmp/news_lk2/articles/21/214068cf.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655466900,
-    "title": "Distribute existing fuel stocks in a systematic manner: President",
-    "url": "https://www.dailymirror.lk/latest_news/Distribute-existing-fuel-stocks-in-a-systematic-manner-President/342-239263",
-    "file_name": "/tmp/news_lk2/articles/62/625085d6.json"
   }
 ]
