@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655540280,
+    "title": "Cardiac surgeons, anesthetics to limit operations from Monday",
+    "url": "https://www.dailymirror.lk/latest_news/Cardiac-surgeons-anesthetics-to-limit-operations-from-Monday/342-239317",
+    "file_name": "/tmp/news_lk2/articles/3e/3e9744a1.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655539680,
+    "title": "Schools in Colombo city limits closed next week",
+    "url": "http://www.adaderana.lk/news/83118/schools-in-colombo-city-limits-closed-next-week",
+    "file_name": "/tmp/news_lk2/articles/09/09d5588e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655537340,
     "title": "Generator at Norochcholai power plant out of operation",
@@ -33,6 +47,13 @@
     "title": "Education sector facing more challenges due to economic crisis than Covid, COPA hears",
     "url": "http://www.adaderana.lk/news/83116/education-sector-facing-more-challenges-due-to-economic-crisis-than-covid-copa-hears",
     "file_name": "/tmp/news_lk2/articles/12/12b37d1f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655533380,
+    "title": "Discussions underway over online schooling for students",
+    "url": "https://www.dailymirror.lk/latest_news/Discussions-underway-over-online-schooling-for-students/342-239316",
+    "file_name": "/tmp/news_lk2/articles/01/01c7f664.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -194,6 +215,20 @@
     "title": "WB expects SL economy to contract by 7.8% in 2022",
     "url": "https://www.dailymirror.lk/business__main/WB-expects-SL-economy-to-contract-by-7-8-in-2022/245-239312",
     "file_name": "/tmp/news_lk2/articles/ef/ef539e23.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655523180,
+    "title": "WB expects SL economy to contract by 7.8% in 2022",
+    "url": "https://www.dailymirror.lk/breaking_news/WB-expects-SL-economy-to-contract-by-7-8-in-2022/108-239312",
+    "file_name": "/tmp/news_lk2/articles/57/579e5753.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655522100,
+    "title": "Amarasekera and Weerasinghe to head several listed firms of Dhammika Perera",
+    "url": "https://www.dailymirror.lk/breaking_news/Amarasekera-and-Weerasinghe-to-head-several-listed-firms-of-Dhammika-Perera/108-239308",
+    "file_name": "/tmp/news_lk2/articles/20/20fa9a82.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -663,40 +698,5 @@
     "title": "Teachers to be given temporary transfers to nearest school",
     "url": "http://www.adaderana.lk/news/83102/teachers-to-be-given-temporary-transfers-to-nearest-school",
     "file_name": "/tmp/news_lk2/articles/ff/ff3b9b96.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655464200,
-    "title": "Pakistan extends full support to resolve SL economic crisis: High Commissioner",
-    "url": "https://www.newsfirst.lk/2022/06/17/pakistan-extends-full-support-to-resolve-sl-economic-crisis-high-commissioner/",
-    "file_name": "/tmp/news_lk2/articles/d6/d6165f3b.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655464020,
-    "title": "MRI to conduct survey on Nutrition Levels",
-    "url": "https://www.newsfirst.lk/2022/06/17/mri-to-conduct-survey-on-nutrition-levels/",
-    "file_name": "/tmp/news_lk2/articles/e5/e51c87c4.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655463720,
-    "title": "Ekneligoda Disappearance: Army Intel personnel granted bail; Witness remanded",
-    "url": "https://www.newsfirst.lk/2022/06/17/ekneligoda-disappearance-army-intel-personnel-granted-bail-witness-remanded/",
-    "file_name": "/tmp/news_lk2/articles/d6/d6184a45.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655462760,
-    "title": "Schools to re-open on Monday (20)",
-    "url": "https://www.newsfirst.lk/2022/06/17/schools-to-re-open-on-monday-20/",
-    "file_name": "/tmp/news_lk2/articles/1e/1ee0cc29.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655462340,
-    "title": "Chairman of CAA tenders resignation",
-    "url": "http://www.adaderana.lk/news/83101/chairman-of-caa-tenders-resignation",
-    "file_name": "/tmp/news_lk2/articles/d7/d7afb790.json"
   }
 ]
