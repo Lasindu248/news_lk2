@@ -1,10 +1,45 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655554440,
+    "title": "Licenses of three fuel trucks suspended for illegally unloading fuel",
+    "url": "https://www.newsfirst.lk/2022/06/18/licenses-of-three-fuel-trucks-suspended-for-illegally-unloading-fuel/",
+    "file_name": "/tmp/news_lk2/articles/0c/0ca8739c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655554200,
+    "title": "O/L Paper Marking affected by fuel crisis",
+    "url": "https://www.newsfirst.lk/2022/06/18/o-l-paper-marking-affected-by-fuel-crisis/",
+    "file_name": "/tmp/news_lk2/articles/c4/c41c03d0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655553960,
+    "title": "(VIDEO) Sri Lankan Minister forced to flee after angry mob protest against his visit",
+    "url": "https://www.newsfirst.lk/2022/06/18/video-sri-lankan-minister-forced-to-flee-after-angry-mob-protest-against-his-visit/",
+    "file_name": "/tmp/news_lk2/articles/bb/bb967b9c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655553840,
+    "title": "Private sector should also Work From Home : Labour Ministry",
+    "url": "https://www.newsfirst.lk/2022/06/18/private-sector-should-also-work-from-home-labour-ministry/",
+    "file_name": "/tmp/news_lk2/articles/db/db92ffa3.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655552580,
     "title": "Latest announcement on closure of schools next week",
     "url": "http://www.adaderana.lk/news/83122/latest-announcement-on-closure-of-schools-next-week",
     "file_name": "/tmp/news_lk2/articles/75/755d68fd.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655552280,
+    "title": "Youth dies after getting jammed between train and platform",
+    "url": "https://www.dailymirror.lk/breaking_news/Youth-dies-after-getting-jammed-between-train-and-platform/108-239323",
+    "file_name": "/tmp/news_lk2/articles/f2/f2c25727.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -26,6 +61,13 @@
     "title": "Rice must be sold under controlled price from tonight: Dudley Sirisena",
     "url": "https://www.dailymirror.lk/breaking_news/Rice-must-be-sold-under-controlled-price-from-tonight-Dudley-Sirisena/108-239322",
     "file_name": "/tmp/news_lk2/articles/1c/1c317906.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655549760,
+    "title": "Rice must be sold under controlled price from tonight: Dudley Sirisena",
+    "url": "https://www.dailymirror.lk/latest_news/Rice-must-be-sold-under-controlled-price-from-tonight-Dudley-Sirisena/342-239322",
+    "file_name": "/tmp/news_lk2/articles/6b/6b505f98.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -117,6 +159,13 @@
     "title": "Cardiac surgeons, anesthetics to limit operations from Monday",
     "url": "https://www.dailymirror.lk/top_story/Cardiac-surgeons-anesthetics-to-limit-operations-from-Monday/155-239317",
     "file_name": "/tmp/news_lk2/articles/b2/b20fd5b4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655539800,
+    "title": "Schools in major cities closed next week",
+    "url": "https://www.newsfirst.lk/2022/06/18/schools-in-major-cities-closed-next-week/",
+    "file_name": "/tmp/news_lk2/articles/0a/0af2f791.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -649,54 +698,5 @@
     "title": "Two-week \u2019work from home\u2019 for public servants from next week",
     "url": "https://www.dailymirror.lk/breaking_news/Two-week-work-from-home-for-public-servants-from-next-week/108-239280",
     "file_name": "/tmp/news_lk2/articles/87/87dac9cd.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655476620,
-    "title": "Opposition Leader says election only option for change",
-    "url": "https://www.newsfirst.lk/2022/06/17/opposition-leader-says-election-only-option-for-change/",
-    "file_name": "/tmp/news_lk2/articles/f8/f8a2f2c4.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655476560,
-    "title": "Crime at GotaGoGama: Police call for vigilance",
-    "url": "https://www.newsfirst.lk/2022/06/17/crime-at-gotagogama-police-call-for-vigilance/",
-    "file_name": "/tmp/news_lk2/articles/11/11c0b315.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655476320,
-    "title": "Sri Lanka see more boat people events as economic crisis worsens",
-    "url": "https://economynext.com/sri-lanka-see-more-boat-people-events-as-economic-crisis-worsens-95940/",
-    "file_name": "/tmp/news_lk2/articles/8d/8d0aaabd.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655476320,
-    "title": "Illegal migration attempts on the rise in Sri Lanka as economic crisis worsens",
-    "url": "https://economynext.com/illegal-migration-attempts-on-the-rise-in-sri-lanka-as-economic-crisis-worsens-95940/",
-    "file_name": "/tmp/news_lk2/articles/fa/fac1eb24.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655476320,
-    "title": "Sri Lanka sees more boat people events as economic crisis worsens",
-    "url": "https://economynext.com/sri-lanka-sees-more-boat-people-events-as-economic-crisis-worsens-95940/",
-    "file_name": "/tmp/news_lk2/articles/9a/9a64f030.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655474760,
-    "title": "(Video) Cop manhandles unhappy motorcyclist at Kurunegala filling station",
-    "url": "https://www.newsfirst.lk/2022/06/17/video-cop-manhandles-unhappy-motorcyclist-at-kurunegala-filling-station/",
-    "file_name": "/tmp/news_lk2/articles/2f/2f08d11e.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655474640,
-    "title": "Sri Lanka president, PM, opposition leader support proposed UN-monitored reforms: Victor Ivan",
-    "url": "https://economynext.com/sri-lanka-president-pm-opposition-leader-support-proposed-un-monitored-reforms-victor-ivan-95963/",
-    "file_name": "/tmp/news_lk2/articles/2a/2a71ad78.json"
   }
 ]
