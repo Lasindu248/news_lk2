@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655537340,
+    "title": "Generator at Norochcholai power plant out of operation",
+    "url": "http://www.adaderana.lk/news/83117/generator-at-norochcholai-power-plant-out-of-operation",
+    "file_name": "/tmp/news_lk2/articles/f9/f9504e6d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655533680,
     "title": "Education sector facing more challenges at present, officials tell COPA",
     "url": "http://www.adaderana.lk/news/83116/education-sector-facing-more-challenges-at-present-officials-tell-copa",
@@ -691,12 +698,5 @@
     "title": "Yala season harvesting begins",
     "url": "https://www.newsfirst.lk/2022/06/17/yala-season-harvesting-begins/",
     "file_name": "/tmp/news_lk2/articles/b1/b1e51071.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655460780,
-    "title": "NO LP Gas Distribution today (17)",
-    "url": "https://www.newsfirst.lk/2022/06/17/no-lp-gas-distribution-today-17/",
-    "file_name": "/tmp/news_lk2/articles/7e/7e2cbc45.json"
   }
 ]
