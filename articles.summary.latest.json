@@ -1,6 +1,34 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655642460,
+    "title": "Minister requests teachers to provide online education to students of schools closed",
+    "url": "http://www.adaderana.lk/news/83139/minister-requests-teachers-to-provide-online-education-to-students-of-schools-closed",
+    "file_name": "/tmp/news_lk2/articles/cf/cff26f25.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655641320,
+    "title": "Sri Lanka low-grown tea prices slips in June second week sale",
+    "url": "https://economynext.com/sri-lanka-low-grown-tea-prices-slips-in-june-second-week-sale-96059/",
+    "file_name": "/tmp/news_lk2/articles/bb/bbf78107.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655641260,
+    "title": "Police caution cyclists over increasing road accidents",
+    "url": "http://www.adaderana.lk/news/83138/police-caution-cyclists-over-increasing-road-accidents",
+    "file_name": "/tmp/news_lk2/articles/cf/cfc1cf77.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655637540,
+    "title": "Foreign Minister meets UN Human Rights High Commissioner",
+    "url": "https://www.newsfirst.lk/2022/06/19/foreign-minister-meets-un-human-rights-high-commissioner/",
+    "file_name": "/tmp/news_lk2/articles/a6/a6ef67b4.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655636340,
     "title": "Public mistrust of govt and law enforcement will have dire consequences \u2013 BASL warns",
     "url": "http://www.adaderana.lk/news/83137/public-mistrust-of-govt-and-law-enforcement-will-have-dire-consequences-basl-warns",
@@ -670,33 +698,5 @@
     "title": "(VIDEO) Young man falls off Beliatte-bound train at station filled with passengers due to fuel crisis",
     "url": "https://www.newsfirst.lk/2022/06/18/video-young-man-falls-off-beliatte-bound-train-at-station-filled-with-passengers-due-to-fuel-crisis/",
     "file_name": "/tmp/news_lk2/articles/27/27dfddfa.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655543640,
-    "title": "Website to check fuel availability shut down temporarily",
-    "url": "https://www.dailymirror.lk/latest_news/Website-to-check-fuel-availability-shut-down-temporarily/342-239319",
-    "file_name": "/tmp/news_lk2/articles/bb/bbd3c55e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655543640,
-    "title": "Website to check fuel availability shut down temporarily",
-    "url": "https://www.dailymirror.lk/breaking_news/Website-to-check-fuel-availability-shut-down-temporarily/108-239319",
-    "file_name": "/tmp/news_lk2/articles/cb/cbdcc095.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655541960,
-    "title": "Online education for schools in Colombo City limits next week: Ministry",
-    "url": "https://www.dailymirror.lk/latest_news/Online-education-for-schools-in-Colombo-City-limits-next-week-Ministry/342-239320",
-    "file_name": "/tmp/news_lk2/articles/d2/d20ce132.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655541960,
-    "title": "Online education for schools in Colombo City limits next week: Ministry",
-    "url": "https://www.dailymirror.lk/breaking_news/Online-education-for-schools-in-Colombo-City-limits-next-week-Ministry/108-239320",
-    "file_name": "/tmp/news_lk2/articles/a1/a18881a1.json"
   }
 ]
