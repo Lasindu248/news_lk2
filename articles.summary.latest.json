@@ -1,5 +1,40 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655643840,
+    "title": "UN coordinator, US Ambassador call for restraint, probe into excessive force",
+    "url": "https://www.newsfirst.lk/2022/06/19/un-coordinator-us-ambassador-call-for-restraint-probe-into-excessive-force/",
+    "file_name": "/tmp/news_lk2/articles/2d/2d235d18.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655643780,
+    "title": "Election is the last option: Harsha",
+    "url": "https://www.newsfirst.lk/2022/06/19/election-is-the-last-option-harsha/",
+    "file_name": "/tmp/news_lk2/articles/13/13f50b01.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655643720,
+    "title": "No power cuts in the morning for next two weeks - PUCSL",
+    "url": "http://www.adaderana.lk/news/83140/no-power-cuts-in-the-morning-for-next-two-weeks-pucsl",
+    "file_name": "/tmp/news_lk2/articles/94/94bed5da.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655643300,
+    "title": "Sri Lanka arrests woman with 26kg of Kerala Cannabis in North",
+    "url": "https://economynext.com/sri-lanka-arrests-woman-with-26kg-of-kerala-cannabis-in-north-96061/",
+    "file_name": "/tmp/news_lk2/articles/5e/5efb1e1b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655642460,
+    "title": "Minister requests to provide online education to students of schools closed next week",
+    "url": "http://www.adaderana.lk/news/83139/minister-requests-to-provide-online-education-to-students-of-schools-closed-next-week",
+    "file_name": "/tmp/news_lk2/articles/a6/a62600ef.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655642460,
     "title": "Minister requests teachers to provide online education to students of schools closed",
@@ -663,40 +698,5 @@
     "title": "Unanimous support on need to stand with Lanka in difficult time, says S. Jaishankar  Indian External",
     "url": "https://www.dailymirror.lk/breaking_news/Unanimous-support-on-need-to-stand-with-Lanka-in-difficult-time-says-S-Jaishankar-Indian-External/108-239321",
     "file_name": "/tmp/news_lk2/articles/e6/e6fdf3ee.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655548260,
-    "title": "Sri Lanka\u2019s Economic crisis is unlike any other \u2013 UNICEF",
-    "url": "https://www.newsfirst.lk/2022/06/18/sri-lankas-economic-crisis-is-unlike-any-other-unicef/",
-    "file_name": "/tmp/news_lk2/articles/57/57876f5e.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655548260,
-    "title": "Sri Lanka: Second-highest in child malnutrition in South Asia, says UNICEF",
-    "url": "https://www.newsfirst.lk/2022/06/18/sri-lanka-second-highest-in-child-malnutrition-in-south-asia-says-unicef/",
-    "file_name": "/tmp/news_lk2/articles/36/36b7334d.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655548080,
-    "title": "SLC clarifies rumours on selling fuel at R. Premadasa Stadium premises",
-    "url": "http://www.adaderana.lk/news/83120/slc-clarifies-rumours-on-selling-fuel-at-r-premadasa-stadium-premises",
-    "file_name": "/tmp/news_lk2/articles/41/418fc435.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655545740,
-    "title": "COPA proposes setting up of Cabinet sub-committee for on food security",
-    "url": "http://www.adaderana.lk/news/83119/copa-proposes-setting-up-of-cabinet-sub-committee-for-on-food-security",
-    "file_name": "/tmp/news_lk2/articles/23/23cd84ba.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655543880,
-    "title": "(VIDEO) Young man falls off Beliatte-bound train at station filled with passengers due to fuel crisis",
-    "url": "https://www.newsfirst.lk/2022/06/18/video-young-man-falls-off-beliatte-bound-train-at-station-filled-with-passengers-due-to-fuel-crisis/",
-    "file_name": "/tmp/news_lk2/articles/27/27dfddfa.json"
   }
 ]
