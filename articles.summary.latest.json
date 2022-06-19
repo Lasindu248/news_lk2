@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655619780,
+    "title": "Sri Lanka embassy promotes tourism in Brazil",
+    "url": "https://economynext.com/sri-lanka-embassy-promotes-tourism-in-brazil-96042/",
+    "file_name": "/tmp/news_lk2/articles/d7/d7e78235.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655619600,
+    "title": "Sri Lanka lifts mandatory Covid-19 insurance for foreigners",
+    "url": "http://www.adaderana.lk/news/83131/sri-lanka-lifts-mandatory-covid-19-insurance-for-foreigners",
+    "file_name": "/tmp/news_lk2/articles/f3/f3d0b791.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655618160,
     "title": "Bus operations increased, says SLTB",
@@ -684,19 +698,5 @@
     "title": "\u2018Lack of effective road safety programmes a major public health concern\u2019",
     "url": "http://island.lk/lack-of-effective-road-safety-programmes-a-major-public-health-concern/",
     "file_name": "/tmp/news_lk2/articles/80/80999564.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655524260,
-    "title": "Peradeniya University closed from today",
-    "url": "http://www.adaderana.lk/news/83115/peradeniya-university-closed-from-today",
-    "file_name": "/tmp/news_lk2/articles/27/27340617.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655524260,
-    "title": "Peradeniya University temporarily closed",
-    "url": "http://www.adaderana.lk/news/83115/peradeniya-university-temporarily-closed",
-    "file_name": "/tmp/news_lk2/articles/df/df9dcbaa.json"
   }
 ]
