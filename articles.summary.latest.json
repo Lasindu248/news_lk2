@@ -1,5 +1,40 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655614680,
+    "title": "SJB plans to launch protests from next week",
+    "url": "https://www.newsfirst.lk/2022/06/19/sjb-plans-to-launch-protests-from-next-week/",
+    "file_name": "/tmp/news_lk2/articles/2e/2ecd9e63.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655614080,
+    "title": "President & SLPP MPs to meet on fuel crisis",
+    "url": "https://www.newsfirst.lk/2022/06/19/president-slpp-mps-to-meet-on-fuel-crisis/",
+    "file_name": "/tmp/news_lk2/articles/05/051d9f16.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655614080,
+    "title": "Russian fuel: Independent MPs to meet Ambassador",
+    "url": "https://www.newsfirst.lk/2022/06/19/russian-fuel-independent-mps-to-meet-ambassador/",
+    "file_name": "/tmp/news_lk2/articles/cd/cd2257a5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655613540,
+    "title": "Rajarata University opts for online lectures",
+    "url": "https://www.newsfirst.lk/2022/06/19/rajarata-university-opts-for-online-lectures/",
+    "file_name": "/tmp/news_lk2/articles/83/830af2c3.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655612220,
+    "title": "Train passenger numbers up by 20%",
+    "url": "https://www.newsfirst.lk/2022/06/19/train-passenger-numbers-up-by-20/",
+    "file_name": "/tmp/news_lk2/articles/89/891df84e.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655611800,
     "title": "Sri Lanka CPC pays rupees to Treasury for Indian credit line",
@@ -12,6 +47,13 @@
     "title": "Police to use minimal force against violence near petrol sheds",
     "url": "https://www.dailymirror.lk/breaking_news/Police-to-use-minimal-force-against-violence-near-petrol-sheds/108-239329",
     "file_name": "/tmp/news_lk2/articles/bc/bcfe7bc1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655611320,
+    "title": "Fuel distribution to be audited",
+    "url": "https://www.newsfirst.lk/2022/06/19/fuel-distribution-to-be-audited/",
+    "file_name": "/tmp/news_lk2/articles/05/05dd08f0.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -656,47 +698,5 @@
     "title": "Amarasekera and Weerasinghe to head several listed firms of Dhammika Perera",
     "url": "https://www.dailymirror.lk/breaking_news/Amarasekera-and-Weerasinghe-to-head-several-listed-firms-of-Dhammika-Perera/108-239308",
     "file_name": "/tmp/news_lk2/articles/20/20fa9a82.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655522100,
-    "title": "Amarasekera and Weerasinghe to head several listed firms of Dhammika Perera",
-    "url": "https://www.dailymirror.lk/business-news/Amarasekera-and-Weerasinghe-to-head-several-listed-firms-of-Dhammika-Perera/273-239308",
-    "file_name": "/tmp/news_lk2/articles/16/16843856.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655520660,
-    "title": "(VIDEO) What happened in Athurugiriya leading to arrests of people in queues ?",
-    "url": "https://www.newsfirst.lk/2022/06/18/video-what-happened-in-athurugiriya-leading-to-arrests-of-people-in-queues/",
-    "file_name": "/tmp/news_lk2/articles/d5/d5bb693c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655520120,
-    "title": "Court orders nine suspects including \u2019Ratta\u2019  arrested",
-    "url": "https://www.dailymirror.lk/breaking_news/Court-orders-nine-suspects-including-Ratta-arrested/108-239313",
-    "file_name": "/tmp/news_lk2/articles/5e/5eff7190.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655520060,
-    "title": "Pakistan assures fullest support for Sri Lanka to overcome economic crisis",
-    "url": "http://www.adaderana.lk/news/83114/pakistan-assures-fullest-support-for-sri-lanka-to-overcome-economic-crisis",
-    "file_name": "/tmp/news_lk2/articles/ec/ec25c705.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655520000,
-    "title": "New secretaries appointed to two ministries",
-    "url": "http://www.adaderana.lk/news/83113/new-secretaries-appointed-to-two-ministries",
-    "file_name": "/tmp/news_lk2/articles/1c/1c575bb4.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655519580,
-    "title": "Nine arrested over unruly behaviour at filling station",
-    "url": "http://www.adaderana.lk/news/83112/nine-arrested-over-unruly-behaviour-at-filling-station",
-    "file_name": "/tmp/news_lk2/articles/8c/8c2537ce.json"
   }
 ]
