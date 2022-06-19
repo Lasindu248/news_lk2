@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655636340,
+    "title": "Public mistrust of govt and law enforcement will have dire consequences \u2013 BASL warns",
+    "url": "http://www.adaderana.lk/news/83137/public-mistrust-of-govt-and-law-enforcement-will-have-dire-consequences-basl-warns",
+    "file_name": "/tmp/news_lk2/articles/6f/6f8a0e5d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655633040,
     "title": "Warning shots fired to control \u2018drunken mob\u2019 in Vishwamadu \u2013 Army",
     "url": "http://www.adaderana.lk/news/83136/warning-shots-fired-to-control-drunken-mob-in-vishwamadu-army",
@@ -691,12 +698,5 @@
     "title": "Sapugaskanda may shut down if govt. unable to bring crude oil shipment: Union",
     "url": "https://www.dailymirror.lk/latest_news/Sapugaskanda-may-shut-down-if-govt-unable-to-bring-crude-oil-shipment-Union/342-239318",
     "file_name": "/tmp/news_lk2/articles/1e/1e863a7d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655540280,
-    "title": "Cardiac surgeons, anesthetics to limit operations from Monday",
-    "url": "https://www.dailymirror.lk/latest_news/Cardiac-surgeons-anesthetics-to-limit-operations-from-Monday/342-239317",
-    "file_name": "/tmp/news_lk2/articles/3e/3e9744a1.json"
   }
 ]
