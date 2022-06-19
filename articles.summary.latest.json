@@ -17,8 +17,22 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655663460,
     "title": "Why CEB?",
+    "url": "https://www.dailymirror.lk/opinion/Why-CEB/231-239340",
+    "file_name": "/tmp/news_lk2/articles/39/3968e957.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655663460,
+    "title": "Why CEB?",
     "url": "https://www.dailymirror.lk/opinion/Why-CEB/172-239340",
     "file_name": "/tmp/news_lk2/articles/e2/e2b34de4.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655662440,
+    "title": "Bank of Ceylon records a net pre-tax profit of Rs. 43 billion",
+    "url": "http://www.adaderana.lk/news/83144/bank-of-ceylon-records-a-net-pre-tax-profit-of-rs-43-billion",
+    "file_name": "/tmp/news_lk2/articles/c6/c680d1ae.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -684,19 +698,5 @@
     "title": "Seven arrested over brawl at filling station remanded",
     "url": "http://www.adaderana.lk/news/83124/seven-arrested-over-brawl-at-filling-station-remanded",
     "file_name": "/tmp/news_lk2/articles/c6/c6bb8c6a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655556480,
-    "title": "Licences of three fuel trucks suspended",
-    "url": "https://www.dailymirror.lk/breaking_news/Licences-of-three-fuel-trucks-suspended/108-239325",
-    "file_name": "/tmp/news_lk2/articles/9c/9c4b5859.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655556480,
-    "title": "Licences of three fuel trucks suspended",
-    "url": "https://www.dailymirror.lk/latest_news/Licences-of-three-fuel-trucks-suspended/342-239325",
-    "file_name": "/tmp/news_lk2/articles/23/2327c439.json"
   }
 ]
