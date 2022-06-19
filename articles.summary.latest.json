@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655625240,
+    "title": "Public requested not to queue up for fuel in next 3-4 days",
+    "url": "http://www.adaderana.lk/news/83134/public-requested-not-to-queue-up-for-fuel-in-next-3-4-days",
+    "file_name": "/tmp/news_lk2/articles/dc/dc92a1df.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655623380,
     "title": "Liyoni Kotelawala passes away",
@@ -691,12 +698,5 @@
     "title": "Financial losses loom for Sri Lanka apparel sector",
     "url": "https://www.dailymirror.lk/business-news/Financial-losses-loom-for-Sri-Lanka-apparel-sector/273-239305",
     "file_name": "/tmp/news_lk2/articles/a4/a4f7f7ba.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655529960,
-    "title": "Financial losses loom for Sri Lanka apparel sector",
-    "url": "https://www.dailymirror.lk/breaking_news/Financial-losses-loom-for-Sri-Lanka-apparel-sector/108-239305",
-    "file_name": "/tmp/news_lk2/articles/7b/7b29477f.json"
   }
 ]
