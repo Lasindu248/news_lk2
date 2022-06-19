@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655620920,
+    "title": "Plans to expedite development of KKS Harbour",
+    "url": "http://www.adaderana.lk/news/83132/plans-to-expedite-development-of-kks-harbour",
+    "file_name": "/tmp/news_lk2/articles/b0/b0172dfd.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655619780,
     "title": "Sri Lanka embassy promotes tourism in Brazil",
@@ -691,12 +698,5 @@
     "title": "Prevailing crisis situation led to closure of Peradeniya University",
     "url": "https://www.dailymirror.lk/breaking_news/Prevailing-crisis-situation-led-to-closure-of-Peradeniya-University/108-239315",
     "file_name": "/tmp/news_lk2/articles/86/86de86d5.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655524800,
-    "title": "\u2018Lack of effective road safety programmes a major public health concern\u2019",
-    "url": "http://island.lk/lack-of-effective-road-safety-programmes-a-major-public-health-concern/",
-    "file_name": "/tmp/news_lk2/articles/80/80999564.json"
   }
 ]
