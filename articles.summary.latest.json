@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655633040,
+    "title": "Warning shots fired to control \u2018drunken mob\u2019 in Vishwamadu \u2013 Army",
+    "url": "http://www.adaderana.lk/news/83136/warning-shots-fired-to-control-drunken-mob-in-vishwamadu-army",
+    "file_name": "/tmp/news_lk2/articles/b7/b790d610.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655630700,
     "title": "Youth dies following attack over dispute",
     "url": "http://www.adaderana.lk/news/83135/youth-dies-following-attack-over-dispute",
@@ -19,6 +26,13 @@
     "title": "Don\u2019t queue up for fuel next three- four days: Minister",
     "url": "https://www.dailymirror.lk/breaking_news/Dont-queue-up-for-fuel-next-three-four-days-Minister/108-239334",
     "file_name": "/tmp/news_lk2/articles/52/5239b4df.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655629740,
+    "title": "Don\u2019t queue up for petrol next three- four days: Minister",
+    "url": "https://www.dailymirror.lk/breaking_news/Dont-queue-up-for-petrol-next-three-four-days-Minister/108-239334",
+    "file_name": "/tmp/news_lk2/articles/6f/6f6ac741.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -684,19 +698,5 @@
     "title": "Schools within Colombo closed next week",
     "url": "https://www.newsfirst.lk/2022/06/18/schools-within-colombo-closed-next-week/",
     "file_name": "/tmp/news_lk2/articles/e2/e2ffee1c.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655539680,
-    "title": "Schools in Colombo city limits closed next week",
-    "url": "http://www.adaderana.lk/news/83118/schools-in-colombo-city-limits-closed-next-week",
-    "file_name": "/tmp/news_lk2/articles/09/09d5588e.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655537340,
-    "title": "Generator at Norochcholai power plant out of operation",
-    "url": "http://www.adaderana.lk/news/83117/generator-at-norochcholai-power-plant-out-of-operation",
-    "file_name": "/tmp/news_lk2/articles/f9/f9504e6d.json"
   }
 ]
