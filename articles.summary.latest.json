@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655648940,
+    "title": "Govt plotting to arrest protesters on court orders: JVP alleges",
+    "url": "https://www.dailymirror.lk/latest_news/Govt-plotting-to-arrest-protesters-on-court-orders-JVP-alleges/342-239339",
+    "file_name": "/tmp/news_lk2/articles/68/68675a7c.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655646600,
     "title": "Sri Lanka schedules 2 hours 30 minutes for June 20, June 21",
@@ -7,11 +14,32 @@
     "file_name": "/tmp/news_lk2/articles/de/de16c504.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655645820,
+    "title": "Fuel Crisis : Protests and demands as military moves in",
+    "url": "https://www.newsfirst.lk/2022/06/19/fuel-crisis-protests-and-demands-as-military-moves-in/",
+    "file_name": "/tmp/news_lk2/articles/bd/bd633e2c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655644680,
+    "title": "No power cuts during morning for two days: PUCSL",
+    "url": "https://www.newsfirst.lk/2022/06/19/no-power-cuts-during-morning-for-two-days-pucsl/",
+    "file_name": "/tmp/news_lk2/articles/a9/a9e8ba84.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655644620,
     "title": "LITRO clarifies freight costs on 280,000 MT LPG Tender for 2022\u201323",
     "url": "https://www.dailymirror.lk/breaking_news/LITRO-clarifies-freight-costs-on-280-000-MT-LPG-Tender-for-202223/108-239337",
     "file_name": "/tmp/news_lk2/articles/5f/5f95f24a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655644620,
+    "title": "LITRO clarifies freight costs on 280,000 MT LPG Tender for 2022\u201323",
+    "url": "https://www.dailymirror.lk/latest_news/LITRO-clarifies-freight-costs-on-280-000-MT-LPG-Tender-for-202223/342-239337",
+    "file_name": "/tmp/news_lk2/articles/9e/9ec8734d.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -670,33 +698,5 @@
     "title": "Schools in main cities to be closed for a week",
     "url": "https://www.dailymirror.lk/breaking_news/Schools-in-main-cities-to-be-closed-for-a-week/108-239324",
     "file_name": "/tmp/news_lk2/articles/ff/ff2f504a.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655552580,
-    "title": "Latest announcement on closure of schools next week",
-    "url": "http://www.adaderana.lk/news/83122/latest-announcement-on-closure-of-schools-next-week",
-    "file_name": "/tmp/news_lk2/articles/75/755d68fd.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655552280,
-    "title": "Youth dies after getting jammed between train and platform",
-    "url": "https://www.dailymirror.lk/breaking_news/Youth-dies-after-getting-jammed-between-train-and-platform/108-239323",
-    "file_name": "/tmp/news_lk2/articles/f2/f2c25727.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655551200,
-    "title": "Sikh temple in Afghanistan\u2019s capital of Kabul attacked",
-    "url": "http://www.adaderana.lk/news/83121/sikh-temple-in-afghanistans-capital-of-kabul-attacked",
-    "file_name": "/tmp/news_lk2/articles/e5/e53bd5a7.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655551140,
-    "title": "Public mistrust on Government & law enforcement will have dire consequences \u2013 BASL",
-    "url": "https://www.newsfirst.lk/2022/06/18/public-mistrust-on-government-law-enforcement-will-have-dire-consequences-basl/",
-    "file_name": "/tmp/news_lk2/articles/a9/a90ba7bc.json"
   }
 ]
