@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655651940,
+    "title": "Foreign Minister Peiris meets UN High Commissioner for Human Rights",
+    "url": "http://www.adaderana.lk/news/83141/foreign-minister-peiris-meets-un-high-commissioner-for-human-rights",
+    "file_name": "/tmp/news_lk2/articles/01/01f5aca2.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655648940,
     "title": "Govt plotting to arrest protesters on court orders: JVP alleges",
@@ -691,12 +698,5 @@
     "title": "Private sector should also Work From Home : Labour Ministry",
     "url": "https://www.newsfirst.lk/2022/06/18/private-sector-should-also-work-from-home-labour-ministry/",
     "file_name": "/tmp/news_lk2/articles/db/db92ffa3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655552820,
-    "title": "Schools in main cities to be closed for a week",
-    "url": "https://www.dailymirror.lk/latest_news/Schools-in-main-cities-to-be-closed-for-a-week/342-239324",
-    "file_name": "/tmp/news_lk2/articles/fe/fe376306.json"
   }
 ]
