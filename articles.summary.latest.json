@@ -1,10 +1,38 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655627160,
+    "title": "HSBC Group MD visits Sri Lanka to offer support",
+    "url": "https://economynext.com/hsbc-group-md-visits-sri-lanka-to-offer-support-96045/",
+    "file_name": "/tmp/news_lk2/articles/bb/bb56e84a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655625840,
+    "title": "SLBFE warns people of scammers promising foreign employments",
+    "url": "https://www.dailymirror.lk/latest_news/SLBFE-warns-people-of-scammers-promising-foreign-employments/342-239332",
+    "file_name": "/tmp/news_lk2/articles/6f/6fb1e585.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655625240,
+    "title": "Public urged not to queue up for fuel in next 3-4 days; SLTB depots to issue fuel for private buses",
+    "url": "http://www.adaderana.lk/news/83134/public-urged-not-to-queue-up-for-fuel-in-next-3-4-days-sltb-depots-to-issue-fuel-for-private-buses",
+    "file_name": "/tmp/news_lk2/articles/0c/0c0f8e15.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655625240,
     "title": "Public requested not to queue up for fuel in next 3-4 days",
     "url": "http://www.adaderana.lk/news/83134/public-requested-not-to-queue-up-for-fuel-in-next-3-4-days",
     "file_name": "/tmp/news_lk2/articles/dc/dc92a1df.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655624220,
+    "title": "Next Petrol Shipment on 23rd June, Do NOT join queues",
+    "url": "https://www.newsfirst.lk/2022/06/19/next-petrol-shipment-on-23rd-june-do-not-join-queues/",
+    "file_name": "/tmp/news_lk2/articles/ed/edef6795.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -19,6 +47,13 @@
     "title": "Veteran actress Liyoni Kothalawala passes away",
     "url": "http://www.adaderana.lk/news/83133/veteran-actress-liyoni-kothalawala-passes-away",
     "file_name": "/tmp/news_lk2/articles/a0/a0af30d6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655622720,
+    "title": "21 deported Sri Lankans arrive from Australia",
+    "url": "https://www.newsfirst.lk/2022/06/19/21-deported-sri-lankans-arrive-from-australia/",
+    "file_name": "/tmp/news_lk2/articles/f1/f11a1804.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -663,40 +698,5 @@
     "title": "IMF delegation to arrive in Sri Lanka in two days",
     "url": "https://www.newsfirst.lk/2022/06/18/imf-delegation-to-arrive-in-sri-lanka-in-two-days/",
     "file_name": "/tmp/news_lk2/articles/49/4900d78d.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655530500,
-    "title": "Authorities to discuss school operations",
-    "url": "https://www.newsfirst.lk/2022/06/18/authorities-to-discuss-school-operations/",
-    "file_name": "/tmp/news_lk2/articles/24/24834dbc.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655530440,
-    "title": "Only 30% of Fuel Bowsers in use",
-    "url": "https://www.newsfirst.lk/2022/06/18/only-30-of-fuel-bowsers-in-use/",
-    "file_name": "/tmp/news_lk2/articles/9a/9ac87ed2.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655530380,
-    "title": "Body of Kadirana child, recovered",
-    "url": "https://www.newsfirst.lk/2022/06/18/body-of-kadirana-child-recovered/",
-    "file_name": "/tmp/news_lk2/articles/2d/2d58e996.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655530260,
-    "title": "Apeksha Hospital affected by fuel shortage",
-    "url": "https://www.newsfirst.lk/2022/06/18/apeksha-hospital-affected-by-fuel-shortage/",
-    "file_name": "/tmp/news_lk2/articles/2c/2c64a305.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655529960,
-    "title": "Financial losses loom for Sri Lanka apparel sector",
-    "url": "https://www.dailymirror.lk/business-news/Financial-losses-loom-for-Sri-Lanka-apparel-sector/273-239305",
-    "file_name": "/tmp/news_lk2/articles/a4/a4f7f7ba.json"
   }
 ]
