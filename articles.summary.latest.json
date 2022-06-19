@@ -8,10 +8,24 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655663820,
+    "title": "People explode when suppressed and repressed  - Fr. Jeewantha Peiris",
+    "url": "https://www.dailymirror.lk/opinion/People-explode-when-suppressed-and-repressed-Fr-Jeewantha-Peiris/231-239342",
+    "file_name": "/tmp/news_lk2/articles/f0/f0d74094.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655663640,
     "title": "Journalists and protestors - EDITORIAL",
     "url": "https://www.dailymirror.lk/opinion/Journalists-and-protestors-EDITORIAL/172-239341",
     "file_name": "/tmp/news_lk2/articles/cd/cd6fdeac.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655663640,
+    "title": "Journalists and protestors - EDITORIAL",
+    "url": "https://www.dailymirror.lk/opinion/Journalists-and-protestors-EDITORIAL/231-239341",
+    "file_name": "/tmp/news_lk2/articles/80/80dd05bc.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -684,19 +698,5 @@
     "title": "University closure will only further disrupt education: FUTA",
     "url": "https://www.newsfirst.lk/2022/06/18/university-closure-will-only-further-disrupt-education-futa/",
     "file_name": "/tmp/news_lk2/articles/e9/e95c4e85.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655559240,
-    "title": "Athurugiriya Clash : Seven suspects remanded; Two released",
-    "url": "https://www.newsfirst.lk/2022/06/18/athurugiriya-clash-seven-suspects-remanded-two-released/",
-    "file_name": "/tmp/news_lk2/articles/89/89ada4a2.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655558340,
-    "title": "Seven arrested over brawl at filling station remanded",
-    "url": "http://www.adaderana.lk/news/83124/seven-arrested-over-brawl-at-filling-station-remanded",
-    "file_name": "/tmp/news_lk2/articles/c6/c6bb8c6a.json"
   }
 ]
