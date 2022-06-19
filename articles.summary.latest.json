@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655630700,
+    "title": "Youth dies following attack over dispute",
+    "url": "http://www.adaderana.lk/news/83135/youth-dies-following-attack-over-dispute",
+    "file_name": "/tmp/news_lk2/articles/55/55f9eca9.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655630400,
+    "title": "Sri Lanka  in human chain protest against President, PM as currency crisis bites",
+    "url": "https://economynext.com/sri-lanka-in-human-chain-protest-against-president-pm-as-currency-crisis-bites-96048/",
+    "file_name": "/tmp/news_lk2/articles/3d/3d457da0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655629740,
+    "title": "Don\u2019t queue up for fuel next three- four days: Minister",
+    "url": "https://www.dailymirror.lk/breaking_news/Dont-queue-up-for-fuel-next-three-four-days-Minister/108-239334",
+    "file_name": "/tmp/news_lk2/articles/52/5239b4df.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655629020,
     "title": "General election could be held if no other option remains: Harsha",
@@ -12,6 +33,13 @@
     "title": "HSBC Group MD visits Sri Lanka to offer support",
     "url": "https://economynext.com/hsbc-group-md-visits-sri-lanka-to-offer-support-96045/",
     "file_name": "/tmp/news_lk2/articles/bb/bb56e84a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655625840,
+    "title": "SLBFE warns people of scammers promising foreign employments",
+    "url": "https://www.dailymirror.lk/breaking_news/SLBFE-warns-people-of-scammers-promising-foreign-employments/108-239332",
+    "file_name": "/tmp/news_lk2/articles/33/339a206e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -33,6 +61,13 @@
     "title": "Public requested not to queue up for fuel in next 3-4 days",
     "url": "http://www.adaderana.lk/news/83134/public-requested-not-to-queue-up-for-fuel-in-next-3-4-days",
     "file_name": "/tmp/news_lk2/articles/dc/dc92a1df.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655624280,
+    "title": "Number-plate system to issue fuel, priority system for essential workers",
+    "url": "https://www.newsfirst.lk/2022/06/19/number-plate-system-to-issue-fuel/",
+    "file_name": "/tmp/news_lk2/articles/5e/5e6ef36d.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -630,6 +665,13 @@
     "file_name": "/tmp/news_lk2/articles/f0/f0a78945.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655540280,
+    "title": "Cardiac surgeons, anesthesiologists to limit operations from Monday",
+    "url": "https://www.dailymirror.lk/latest_news/Cardiac-surgeons-anesthesiologists-to-limit-operations-from-Monday/342-239317",
+    "file_name": "/tmp/news_lk2/articles/7a/7a491277.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655539800,
     "title": "Schools in major cities closed next week",
@@ -656,47 +698,5 @@
     "title": "Generator at Norochcholai power plant out of operation",
     "url": "http://www.adaderana.lk/news/83117/generator-at-norochcholai-power-plant-out-of-operation",
     "file_name": "/tmp/news_lk2/articles/f9/f9504e6d.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655537340,
-    "title": "Unit 2 of Norochcholai power plant out of operation",
-    "url": "http://www.adaderana.lk/news/83117/unit-2-of-norochcholai-power-plant-out-of-operation",
-    "file_name": "/tmp/news_lk2/articles/b5/b5602571.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655535480,
-    "title": "12 deaths so far due to Rabies, vets encourage vaccinating pets",
-    "url": "https://www.newsfirst.lk/2022/06/18/12-deaths-so-far-due-to-rabies-vets-encourage-vaccinating-pets/",
-    "file_name": "/tmp/news_lk2/articles/e4/e478723b.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655533680,
-    "title": "Education sector facing more challenges at present, officials tell COPA",
-    "url": "http://www.adaderana.lk/news/83116/education-sector-facing-more-challenges-at-present-officials-tell-copa",
-    "file_name": "/tmp/news_lk2/articles/b3/b3e6d7e6.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655533680,
-    "title": "Education sector facing more challenges due to economic crisis than Covid, COPA hears",
-    "url": "http://www.adaderana.lk/news/83116/education-sector-facing-more-challenges-due-to-economic-crisis-than-covid-copa-hears",
-    "file_name": "/tmp/news_lk2/articles/12/12b37d1f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655533380,
-    "title": "Discussions underway over online schooling for students",
-    "url": "https://www.dailymirror.lk/latest_news/Discussions-underway-over-online-schooling-for-students/342-239316",
-    "file_name": "/tmp/news_lk2/articles/01/01c7f664.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655533380,
-    "title": "Discussions underway over online schooling for students",
-    "url": "https://www.dailymirror.lk/breaking_news/Discussions-underway-over-online-schooling-for-students/108-239316",
-    "file_name": "/tmp/news_lk2/articles/3c/3c9e07fe.json"
   }
 ]
