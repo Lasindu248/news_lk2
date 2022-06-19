@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655675940,
+    "title": "Verit\u00e9 Research Sri Lanka Economic Policy Group makes key recommendations",
+    "url": "https://www.ft.lk/business/Verit\u00e9-Research-Sri-Lanka-Economic-Policy-Group-makes-key-recommendations/34-736394",
+    "file_name": "/tmp/news_lk2/articles/cd/cd943d30.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655663820,
     "title": "People explode when suppressed and repressed  - Fr. Jeewantha Peiris",
@@ -691,12 +698,5 @@
     "title": "Sri Lanka Army to cultivate barren lands to prevent food crisis",
     "url": "https://economynext.com/sri-lanka-army-to-cultivate-barren-lands-to-prevent-food-crisis-96013/",
     "file_name": "/tmp/news_lk2/articles/30/308cfdca.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655559240,
-    "title": "University closure will only further disrupt education: FUTA",
-    "url": "https://www.newsfirst.lk/2022/06/18/university-closure-will-only-further-disrupt-education-futa/",
-    "file_name": "/tmp/news_lk2/articles/e9/e95c4e85.json"
   }
 ]
