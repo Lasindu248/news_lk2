@@ -1,6 +1,27 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "time_ut": 1655618160,
+    "title": "Bus operations increased, says SLTB",
+    "url": "https://www.newsfirst.lk/2022/06/19/bus-operations-increased-says-sltb/",
+    "file_name": "/tmp/news_lk2/articles/3f/3f426a8f.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655617140,
+    "title": "Sri Lanka\u2019s Ceylon tea exports down 17-pct in May 2022",
+    "url": "https://economynext.com/sri-lankas-ceylon-tea-exports-down-17-pct-in-may-2022-96040/",
+    "file_name": "/tmp/news_lk2/articles/5a/5a04018b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655616600,
+    "title": "Sugar Scam : COPA to discuss audit report",
+    "url": "https://www.newsfirst.lk/2022/06/19/sugar-scam-copa-to-discuss-audit-report/",
+    "file_name": "/tmp/news_lk2/articles/31/314916b7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "time_ut": 1655614680,
     "title": "SJB plans to launch protests from next week",
     "url": "https://www.newsfirst.lk/2022/06/19/sjb-plans-to-launch-protests-from-next-week/",
@@ -124,6 +145,13 @@
     "title": "A new beginning for family suffering without a proper house",
     "url": "https://www.newsfirst.lk/2022/06/19/a-new-beginning-for-family-suffering-without-a-proper-house/",
     "file_name": "/tmp/news_lk2/articles/a7/a79df41d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655605260,
+    "title": "A new beginning for remote Hali-Ela Family; Gammadda brings renewed hope",
+    "url": "https://www.newsfirst.lk/2022/06/19/a-new-beginning-for-remote-hali-ela-family-gammadda-brings-renewed-hope/",
+    "file_name": "/tmp/news_lk2/articles/ee/eeb2ec34.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -670,33 +698,5 @@
     "title": "Peradeniya University temporarily closed",
     "url": "http://www.adaderana.lk/news/83115/peradeniya-university-temporarily-closed",
     "file_name": "/tmp/news_lk2/articles/df/df9dcbaa.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655523900,
-    "title": "Six cops injured in Athurugiriya petrol shed clash: Nine arrested",
-    "url": "https://www.dailymirror.lk/breaking_news/Six-cops-injured-in-Athurugiriya-petrol-shed-clash-Nine-arrested/108-239314",
-    "file_name": "/tmp/news_lk2/articles/0e/0eca09d4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655523180,
-    "title": "WB expects SL economy to contract by 7.8% in 2022",
-    "url": "https://www.dailymirror.lk/business__main/WB-expects-SL-economy-to-contract-by-7-8-in-2022/245-239312",
-    "file_name": "/tmp/news_lk2/articles/ef/ef539e23.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655523180,
-    "title": "WB expects SL economy to contract by 7.8% in 2022",
-    "url": "https://www.dailymirror.lk/breaking_news/WB-expects-SL-economy-to-contract-by-7-8-in-2022/108-239312",
-    "file_name": "/tmp/news_lk2/articles/57/579e5753.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655522100,
-    "title": "Amarasekera and Weerasinghe to head several listed firms of Dhammika Perera",
-    "url": "https://www.dailymirror.lk/breaking_news/Amarasekera-and-Weerasinghe-to-head-several-listed-firms-of-Dhammika-Perera/108-239308",
-    "file_name": "/tmp/news_lk2/articles/20/20fa9a82.json"
   }
 ]
