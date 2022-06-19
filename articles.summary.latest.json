@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655646600,
+    "title": "Sri Lanka schedules 2 hours 30 minutes for June 20, June 21",
+    "url": "https://economynext.com/sri-lanka-schedules-2-hours-30-minutes-for-june-20-june-21-96065/",
+    "file_name": "/tmp/news_lk2/articles/de/de16c504.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655644620,
     "title": "LITRO clarifies freight costs on 280,000 MT LPG Tender for 2022\u201323",
@@ -691,12 +698,5 @@
     "title": "Public mistrust on Government & law enforcement will have dire consequences \u2013 BASL",
     "url": "https://www.newsfirst.lk/2022/06/18/public-mistrust-on-government-law-enforcement-will-have-dire-consequences-basl/",
     "file_name": "/tmp/news_lk2/articles/a9/a90ba7bc.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655549760,
-    "title": "Rice must be sold under controlled price from tonight: Dudley Sirisena",
-    "url": "https://www.dailymirror.lk/breaking_news/Rice-must-be-sold-under-controlled-price-from-tonight-Dudley-Sirisena/108-239322",
-    "file_name": "/tmp/news_lk2/articles/1c/1c317906.json"
   }
 ]
