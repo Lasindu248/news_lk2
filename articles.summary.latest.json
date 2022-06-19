@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655644620,
+    "title": "LITRO clarifies freight costs on 280,000 MT LPG Tender for 2022\u201323",
+    "url": "https://www.dailymirror.lk/breaking_news/LITRO-clarifies-freight-costs-on-280-000-MT-LPG-Tender-for-202223/108-239337",
+    "file_name": "/tmp/news_lk2/articles/5f/5f95f24a.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655643840,
     "title": "UN coordinator, US Ambassador call for restraint, probe into excessive force",
@@ -82,6 +89,13 @@
     "title": "Warning shots fired to control \u2018drunken mob\u2019 in Vishwamadu \u2013 Army",
     "url": "http://www.adaderana.lk/news/83136/warning-shots-fired-to-control-drunken-mob-in-vishwamadu-army",
     "file_name": "/tmp/news_lk2/articles/b7/b790d610.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655632740,
+    "title": "No lockdown planned",
+    "url": "https://www.dailymirror.lk/top_story/No-lockdown-planned/155-239335",
+    "file_name": "/tmp/news_lk2/articles/ff/ff434757.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -684,19 +698,5 @@
     "title": "Rice must be sold under controlled price from tonight: Dudley Sirisena",
     "url": "https://www.dailymirror.lk/breaking_news/Rice-must-be-sold-under-controlled-price-from-tonight-Dudley-Sirisena/108-239322",
     "file_name": "/tmp/news_lk2/articles/1c/1c317906.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655549760,
-    "title": "Rice must be sold under controlled price from tonight: Dudley Sirisena",
-    "url": "https://www.dailymirror.lk/latest_news/Rice-must-be-sold-under-controlled-price-from-tonight-Dudley-Sirisena/342-239322",
-    "file_name": "/tmp/news_lk2/articles/6b/6b505f98.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655548860,
-    "title": "Unanimous support on need to stand with Lanka in difficult time, says S. Jaishankar  Indian External",
-    "url": "https://www.dailymirror.lk/breaking_news/Unanimous-support-on-need-to-stand-with-Lanka-in-difficult-time-says-S-Jaishankar-Indian-External/108-239321",
-    "file_name": "/tmp/news_lk2/articles/e6/e6fdf3ee.json"
   }
 ]
