@@ -1,5 +1,68 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655606700,
+    "title": "Use minimum force on unruly protests; Directive to Sri Lanka Police",
+    "url": "https://www.newsfirst.lk/2022/06/19/use-minimum-force-on-unruly-protests-directive-to-sri-lanka-police/",
+    "file_name": "/tmp/news_lk2/articles/2c/2c3705e3.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655606640,
+    "title": "Spells of showers expected in several provinces and districts",
+    "url": "http://www.adaderana.lk/news/83128/spells-of-showers-expected-in-several-provinces-and-districts",
+    "file_name": "/tmp/news_lk2/articles/20/205afd40.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655606400,
+    "title": "Sri Lanka tanker truck owners say they also wait for hours to get fuel",
+    "url": "https://economynext.com/sri-lanka-tanker-truck-owners-say-they-also-wait-for-hours-to-get-fuel-96020/",
+    "file_name": "/tmp/news_lk2/articles/ce/ce87138d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655605800,
+    "title": "Single-barrel & Double-Barrel shotguns seized from Wattala house",
+    "url": "https://www.newsfirst.lk/2022/06/19/single-barrel-double-barrel-shotguns-seized-from-wattala-house/",
+    "file_name": "/tmp/news_lk2/articles/5a/5a1ec315.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655605440,
+    "title": "Sri Lankans form human chain to show unity against failed Government",
+    "url": "https://www.newsfirst.lk/2022/06/19/sri-lankans-form-human-chain-to-show-unity-against-failed-government/",
+    "file_name": "/tmp/news_lk2/articles/2b/2b5f768f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655605260,
+    "title": "A new beginning for family suffering without a proper house",
+    "url": "https://www.newsfirst.lk/2022/06/19/a-new-beginning-for-family-suffering-without-a-proper-house/",
+    "file_name": "/tmp/news_lk2/articles/a7/a79df41d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655604960,
+    "title": "Family of four take turns to have a meal, as economic crisis takes it toll",
+    "url": "https://www.newsfirst.lk/2022/06/19/family-of-four-take-turns-to-have-a-meal-as-economic-crisis-takes-it-toll/",
+    "file_name": "/tmp/news_lk2/articles/b5/b5cffebd.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655604840,
+    "title": "Fuel website goes dark; queues become worse",
+    "url": "https://www.newsfirst.lk/2022/06/19/fuel-website-goes-dark-queues-become-worse/",
+    "file_name": "/tmp/news_lk2/articles/90/9088e2e5.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655604540,
+    "title": "Sri Lanka makes contact with nominated Russia oil firms: Minister",
+    "url": "https://economynext.com/sri-lanka-makes-contact-with-nominated-russia-oil-firms-minister-96018/",
+    "file_name": "/tmp/news_lk2/articles/56/56e77e20.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655578680,
     "title": "Crisis-hit Sri Lanka\u2019s fuel shortage forces closure of schools, largest state university",
@@ -635,68 +698,5 @@
     "title": "Negombo Hospital murder case CA affirms death sentence for the Doctor",
     "url": "https://www.dailymirror.lk/breaking_news/Negombo-Hospital-murder-case-CA-affirms-death-sentence-for-the-Doctor/108-239271",
     "file_name": "/tmp/news_lk2/articles/19/198a6071.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655510100,
-    "title": "Food crisis likely to affect around four to five million people - PM",
-    "url": "https://www.dailymirror.lk/front_page/Food-crisis-likely-to-affect-around-four-to-five-million-people-PM/238-239279",
-    "file_name": "/tmp/news_lk2/articles/58/580fe720.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655510100,
-    "title": "Food crisis likely to affect around four to five million people - PM",
-    "url": "https://www.dailymirror.lk/main_image/Food-crisis-likely-to-affect-around-four-to-five-million-people-PM/346-239279",
-    "file_name": "/tmp/news_lk2/articles/ba/ba1f9e39.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655510100,
-    "title": "Food crisis likely to affect around four to five million people - PM",
-    "url": "https://www.dailymirror.lk/top_story/Food-crisis-likely-to-affect-around-four-to-five-million-people-PM/155-239279",
-    "file_name": "/tmp/news_lk2/articles/4a/4a0e923b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655503920,
-    "title": "Gotabaya, Ranil and the Frog and Scorpion Fable",
-    "url": "https://www.dailymirror.lk/dbs-jeyaraj-column/Gotabaya-Ranil-and-the-Frog-and-Scorpion-Fable/192-239289",
-    "file_name": "/tmp/news_lk2/articles/1b/1b465b1b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655503920,
-    "title": "Gotabaya, Ranil and the Frog and Scorpion Fable",
-    "url": "https://www.dailymirror.lk/recomended-news/Gotabaya-Ranil-and-the-Frog-and-Scorpion-Fable/277-239289",
-    "file_name": "/tmp/news_lk2/articles/10/10e00d7c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655503920,
-    "title": "Gotabaya, Ranil and the Frog and Scorpion Fable",
-    "url": "https://www.dailymirror.lk/plus/Gotabaya-Ranil-and-the-Frog-and-Scorpion-Fable/352-239289",
-    "file_name": "/tmp/news_lk2/articles/5f/5f146f47.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655503560,
-    "title": "Basil was totally correct",
-    "url": "https://www.dailymirror.lk/opinion/Basil-was-totally-correct/172-239288",
-    "file_name": "/tmp/news_lk2/articles/86/868f762c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655503500,
-    "title": "What happened in the Senaka Bibile era is happening again",
-    "url": "https://www.dailymirror.lk/opinion/What-happened-in-the-Senaka-Bibile-era-is-happening-again/172-239287",
-    "file_name": "/tmp/news_lk2/articles/12/12ad0116.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655496600,
-    "title": "Food crisis can directly affect 4-5 Mn people in Sri Lanka \u2013 PM",
-    "url": "http://www.adaderana.lk/news/83109/food-crisis-can-directly-affect-4-5-mn-people-in-sri-lanka-pm-",
-    "file_name": "/tmp/news_lk2/articles/61/6136482b.json"
   }
 ]
