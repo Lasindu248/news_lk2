@@ -7,6 +7,13 @@
     "file_name": "/tmp/news_lk2/articles/6f/6f8a0e5d.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655635200,
+    "title": "Evaluation of O/L papers will continue without hindrance: Education Ministry",
+    "url": "https://www.newsfirst.lk/2022/06/19/evaluation-of-o-l-papers-will-continue-without-hindrance-education-ministry/",
+    "file_name": "/tmp/news_lk2/articles/0e/0e4a360c.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655633040,
     "title": "Warning shots fired to control \u2018drunken mob\u2019 in Vishwamadu \u2013 Army",
@@ -26,6 +33,13 @@
     "title": "Youth dies following attack over dispute",
     "url": "http://www.adaderana.lk/news/83135/youth-dies-following-attack-over-dispute",
     "file_name": "/tmp/news_lk2/articles/55/55f9eca9.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655630400,
+    "title": "Sri Lanka protestors in human chain against President, PM as currency crisis bites",
+    "url": "https://economynext.com/sri-lanka-protestors-in-human-chain-against-president-pm-as-currency-crisis-bites-96048/",
+    "file_name": "/tmp/news_lk2/articles/d5/d57fdaba.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -684,19 +698,5 @@
     "title": "Online education for schools in Colombo City limits next week: Ministry",
     "url": "https://www.dailymirror.lk/breaking_news/Online-education-for-schools-in-Colombo-City-limits-next-week-Ministry/108-239320",
     "file_name": "/tmp/news_lk2/articles/a1/a18881a1.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655541060,
-    "title": "Sapugaskanda may shut down if govt. unable to bring crude oil shipment: Union",
-    "url": "https://www.dailymirror.lk/breaking_news/Sapugaskanda-may-shut-down-if-govt-unable-to-bring-crude-oil-shipment-Union/108-239318",
-    "file_name": "/tmp/news_lk2/articles/71/719a5bd3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655541060,
-    "title": "Sapugaskanda may shut down if govt. unable to bring crude oil shipment: Union",
-    "url": "https://www.dailymirror.lk/latest_news/Sapugaskanda-may-shut-down-if-govt-unable-to-bring-crude-oil-shipment-Union/342-239318",
-    "file_name": "/tmp/news_lk2/articles/1e/1e863a7d.json"
   }
 ]
