@@ -7,6 +7,20 @@
     "file_name": "/tmp/news_lk2/articles/cd/cd943d30.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655675340,
+    "title": "Foreign Minister meets High Commissioner for Human Rights",
+    "url": "https://www.ft.lk/news/Foreign-Minister-meets-High-Commissioner-for-Human-Rights/56-736396",
+    "file_name": "/tmp/news_lk2/articles/f3/f3f6b43a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655674200,
+    "title": "New software application helps Sri Lanka Consulate General in Melbourne to deliver efficient services",
+    "url": "https://www.ft.lk/news/New-software-application-helps-Sri-Lanka-Consulate-General-in-Melbourne-to-deliver-efficient-services/56-736395",
+    "file_name": "/tmp/news_lk2/articles/4b/4b16362a.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655663820,
     "title": "People explode when suppressed and repressed  - Fr. Jeewantha Peiris",
@@ -684,19 +698,5 @@
     "title": "Suspect arrested with five foreign-made firearms in Mabola",
     "url": "http://www.adaderana.lk/news/83125/suspect-arrested-with-five-foreign-made-firearms-in-mabola",
     "file_name": "/tmp/news_lk2/articles/4b/4bd01d90.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655564040,
-    "title": "Suspect dies during drug raid, Police says accidental discharge",
-    "url": "https://www.newsfirst.lk/2022/06/18/suspect-dies-during-drug-raid-police-says-accidental-discharge/",
-    "file_name": "/tmp/news_lk2/articles/25/25c2a9bf.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655560620,
-    "title": "Sri Lanka Army to cultivate barren lands to prevent food crisis",
-    "url": "https://economynext.com/sri-lanka-army-to-cultivate-barren-lands-to-prevent-food-crisis-96013/",
-    "file_name": "/tmp/news_lk2/articles/30/308cfdca.json"
   }
 ]
