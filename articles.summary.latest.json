@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655653320,
+    "title": "Tense situation at fuel station in Meegahathenna",
+    "url": "http://www.adaderana.lk/news/83143/tense-situation-at-fuel-station-in-meegahathenna",
+    "file_name": "/tmp/news_lk2/articles/0c/0ca81134.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655651940,
     "title": "Foreign Minister Peiris meets UN High Commissioner for Human Rights",
     "url": "http://www.adaderana.lk/news/83141/foreign-minister-peiris-meets-un-high-commissioner-for-human-rights",
@@ -691,12 +698,5 @@
     "title": "(VIDEO) Sri Lankan Minister forced to flee after angry mob protest against his visit",
     "url": "https://www.newsfirst.lk/2022/06/18/video-sri-lankan-minister-forced-to-flee-after-angry-mob-protest-against-his-visit/",
     "file_name": "/tmp/news_lk2/articles/bb/bb967b9c.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655553840,
-    "title": "Private sector should also Work From Home : Labour Ministry",
-    "url": "https://www.newsfirst.lk/2022/06/18/private-sector-should-also-work-from-home-labour-ministry/",
-    "file_name": "/tmp/news_lk2/articles/db/db92ffa3.json"
   }
 ]
