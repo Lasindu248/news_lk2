@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655629020,
+    "title": "General election could be held if no other option remains: Harsha",
+    "url": "https://www.dailymirror.lk/breaking_news/General-election-could-be-held-if-no-other-option-remains-Harsha/108-239333",
+    "file_name": "/tmp/news_lk2/articles/91/9167e188.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655627160,
     "title": "HSBC Group MD visits Sri Lanka to offer support",
@@ -173,6 +180,13 @@
     "title": "Sri Lanka CPC pays rupees to Treasury for Indian credit line",
     "url": "https://economynext.com/sri-lanka-cpc-pays-rupees-to-treasury-for-indian-credit-line-96027/",
     "file_name": "/tmp/news_lk2/articles/58/58f118de.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655611560,
+    "title": "Police to use minimal force against violence near petrol sheds",
+    "url": "https://www.dailymirror.lk/top_story/Police-to-use-minimal-force-against-violence-near-petrol-sheds/155-239329",
+    "file_name": "/tmp/news_lk2/articles/81/81011a46.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -609,6 +623,13 @@
     "file_name": "/tmp/news_lk2/articles/b2/b20fd5b4.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655540280,
+    "title": "Cardiac surgeons, anesthesiologists to limit operations from Monday",
+    "url": "https://www.dailymirror.lk/breaking_news/Cardiac-surgeons-anesthesiologists-to-limit-operations-from-Monday/108-239317",
+    "file_name": "/tmp/news_lk2/articles/f0/f0a78945.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655539800,
     "title": "Schools in major cities closed next week",
@@ -677,26 +698,5 @@
     "title": "Discussions underway over online schooling for students",
     "url": "https://www.dailymirror.lk/breaking_news/Discussions-underway-over-online-schooling-for-students/108-239316",
     "file_name": "/tmp/news_lk2/articles/3c/3c9e07fe.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655533200,
-    "title": "Don\u2019t obstruct police duties: Spokesperson",
-    "url": "https://www.newsfirst.lk/2022/06/18/dont-obstruct-police-duties-spokesperson/",
-    "file_name": "/tmp/news_lk2/articles/7d/7df80b1a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655531640,
-    "title": "Two Secretaries appointed by President",
-    "url": "https://www.newsfirst.lk/2022/06/18/two-secretaries-appointed-by-president/",
-    "file_name": "/tmp/news_lk2/articles/e1/e17cbc26.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655531640,
-    "title": "IMF delegation to arrive in Sri Lanka in two days",
-    "url": "https://www.newsfirst.lk/2022/06/18/imf-delegation-to-arrive-in-sri-lanka-in-two-days/",
-    "file_name": "/tmp/news_lk2/articles/49/4900d78d.json"
   }
 ]
