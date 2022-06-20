@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655697960,
+    "title": "Lotus Roundabout in Colombo blocked due to protest",
+    "url": "http://www.adaderana.lk/news/83148/lotus-roundabout-in-colombo-blocked-due-to-protest",
+    "file_name": "/tmp/news_lk2/articles/b9/b9c6ac43.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655696040,
     "title": "President and SLPP parliamentary group to meet today",
     "url": "http://www.adaderana.lk/news/83147/president-and-slpp-parliamentary-group-to-meet-today",
@@ -28,6 +35,20 @@
     "file_name": "/tmp/news_lk2/articles/cf/cf98431b.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655694060,
+    "title": "Nearly 5 million people food insecure",
+    "url": "https://www.dailymirror.lk/breaking_news/Nearly-5-million-people-food-insecure/108-239393",
+    "file_name": "/tmp/news_lk2/articles/3c/3c27f27f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655694000,
+    "title": "IMF delegation visits Sri Lanka with time running out",
+    "url": "http://www.adaderana.lk/news/83146/imf-delegation-visits-sri-lanka-with-time-running-out",
+    "file_name": "/tmp/news_lk2/articles/29/2989e8de.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655694000,
     "title": "IMF delegation to visit Sri Lanka with time running out",
@@ -40,6 +61,13 @@
     "title": "IMF delegates in Sri Lanka",
     "url": "https://www.newsfirst.lk/2022/06/20/imf-delegates-in-sri-lanka/",
     "file_name": "/tmp/news_lk2/articles/ba/bae8f76e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655691060,
+    "title": "Teachers\u2019 attendance not \u2019must\u2019 this week: Edu Minister",
+    "url": "https://www.dailymirror.lk/breaking_news/Teachers-attendance-not-must-this-week-Edu-Minister/108-239379",
+    "file_name": "/tmp/news_lk2/articles/8f/8fda8e74.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -201,6 +229,13 @@
     "title": "Why CEB?",
     "url": "https://www.dailymirror.lk/opinion/Why-CEB/172-239340",
     "file_name": "/tmp/news_lk2/articles/e2/e2b34de4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655663160,
+    "title": "Newly-restored Embilipitiya Paper Mill to save extensive outflow of dollars, says BOI",
+    "url": "https://www.dailymirror.lk/business-news/Newly-restored-Embilipitiya-Paper-Mill-to-save-extensive-outflow-of-dollars-says-BOI/273-239354",
+    "file_name": "/tmp/news_lk2/articles/1e/1e199928.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -663,40 +698,5 @@
     "title": "Police to use minimal force against violence near petrol sheds",
     "url": "https://www.dailymirror.lk/top_story/Police-to-use-minimal-force-against-violence-near-petrol-sheds/155-239329",
     "file_name": "/tmp/news_lk2/articles/81/81011a46.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655611560,
-    "title": "Police to use minimal force against violence near petrol sheds",
-    "url": "https://www.dailymirror.lk/breaking_news/Police-to-use-minimal-force-against-violence-near-petrol-sheds/108-239329",
-    "file_name": "/tmp/news_lk2/articles/bc/bcfe7bc1.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655611320,
-    "title": "Fuel distribution to be audited",
-    "url": "https://www.newsfirst.lk/2022/06/19/fuel-distribution-to-be-audited/",
-    "file_name": "/tmp/news_lk2/articles/05/05dd08f0.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655610660,
-    "title": "Lecturers oppose decision to close down universities",
-    "url": "http://www.adaderana.lk/news/83130/lecturers-oppose-decision-to-close-down-universities",
-    "file_name": "/tmp/news_lk2/articles/50/5002073e.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655608860,
-    "title": "Sri Lanka Bar Association warns against police assaults on fuel customers",
-    "url": "https://economynext.com/sri-lanka-bar-association-warns-against-police-assaults-on-fuel-customers-96021/",
-    "file_name": "/tmp/news_lk2/articles/a9/a924f984.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655607360,
-    "title": "Indian Women\u2019s team arrives",
-    "url": "https://www.dailymirror.lk/caption_story/Indian-Womens-team-arrives/110-239328",
-    "file_name": "/tmp/news_lk2/articles/bc/bcb6c6fa.json"
   }
 ]
