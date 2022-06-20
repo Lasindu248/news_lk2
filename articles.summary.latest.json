@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655699700,
+    "title": "Clare O\u2019Neil visits Sri Lanka for talks on how Australia can assist country\u2019s economic crisis",
+    "url": "https://www.dailymirror.lk/breaking_news/Clare-ONeil-visits-Sri-Lanka-for-talks-on-how-Australia-can-assist-countrys-economic-crisis/108-239405",
+    "file_name": "/tmp/news_lk2/articles/f7/f7013cf0.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655698860,
+    "title": "MP Sanath Nishantha\u2019s brother arrested",
+    "url": "http://www.adaderana.lk/news/83149/mp-sanath-nishanthas-brother-arrested",
+    "file_name": "/tmp/news_lk2/articles/bc/bce76e15.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655698800,
+    "title": "PM commences talks with IMF Delegation",
+    "url": "https://www.dailymirror.lk/latest_news/PM-commences-talks-with-IMF-Delegation/342-239407",
+    "file_name": "/tmp/news_lk2/articles/1b/1b913101.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655697960,
     "title": "Lotus Roundabout in Colombo blocked due to protest",
@@ -7,11 +28,53 @@
     "file_name": "/tmp/news_lk2/articles/b9/b9c6ac43.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655697600,
+    "title": "Police detain GotaGoGama protestors who obstructed gates to President\u2019s Office",
+    "url": "https://www.newsfirst.lk/2022/06/20/police-detain-gotagogama-protestors-who-obstructed-gates-to-presidents-office/",
+    "file_name": "/tmp/news_lk2/articles/69/6958786b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655697120,
+    "title": "NO Power Cuts in the Morning \u2013 PUCSL",
+    "url": "https://www.newsfirst.lk/2022/06/20/no-power-cuts-in-the-morning-pucsl/",
+    "file_name": "/tmp/news_lk2/articles/e8/e81079be.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655696760,
+    "title": "Sri Lanka record highest ODI chase against Australia to go 2-1 up",
+    "url": "https://www.newsfirst.lk/2022/06/20/sri-lanka-record-highest-odi-chase-against-australia-to-go-2-1-up/",
+    "file_name": "/tmp/news_lk2/articles/e1/e1a2a878.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655696220,
+    "title": "GotaGoGama : All gates at President\u2019s Office taken over by protestors",
+    "url": "https://www.newsfirst.lk/2022/06/20/gotagogama-all-gates-at-presidents-office-taken-over-by-protestors/",
+    "file_name": "/tmp/news_lk2/articles/cf/cff729b5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655696100,
+    "title": "Public Sector to Work from Home for Two Weeks",
+    "url": "https://www.newsfirst.lk/2022/06/20/public-sector-to-work-from-home-for-two-weeks/",
+    "file_name": "/tmp/news_lk2/articles/c1/c164044b.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655696040,
     "title": "President and SLPP parliamentary group to meet today",
     "url": "http://www.adaderana.lk/news/83147/president-and-slpp-parliamentary-group-to-meet-today",
     "file_name": "/tmp/news_lk2/articles/72/72fe30c7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655695320,
+    "title": "President to meet SLPP MPs today (20)",
+    "url": "https://www.newsfirst.lk/2022/06/20/president-to-meet-slpp-mps-today-20/",
+    "file_name": "/tmp/news_lk2/articles/54/549afc6f.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -82,6 +145,13 @@
     "title": "Fairly heavy showers expected in parts of the country",
     "url": "http://www.adaderana.lk/news/83145/fairly-heavy-showers-expected-in-parts-of-the-country",
     "file_name": "/tmp/news_lk2/articles/6d/6d16e0a8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655689800,
+    "title": "Speculation over Litro gas tender controversy",
+    "url": "https://www.newsfirst.lk/2022/06/20/speculation-over-litro-gas-tender-controversy/",
+    "file_name": "/tmp/news_lk2/articles/97/976c653d.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -178,6 +248,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655665800,
     "title": "Sri Lanka comes to grinding halt as fuel runs out",
+    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-comes-to-grinding-halt-as-fuel-runs-out/342-239369",
+    "file_name": "/tmp/news_lk2/articles/5e/5e175069.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655665800,
+    "title": "Sri Lanka comes to grinding halt as fuel runs out",
     "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-comes-to-grinding-halt-as-fuel-runs-out/108-239369",
     "file_name": "/tmp/news_lk2/articles/3f/3fe88041.json"
   },
@@ -229,6 +306,13 @@
     "title": "Why CEB?",
     "url": "https://www.dailymirror.lk/opinion/Why-CEB/172-239340",
     "file_name": "/tmp/news_lk2/articles/e2/e2b34de4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655663160,
+    "title": "Newly-restored Embilipitiya Paper Mill to save extensive outflow of dollars, says BOI",
+    "url": "https://www.dailymirror.lk/latest_news/Newly-restored-Embilipitiya-Paper-Mill-to-save-extensive-outflow-of-dollars-says-BOI/342-239354",
+    "file_name": "/tmp/news_lk2/articles/a3/a364e7bd.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -614,89 +698,5 @@
     "title": "Sri Lanka lifts mandatory Covid-19 insurance for foreigners",
     "url": "http://www.adaderana.lk/news/83131/sri-lanka-lifts-mandatory-covid-19-insurance-for-foreigners",
     "file_name": "/tmp/news_lk2/articles/f3/f3d0b791.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655619300,
-    "title": "Veteran actress Leonie Kotelawala passed away",
-    "url": "https://www.newsfirst.lk/2022/06/19/veteran-actress-leonie-kotelawala-passed-away/",
-    "file_name": "/tmp/news_lk2/articles/ba/baaa759c.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655618160,
-    "title": "Bus operations increased, says SLTB",
-    "url": "https://www.newsfirst.lk/2022/06/19/bus-operations-increased-says-sltb/",
-    "file_name": "/tmp/news_lk2/articles/3f/3f426a8f.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655617140,
-    "title": "Sri Lanka\u2019s Ceylon tea exports down 17-pct in May 2022",
-    "url": "https://economynext.com/sri-lankas-ceylon-tea-exports-down-17-pct-in-may-2022-96040/",
-    "file_name": "/tmp/news_lk2/articles/5a/5a04018b.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655616600,
-    "title": "Sugar Scam : COPA to discuss audit report",
-    "url": "https://www.newsfirst.lk/2022/06/19/sugar-scam-copa-to-discuss-audit-report/",
-    "file_name": "/tmp/news_lk2/articles/31/314916b7.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655614680,
-    "title": "SJB plans to launch protests from next week",
-    "url": "https://www.newsfirst.lk/2022/06/19/sjb-plans-to-launch-protests-from-next-week/",
-    "file_name": "/tmp/news_lk2/articles/2e/2ecd9e63.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655614080,
-    "title": "President & SLPP MPs to meet on fuel crisis",
-    "url": "https://www.newsfirst.lk/2022/06/19/president-slpp-mps-to-meet-on-fuel-crisis/",
-    "file_name": "/tmp/news_lk2/articles/05/051d9f16.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655614080,
-    "title": "Russian fuel: Independent MPs to meet Ambassador",
-    "url": "https://www.newsfirst.lk/2022/06/19/russian-fuel-independent-mps-to-meet-ambassador/",
-    "file_name": "/tmp/news_lk2/articles/cd/cd2257a5.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655613540,
-    "title": "Rajarata University opts for online lectures",
-    "url": "https://www.newsfirst.lk/2022/06/19/rajarata-university-opts-for-online-lectures/",
-    "file_name": "/tmp/news_lk2/articles/83/830af2c3.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655612220,
-    "title": "Train passenger numbers up by 20%",
-    "url": "https://www.newsfirst.lk/2022/06/19/train-passenger-numbers-up-by-20/",
-    "file_name": "/tmp/news_lk2/articles/89/891df84e.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655611800,
-    "title": "Sri Lanka CPC pays rupees to Treasury for Indian credit line",
-    "url": "https://economynext.com/sri-lanka-cpc-pays-rupees-to-treasury-for-indian-credit-line-96027/",
-    "file_name": "/tmp/news_lk2/articles/58/58f118de.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655611560,
-    "title": "Police to use minimal force against violence near petrol sheds",
-    "url": "https://www.dailymirror.lk/latest_news/Police-to-use-minimal-force-against-violence-near-petrol-sheds/342-239329",
-    "file_name": "/tmp/news_lk2/articles/ba/ba734c5f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655611560,
-    "title": "Police to use minimal force against violence near petrol sheds",
-    "url": "https://www.dailymirror.lk/top_story/Police-to-use-minimal-force-against-violence-near-petrol-sheds/155-239329",
-    "file_name": "/tmp/news_lk2/articles/81/81011a46.json"
   }
 ]
