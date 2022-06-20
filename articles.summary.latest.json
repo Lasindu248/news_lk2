@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655680920,
+    "title": "All island private bus service will return to normal after tomorrow: Gemunu",
+    "url": "https://www.dailymirror.lk/latest_news/All-island-private-bus-service-will-return-to-normal-after-tomorrow-Gemunu/342-239375",
+    "file_name": "/tmp/news_lk2/articles/16/16898e47.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1655675940,
     "title": "Verit\u00e9 Research Sri Lanka Economic Policy Group makes key recommendations",
@@ -19,6 +26,20 @@
     "title": "New software application helps Sri Lanka Consulate General in Melbourne to deliver efficient services",
     "url": "https://www.ft.lk/news/New-software-application-helps-Sri-Lanka-Consulate-General-in-Melbourne-to-deliver-efficient-services/56-736395",
     "file_name": "/tmp/news_lk2/articles/4b/4b16362a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655672880,
+    "title": "Global financial agencies or donor countries would not come forward to bail out SL: Sirisena",
+    "url": "https://www.dailymirror.lk/latest_news/Global-financial-agencies-or-donor-countries-would-not-come-forward-to-bail-out-SL-Sirisena/342-239376",
+    "file_name": "/tmp/news_lk2/articles/6c/6cf43678.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655667480,
+    "title": "Remembering late PM",
+    "url": "https://www.dailymirror.lk/latest_news/Remembering-late-PM/342-239377",
+    "file_name": "/tmp/news_lk2/articles/9e/9e0df746.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -677,26 +698,5 @@
     "title": "China-built Norochcholai Coal Power Plant requires feasible approach to avoid frequent shutdowns",
     "url": "https://www.dailymirror.lk/breaking_news/China-built-Norochcholai-Coal-Power-Plant-requires-feasible-approach-to-avoid-frequent-shutdowns/108-239336",
     "file_name": "/tmp/news_lk2/articles/07/0799cfda.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655570580,
-    "title": "30-year-old shot dead during drug raid in Neluwa",
-    "url": "http://www.adaderana.lk/news/83126/30-year-old-shot-dead-during-drug-raid-in-neluwa",
-    "file_name": "/tmp/news_lk2/articles/14/142dcc23.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655569620,
-    "title": "KALUBOWITIYANA TEA FACTORY ACHIEVES EQUAL ALL TIME RECORD  PRICE AT E-AUCTION IN SRI LANKA",
-    "url": "https://www.ft.lk/business/KALUBOWITIYANA-TEA-FACTORY-ACHIEVES-EQUAL-ALL-TIME-RECORD-PRICE-AT-E-AUCTION-IN-SRI-LANKA/34-736367",
-    "file_name": "/tmp/news_lk2/articles/59/596d3265.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655569560,
-    "title": "NEW MAHENDRA TEA FACTORY ESTABLISHES EQUAL ALL TIME RECORD  PRICE FOR PEK GRADE",
-    "url": "https://www.ft.lk/business/NEW-MAHENDRA-TEA-FACTORY-ESTABLISHES-EQUAL-ALL-TIME-RECORD-PRICE-FOR-PEK-GRADE/34-736366",
-    "file_name": "/tmp/news_lk2/articles/e7/e738a8c6.json"
   }
 ]
