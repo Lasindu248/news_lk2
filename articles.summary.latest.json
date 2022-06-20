@@ -1,6 +1,27 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655691060,
+    "title": "Teachers\u2019 attendance not \u2019must\u2019 this week: Edu Minister",
+    "url": "https://www.dailymirror.lk/latest_news/Teachers-attendance-not-must-this-week-Edu-Minister/342-239379",
+    "file_name": "/tmp/news_lk2/articles/ac/ac405840.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655691000,
+    "title": "Fairly heavy showers expected in parts of the country",
+    "url": "http://www.adaderana.lk/news/83145/fairly-heavy-showers-expected-in-parts-of-the-country",
+    "file_name": "/tmp/news_lk2/articles/6d/6d16e0a8.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655689080,
+    "title": "Sri Lanka chicken, egg production plunge amid soft-peg collapse",
+    "url": "https://economynext.com/sri-lanka-chicken-egg-production-plunge-amid-soft-peg-collapse-96071/",
+    "file_name": "/tmp/news_lk2/articles/64/641f2b67.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655682900,
     "title": "Painted faces...",
     "url": "https://www.dailymirror.lk/caption_story/Painted-faces/110-239378",
@@ -677,26 +698,5 @@
     "title": "Sri Lanka makes contact with nominated Russia oil firms: Minister",
     "url": "https://economynext.com/sri-lanka-makes-contact-with-nominated-russia-oil-firms-minister-96018/",
     "file_name": "/tmp/news_lk2/articles/56/56e77e20.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655578680,
-    "title": "Crisis-hit Sri Lanka\u2019s fuel shortage forces closure of schools, largest state university",
-    "url": "https://economynext.com/crisis-hit-sri-lankas-fuel-shortage-forces-closure-of-schools-largest-state-university-96017/",
-    "file_name": "/tmp/news_lk2/articles/19/19206b37.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655576760,
-    "title": "Sri Lanka energy minister suspends 3 fuel bowsers after viral social media video",
-    "url": "https://economynext.com/sri-lanka-energy-minister-suspends-3-fuel-bowsers-after-viral-social-media-video-96016/",
-    "file_name": "/tmp/news_lk2/articles/39/394a9707.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655575380,
-    "title": "Sri Lanka sees signs of fuel riots as motorists wait for days in queues",
-    "url": "https://economynext.com/sri-lanka-sees-signs-of-fuel-riots-as-motorists-wait-for-days-in-queues-96015/",
-    "file_name": "/tmp/news_lk2/articles/7b/7bcac29a.json"
   }
 ]
