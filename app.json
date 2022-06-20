@@ -1,0 +1,24 @@
+{
+    "name": "News App",
+    "logo": "https://telegra.ph//file/d64a57329e3c52da9c16f.jpg",
+    "description": "Checking For Now",
+    "keywords": [
+        "news",
+        "api"
+    ],
+    "repository": "https://github.com/Lasindu248/news_lk2",
+    "website": "www.lasindu.ml",
+    "success_url": "t.me/NiupunDinujaya",
+    "stack": "container",
+    "buildpacks": [
+        {
+            "url": "https://github.com/InukaAsith/heroku-buildpack-python"
+        }
+    ],
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
