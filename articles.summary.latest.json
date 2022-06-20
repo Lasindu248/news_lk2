@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655700900,
+    "title": "Sri Lanka Prime Minister meets IMF mission in bailout talks",
+    "url": "https://economynext.com/sri-lanka-prime-minister-meets-imf-mission-in-bailout-talks-96088/",
+    "file_name": "/tmp/news_lk2/articles/c3/c343860f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655700180,
+    "title": "PM begins talks with visiting IMF team in Sri Lanka",
+    "url": "http://www.adaderana.lk/news/83150/pm-begins-talks-with-visiting-imf-team-in-sri-lanka",
+    "file_name": "/tmp/news_lk2/articles/52/52f64807.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655699700,
     "title": "Clare O\u2019Neil visits Sri Lanka for talks on how Australia can assist country\u2019s economic crisis",
@@ -684,19 +698,5 @@
     "title": "Sri Lanka embassy promotes tourism in Brazil",
     "url": "https://economynext.com/sri-lanka-embassy-promotes-tourism-in-brazil-96042/",
     "file_name": "/tmp/news_lk2/articles/d7/d7e78235.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655619660,
-    "title": "Nine injured in bus-car collision",
-    "url": "https://www.newsfirst.lk/2022/06/19/nine-injured-in-bus-car-collision/",
-    "file_name": "/tmp/news_lk2/articles/4a/4a7aed54.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655619600,
-    "title": "Sri Lanka lifts mandatory Covid-19 insurance for foreigners",
-    "url": "http://www.adaderana.lk/news/83131/sri-lanka-lifts-mandatory-covid-19-insurance-for-foreigners",
-    "file_name": "/tmp/news_lk2/articles/f3/f3d0b791.json"
   }
 ]
