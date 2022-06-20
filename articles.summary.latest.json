@@ -1,6 +1,34 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655695200,
+    "title": "UN, US urge SL to probe any excessive use of force",
+    "url": "https://www.dailymirror.lk/breaking_news/UN-US-urge-SL-to-probe-any-excessive-use-of-force/108-239402",
+    "file_name": "/tmp/news_lk2/articles/e3/e3831813.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655694060,
+    "title": "Nearly 5 million people food insecure",
+    "url": "https://www.dailymirror.lk/latest_news/Nearly-5-million-people-food-insecure/342-239393",
+    "file_name": "/tmp/news_lk2/articles/cf/cf98431b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655694000,
+    "title": "IMF delegation to visit Sri Lanka with time running out",
+    "url": "http://www.adaderana.lk/news/83146/imf-delegation-to-visit-sri-lanka-with-time-running-out",
+    "file_name": "/tmp/news_lk2/articles/18/1805e2d5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655692620,
+    "title": "IMF delegates in Sri Lanka",
+    "url": "https://www.newsfirst.lk/2022/06/20/imf-delegates-in-sri-lanka/",
+    "file_name": "/tmp/news_lk2/articles/ba/bae8f76e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655691060,
     "title": "Teachers\u2019 attendance not \u2019must\u2019 this week: Edu Minister",
     "url": "https://www.dailymirror.lk/latest_news/Teachers-attendance-not-must-this-week-Edu-Minister/342-239379",
@@ -19,6 +47,13 @@
     "title": "Sri Lanka chicken, egg production plunge amid soft-peg collapse",
     "url": "https://economynext.com/sri-lanka-chicken-egg-production-plunge-amid-soft-peg-collapse-96071/",
     "file_name": "/tmp/news_lk2/articles/64/641f2b67.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655682900,
+    "title": "Painted faces...",
+    "url": "https://www.dailymirror.lk/latest_news/Painted-faces/342-239378",
+    "file_name": "/tmp/news_lk2/articles/77/7742e673.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -89,6 +124,13 @@
     "title": "Remembering late PM",
     "url": "https://www.dailymirror.lk/latest_news/Remembering-late-PM/342-239377",
     "file_name": "/tmp/news_lk2/articles/9e/9e0df746.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655665800,
+    "title": "Sri Lanka comes to grinding halt as fuel runs out",
+    "url": "https://www.dailymirror.lk/business__main/Sri-Lanka-comes-to-grinding-halt-as-fuel-runs-out/245-239369",
+    "file_name": "/tmp/news_lk2/articles/32/3245e867.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -656,47 +698,5 @@
     "title": "Single-barrel & Double-Barrel shotguns seized from Wattala house",
     "url": "https://www.newsfirst.lk/2022/06/19/single-barrel-double-barrel-shotguns-seized-from-wattala-house/",
     "file_name": "/tmp/news_lk2/articles/5a/5a1ec315.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655605440,
-    "title": "Sri Lankans form human chain to show unity against failed Government",
-    "url": "https://www.newsfirst.lk/2022/06/19/sri-lankans-form-human-chain-to-show-unity-against-failed-government/",
-    "file_name": "/tmp/news_lk2/articles/2b/2b5f768f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655605260,
-    "title": "A new beginning for family suffering without a proper house",
-    "url": "https://www.newsfirst.lk/2022/06/19/a-new-beginning-for-family-suffering-without-a-proper-house/",
-    "file_name": "/tmp/news_lk2/articles/a7/a79df41d.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655605260,
-    "title": "A new beginning for remote Hali-Ela Family; Gammadda brings renewed hope",
-    "url": "https://www.newsfirst.lk/2022/06/19/a-new-beginning-for-remote-hali-ela-family-gammadda-brings-renewed-hope/",
-    "file_name": "/tmp/news_lk2/articles/ee/eeb2ec34.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655604960,
-    "title": "Family of four take turns to have a meal, as economic crisis takes it toll",
-    "url": "https://www.newsfirst.lk/2022/06/19/family-of-four-take-turns-to-have-a-meal-as-economic-crisis-takes-it-toll/",
-    "file_name": "/tmp/news_lk2/articles/b5/b5cffebd.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655604840,
-    "title": "Fuel website goes dark; queues become worse",
-    "url": "https://www.newsfirst.lk/2022/06/19/fuel-website-goes-dark-queues-become-worse/",
-    "file_name": "/tmp/news_lk2/articles/90/9088e2e5.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655604540,
-    "title": "Sri Lanka makes contact with nominated Russia oil firms: Minister",
-    "url": "https://economynext.com/sri-lanka-makes-contact-with-nominated-russia-oil-firms-minister-96018/",
-    "file_name": "/tmp/news_lk2/articles/56/56e77e20.json"
   }
 ]
