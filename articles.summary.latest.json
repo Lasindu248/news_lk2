@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655704440,
+    "title": "Australia to provide $50 Mn for urgent food and healthcare needs",
+    "url": "https://www.dailymirror.lk/latest_news/Australia-to-provide-50-Mn-for-urgent-food-and-healthcare-needs/342-239416",
+    "file_name": "/tmp/news_lk2/articles/9e/9e86cb80.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655703120,
     "title": "Sri Lanka police arrest 19 anti-govt protestors on president\u2019s birthday",
@@ -691,12 +698,5 @@
     "title": "Liyoni Kotelawala passes away",
     "url": "https://www.dailymirror.lk/breaking_news/Liyoni-Kotelawala-passes-away/108-239331",
     "file_name": "/tmp/news_lk2/articles/7e/7e2b0640.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655622780,
-    "title": "Veteran actress Liyoni Kothalawala passes away",
-    "url": "http://www.adaderana.lk/news/83133/veteran-actress-liyoni-kothalawala-passes-away",
-    "file_name": "/tmp/news_lk2/articles/a0/a0af30d6.json"
   }
 ]
