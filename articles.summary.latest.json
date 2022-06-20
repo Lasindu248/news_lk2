@@ -1,6 +1,27 @@
 [
   {
     "newspaper_id": "economy-next-com",
+    "time_ut": 1655703120,
+    "title": "Sri Lanka police arrest 19 anti-govt protestors on president\u2019s birthday",
+    "url": "https://economynext.com/sri-lanka-police-arrest-19-anti-govt-protestors-on-presidents-birthday-96097/",
+    "file_name": "/tmp/news_lk2/articles/5e/5e7b9304.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655702220,
+    "title": "Three including MP Sanath Nishantha\u2019s brother arrested",
+    "url": "https://www.dailymirror.lk/breaking_news/Three-including-MP-Sanath-Nishanthas-brother-arrested/108-239415",
+    "file_name": "/tmp/news_lk2/articles/9c/9cdb36f1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655701740,
+    "title": "Buses, trains run smoothly today",
+    "url": "https://www.dailymirror.lk/latest_news/Buses-trains-run-smoothly-today/342-239414",
+    "file_name": "/tmp/news_lk2/articles/b0/b0595bed.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "time_ut": 1655700900,
     "title": "Sri Lanka Prime Minister meets IMF mission in bailout talks",
     "url": "https://economynext.com/sri-lanka-prime-minister-meets-imf-mission-in-bailout-talks-96088/",
@@ -12,6 +33,13 @@
     "title": "PM begins talks with visiting IMF team in Sri Lanka",
     "url": "http://www.adaderana.lk/news/83150/pm-begins-talks-with-visiting-imf-team-in-sri-lanka",
     "file_name": "/tmp/news_lk2/articles/52/52f64807.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655699700,
+    "title": "Protesters blocking entrance to Presidential Secretariat removed",
+    "url": "https://www.dailymirror.lk/latest_news/Protesters-blocking-entrance-to-Presidential-Secretariat-removed/342-239413",
+    "file_name": "/tmp/news_lk2/articles/fa/fa34ffd2.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -33,6 +61,20 @@
     "title": "PM commences talks with IMF Delegation",
     "url": "https://www.dailymirror.lk/latest_news/PM-commences-talks-with-IMF-Delegation/342-239407",
     "file_name": "/tmp/news_lk2/articles/1b/1b913101.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655698740,
+    "title": "City schools are closed from Monday (20)",
+    "url": "https://www.newsfirst.lk/2022/06/20/city-schools-are-closed-from-monday-20/",
+    "file_name": "/tmp/news_lk2/articles/31/31ec448a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655698380,
+    "title": "IMF starts talks on Sri Lanka with PM",
+    "url": "https://www.newsfirst.lk/2022/06/20/imf-starts-talks-on-sri-lanka-with-pm/",
+    "file_name": "/tmp/news_lk2/articles/73/73da89a1.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -656,47 +698,5 @@
     "title": "Veteran actress Liyoni Kothalawala passes away",
     "url": "http://www.adaderana.lk/news/83133/veteran-actress-liyoni-kothalawala-passes-away",
     "file_name": "/tmp/news_lk2/articles/a0/a0af30d6.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655622720,
-    "title": "21 deported Sri Lankans arrive from Australia",
-    "url": "https://www.newsfirst.lk/2022/06/19/21-deported-sri-lankans-arrive-from-australia/",
-    "file_name": "/tmp/news_lk2/articles/f1/f11a1804.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655622420,
-    "title": "Army clarifies on Vishwamadu incident: Three soldiers injured",
-    "url": "https://www.dailymirror.lk/breaking_news/Army-clarifies-on-Vishwamadu-incident-Three-soldiers-injured/108-239330",
-    "file_name": "/tmp/news_lk2/articles/67/67678474.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655620980,
-    "title": "Police to inspect bicycles within next two weeks",
-    "url": "https://www.newsfirst.lk/2022/06/19/police-to-inspect-bicycles-within-next-two-weeks/",
-    "file_name": "/tmp/news_lk2/articles/b6/b61f38a4.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655620920,
-    "title": "Plans to expedite development of KKS Harbour",
-    "url": "http://www.adaderana.lk/news/83132/plans-to-expedite-development-of-kks-harbour",
-    "file_name": "/tmp/news_lk2/articles/b0/b0172dfd.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655619840,
-    "title": "CPC commences registration of vehicles for refueling",
-    "url": "https://www.newsfirst.lk/2022/06/19/cpc-commences-registration-of-vehicles-for-refueling/",
-    "file_name": "/tmp/news_lk2/articles/bb/bb12bad5.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655619780,
-    "title": "Sri Lanka embassy promotes tourism in Brazil",
-    "url": "https://economynext.com/sri-lanka-embassy-promotes-tourism-in-brazil-96042/",
-    "file_name": "/tmp/news_lk2/articles/d7/d7e78235.json"
   }
 ]
